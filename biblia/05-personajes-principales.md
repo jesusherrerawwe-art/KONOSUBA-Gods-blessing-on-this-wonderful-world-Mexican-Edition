@@ -74,7 +74,7 @@ En la temporada 1 su unión a la party convierte la magia más espectacular en u
 
 ## Wiz y Vanir
 
-**Wiz —identidad y rol.** Wiz dirige una tienda de objetos mágicos en Axel, trabaja como archimaga y mantiene una fachada pacífica y esforzada pese a que el negocio va mal. La sinopsis oficial de la segunda temporada la identifica asimismo como antigua general del ejército del Rey Demonio: su relación cordial con Hans revela que su pasado sigue unido a ese bando. La interpreta Yū Horie. [1] [2] [12]
+**Wiz —identidad y rol.** Wiz dirige una tienda de objetos mágicos en Axel, trabaja como archimaga y mantiene una fachada pacífica y esforzada pese a que el negocio va mal. La sinopsis oficial de la segunda temporada la identifica asimismo como antigua general del ejército del Rey Demonio: su relación cordial con Hans revela que su pasado sigue unido a ese bando. La interpreta Yui Horie (堀江由衣). [1] [2] [12]
 
 **Vanir —identidad y rol.** Vanir es un demonio enmascarado con la capacidad de «ver a través» de las personas; la ficha dice que disfruta de sus emociones negativas y que trabaja en la tienda de Wiz. Su carácter calculador contrasta con la bondad y la escasa habilidad comercial de ella. En la temporada 3 reaparece como interlocutor y adivino de Darkness tras la victoria de Kazuma sobre Silvia, reforzando su función de catalizador de problemas y negocios. [1] [14]
 
