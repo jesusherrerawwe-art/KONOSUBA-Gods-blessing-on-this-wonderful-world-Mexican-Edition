@@ -108,7 +108,7 @@ La estructura sigue el ritmo del anime —cuyas tres temporadas tienen 10, 10 y 
 
 ## Tablero de decisiones
 
-Doce decisiones, tomadas junto con el autor. Las que están en pausa lo están **por decisión suya**, no por olvido.
+Trece decisiones, tomadas junto con el autor. Las que están en pausa lo están **por decisión suya**, no por olvido.
 
 | # | Decisión | Estado | Resultado |
 | --- | --- | --- | --- |
