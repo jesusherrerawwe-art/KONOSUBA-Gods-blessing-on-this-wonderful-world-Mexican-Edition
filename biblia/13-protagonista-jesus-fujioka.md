@@ -58,11 +58,31 @@ La comedia no viene de que el protagonista conteste con sarcasmo, sino de que **
 6. **La playera de las Chivas.** Objeto de transición y memoria: lo único que viaja con él de un mundo al otro.
 7. **La voz narrativa.** Primera persona amable y observadora, con humor de reconocimiento más que de burla. Jesús se ríe **con** la gente, casi nunca **de** la gente (y cuando se ríe de alguien, se lo cobra la escena después).
 
-## Decisiones abiertas (se resuelven en el Plan de Acción)
+## Decisiones tomadas
 
-- [ ] **¿Qué pasa con Kazuma Satō en esta continuidad?** ¿No existe, ocupa Jesús su lugar, o hay rastro de él en Axel?
-- [ ] **Ventaja de clase:** ¿Jesús conserva la suerte excepcional de la clase «aventurero», o su ventaja es otra (carisma, empatía, la «ruta principal»)? ¿Se lleva la playera de las Chivas al otro mundo junto con Aqua, o llega solo?
-- [ ] **Cómo llega:** ¿Aqua lo elige y se autoinvita, o él la elige sin saber lo que hacía? (En el canon es una decisión de Kazuma; aquí puede ser distinto y marcar el tono desde el capítulo 1.)
-- [ ] **Cómo lo llaman en Axel.** El nombre «Jesús» en un gremio de fantasía es una mina de comedia y de ternura: ¿lo pronuncian mal, lo apodan, o el propio Jesús elige cómo presentarse?
-- [ ] **El dial del ecchi.** Comedia sugerente estilo anime, ternura romántica, o una mezcla con reglas claras.
-- [ ] **La muerte de Aqua-sama del corazón.** Es decir: cómo se maneja la primera escena del reencuentro sin que la emoción del homenaje aplaste la comedia de la obra.
+**1. Kazuma Satō existe… pero nunca muere.** Kazuma vive su vida en Japón y **no** es arrancado de ella: su historia no era esta. Quien llega a Axel es Jesús, y con él la party se forma como siempre, pero con otro corazón en el centro.
+
+*Implicaciones narrativas de esta decisión:*
+- La historia deja de ser una «sustitución» y se vuelve **una bendición paralela**: en algún lugar de Japón vive un chico que también habría hecho un desastre maravilloso, y este mundo no lo necesitó.
+- Aqua no recicla una muerte absurda: llega con una **recompensa** en la mano. Cambia por completo el tono de la primera escena entre ellos.
+- Cuando Jesús se tope con el espejo de otros reencarnados (Mitsurugi), la comparación cobra otro sentido: no hay «el elegido», hay **elecciones distintas**.
+
+**2. La ventaja de Jesús es una mezcla de tres cosas:**
+- **Suerte moderadamente buena** (clase «aventurero»), no la excepción estadística de Kazuma. Se nota en detalles, no en milagros.
+- **El «método ruta»:** años de novelas visuales le enseñaron a leer personas, arquetipos y banderas. Acierta mucho… lo suficiente para confiarse.
+- **Carisma y empatía:** la gente sencillamente confía en él. El mundo responde distinto cuando quien pregunta es amable.
+
+La gracia de la mezcla: ninguna de las tres por separado resuelve nada; **juntas** convierten a un chico corriente en alguien irremplazable. Y la comedia nace de que él **cree** estar jugando una ruta y las personas reales no funcionan así.
+
+**3. El dial del ecchi será elevado, sin contenido explícito** — más atrevido que el anime, siempre desde el humor, el malentendido y el consentimiento. Reglas de casa para sostenerlo con calidad:
+- El chiste manda: si una escena no es divertida **y** no revela carácter, se recorta.
+- Los momentos más intensos se reservan a las personajes adultas (Darkness, Aqua, Wiz, Luna y compañía); con las menores (Megumin, Komekko), la tónica es ternura, comedia y romance de miradas — nunca sexualización explícita.
+- Nada de escenas humillantes para nadie: el deseo se escribe como juego compartido, no como castigo.
+- La regla del homenaje: **esto lo va a leer alguien a quien queremos**; que se pueda recomendar sin vergüenza.
+
+## Decisiones abiertas
+
+- [ ] **Cómo llega Jesús:** ¿Aqua lo elige y se autoinvita, o él la elige sin saber lo que hacía? (En el canon era una decisión de Kazuma; aquí puede ser distinto.)
+- [ ] **Cómo lo llaman en Axel.** «Jesús» en un gremio de fantasía es una mina de comedia y de ternura: ¿lo pronuncian mal, lo apodan, o él elige cómo presentarse?
+- [ ] **El tono del capítulo 1.** El autor pidió dejarlo para más adelante («todavía no hablemos de eso»). Queda explícitamente sin decidir.
+- [ ] **El cierre emocional de los padres:** cómo y cuándo se resuelve sin que la historia se vuelva solemne.
