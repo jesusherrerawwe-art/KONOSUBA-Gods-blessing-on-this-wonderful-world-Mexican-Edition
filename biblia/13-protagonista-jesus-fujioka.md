@@ -106,9 +106,11 @@ La estructura sigue el ritmo del anime —cuyas tres temporadas tienen 10, 10 y 
 
 **11. El canon entra en equilibrio (≈50%) y en su orden.** Los grandes hitos del anime se conservan, comprimidos y reescritos con Jesús en el centro; el resto del espacio es la vida, el pasado y la gente que él va conquistando. La secuencia respeta el orden del anime (T1 → T2 → T3), de modo que cada volumen de la novela respira al ritmo de una temporada. Los tres cierres de volumen quedaron **delegados al desarrollo** para que se propongan en el Plan de Acción.
 
+**12. El capítulo 1 es emotivo, lineal y completo.** Se cuenta **todo**: la cabaña, el cuarto, la madre, el último día y la muerte serena, en su cama, acompañado. La narración es **lineal** (un día, una secuencia, de principio a fin), y la entrada de Aqua es la bisagra tonal: **primero se llora, luego se ríe.** El capítulo cierra con **el primer paso de Jesús en Axel**, y esa imagen de asombro es la que el lector se lleva.
+
 ## Tablero de decisiones
 
-Trece decisiones, tomadas junto con el autor. Las que están en pausa lo están **por decisión suya**, no por olvido.
+Trece decisiones, tomadas junto con el autor. Doce están cerradas y una quedó **reservada como sorpresa** por él.
 
 | # | Decisión | Estado | Resultado |
 | --- | --- | --- | --- |
@@ -123,7 +125,7 @@ Trece decisiones, tomadas junto con el autor. Las que están en pausa lo están 
 | 9 | Voz narrativa | ✅ Tomada | Primera persona, desde Jesús |
 | 10 | Romance | ✅ Tomada | Harem abierto: todas las rutas, con respeto y comedia |
 | 11 | ¿Cuánto canon usamos? | ✅ Tomada | **Balance ≈50%**, en el orden del anime; los clímax se proponen en el Plan |
-| 12 | Tono del capítulo 1 | ⏸️ En pausa | «Todavía no hablemos de eso» |
+| 12 | Tono del capítulo 1 | ✅ Tomada | Emotivo primero y comedia después; se muestra **todo** con ternura; narración lineal; cierra con el primer paso en Axel |
 | 13 | Títulos de los tres volúmenes | 🤫 Sorpresa | Reservado por el autor; no se proponen aquí |
 
 ## Decisiones abiertas
@@ -132,8 +134,26 @@ Trece decisiones, tomadas junto con el autor. Las que están en pausa lo están 
 - [ ] **Las reglas del celular.** Batería, cobertura, aplicaciones, cámara, música. Una vez fijadas, se respetan en los 30 capítulos (y el gag se vuelve más gracioso, no menos).
 - [ ] **Los títulos de los tres volúmenes.** 🤫 **Reservado como sorpresa por el autor.** No se proponen ni se definen aquí: se revelarán cuando él lo decida.
 - [ ] **Dónde se traza la frontera temática** entre «la vida que gana» y «la vida que comparte». El orden por temporadas sugiere que cae **al inicio del Vol. 3** (Vols. 1–2 cantan lo ganado, el Vol. 3 canta lo compartido). Pendiente de confirmar.
-- [ ] **El tono del capítulo 1.** En pausa por decisión del autor.
 - [ ] **Aprobar los tres clímax propuestos** (ver la sección siguiente).
+
+## Diseño del capítulo 1 (aprobado)
+
+El autor resolvió la última decisión pendiente. Estas son las cuatro piezas del capítulo 1, tal como se escribirán:
+
+| Pieza | Decisión |
+| --- | --- |
+| **Temperatura** | Emotiva primero; la comedia despega con la entrada de Aqua |
+| **Cuánto se muestra** | Todo: la cabaña, el cuarto, su madre, el último día y la muerte serena, en su cama, acompañado |
+| **Forma** | Narración lineal: un día, una secuencia, de principio a fin |
+| **Cierre** | El primer paso de Jesús en Axel |
+
+### Notas de oficio (análisis creativo)
+
+- **La ternura se escribe con precisión, no con adjetivos.** La emoción sale de los detalles concretos —las manos de su madre, el mismo plato de siempre, el ruido del ventilador, la luz por la ventana— y no de decirle al lector que debe sentirse triste. El peligro real de este capítulo no es ser frío: es ser melodramático.
+- **Aqua es la bisagra.** Su entrada debe llegar cuando la escena ya se ganó su solemnidad, y romperla **sin faltarle el respeto**. Ese contraste —lo sagrado interrumpido por lo absurdo— es exactamente el tono de *KonoSuba*, y es lo que permite reír sin traicionar lo que se acaba de contar.
+- **Primera persona, tiempo pasado.** Jesús narra desde después: ya muerto, ya en Axel, recuerda su propio final con una calma que solo se explica por todo lo que vino después. Esa calma es la que le permite al lector respirar.
+- **El cierre manda.** Si el capítulo termina con el primer paso en Axel, entonces la última emoción que el lector se lleva **no es la pérdida: es el asombro**. Esa secuencia —elegía, umbral, asombro— es la estructura completa del capítulo.
+- **Extensión:** este será probablemente el capítulo más largo de la novela. Está bien: es la puerta de entrada y tiene que cubrir una vida entera, una muerte y un umbral. Los capítulos siguientes ya pueden respirar más corto.
 
 ## Avance del Plan: los tres clímax de volumen
 
