@@ -104,6 +104,8 @@ La estructura sigue el ritmo del anime —cuyas tres temporadas tienen 10, 10 y 
 
 **10. El romance es un harem abierto («todas las rutas»).** Coherente con el «método ruta»: cada waifu tiene su camino con Jesús y ninguno cancela a los demás. Se escribe con comedia, ternura y respeto por la voluntad de cada personaje; el «harem» es el escenario, no un trofeo.
 
+**11. El canon entra en equilibrio (≈50%) y en su orden.** Los grandes hitos del anime se conservan, comprimidos y reescritos con Jesús en el centro; el resto del espacio es la vida, el pasado y la gente que él va conquistando. La secuencia respeta el orden del anime (T1 → T2 → T3), de modo que cada volumen de la novela respira al ritmo de una temporada. Los tres cierres de volumen quedaron **delegados al desarrollo** para que se propongan en el Plan de Acción.
+
 ## Tablero de decisiones
 
 Doce decisiones, tomadas junto con el autor. Las que están en pausa lo están **por decisión suya**, no por olvido.
@@ -120,7 +122,7 @@ Doce decisiones, tomadas junto con el autor. Las que están en pausa lo están *
 | 8 | Estructura de la novela | ✅ Tomada | **30 capítulos en 3 volúmenes de 10**, con el ritmo de las tres temporadas del anime |
 | 9 | Voz narrativa | ✅ Tomada | Primera persona, desde Jesús |
 | 10 | Romance | ✅ Tomada | Harem abierto: todas las rutas, con respeto y comedia |
-| 11 | ¿Cuánto canon usamos? | ⏸️ En pausa | El autor quiere dedicarle más tiempo antes de decidir |
+| 11 | ¿Cuánto canon usamos? | ✅ Tomada | **Balance ≈50%**, en el orden del anime; los clímax se proponen en el Plan |
 | 12 | Tono del capítulo 1 | ⏸️ En pausa | «Todavía no hablemos de eso» |
 | 13 | Títulos de los tres volúmenes | 🤫 Sorpresa | Reservado por el autor; no se proponen aquí |
 
@@ -129,6 +131,28 @@ Doce decisiones, tomadas junto con el autor. Las que están en pausa lo están *
 - [ ] **El apodo exacto del gremio.** Definirlo con cuidado: tiene que sonar natural en un mundo de fantasía, ser cálido y funcionar como broma recurrente.
 - [ ] **Las reglas del celular.** Batería, cobertura, aplicaciones, cámara, música. Una vez fijadas, se respetan en los 30 capítulos (y el gag se vuelve más gracioso, no menos).
 - [ ] **Los títulos de los tres volúmenes.** 🤫 **Reservado como sorpresa por el autor.** No se proponen ni se definen aquí: se revelarán cuando él lo decida.
-- [ ] **Dónde se traza la frontera temática** entre «la vida que gana» y «la vida que comparte».
-- [ ] **¿Cuánto canon usamos?** En pausa por decisión del autor.
+- [ ] **Dónde se traza la frontera temática** entre «la vida que gana» y «la vida que comparte». El orden por temporadas sugiere que cae **al inicio del Vol. 3** (Vols. 1–2 cantan lo ganado, el Vol. 3 canta lo compartido). Pendiente de confirmar.
 - [ ] **El tono del capítulo 1.** En pausa por decisión del autor.
+- [ ] **Aprobar los tres clímax propuestos** (ver la sección siguiente).
+
+## Avance del Plan: los tres clímax de volumen
+
+> **Propuesta, pendiente de aprobación.** El autor delegó esta decisión al desarrollo del Plan de Acción. Estos son los cierres propuestos para cada volumen: los grandes set-pieces del anime, reescritos para que el clímax emocional sea de Jesús y no de Kazuma.
+
+### Vol. 1 — El Destructor
+
+La fortaleza móvil avanza hacia Axel y Jesús decide pelear.
+
+**Por qué él:** en el canon, Kazuma defiende la casa que acaba de conseguir. Para Jesús, la casa **es** la vida que nunca tuvo: su primer cuarto propio, elegido, con gente dentro. El clímax no es «salvar la ciudad» — es la primera vez que tiene algo que **no está dispuesto a perder**. Y el desastre administrativo posterior (el núcleo cae sobre la mansión de un noble) arranca el Vol. 2 con la energía del anime: la victoria no borra las consecuencias.
+
+### Vol. 2 — Hans y la fuente termal de Arcanletia
+
+El viaje, la ciudad de Aqua, el general venenoso bajo las aguas.
+
+**Por qué él:** es la primera vez que Jesús sostiene a todos — el que piensa, el que arriesga, el que decide ponerse en peligro. Y hay un espejo precioso: **Aqua, que insistió en acompañarlo, descubre lo que significa verlo en riesgo de verdad.** El remate conserva la ironía del canon —salvan la ciudad y los tratan de brujos—, pero la reacción de Jesús define su carácter: mientras cualquiera exigiría recompensa, él agradece estar vivo. Eso abre los ojos de sus compañeras.
+
+### Vol. 3 — La boda de Darkness
+
+La deuda de los Dustiness, Aldarp, Maxwell, y una amiga dispuesta a entregar su vida entera.
+
+**Por qué él:** Darkness está dispuesta a sacrificarse por su familia, y Jesús **creció viendo exactamente eso**: una madre que se quedó a cuidarlo y un padre que gastó su vida buscando una cura. No puede soportarlo. El Vol. 3 no es un rescate: es un chico **negándose a que alguien más pague el precio que su familia pagó por él**. Y es el motor perfecto para que, en el epílogo, el hilo de sus padres se cierre.
