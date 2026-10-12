@@ -1,7 +1,7 @@
 # Capítulo 2. Un cuarto con ventana
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 2. Extensión: 5,145 palabras. Estado: primer borrador.
+Volumen 1, capítulo 2. Extensión: 5,217 palabras. Estado: primer borrador.
 
 ---
 
@@ -161,7 +161,7 @@ Aqua bajó de la banca con la cara roja y se sentó en una mesa a hacer berrinch
 
 Y yo la vi.
 
-Era una muchacha de pelo castaño, con una blusa blanca y una cinta en la cabeza, y traía una tabla con papeles pegados. Tenía los ojos como cansados, de esos que se cansan de ver siempre lo mismo, y aun así tenía la cara amable.
+Era una muchacha de pelo rubio recogido en un chongo, con una cinta ancha en la cabeza y una blusa blanca, y traía una tabla con papeles pegados. Tenía los ojos de un amarillo manso y como cansados, de esos que se cansan de ver siempre lo mismo, y aun así tenía la cara amable.
 
 Y yo me di cuenta de algo rarísimo, y me da un poquito de pena contarlo, pero lo voy a contar: hasta ese momento, en todo el día, en todo el mundo nuevo, nadie me había hablado como si yo fuera una persona.
 
@@ -196,6 +196,12 @@ Se llamaba Luna. Y ese día, a mí, ese nombre me gustó.
 Registrarse en el gremio no era como firmar un papel. Era más raro.
 
 Luna nos llevó a un mostrador largo, sacó dos cartas de un cajón —cartas de cartón grueso, del tamaño de una estampita— y me pidió la mano.
+
+Antes de eso me había hecho unas preguntas y las había apuntado en su tabla: cuántos años tenía, de qué color traía el pelo, cómo traía los ojos.
+
+—Quince —le dije—. Pelo claro. Ojos castaños.
+
+Y me miró de arriba abajo, y apuntó algo más que no me dijo, y yo supuse que era la estatura, porque la estatura es la cosa que la gente apunta sin decírtela.
 
 —Ponla encima. Así, abierta. Y no te muevas, que se te queda pegada y eso es un lío.
 
@@ -307,7 +313,7 @@ Después le tocó a Aqua.
 
 Y ahí, mi hermano, ahí pasó un desastre.
 
-Le puso la mano a la carta, la carta se calentó, y cuando Luna la leyó, se le calló la cara.
+Le puso la mano a la carta, la carta se calentó, y cuando Luna la leyó, se le cayó la cara.
 
 —¿Qué? —dijo Aqua.
 
@@ -401,7 +407,7 @@ Aqua se puso la mano en el pecho como si le hubieran dicho una blasfemia.
 
 Y Luna me vio como un rato largo.
 
-—¿Un cuarto con ventana.
+—¿Un cuarto con ventana?
 
 —Sí.
 
@@ -409,7 +415,7 @@ Y Luna me vio como un rato largo.
 
 Y yo no le dije la verdad, porque la verdad era muy larga y no venía al caso. Nomás le dije:
 
-—Por acostumbre.
+—Por costumbre.
 
 Y ella movió la cabeza, como diciendo «muchachos raros hay en todos lados», y luego se quedó pensando y se le iluminó la cara.
 
@@ -597,7 +603,7 @@ Un gato flaco, pardo, con una oreja partida, que estaba ahí sentado, lamiéndos
 
 Y yo me le quedé viendo.
 
-Y él me vio, y siguió lamándose la pata, y no se fue, porque los gatos no se van por uno.
+Y él me vio, y siguió lamiéndose la pata, y no se fue, porque los gatos no se van por uno.
 
 Y yo empecé a llorar, y esta vez no había pan caliente ni excusa, y me quedé ahí, en la ventana, mirando a un gato feo que no sabía quién era yo, y lloré como no había llorado desde el lugar blanco.
 

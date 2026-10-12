@@ -94,13 +94,13 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 
 | Cap. | Estado | Título | Nota |
 | --- | --- | --- | --- |
-| **Prólogo** | 🟦 Escrito | «Un lugar sin ventanas» | 954 palabras · pendiente de aprobación del autor |
-| 1 | 🟦 Escrito | «Todo lo que alcancé a ver desde aquí» | 7,044 palabras · el más largo · pendiente de aprobación |
-| 2 | 🟦 Escrito | «Un cuarto con ventana» | 5,145 palabras · introduce a Luna y paga la ventana |
-| 3 | 🟦 Escrito | «La muchacha que hacía temblar los cerros» | 5,490 palabras · entra Megumin; el grupo ya es cuatro |
-| 4 | 🟦 Escrito | «La gente que se pone enfrente» | 5,070 palabras · entra Darkness; cuadrilla completa |
-| 5 | 🟦 Escrito | «El señor de la casa del cerro» | 4,894 palabras · Beldia y la maldición |
-| 6 | 🟦 Escrito | «El otro elegido» | 4,906 palabras · el lago, Mitsurugi y el séptimo día |
+| **Prólogo** | 🟦 Escrito | «Un lugar sin ventanas» | 954 palabras · revisado · pendiente de aprobación del autor |
+| 1 | 🟦 Escrito | «Todo lo que alcancé a ver desde aquí» | 7,123 palabras · el más largo · revisado · aprobado |
+| 2 | 🟦 Escrito | «Un cuarto con ventana» | 5,217 palabras · revisado · introduce a Luna y paga la ventana |
+| 3 | 🟦 Escrito | «La muchacha que hacía temblar los cerros» | 5,495 palabras · revisado · entra Megumin; el grupo ya es cuatro |
+| 4 | 🟦 Escrito | «La gente que se pone enfrente» | 5,077 palabras · revisado · entra Darkness; cuadrilla completa |
+| 5 | 🟦 Escrito | «El señor de la casa del cerro» | 5,030 palabras · revisado · Beldia y la maldición |
+| 6 | 🟦 Escrito | «El otro elegido» | 5,148 palabras · revisado · el lago, Mitsurugi y el séptimo día |
 | 7 | ⬜ Vacío | — | — |
 | 8 | ⬜ Vacío | — | — |
 | 9 | ⬜ Vacío | — | — |
@@ -110,6 +110,8 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 **Leyenda:** ⬜ vacío · 🟨 en diseño · 🟦 en redacción · 🟩 cerrado/fijado
 
 **Estructura fija del volumen:** prólogo corto + 10 capítulos + epílogo. **No hay páginas de interludio** (decisión del autor, sección 18).
+
+**Revisión del volumen:** completada el 12 de octubre de 2026 sobre las siete piezas escritas (aspecto físico, voces, ambientación, canon, ortografía y texto a voz). Informe para el autor: `REVISION-VOLUMEN-1.md`. **El capítulo 7 no se empieza hasta que el autor lea la revisión y decida** (quedan cuatro decisiones anotadas en el informe).
 
 ## Estado de los volúmenes
 

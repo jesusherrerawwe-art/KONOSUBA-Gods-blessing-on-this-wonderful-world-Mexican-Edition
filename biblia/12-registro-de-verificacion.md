@@ -96,7 +96,24 @@ Consultas hechas mientras se escriben los capítulos, para no fijar por error un
 | **Mitsurugi Kyouya** | Sección 06 de esta biblia y sinopsis del episodio 5 | Aventurero de **clase avanzada** (espadachín), empuña la **espada mágica Gram**, tiene **fuerte sentido de la justicia** y **admira a Aqua**, que fue quien lo envió a este mundo. La novela respeta esos cuatro datos; **el resto (que sea de Osaka, las dos acompañantes y su caracterización) es material original del proyecto** |
 | **Darkness (identidad y datos)** | Búsqueda en fichas de personaje y wiki; sección 05 de esta biblia | **Dustiness Ford Lalatina**, **18 años**, cruzada de la casa Dustiness, devota de **Eris** (trae un dije), todos los puntos en defensa, **falla casi todos los ataques** a propósito, duerme con el nombre de guerra «Darkness» y **odia su nombre real**. La novela usa: nombre de guerra, cruzada, aguante, dije de Eris y la mala puntería. **El apellido real (Dustiness Ford Lalatina) todavía no se ha revelado en el texto** |
 
-## 9. Cómo usar esta bitácora
+## 9. Verificaciones de la revisión del Volumen 1 (12 de octubre de 2026)
+
+Se revisaron el prólogo y los capítulos 1 a 6 (aspecto físico, formas de hablar, ambientación, ortografía, legibilidad por texto a voz y fidelidad al universo). Consultas nuevas:
+
+| Dato | Verificación | Resultado y decisión |
+| --- | --- | --- |
+| **Aspecto de Luna** | Ficha de personaje (wiki de la serie, ficha de fans, base de datos de personajes) | **Rubia ondulada, recogida en un chongo alto con banda color vino, ojos dorados**, blusa blanca de hombros descubiertos, shorts de mezclilla, botas café. El capítulo 2 la describía con pelo castaño y «una cinta»: **corregido** |
+| **Aspecto de Chris** | Ficha de personaje (wiki de la serie, TV Tropes) | **Pelo corto plateado-lila erizado, ojos morados, aire de chico**. El capítulo 4 la describía con pelo castaño y ojos café claro: **corregido**; la cicatriz chiquita en la mejilla se conserva |
+| **Arma de Darkness** | Ficha de personaje y equipo canónico | **Espadón** y armadura de cruzada; el escudo no es su equipo. Los capítulos 3 a 5 la hacían pelear con escudo: **corregido**; ahora para los golpes con el cuerpo, como ya hacía en la cosecha de coles |
+| **Aspecto de Megumin** | Ficha de personaje | Pelo castaño oscuro a los hombros, ojos carmesí, sombrero negro con dorado, **capa negra**, túnica roja, botas naranjas, **parche en el ojo y vendas en la pierna derecha**, bastón con gema. El capítulo 3 ya traía parche (justificado como «sello»): **corregido a capa negra con orilla dorada, vestido rojo y botas naranjas**. **Pendiente de decisión del autor: las vendas** |
+| **Aspecto de Aqua** | Ficha de personaje | Pelo y ojos azul claro, túnica azul, prendedor con tres bolitas, clase **archipresbítera** (Arch Priest). Se añadieron túnica y prendedor en el capítulo 1; la clase ya estaba en el 2 |
+| **Aspecto de Mitsurugi** | Ficha de personaje | En la novela ligera se parece a Kazuma (pelo negro); **en el anime, pelo claro y armadura azul con dorado**. Como esta novela sigue el orden y la imagen del anime (decisión 11), se usó **armadura azul de orillas doradas** y se añadió el aro dorado del pelo. Sus dos acompañantes (guerrera y ladrona) aparecen como «las dos muchachas» |
+| **Estatura de Aqua y de Jesús** | Ficha de personaje (Aqua ≈157 cm) y ficha del protagonista (estatura media-baja) | El capítulo 1 decía que Aqua «era más alta que yo»: **corregido** por una mirada cara a cara sin comparación de estatura |
+| **Maldición de la Premonición de Muerte** | Resumen del episodio 4 | En el canon **Darkness intercepta la maldición y Aqua la rompe con una sola palabra**. El capítulo 5 daba por resuelto «el asunto» entero: **corregido** para que Aqua solo alcance la de Darkness y la de Megumin quede adentro (solo Beldia puede quitarla), que es lo que sostiene el cierre del capítulo 6 y el viaje al cerro del capítulo 7 |
+
+Las correcciones mecánicas de esta revisión (ortografía, signos, mayúsculas, texto a voz) y los hallazgos que esperan decisión del autor están en **`REVISION-VOLUMEN-1.md`**, en la raíz del repositorio.
+
+## 10. Cómo usar esta bitácora
 
 Cuando la novela avance y se consulte o añada información nueva sobre el universo, conviene:
 

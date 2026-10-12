@@ -42,7 +42,7 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 7,044 palabras (≈ 25 páginas). Es el capítulo más largo de la novela, como quedó aprobado |
+| **Extensión** | 7,123 palabras (≈ 25 páginas). Es el capítulo más largo de la novela, como quedó aprobado |
 | **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Vivir. Y después, poder caminar y ver el sol sin ventana de por medio |
@@ -72,7 +72,7 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 5,145 palabras (≈ 17 páginas) |
+| **Extensión** | 5,217 palabras (≈ 17 páginas) |
 | **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Comer, tener dónde dormir y conseguir **el cuarto con ventana** que pidió en el más allá |
@@ -103,7 +103,7 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 5,490 palabras (≈ 18 páginas) |
+| **Extensión** | 5,495 palabras (≈ 18 páginas) |
 | **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Encontrar a un cuarto miembro para poder aceptar el encargo de los sapos |
@@ -137,7 +137,7 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 5,070 palabras (≈ 17 páginas) |
+| **Extensión** | 5,077 palabras (≈ 17 páginas) |
 | **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que a nadie se le ocurra ponérsele enfrente para protegerlo |
@@ -168,7 +168,7 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 4,894 palabras (≈ 17 páginas) |
+| **Extensión** | 5,030 palabras (≈ 17 páginas) |
 | **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Entender qué está pasando con los cerros y, después, arreglarlo |
@@ -199,7 +199,7 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 4,906 palabras (≈ 17 páginas) |
+| **Extensión** | 5,148 palabras (≈ 17 páginas) |
 | **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Sacar al grupo de la quiebra antes del invierno |

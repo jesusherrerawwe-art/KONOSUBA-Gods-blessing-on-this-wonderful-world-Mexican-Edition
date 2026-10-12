@@ -1,7 +1,7 @@
 # Capítulo 1. Todo lo que alcancé a ver desde aquí
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 1. Extensión: 7,044 palabras. Estado: primer borrador.
+Volumen 1, capítulo 1. Extensión: 7,123 palabras. Estado: primer borrador.
 
 ---
 
@@ -117,7 +117,7 @@ Mi papá se quedó callado un rato, pensando, porque él piensa todo, hasta las 
 
 —Entonces yo también soy del rebaño.
 
-—Tú no sabes ni cuántos jugadores son once.
+—Tú no sabes ni cuántos jugadores son.
 
 —Son once —dijo él, sin pestañear.
 
@@ -239,9 +239,9 @@ Lo que pasó enseguida fue que se abrió la puerta.
 
 Ya sé que dije que no había puertas. Es que en un lugar así las cosas pasan de una manera y se cuentan de otra: se abrió algo, y por ahí entró ella, y se cerró otra vez, y ya no había nada.
 
-Lo que entró fue una muchacha con el pelo azul, empapada de arriba abajo, con una cara de enojo que le cabía todo.
+Lo que entró fue una muchacha con el pelo azul larguísimo y los ojos del mismo azul, empapada de arriba abajo, con una túnica azul de diosa que le chorreaba y un prendedor en el pelo con tres bolitas, dos doradas y una azul. Y con una cara de enojo que le cabía todo.
 
-—¡No es justo! —gritó, al aire—. ¡No es justo, no es justo, no es JUSTO! ¡Iba ganando!
+—¡No es justo! —gritó, al aire—. ¡No es justo, no es justo, no es justo! ¡Iba ganando!
 
 Se sacudió el agua del pelo como un perro y me vio.
 
@@ -263,7 +263,7 @@ Ella lo notó.
 
 —No.
 
-—¡Te vieron la cara!
+—¡Te vi la cara!
 
 —Perdón.
 
@@ -391,7 +391,7 @@ Y me dijo:
 
 —Sí se puede. Yo soy una diosa, ¿eh? No estoy de adorno.
 
-Y no lo dijo como lo decía siempre, con presumidera. Lo dijo como se dicen las promesas.
+Y no lo dijo como lo decía siempre, presumiendo. Lo dijo como se dicen las promesas.
 
 —Yo te prometo que se lo voy a decir.
 
@@ -431,13 +431,13 @@ Aqua se quedó con el dedo en el aire.
 
 —Un cuarto con ventana.
 
-—¿¡Tienes el poder de la creación en la mano y pides un CUARTO?!
+—¿¡Tienes el poder de la creación en la mano y pides un cuarto?!
 
 —Con ventana —aclaré.
 
 Y ella me miró muchísimo tiempo. De verdad muchísimo tiempo. Tanto que me empecé a preguntar si le había dicho algo malo.
 
-Después se levantó del sillón, le dio la vuelta al escritorio, se paró enfrente de mí, y me miró de abajo hacia arriba, porque era más alta que yo, y a mí eso me pasaba poquitas veces en la vida.
+Después se levantó del sillón, le dio la vuelta al escritorio y se paró enfrente de mí, muy cerca, y me miró despacio, de la cara a los pies y otra vez a la cara. A mí nadie me miraba así, de frente y sin prisa, y eso me pasaba poquitas veces en la vida.
 
 Y dijo:
 
@@ -457,7 +457,7 @@ Y dijo:
 
 —Pero eso es mucho trabajo para ti —le dije—. Y tú tienes lo tuyo aquí.
 
-—¡Pues sí, pero...! —se atoró—. ¡Es que...! ¡Es que no puedo ir a decirle a tu mamá que no te dolió si tú andas por allá muriéndote otra vez en una semana! ¡Porque eso se ve, eso se ve de lejos, eso pasa TODO el tiempo!
+—¡Pues sí, pero...! —se atoró—. ¡Es que...! ¡Es que no puedo ir a decirle a tu mamá que no te dolió si tú andas por allá muriéndote otra vez en una semana! ¡Porque eso se ve, eso se ve de lejos, eso pasa todo el tiempo!
 
 Y yo entendí. No entendí bien, pero entendí algo: que ella tenía razón en una parte y que la otra parte no la iba a decir.
 
@@ -471,7 +471,7 @@ Apareció así: de golpe, encima del escritorio, alta y brillante y con un tono 
 
 —Solicitud de acompañamiento aprobada. Regrese en cuanto cumpla.
 
-—¡SÍ! —gritó Aqua.
+—¡Sí! —gritó Aqua.
 
 —No le pregunté a ella —dije yo.
 
@@ -491,9 +491,13 @@ Y desapareció, y volvió a aparecer, y traía una bolsa colgada del hombro con 
 
 —Para lo que se ofrezca —dijo, muy digna.
 
-Y después me vio de arriba abajo, y se dio cuenta de lo que yo traía puesto.
+Y después me vio de arriba abajo.
 
-—Oye. ¿Y esa camiseta?
+—Estás blanco —dijo—. Y flaco.
+
+—Ya sé.
+
+—Bueno, eso se arregla. Aquí el sol es gratis. —Y luego se dio cuenta de lo que yo traía puesto—. Oye. ¿Y esa camiseta?
 
 —Es de las Chivas.
 
@@ -603,7 +607,7 @@ Y eso fue lo bueno. Eso fue lo bueno de todo, y ni siquiera me importó el resto
 
 Aqua apareció de la nada, con su bolsa colgada del hombro y con el pelo revuelto, y se puso a dar vueltas, brincando de un pie al otro, agarrándose la cabeza.
 
-—¡¿Por qué no mandaron el aviso?! —chillaba—. ¡Se supone que alguien avisa! ¡Yo avisaba siempre! ¡¡Yo avisaba siempre y nadie me avisó a mí!!
+—¡¿Por qué no mandaron el aviso?! —chillaba—. ¡Se supone que alguien avisa! ¡Yo avisaba siempre! ¡Yo avisaba siempre y nadie me avisó a mí!
 
 —Eh —le dije.
 
@@ -621,7 +625,7 @@ Y no me dijo nada. Y yo me quedé tirado un rato más, mientras ella rezongaba e
 
 Después me levanté. Y me levanté solo. Y otra vez no me dolió.
 
-Y me vi las manos, y me vi los pies con los tenis rojos, y me vi la camiseta blanca con el escudo, y me reí otra vez, porque me di cuenta de una cosa.
+Y me vi las manos, y me vi los pies con los tenis rojos, y me vi la camiseta blanca con el escudo, y me pasé la mano por el pelo, que era el de siempre, claro y corto y mal cortado, de las tijeras de mi mamá. Y me reí otra vez, porque me di cuenta de una cosa.
 
 —¿Ya? —preguntó Aqua.
 
@@ -733,7 +737,7 @@ Aqua se asomó y se le puso la cara blanca.
 
 —¿Y nosotros qué le parecemos?
 
-—¡¡¡Aperitivos!!!
+—¡Aperitivos!
 
 Y me agarró del brazo y me arrastró como doscientos metros, corriendo, y yo corrí, y me dolieron las costillas, y las costillas me dolieron de una manera nueva, de una manera de músculo y no de enfermedad, y por eso no me quejé, y cuando ya no se veía el sapo me solté el brazo y me paré, con las manos en las rodillas, respirando.
 

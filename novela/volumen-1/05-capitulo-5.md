@@ -1,7 +1,7 @@
 # Capítulo 5. El señor de la casa del cerro
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 5. Extensión: 4,894 palabras. Estado: primer borrador.
+Volumen 1, capítulo 5. Extensión: 5,030 palabras. Estado: primer borrador.
 
 ---
 
@@ -219,7 +219,7 @@ Megumin se tambaleó y se agarró el pecho con las dos manos y se puso pálida.
 
 Y en eso, entre Megumin y Beldia, se metió una armadura.
 
-Se metió Darkness, con el escudo por delante, caminando derecho, y se puso enfrente de Megumin, tapándola completa.
+Se metió Darkness, caminando derecho, y se puso enfrente de Megumin, tapándola completa.
 
 —¡No! —dijo—. ¡A ella no!
 
@@ -285,7 +285,25 @@ Y Darkness se tambaleó, se llevó la mano al pecho y se quedó con la boca abie
 
 —Se fue —dijo.
 
-—¡Claro que se fue! —dijo Aqua, y se puso las manos en la cintura—. ¿O qué creías? ¡Soy una diosa! ¡Las maldiciones de muerte son de nivel medio! ¡Eso lo hago antes del desayuno!
+—¡Claro que se fue! —dijo Aqua, y se puso las manos en la cintura—. ¿O qué creías? ¡Soy una diosa! ¡La alcancé a atrapar en la armadura, antes de que se le metiera! ¡Las maldiciones de muerte son de nivel medio!
+
+—¿Y la mía? —dijo Megumin.
+
+Y Aqua se le acercó, y le puso la mano en el pecho, y cerró los ojos.
+
+Y esta vez tardó.
+
+Y esta vez no pasó nada.
+
+—No se deja —dijo, y se le borró la sonrisa.
+
+—¿Cómo que no se deja?
+
+—Es que la tuya ya está adentro. —Y habló sin chiste, que es como habla Aqua cuando de verdad está trabajando—. Cuando una maldición de esas ya está adentro, nomás te la quita el que te la puso.
+
+Silencio en la explanada.
+
+Y Megumin se quedó viendo el cerro del otro lado del valle, con el sombrero en las dos manos.
 
 Y el gremio entero, sesenta aventureros, se quedó viendo a la muchacha del pelo azul con una cara que yo todavía no había visto en este mundo.
 
@@ -303,13 +321,13 @@ Y esa noche Aqua no pagó ni una jarra.
 
 Y yo me quedé ahí parado, en la barda, viendo cómo se la llevaban, y me bajé, y me puse a buscar a Megumin.
 
-Porque ya lo había entendido, y lo había entendido con el estómago: el asunto estaba cerrado. La maldición se había quitado el mismo día, en cinco minutos, por una diosa que tenía las manos libres y un chiste en la boca.
+Porque ya lo había entendido, y lo había entendido con el estómago: la mitad del asunto se había cerrado el mismo día, en cinco minutos, por una diosa que tenía las manos libres y un chiste en la boca. Y la otra mitad seguía adentro de una niña de catorce años, y la única manera de sacarla era ir a ese cerro y pedírselo al señor de la casa.
 
 Y del otro lado del valle, en la punta de un cerro, había un señor sin cabeza esperando a que alguien llegara.
 
-Y nadie iba a llegar. Porque ya no hacía falta. Porque nadie avisa. Porque en este mundo, y muy probablemente en el otro, la gente nada más deja de ir a los lugares.
+Y nadie iba a ir. Porque era más fácil no ir. Porque nadie avisa. Porque en este mundo, y muy probablemente en el otro, la gente nada más deja de ir a los lugares.
 
-Y ahí, parada en medio de la gente, con la maldición encima y las manos en la panza, Megumin dijo que sí.
+Y ahí, parada en medio de la gente, con la maldición encima y las manos en la panza, Megumin había dicho que sí.
 
 Y yo, que ya había aprendido a leer a la gente en cuarenta novelas visuales, me dije a mí mismo que eso era mentira.
 

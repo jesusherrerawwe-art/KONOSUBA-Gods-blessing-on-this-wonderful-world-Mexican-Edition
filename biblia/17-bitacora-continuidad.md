@@ -4,7 +4,7 @@
 >
 > **Regla de oro:** si la bitácora y el capítulo se contradicen, manda el capítulo — pero se corrige la bitácora el mismo día.
 
-**Última actualización:** tras el capítulo 6.
+**Última actualización:** revisión del volumen, 12 de octubre de 2026.
 
 ---
 
@@ -15,12 +15,12 @@
 | Pieza | Estado |
 | --- | --- |
 | Prólogo — «Un lugar sin ventanas» | 🟦 Escrito (954 palabras) |
-| Capítulo 1 — «Todo lo que alcancé a ver desde aquí» | 🟦 Escrito (7,044 palabras) |
-| Capítulo 2 — «Un cuarto con ventana» | 🟦 Escrito (5,145 palabras) |
-| Capítulo 3 — «La muchacha que hacía temblar los cerros» | 🟦 Escrito (5,490 palabras) |
-| Capítulo 4 — «La gente que se pone enfrente» | 🟦 Escrito (5,070 palabras) |
-| Capítulo 5 — «El señor de la casa del cerro» | 🟦 Escrito (4,894 palabras) |
-| Capítulo 6 — «El otro elegido» | 🟦 Escrito (4,906 palabras) |
+| Capítulo 1 — «Todo lo que alcancé a ver desde aquí» | 🟦 Escrito (7,123 palabras) |
+| Capítulo 2 — «Un cuarto con ventana» | 🟦 Escrito (5,217 palabras) |
+| Capítulo 3 — «La muchacha que hacía temblar los cerros» | 🟦 Escrito (5,495 palabras) |
+| Capítulo 4 — «La gente que se pone enfrente» | 🟦 Escrito (5,077 palabras) |
+| Capítulo 5 — «El señor de la casa del cerro» | 🟦 Escrito (5,030 palabras) |
+| Capítulo 6 — «El otro elegido» | 🟦 Escrito (5,148 palabras) |
 | Capítulos 7–10 | ⬜ No escritos |
 | Epílogo del volumen | ⬜ No escrito |
 
@@ -114,7 +114,7 @@
 
 ### El gremio
 - Edificio grande de madera, puertas abiertas, unas cuarenta personas dentro, mesas, jarras, un **tablero enorme con papeles clavados** y **un animal de metal colgado de una viga** que Jesús no supo qué era.
-- **Luna** es la recepcionista: pelo castaño, blusa blanca, cinta en la cabeza, ojos cansados, cara amable. Lleva una tabla con papeles. Es quien orienta a los que llegan. Le dijo que su nombre «suena a que le pides cosas a la gente». **Sabe el nombre completo de Jesús y lo dijo en voz alta.**
+- **Luna** es la recepcionista: pelo **rubio** recogido en un chongo alto con **cinta ancha**, blusa blanca, ojos **amarillos** mansos y cansados, cara amable. Lleva una tabla con papeles. Es quien orienta a los que llegan. Le dijo que su nombre «suena a que le pides cosas a la gente». **Sabe el nombre completo de Jesús y lo dijo en voz alta.**
 - Aqua se subió a una banca a anunciar que es una diosa. **Nadie la creyó.** Un señor barbón le contestó «y yo soy un príncipe»; ella respondió «usted es un borracho»; él dijo «eso también».
 - **El registro:** se pone la mano sobre una carta de cartón grueso; la carta se calienta y se escriben solas las letras («no te muevas, que se te queda pegada»).
 - **La carta de Jesús:** fuerza regular, vitalidad regular, inteligencia regular, poder mágico nada, destreza regular, agilidad regular, **suerte un poquito arriba de lo normal**. Luna: *«Dicen que puedes ser cualquier cosa, y que todavía no eres ninguna.»* Y sobre la suerte: *«hay gente que jura que sirve, y esa gente vive mejor que la otra»*.
@@ -203,13 +203,13 @@
 - **Cruzada**, de familia noble *(aún no revelado a la party)*. **18 años** (adulta, según el canon verificado). Fuerza y aguante enormes: cargó cuatro barriles por la escalera de doña Hilda sin despeinarse.
 - **Virtud de la casa Dustiness que ella misma enuncia:** viene de un lugar «donde la gente cuida su nombre» y donde uno se hace caballero y se pone delante y eso es bueno.
 - **Le encanta que la regañen y que le peguen.** Durmió en el establo, se mojó en la lluvia y no probó bocado para «endurecerse», y estaba contenta. Doña Hilda la regañó y ella dio las gracias con los ojos brillantes.
-- **No acierta con la espada.** Se para enfrente y aguanta: en la cosecha frenó una col del tamaño de un perro con el escudo, en el pecho, y se rio pidiendo otra.
+- **No acierta con la espada.** Se para enfrente y aguanta: en la cosecha frenó una col del tamaño de un perro con el pecho, y se rio pidiendo otra.
 - **Es devota de Eris** y trae un dije. *(Coincidencia deliberada: Jesús también trae un dije al cuello.)*
 - **Su momento clave:** Jesús le grita «no vuelvas a hacer eso» y ella responde **«nadie me ha dicho eso nunca»**. Él le cuenta por primera vez, y a medias, que creció con dos personas que se ponían enfrente de él todos los días. Ella propone el trato: *«Si tú te haces fuerte, yo puedo pararme enfrente sin que me dé culpa.»*
 - **Ya vive en la posada**, en una cama pagada por Jesús.
 
 ### Chris
-- **Ladrona**, pelo castaño corto, «cara de mapache», sonrisa grande. Entró al cuarto de Jesús **por la ventana**, sin hacer ruido, la noche antes de la cosecha.
+- **Ladrona**, pelo **plateado** corto y despeinado, **ojos morados**, cicatriz chiquita en la mejilla, sonrisa grande. Entró al cuarto de Jesús **por la ventana**, sin hacer ruido, la noche antes de la cosecha.
 - Sabe del gremio: *«Todo el gremio sabe que eres el que ayuda a doña Hilda y le dice gracias a todo el mundo.»*
 - **Le enseña la habilidad *Robar*:** se estira la mano, se dice la palabra, la mano se mete donde nadie la ve y **saca algo al azar**. «Cuando no puedes ganar la pelea, ganas por otro lado.»
 - **Hurgó los bolsillos de Jesús, le sacó la llave, la miró bien y se la devolvió:** la dejó en el buró con la cadenita acomodada. No se llevó nada.
@@ -230,7 +230,7 @@
 - Peligro real: caen como piedras. **Todos los años se muere alguien.** Aviso oficial del gremio, con cuatro clavos.
 - Cosecha de este año: **42 cabezas** en el grupo. Pago total: **1,660 eris** (1,260 + 400 de extra por haber salvado el carro del camino real). **Le tocaron 415 a Jesús.**
 - Megumin gastó su Explosión de ese día en **una col gigante a la que le puso nombre: Beatriz**. («¡Ya no existe, no hay problema!») Después la cargó Jesús por todo el valle.
-- El carro del camino real: una niña iba a recibir la col; **Darkness se puso enfrente y la frenó con el escudo**.
+- El carro del camino real: una niña iba a recibir la col; **Darkness se puso enfrente y la frenó con el cuerpo**.
 
 ### Otras cosas fijadas
 - Jesús pagó **el mes de dos camas** en la posada: la de Megumin y la de Darkness. *(La suya y la de Aqua se pagan con el trabajo: doña Hilda se lo dijo así.)*
@@ -295,7 +295,7 @@
 - **La clave emotiva:** *«en toda mi vida yo nunca había sido el que sostiene la cuerda. Yo era la cuerda.»*
 
 ### Mitsurugi Kyouya
-- **Mitsurugi Kyouya**, de **Osaka**. Tiene la edad de Jesús o un año más. Armadura sin un raspón, capa, pelo castaño bien cortado.
+- **Mitsurugi Kyouya**, de **Osaka**. Tiene la edad de Jesús o un año más. Armadura **azul de orillas doradas** sin un raspón, capa, **aro dorado** en el pelo castaño bien cortado.
 - **Espada mágica Gram:** empuñadura de metal oscuro con dibujos que se mueven. **No es de este mundo.**
 - **Él también fue enviado por Aqua**; llegó **hace tres años** y es aventurero de rango alto (mató al basilisco de las minas del norte, ayudó a los pueblos del río). Viaja con **dos chicas con bastón** que lo admiran.
 - Cree que «las diosas se quedan en su escritorio»: **casi nadie sabe que Aqua sigue en este mundo.**
@@ -390,3 +390,33 @@
 ## Estado del grupo
 
 Sin formar. Aqua y Jesús, camino a Axel.
+
+---
+
+## Ajustes de la revisión del volumen (12 de octubre de 2026)
+
+Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, formas de hablar, ambientación, ortografía, legibilidad por texto a voz y fidelidad al universo. El informe para el autor está en **`REVISION-VOLUMEN-1.md`** (raíz del repositorio) y las verificaciones de canon en la sección 9 de `biblia/12`.
+
+**Correcciones de canon aplicadas al texto:**
+
+| Dónde | Antes | Ahora |
+| --- | --- | --- |
+| Cap. 1 (Aqua) | «pelo azul, empapada», sin más | se añadieron túnica azul y el prendedor de tres bolitas; también el detalle de que Jesús está pálido y flaco |
+| Cap. 1 (estatura) | Aqua «era más alta que yo» | mirada cara a cara, sin comparación de estatura (canon: Aqua ≈157 cm) |
+| Cap. 2 (Luna) | pelo castaño y «una cinta» | pelo rubio en chongo alto con cinta ancha, ojos amarillos mansos |
+| Cap. 3 (Megumin) | capa roja, botas rojas; sin parche al presentarse | capa negra con orilla dorada, vestido rojo, botas naranjas, parche en un ojo (justificado como «sello»), bastón con piedra azul |
+| Cap. 3 (Darkness) | «armadura», arma sin definir | pelo rubio con puntas anaranjadas en coleta alta, espadón cruzándole la espalda |
+| Caps. 3–5 (Darkness) | peleaba con **escudo** | sin escudo: para los golpes con el cuerpo y el pecho (su rasgo ya establecido en la cosecha de coles) |
+| Cap. 4 (Chris) | pelo castaño corto, ojos café claro | pelo plateado corto y despeinado, ojos morados, cicatriz chiquita en la mejilla |
+| Cap. 6 (Mitsurugi) | «armadura», pelo castaño | armadura azul de orillas doradas y aro dorado en el pelo (imagen del anime, decisión 11); sus acompañantes pasan de «dos chicas con bastón» a «las dos muchachas armadas» |
+
+**Correcciones de coherencia aplicadas:**
+
+- **Cap. 1:** «Te vieron la cara» → «Te vi la cara»; «no sabes ni cuántos jugadores son once» → «no sabes ni cuántos jugadores son»; «presumidera» → «presumiendo».
+- **Cap. 2:** «Por acostumbre» → «Por costumbre»; «se le calló la cara» → «se le cayó la cara»; «lamándose» → «lamiéndose»; «¿Un cuarto con ventana.» → «¿Un cuarto con ventana?».
+- **Cap. 3:** «Alcanzé» → «Alcancé»; «Tiene mi edad» → «Tiene catorce» (cap. 3 y canon dicen catorce; Jesús tiene quince); la firma con guiones bajos ahora se explica en palabras («firme aquí abajo, en el renglón»); «pa'lante / pa'trás» → «palante / patrás»; signos dobles y gritos en caja normal.
+- **Cap. 4:** «Por acostumbre» ya no existe (era del 2); se normalizaron los gritos en mayúsculas y se añadió la respuesta del precio mensual de la posada (doscientas por mes frente a ocho por noche).
+- **Cap. 5:** **la maldición solo se rompe a Darkness**; la de Megumin queda adentro y solo Beldia puede quitarla — es lo que explica la despedida del capítulo y el viaje al cerro. Aqua la atrapa «en la armadura».
+- **Cap. 6:** el reloj de los siete días ahora es explícito (cinco días al abrir, un día en el lago, la víspera con la jaula lista en tres días de herrería) para que el séptimo día caiga justo al final.
+
+**Pendientes de decisión que quedaron anotados en el informe:** los «veintidós días» de Beldia frente a la línea de tiempo (suman diecisiete), el «martes» del capítulo 6, la «casa de entrenamiento de su familia» de Darkness (es noble de la capital), las vendas de Megumin y si se aceptan los mexicanismos del capítulo 3 («palante», «patrás», «Nomás el marco»).

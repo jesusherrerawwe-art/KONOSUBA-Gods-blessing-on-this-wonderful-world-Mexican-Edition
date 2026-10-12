@@ -1,7 +1,7 @@
 # Capítulo 3. La muchacha que hacía temblar los cerros
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 3. Extensión: 5,490 palabras. Estado: primer borrador.
+Volumen 1, capítulo 3. Extensión: 5,495 palabras. Estado: primer borrador.
 
 ---
 
@@ -125,17 +125,15 @@ Y el gremio entero, cuarenta personas hablando al mismo tiempo, se calló.
 
 Porque entró una muchacha con un sombrero enorme.
 
-El sombrero era negro, puntiagudo, con una cosa dorada en la punta, y le quedaba enorme. Debajo del sombrero traía capa, y la capa era roja, y el vestido era rojo, y las botas eran rojas, y todo el conjunto le hacía juego con los ojos, que también eran rojos, rojos como la caoba, y brillantes, y muy abiertos.
+El sombrero era negro, puntiagudo, con una cosa dorada en la punta, y le quedaba enorme. Debajo del sombrero traía una capa negra con orilla dorada, y un vestido rojo, y botas naranjas, y los ojos le hacían juego con todo eso: rojos como la caoba, brillantes, y muy abiertos. Traía un parche negro en un ojo, y el pelo castaño oscuro, a la altura de los hombros, le salía por debajo del sombrero.
 
-Era chiquita. Era más chiquita que yo, y yo no soy grande. Tenía la cara de alguien que está a punto de decir algo importante.
+Era chiquita, más chiquita que yo, y yo no soy grande. Tenía la cara de alguien que está a punto de decir algo importante.
 
 Caminó al centro del gremio.
 
 Y ahí, en medio de todos, se puso una mano en el pecho, se paró de puntitas, levantó la otra mano al cielo y anunció:
 
 —¡Soy Megumin! ¡Archimaga del clan de los demonios carmesí! ¡La más poderosa hechicera de la Aldea Carmesí! ¡La que domina la magia más destructiva de la historia! ¡La dueña de la Explosión!
-
-Silencio.
 
 Silencio absoluto en todo el gremio.
 
@@ -145,7 +143,7 @@ Y luego, desde una mesa, el señor barbón dijo:
 
 —¡Cállese!
 
-Y el señor barbón se rio y volvió a su jarra, y el gremio entero volvió a lo suyo, y la muchacha del sombrero se quedó parada ahí en medio, con las dos manos arriba, como una estatua a medio hacer.
+Y el señor barbón se rio y volvió a su jarra, y el gremio entero volvió a lo suyo, y la muchacha del sombrero se quedó ahí en medio, como una estatua a medio hacer.
 
 Y luego se dio la vuelta, me vio a mí, y caminó derechito hacia mi mesa.
 
@@ -171,15 +169,13 @@ Y voy a confesar algo, algo que me da un poquito de pena:
 
 En ese momento, en mi cabeza, se encendió una cosa.
 
-Porque yo había visto esa escena antes. Yo había visto esa escena como cuarenta veces, en cuarenta novelas visuales distintas. La muchacha rara y orgullosa que llega al principio de la ruta, se presenta con un nombre grandote, se pone en ridículo delante de todos, y luego resulta que es la más fuerte. Es un arquetipo. Es de los primeros que uno aprende a reconocer, y yo era bueno para eso, y en el fondo de mi cabeza una vocecita me dijo:
+Porque yo había visto esa escena como cuarenta veces, en cuarenta novelas visuales. La muchacha rara y orgullosa que se presenta con un nombre grandote, se pone en ridículo delante de todos, y luego resulta que es la más fuerte. Es de los arquetipos que uno aprende a reconocer, y yo era bueno para eso. Y en el fondo de mi cabeza una vocecita me dijo:
 
 «Ah. Esta es de las mías.»
 
-Y me puse contento, y la cabeza me empezó a trabajar sola: ¿qué quiere? Quiere que le diga que sí, que le pregunte por su magia, que le pida una demostración.
+Y me puse contento, y la cabeza me empezó a trabajar sola: ¿qué quiere? Quiere que le pregunte por su magia, que le pida una demostración.
 
-Así que hice lo que hace un experto.
-
-Le di la mano.
+Así que hice lo que hace un experto: le di la mano.
 
 —Mucho gusto —le dije—. Yo soy Jesús.
 
@@ -207,7 +203,17 @@ Yo no sabía nada.
 
 Ni poquito.
 
-Porque Megumin no quería que le preguntara por su magia. Megumin se sentó, se quitó el sombrero, se lo puso en las piernas, y se puso a comer sopa como una persona normal. Y mientras comía me contó, sin que yo le preguntara nada, que se había ido de su aldea sola, que tenía cuatro días de estar en Axel, que no tenía casa y estaba durmiendo en el establo del gremio, y que había pasado esos cuatro días buscando un grupo donde pudiera usar su magia.
+Porque Megumin no quería que le preguntara por su magia. Megumin se sentó, se quitó el sombrero, se lo puso en las piernas, y se puso a comer sopa como una persona normal.
+
+—Es un sello, no un parche —dijo, sin que yo le preguntara nada—. Sella mi poder.
+
+—Ah.
+
+—Sella el ojo con el que veo las cosas que se van a romper.
+
+—Ah —dije—. ¿Y funciona?
+
+—Funciona —dijo, y siguió comiendo. Y mientras comía me contó, sin que yo le preguntara nada, que se había ido de su aldea sola, que tenía cuatro días de estar en Axel, que no tenía casa y estaba durmiendo en el establo del gremio, y que había pasado esos cuatro días buscando un grupo donde pudiera usar su magia.
 
 Y que nadie la había querido.
 
@@ -265,7 +271,7 @@ Y yo, que llevaba quince años sin saber decir que no, le dije:
 
 —¡¿Ya no me vas a preguntar?! ¡Es una niña!
 
-—Tiene mi edad.
+—Tiene catorce.
 
 —¡Es una niña con sombrero!
 
@@ -291,11 +297,11 @@ El papelito decía:
 
 «El gremio de Axel y la señorita Luna no se hacen responsables de los grupos incompletos, de los sapos, de las panzas de los sapos, ni de las personas que entren en las panzas de los sapos.»
 
-«Firma aquí: ______________________.»
+«Firma aquí abajo, en el renglón. Ponga su nombre completo y la fecha.»
 
 —¿Qué es esto? —pregunté.
 
-—Un papel que inven... que redacté hace dos años —dijo Luna—, cada vez que alguien quiere salir con menos gente de la que debería. Yo lo redacté. Yo lo odio. Y yo lo tengo que dar.
+—Un papel que inventé... —se corrigió sola— ...que redacté hace dos años —dijo Luna—, cada vez que alguien quiere salir con menos gente de la que debería. Yo lo redacté. Yo lo odio. Y yo lo tengo que dar.
 
 —¿Y la gente lo firma?
 
@@ -337,7 +343,7 @@ Aprendí que cuando algo le importa mucho, se calla, y que a lo mejor por eso se
 
 Y aprendí que el sombrero no es un sombrero: es su casa. Cuando se lo quita y se lo pone en las piernas, uno entiende que la muchacha está descansando.
 
-Cuando llegamos al valle, ella sacó su bastón, se plantó en una piedra y nos dijo:
+Cuando llegamos al valle, ella sacó su bastón —un bastón de madera con una piedra azul en la punta, que brillaba poquito—, se plantó en una piedra y nos dijo:
 
 —Escúchenme bien. Yo nada más puedo lanzar una vez. Una. Y cuando la lanzo, me quedo sin nada —y levantó una mano antes de que yo dijera nada—. No me digan que la use para defenderme, porque no puedo. No me digan que la lance al principio, porque no puedo. Y no me digan que la lance al final, porque tampoco. Yo la lanzo cuando yo diga.
 
@@ -375,11 +381,11 @@ Y se puso en la piedra.
 
 Y desenfundó la Explosión.
 
-Voy a tratar de contarlo, porque es de las cosas que a mí me cambiaron la cabeza y no hay manera de contarlas bien.
+Voy a tratar de contarlo, porque no hay manera de contarlo bien.
 
 Primero puso los dos brazos abiertos. Después empezó a decir palabras en un idioma que no era el de aquí, un idioma lleno de cosas que suenan a piedras, y mientras decía las palabras, el aire se empezó a mover.
 
-El aire se empezó a mover, y el pasto se empezó a mover, y las hojas se empezaron a mover, y el sonido del río se empezó a oír más fuerte, y luego menos, y luego ya no se oyó nada, porque el aire empezó a hacer un ruido, y luego ese ruido se hizo más grande, y luego ese ruido se hizo el ruido más grande.
+El aire se empezó a mover, y el pasto, y las hojas, y el sonido del río se oyó más fuerte, y luego menos, y luego ya no se oyó nada, porque el aire empezó a hacer un ruido que se fue haciendo, poco a poco, el ruido más grande.
 
 Encima del sapo, el cielo se puso naranja.
 
@@ -389,7 +395,7 @@ Y Megumin gritó, con toda la voz, con una voz que no era la de una niña con so
 
 Y el mundo se vino abajo.
 
-Lo digo así porque no sé decirlo de otra manera. El mundo se vino abajo: primero un golpe de aire que me aventó, luego un ruido que no oí con los oídos sino con el pecho, luego una luz blanca y una columna de tierra que subió hacia arriba, y luego calor, y luego un montón de polvo, y luego esas cosas que quedan flotando en el aire cuando algo se rompe.
+Lo digo así porque no sé decirlo de otra manera. El mundo se vino abajo: primero un golpe de aire que me aventó, luego un ruido que no oí con los oídos sino con el pecho, luego una luz blanca y una columna de tierra que subió hacia arriba, y luego calor, y luego polvo, y luego esas cosas que quedan flotando cuando algo se rompe.
 
 Cuando volví a ver, el sapo no estaba.
 
@@ -441,15 +447,15 @@ Y en eso, de allá del fondo del valle, salieron dos sapos más.
 
 Hubo que hacer todo corriendo.
 
-Yo bajé a Megumin y la dejé recargada en la piedra, y le dije que no se moviera, y ella me dijo «no me puedo mover», y yo le dije «ah, perdón», y ella me dijo «deja de disculparte», y luego los sapos brincaron.
+Yo bajé a Megumin y la dejé recargada en la piedra, y le dije que no se moviera, y ella me dijo «no me puedo mover», y yo le dije «ah, perdón», y ella me dijo «deja de disculparte». Y luego los sapos brincaron.
 
 Y Aqua se puso a hacer lo que hace Aqua, que es gritar cosas técnicas.
 
-—¡¡Purificación de agua superior!! —gritó, y el pasto se iluminó un poco, y nada pasó, y un sapo se le vino encima, y aquello fue como ver caer un puesto de mercado sobre una persona.
+—¡Purificación de agua superior! —gritó, y el pasto se iluminó un poco, y nada pasó, y un sapo se le vino encima, y aquello fue como ver caer un puesto de mercado sobre una persona.
 
 Y la persona entró al sapo.
 
-Completa. Con todo y gritos. Uno ve esas cosas en los dibujos y uno piensa que son chistosas, y sí son chistosas, mi hermano, pero también son verdad: mi amiga, la que me había acompañado a este mundo, desapareció dentro de un sapo delante de mis ojos, y no había nada, absolutamente nada que yo pudiera hacer con un palo.
+Completa. Con todo y gritos. Uno ve esas cosas en los dibujos y piensa que son chistosas, y sí, mi hermano, pero también son verdad: mi amiga, la que me había acompañado a este mundo, desapareció dentro de un sapo delante de mis ojos, y no había nada, absolutamente nada que yo pudiera hacer con un palo.
 
 Y ahí fue cuando me di cuenta de la única cosa que sí podía hacer.
 
@@ -459,21 +465,19 @@ Silencio del sapo.
 
 Y luego, desde adentro, apagadito, como cuando alguien grita dentro de una almohada:
 
-—¡...SÍ!
+—¡...Sí!
 
 —¡Usa tu magia!
 
 —¡¿Qué?!
 
-—¡Estás dentro de un sapo! ¡EL SAPO ES PURO AGUA! ¡Purifícalo!
+—¡Estás dentro de un sapo! ¡El sapo es puro agua! ¡Purifícalo!
 
-Silencio.
-
-Y luego un silencio un poquito más raro, un silencio como de que alguien está pensando, y luego un ruido que a mí se me va a quedar grabado toda la vida: el ruido de un sapo gigante que se atraganta.
+Silencio. Y luego un silencio más raro, un silencio como de alguien pensando, y luego un ruido que se me va a quedar grabado toda la vida: el ruido de un sapo gigante que se atraganta.
 
 Y el sapo se puso blanco. Le empezaron a brillar los ojos como si le doliera la cabeza, y luego tosió, y de la tos salió Aqua, entera, empapada y con el pelo lleno de cosas.
 
-—¡¡¡Aaaay!! —gritó, y salió corriendo hacia mí, y yo la agarré, y ella se me abrazó como abrazan los que tienen mucho susto, y yo la abracé, y ella me empezó a pegar en el brazo, y yo la dejé.
+—¡Aaaay! —gritó, y salió corriendo hacia mí, y yo la agarré, y ella se me abrazó como abrazan los que tienen mucho susto, y yo la abracé, y ella me empezó a pegar en el brazo, y yo la dejé.
 
 Y en eso, otro sapo se tragó a Megumin.
 
@@ -487,27 +491,27 @@ Corrí.
 
 Nunca había corrido así. Me dolieron las costillas, la garganta, todo, y no me detuve, porque adentro de ese sapo iba una muchacha que pesa nada, que acababa de partir el mundo en dos y a la que nadie le había querido dar la mano en cuatro días.
 
-Alcanzé al sapo, le agarré una pata —las patas son gordas y resbalosas y no hay dónde agarrar—, y me subí.
+Alcancé al sapo, le agarré una pata —las patas son gordas y resbalosas y no hay dónde agarrar—, y me subí.
 
 Me subí a un sapo. Yo. Un niño que hace una semana no podía caminar tres cuadras.
 
-Y el sapo hizo lo que hace un sapo cuando le sube algo: se quedó quieto, muy quieto, a ver si se le quitaba.
+Y el sapo hizo lo que hace un sapo cuando le sube algo: se quedó quieto, a ver si se le quitaba.
 
 Y yo, ahí arriba, con la panza del sapo entre las piernas, grité:
 
-—¡MEGUMIN!
+—¡Megumin!
 
 Y desde adentro del sapo, desde una panza que debía ser pasto y agua y un calor asqueroso, salió la voz más indignada que he escuchado en dos mundos:
 
-—¡¡Esto es asqueroso!!
+—¡Esto es asqueroso!
 
 Y yo me puse a llorar de risa.
 
-Ahí, en la espalda de un sapo, con una niña adentro diciéndome que estaba asqueroso y con las costillas hechas pedazos, yo me empecé a reír de una manera que no había reído nunca, con la risa grande, la que duele.
+Ahí, en la espalda de un sapo, con una niña adentro diciéndome que estaba asqueroso, me empecé a reír como no había reído nunca, con la risa grande, la que duele.
 
-Y de ahí para adelante todo salió rápido.
+Y de ahí en adelante todo salió rápido.
 
-Aqua vino corriendo, todavía empapada, y gritó «¡Purificación!», y el sapo se puso blanco, y el sapo tosió, y el sapo escupió a Megumin con muchísimo pasto y una botita, y yo me bajé de un brinco y caí mal y me torcí un tobillo, y no me importó.
+Aqua vino corriendo, todavía empapada, y gritó «¡Purificación!», y el sapo tosió, y el sapo escupió a Megumin con muchísimo pasto y una botita, y yo me bajé de un brinco y caí mal y me torcí un tobillo, y no me importó.
 
 Y los dos sapos se fueron, y el valle se quedó callado, con un cráter humeando en medio y con tres personas tiradas en el pasto, apestando, mojadas, rotas y riéndonos.
 
@@ -569,7 +573,7 @@ Y ahí nos volvimos a reír, y Aqua nos preguntó de qué nos estábamos riendo,
 
 El camino de regreso lo hice con Megumin en la espalda.
 
-Ya no podía caminar. Uno podría pensar que el problema es el cansancio, y sí es cansancio, pero también es que la Explosión se lleva lo que uno tiene: cuando Megumin terminó de lanzarla, no le quedaba ni pa'lante ni pa'trás, y le temblaban las manos y no podía ni cerrar el puño.
+Ya no podía caminar. Y no era nada más el cansancio: la Explosión se lleva lo que uno tiene. Cuando Megumin terminó de lanzarla, no le quedaba ni palante ni patrás, y le temblaban las manos y no podía ni cerrar el puño.
 
 —Puedo caminar —dijo, la primera vez.
 
@@ -657,7 +661,7 @@ Y vi ese vidrio y me acordé de mi ventana, y del pedazo de mar que se veía cua
 
 Aqua se puso las manos en la cabeza.
 
-—¡Doscientas treinta y te gastas DOS en eso!
+—¡Doscientas treinta y te gastas dos en eso!
 
 —Sí.
 
@@ -679,15 +683,15 @@ Y Aqua abrió la boca, y la cerró, y no supo qué decir, y ahí me di cuenta de
 
 Y ahí me quedé en silencio un rato, con el vidrio chiquito apretado en la mano, y entendí esa respuesta mejor que cualquiera de las cosas que había entendido en toda la semana.
 
-Después me compré una cosa más, con las monedas que me sobraban: un cartucho de pan y queso y un frasco de algo dulce para doña Hilda, porque doña Hilda me daba de comer y yo ya tenía con qué darle algo.
+Después me compré una cosa más, con las monedas que me sobraban: un cartucho de pan y queso y un frasco de algo dulce para doña Hilda, porque doña Hilda me daba de comer y yo ya tenía con qué darle algo. El frasco era de los caros, y lo pagué sin pensarlo dos veces.
 
-Y me guardé cuatro monedas, y las apreté en el bolsillo, y me di cuenta de que esas cuatro eran las primeras monedas de toda mi vida que yo iba a guardar.
+Y me guardé cuatro monedas, y las apreté en el bolsillo, y me di cuenta de que eran las primeras que guardaba en toda mi vida.
 
 ---
 
 Cuando volvimos al gremio ya era de noche, y el gremio estaba lleno, y ahí, en la puerta, había un problema.
 
-Una mujer enorme, con armadura completa abollada en varios lados, estaba parada en medio del pasillo y no dejaba pasar a nadie.
+Una mujer altísima, con una armadura completa abollada en varios lados, estaba parada en medio del pasillo y no dejaba pasar a nadie. Traía el pelo rubio recogido en una coleta alta, con las puntas anaranjadas, y una espada grandota cruzada en la espalda.
 
 —¿Sabes quién soy? —le estaba diciendo al señor barbón.
 
@@ -725,7 +729,7 @@ Y la mujer respiró hondo, se cuadró, y con una mano en el pecho, como si estuv
 
 Y la mujer se quedó un segundo callada.
 
-Y luego dijo, muy seria, con las dos manos apretadas en el escudo:
+Y luego dijo, muy seria, con las dos manos apretadas en el puño de la espada:
 
 —Porque llevo tres meses sin que nadie me quiera, y porque necesito desesperadamente que alguien me trate mal.
 

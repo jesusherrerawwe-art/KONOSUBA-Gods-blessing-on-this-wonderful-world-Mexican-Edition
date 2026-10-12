@@ -1,9 +1,19 @@
 # Capítulo 6. El otro elegido
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 6. Extensión: 4,906 palabras. Estado: primer borrador.
+Volumen 1, capítulo 6. Extensión: 5,148 palabras. Estado: primer borrador.
 
 ---
+
+Quedaban cinco días. Y nadie hablaba de eso.
+
+Desde la tarde de la explanada, Megumin no había vuelto a los cerros. Yo me di cuenta al segundo día, cuando desperté y no oí el bum, y me quedé un rato en la cama esperándolo, como se espera el ruido de una casa.
+
+Bajé, y la encontré en el comedor, con el sombrero en las piernas, y no le pregunté nada, y ella no dijo nada, y comimos así.
+
+Ese es el retrato del grupo en esos días: cuatro personas sentadas a la misma mesa, callándose la misma cosa.
+
+Y encima, sin dinero.
 
 El dinero se nos acabó en cuatro días, y no fue por el invierno.
 
@@ -17,7 +27,7 @@ Yo me enteré el martes, cuando entré al cuarto y vi mi caja vacía.
 
 —Aqua.
 
-—¿Qué.
+—¿Qué?
 
 —¿Dónde está el dinero?
 
@@ -149,7 +159,7 @@ Y luego el señor barbón se empezó a reír.
 
 —¡Ese niño —dijo— va a llegar lejos!
 
-—¡¿Y YO?! —chilló Aqua.
+—¡¿Y yo?! —chilló Aqua.
 
 —Y tú vas a llegar lejos metida en una jaula.
 
@@ -191,11 +201,27 @@ Cosas largas, que no sacaban la cabeza, pero que dejaban una raya en la superfic
 
 —Está enfermo —dijo Aqua, y la oí distinto—. No está asqueroso. Está enfermo.
 
+Y yo me di cuenta de que Megumin había dicho «está asqueroso» con la voz un poquito más aguda de lo normal, y de que traía las dos manos en el bastón, y de que no había dicho ni una palabra de nada de lo que ella hablaba siempre.
+
+Quedaba un día.
+
+Y nadie lo dijo.
+
 Y esa fue la primera vez que yo vi a Aqua hablar de un lugar y no de sí misma.
 
 El plan salió como salen los planes: más o menos.
 
-Llevábamos una jaula, que costó catorce monedas de las que no teníamos, prestadas por el herrero amigo del señor barbón. Megumin y Darkness se quedaron en la orilla con la cuerda, y yo me metí al agua hasta la cintura, con la jaula a un lado, y bajé con Aqua hasta donde el agua hacía pie.
+Llevábamos una jaula, que costó catorce monedas de las que no teníamos, prestadas por el herrero amigo del señor barbón, que tardó tres días en armarla y nos la dio la víspera. Megumin y Darkness se quedaron en la orilla con la cuerda.
+
+—Yo aguanto la cuerda —dijo Megumin, rápido, antes de que yo dijera nada—. Yo soy buena aguantando.
+
+Y luego, sin verme, dijo:
+
+—Mañana voy a ir al cerro. Sola. Ya lo decidí.
+
+Y yo no le dije nada, porque no supe qué decirle, y porque una parte de mí se sintió aliviada de que alguien lo hubiera dicho, y esa parte me dio vergüenza toda la noche.
+
+Y me metí al agua hasta la cintura, con la jaula a un lado, y bajé con Aqua hasta donde el agua hacía pie.
 
 Ella entró a la jaula, yo cerré la puerta, y le puse la llave en la mano a Darkness.
 
@@ -225,7 +251,7 @@ El agua estaba tibia. Eso fue lo primero que sentí, y me impresionó, porque un
 
 —¡Jesús!
 
-—¿Qué.
+—¿Qué?
 
 —¡Estoy en el agua de un lago encantado en una jaula y quiero que quede claro que fue tu idea!
 
@@ -247,7 +273,7 @@ Y yo, con el agua a la cintura y sin un solo golpe aprendido, hice la única cos
 
 —¡Entonces tírale a Darkness!
 
-—¿¡QUÉ!?
+—¿¡Qué!?
 
 Y ahí, mi hermano, empezó la parte que de verdad sirvió.
 
@@ -257,7 +283,7 @@ Y las dos rayas del agua llegaron, y algo le pasó por la pierna a Darkness, y e
 
 Reírse. Bajo la luna, en un lago negro, con la armadura chorreando y el agua podrida hasta el pecho, esa mujer se rio como se ríe una persona en una fiesta.
 
-—¡OTRA! —gritó—. ¡Ven, otra vez! ¡Aquí hay espacio!
+—¡Otra! —gritó—. ¡Ven, otra vez! ¡Aquí hay espacio!
 
 —¡No hay espacio! —chilló Aqua desde la jaula—. ¡Estoy aquí!
 
@@ -297,7 +323,7 @@ Y Aqua estaba sentada en la orilla, empapada, con la nariz roja y los labios azu
 
 —Aqua.
 
-—¿Qué.
+—¿Qué?
 
 —Estabas increíble.
 
@@ -311,11 +337,11 @@ Nos encontramos a Mitsurugi en el camino.
 
 Íbamos de regreso, muertos, sucios, con la jaula al hombro, y en la curva antes del puente había un muchacho parado en medio del camino.
 
-Un muchacho, más o menos de mi edad o un poquito más, con una armadura que no tenía ni un raspón, con capa, con el pelo castaño bien cortado, y con una espada colgada al cinto que no era de este mundo.
+Un muchacho, más o menos de mi edad o un poquito más, con una armadura azul de orillas doradas que no tenía ni un raspón, con capa, con un aro dorado en el pelo castaño bien cortado, y con una espada colgada al cinto que no era de este mundo.
 
 No era de este mundo. Lo supe con el estómago antes de saber nada de él. La empuñadura era de metal oscuro, y el metal tenía dibujos que se movían.
 
-Al lado del muchacho había dos chicas con bastón, de esas que se ven en las ilustraciones, y las dos lo miraban como se mira una estatua.
+Al lado del muchacho había dos muchachas armadas, una con espada y otra con un cuchillo largo, de esas que se ven en las ilustraciones, y las dos lo miraban como se mira una estatua.
 
 Y el muchacho levantó la mano y dijo:
 
@@ -501,7 +527,7 @@ La espada que da el mundo al héroe.
 
 Yo la tenía en la mano, y la empuñadura me cabía mal, y la hoja era más larga que mi brazo.
 
-Silencio en el camino. Las dos chicas con bastón se taparon la boca. Megumin se levantó el sombrero. Darkness se puso entre los dos, porque para eso está.
+Silencio en el camino. Las dos muchachas se taparon la boca. Megumin se levantó el sombrero. Darkness se puso entre los dos, porque para eso está.
 
 Y Mitsurugi se quedó con la mano abierta, vacía, en el aire.
 
@@ -531,7 +557,7 @@ Y Mitsurugi se quedó viendo la espada en su mano como si le hubieran devuelto u
 
 Y ahí, mi hermano, ahí me entró la risa.
 
-Se me entró la risa y no la pude parar, me tapé la boca con la mano, y él se quedó con la espada a medias, y las dos chicas con bastón se pusieron rojas, y Aqua empezó a reírse sin saber de qué, y Megumin se rio, y hasta Darkness se rio con la carcajada esa que tiene, que suena como una puerta cayéndose.
+Se me entró la risa y no la pude parar, me tapé la boca con la mano, y él se quedó con la espada a medias, y las dos muchachas se pusieron rojas, y Aqua empezó a reírse sin saber de qué, y Megumin se rio, y hasta Darkness se rio con la carcajada esa que tiene, que suena como una puerta cayéndose.
 
 Y Mitsurugi Kyouya, el héroe de la espada mágica Gram, el que mató al basilisco de las minas del norte, el chico de Osaka que estaba a una hora de avión de mi casa, se puso rojo, y guardó la espada, y dijo:
 
@@ -561,7 +587,7 @@ Le pedí a Aqua que pasara.
 
 —Oye.
 
-—¿Qué.
+—¿Qué?
 
 —¿Cuánta gente has mandado?
 
@@ -593,7 +619,7 @@ Y que esa razón no existe. Y que eso está bien. Y que el trabajo, entonces, es
 
 —Aqua.
 
-—¿Qué.
+—¿Qué?
 
 —Buenas noches.
 

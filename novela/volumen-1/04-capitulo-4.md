@@ -1,7 +1,7 @@
 # Capítulo 4. La gente que se pone enfrente
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 4. Extensión: 5,070 palabras. Estado: primer borrador.
+Volumen 1, capítulo 4. Extensión: 5,077 palabras. Estado: primer borrador.
 
 ---
 
@@ -101,11 +101,11 @@ Y ahí, mi hermano, ahí empezó una discusión que duró como cuarenta minutos.
 
 —No.
 
-—¡¡Yo te curé cuando eras un sapo!!
+—¡Yo te curé cuando eras un sapo!
 
 —Nunca fui un sapo, yo estaba afuera.
 
-—¡¡Estabas cerca!!
+—¡Estabas cerca!
 
 —¡La Explosión! —dijo Megumin, subiéndose a la banca—. ¡Le ponemos «La Explosión»!
 
@@ -227,7 +227,7 @@ Entonces se oyó un golpecito en el vidrio.
 
 Había una muchacha sentada en el marco de mi ventana, como si fuera una repisa.
 
-Pelo castaño corto, cara de mapache, sonrisa grande, y la agilidad de alguien que no había hecho ruido al subir por la pared de la posada.
+Pelo plateado corto y despeinado, una cicatriz chiquita en la mejilla, sonrisa grande, y la agilidad de alguien que no había hecho ruido al subir por la pared de la posada.
 
 —¿Quién eres?
 
@@ -273,7 +273,7 @@ Y no era lo que yo pensaba. No era agarrar cosas ajenas y correr. Era una habili
 
 —¿Y por qué es útil eso?
 
-—Porque tú no sirves para pegar, chico. —Y me clavó los ojos, que eran café claro y brillaban un poco de más—. Cuando no puedes ganar la pelea, ganas por otro lado.
+—Porque tú no sirves para pegar, chico. —Y me clavó los ojos, que eran morados y brillaban un poco de más—. Cuando no puedes ganar la pelea, ganas por otro lado.
 
 Y me puso la mano en el hombro.
 
@@ -357,9 +357,9 @@ Y te das cuenta de que la palabra «col» no te estaba contando nada.
 
 —¡Agárrala! —me gritó Aqua.
 
-—¡¿CÓMO?!
+—¡¿Cómo?!
 
-—¡CON LA RED!
+—¡Con la red!
 
 Y la primera col que intenté atrapar me pegó en el pecho y me tiró de nalgas al pasto.
 
@@ -413,13 +413,13 @@ Y no llegué.
 
 Llegó Darkness.
 
-Llegó de la nada, saltando desde el techo de una casa, con el escudo por delante, y se puso enfrente de la niña.
+Llegó de la nada, saltando desde el techo de una casa, y se plantó enfrente de la niña con los brazos abiertos.
 
 Y la col le pegó.
 
 Le pegó en el pecho con un ruido que se oyó en tres cuadras, y Darkness... se rio.
 
-Se rio, con una risa larga, y se agarró el escudo, y dijo:
+Se rio, con una risa larga, y se agarró el pecho, y dijo:
 
 —¡Otra vez! ¡Otra vez! ¡Échame otra!
 
@@ -513,9 +513,9 @@ Y luego hizo una cosa que no esperaba: asintió. Asintió con la cara seria y di
 
 —¿Qué cosa?
 
-—Que quieras ser fuerte. —Y se acomodó el escudo—. Porque si tú te haces fuerte, yo puedo pararme enfrente sin que me dé culpa.
+—Que quieras ser fuerte. —Y se acomodó la espada—. Porque si tú te haces fuerte, yo puedo pararme enfrente sin que me dé culpa.
 
-—¡NO ES LO MISMO!
+—¡No es lo mismo!
 
 —¡Es lo mismo al revés! ¡Y el revés también cuenta, Jesús!
 
@@ -529,7 +529,7 @@ Y el cielo, en una parte muy chiquita del cielo, se puso naranja.
 
 Y yo me volteé, y en una colina a doscientos metros había una nube de polvo del tamaño de una casa, y en la orilla de esa nube había una silueta con un sombrero.
 
-—¡MEGUMIN! —grité.
+—¡Megumin! —grité.
 
 Y Aqua, que venía corriendo desde el otro lado con una col en la cabeza y el pelo hecho un desastre, me dijo, sin aire:
 
@@ -585,7 +585,11 @@ Así que hice lo que hice siempre que no supe qué hacer: preguntar.
 
 —¿Y cuánto cuesta una cama al mes?
 
-Luna levantó una ceja y me dijo el precio, y yo conté las monedas dos veces, y conté las de Megumin con el rabo del ojo, y conté las de Darkness, y me di cuenta de que las de las dos eran muy poquitas, y que una de ellas había estado durmiendo en un establo cuatro días.
+Luna levantó una ceja.
+
+—Doscientas. Y eso porque eres el que le barre —dijo—. Si pagas el mes, sales ganando, porque el mes tiene más de veinticinco noches.
+
+Yo conté las monedas dos veces, y conté las de Megumin con el rabo del ojo, y conté las de Darkness, y me di cuenta de que las de las dos eran muy poquitas, y que una de ellas había estado durmiendo en un establo cuatro días.
 
 Y luego hice lo que iba a hacer desde que vi la cara de Megumin en el pasillo con la piedra en las manos.
 
@@ -661,11 +665,11 @@ Y apagué la pantalla.
 
 En el cuarto de al lado, Aqua se acomodó en su cama, que rechinaba, y después de un rato se le oyó gritar:
 
-—¡JESÚS!
+—¡Jesús!
 
 —¿Qué?
 
-—¡YA DUÉRMETE!
+—¡Ya duérmete!
 
 —¡Ya!
 
@@ -673,7 +677,7 @@ En el cuarto de al lado, Aqua se acomodó en su cama, que rechinaba, y después 
 
 —¡Es la linterna!
 
-—¡¿CUÁL LINTERNA?!
+—¡¿Cuál linterna?!
 
 —¡Buenas noches, Aqua!
 
