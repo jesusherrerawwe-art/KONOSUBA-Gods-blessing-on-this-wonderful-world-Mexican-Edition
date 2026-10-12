@@ -80,9 +80,44 @@ La gracia de la mezcla: ninguna de las tres por separado resuelve nada; **juntas
 - Nada de escenas humillantes para nadie: el deseo se escribe como juego compartido, no como castigo.
 - La regla del homenaje: **esto lo va a leer alguien a quien queremos**; que se pueda recomendar sin vergüenza.
 
+**4. Aqua se gana el puesto a pulso.** Jesús pensaba ir solo; Aqua **insiste hasta convencerlo**. A diferencia del canon —donde Kazuma la elige como si escogiera una maleta—, aquí la diosa es quien se empeña en acompañarlo. Gana por terquedad, no por autoridad, y eso la vuelve más persona desde el capítulo 1.
+
+**5. En Axel no lo llamarán «Jesús».** El gremio le inventa un apodo y ese apodo se convierte en su identidad en la ciudad. *(El apodo exacto sigue pendiente de definir.)*
+
+**6. Lo que cruza con él:** la **playera de las Chivas** y **su celular**, que por alguna razón aún tiene señal. Es un guiño declarado a *In Another World With My Smartphone*. El gag necesita reglas propias para no romperse (batería, cobertura, qué aplicaciones responden y cuáles no, qué pasa con las fotos).
+
+**7. Los padres se cierran en el epílogo.** El hilo emocional de la madre y el padre **no** se resuelve durante la aventura: el cierre llega al final de la novela, en el epílogo.
+
+**8. La novela tiene dos mitades (13 / 13).**
+- **Primera mitad — «La vida que gana»:** Jesús aprende que puede vivir. El mundo, la gente, el cuerpo que funciona, la party que se arma sin que él lo pida.
+- **Segunda mitad — «La vida que comparte»:** ya no es solo lo que recibe, sino lo que devuelve: la ciudad, las personas que dependen de él, el sacrificio elegido.
+
+**9. La historia se cuenta en primera persona, desde Jesús.** Su voz es la de un chico amable que observa con humor y ternura; el lector conoce el mundo por lo que a él le llama la atención. Eso convierte cada animal, cada comida y cada persona en un descubrimiento.
+
+**10. El romance es un harem abierto («todas las rutas»).** Coherente con el «método ruta»: cada waifu tiene su camino con Jesús y ninguno cancela a los demás. Se escribe con comedia, ternura y respeto por la voluntad de cada personaje; el «harem» es el escenario, no un trofeo.
+
+## Tablero de decisiones
+
+Doce decisiones, tomadas junto con el autor. Las que están en pausa lo están **por decisión suya**, no por olvido.
+
+| # | Decisión | Estado | Resultado |
+| --- | --- | --- | --- |
+| 1 | ¿Qué pasa con Kazuma? | ✅ Tomada | Vive su vida en Japón; nunca reencarna. Jesús es una bendición paralela |
+| 2 | Ventaja de Jesús | ✅ Tomada | Mezcla: suerte moderada + «método ruta» + carisma |
+| 3 | Dial del ecchi | ✅ Tomada | Elevado, sin contenido explícito, con reglas de casa |
+| 4 | ¿Cómo lo acompaña Aqua? | ✅ Tomada | Ella insiste hasta convencerlo; gana por terquedad |
+| 5 | ¿Cómo lo llaman en Axel? | ✅ Tomada | Un apodo que le inventa el gremio (falta definir cuál) |
+| 6 | ¿Qué cruza con él? | ✅ Tomada | La playera de las Chivas y su celular… que aún tiene señal |
+| 7 | Hilo de los padres | ✅ Tomada | Se cierra en el epílogo |
+| 8 | Estructura de los 26 capítulos | ✅ Tomada | Dos mitades: «La vida que gana» y «La vida que comparte» (13/13) |
+| 9 | Voz narrativa | ✅ Tomada | Primera persona, desde Jesús |
+| 10 | Romance | ✅ Tomada | Harem abierto: todas las rutas, con respeto y comedia |
+| 11 | ¿Cuánto canon usamos? | ⏸️ En pausa | El autor quiere dedicarle más tiempo antes de decidir |
+| 12 | Tono del capítulo 1 | ⏸️ En pausa | «Todavía no hablemos de eso» |
+
 ## Decisiones abiertas
 
-- [ ] **Cómo llega Jesús:** ¿Aqua lo elige y se autoinvita, o él la elige sin saber lo que hacía? (En el canon era una decisión de Kazuma; aquí puede ser distinto.)
-- [ ] **Cómo lo llaman en Axel.** «Jesús» en un gremio de fantasía es una mina de comedia y de ternura: ¿lo pronuncian mal, lo apodan, o él elige cómo presentarse?
-- [ ] **El tono del capítulo 1.** El autor pidió dejarlo para más adelante («todavía no hablemos de eso»). Queda explícitamente sin decidir.
-- [ ] **El cierre emocional de los padres:** cómo y cuándo se resuelve sin que la historia se vuelva solemne.
+- [ ] **El apodo exacto del gremio.** Definirlo con cuidado: tiene que sonar natural en un mundo de fantasía, ser cálido y funcionar como broma recurrente.
+- [ ] **Las reglas del celular.** Batería, cobertura, aplicaciones, cámara, música. Una vez fijadas, se respetan en los 26 capítulos (y el gag se vuelve más gracioso, no menos).
+- [ ] **¿Cuánto canon usamos?** En pausa por decisión del autor.
+- [ ] **El tono del capítulo 1.** En pausa por decisión del autor.
