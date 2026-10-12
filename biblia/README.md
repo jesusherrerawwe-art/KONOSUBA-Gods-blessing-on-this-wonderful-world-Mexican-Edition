@@ -17,8 +17,9 @@ Esta carpeta reúne la biblia de referencia para desarrollar una novela ligera o
 11. [Galería de arte, referencias visuales y permisos](11-galeria-arte.md)
 12. [Registro de verificación de la biblia](12-registro-de-verificacion.md)
 13. [Protagonista original del proyecto: Jesús Fujioka Hernández](13-protagonista-jesus-fujioka.md)
+14. [Romance, rutas y el Rey Demonio](14-rutas-romance-y-rey-demonio.md)
 
-Las secciones 1 a 11 documentan el universo de referencia. Las secciones 12 y 13 son de trabajo: la 12 registra las verificaciones y correcciones, y la 13 reúne el material creativo del **protagonista original de este proyecto**, que no es canon.
+Las secciones 1 a 11 documentan el universo de referencia. Las secciones 12 a 14 son de trabajo: la 12 registra las verificaciones y correcciones, la 13 reúne el material creativo del **protagonista original de este proyecto** y la 14 desarrolla el romance, las rutas y el papel del Rey Demonio. Ninguna de las tres últimas es canon.
 
 ## Cómo leerla
 
