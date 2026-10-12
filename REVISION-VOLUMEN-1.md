@@ -106,7 +106,7 @@ Todo esto se comprobó contra fichas y resúmenes oficiales y de fans, y quedó 
 | --- | --- | --- |
 | **Aqua** | Pelo y ojos azul claro, túnica azul de diosa, prendedor con tres bolitas, clase archipresbítera | Corregida y completa (caps. 1–2) |
 | **Luna** | Rubia ondulada, chongo alto con banda, ojos dorados, blusa blanca, shorts, botas café | Corregida (cap. 2) |
-| **Megumin** | Pelo castaño oscuro a los hombros, ojos carmesí, sombrero negro con dorado, capa negra, túnica roja, botas naranjas, parche y vendas, bastón con gema, 14 años | Corregida; **faltan las vendas** ❓ |
+| **Megumin** | Pelo castaño oscuro a los hombros, ojos carmesí, sombrero negro con dorado, capa negra, túnica roja, botas naranjas, parche y vendas, bastón con gema, 14 años | Corregida y completa (parche **y** vendas) |
 | **Darkness** | 18 años, rubia con puntas naranjas en coleta alta, ojos azul claro, armadura, espadón, cruzada, devota de Eris | Corregida; ya no usa escudo |
 | **Chris** | Pelo corto plateado-lila, ojos morados, aire de chico, cicatriz | Corregida (cap. 4) |
 | **Beldia** | General del Rey Demonio, Dullahan, ex caballero, lanza la Premonición de Muerte, Aqua la rompe | Correcto; se añadió el matiz de «yo estoy esperando» |
