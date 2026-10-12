@@ -1,4 +1,4 @@
-# Capítulo 6. El otro elegido
+﻿# Capítulo 6. El otro elegido
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Volumen 1, capítulo 6. Extensión: 5,148 palabras. Estado: aprobado por el autor.

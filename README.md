@@ -23,6 +23,8 @@ El texto de la novela vive en la carpeta [`novela/`](novela/), separada de la bi
   - [`00-prologo.md`](novela/volumen-1/00-prologo.md) — «Un lugar sin ventanas».
   - [`FICHAS.md`](novela/volumen-1/FICHAS.md) — fichas de diseño de cada pieza del volumen.
 
+Los archivos de la novela se guardan en **UTF-8 con BOM (UTF-8-BOM)**, que es el formato que necesita la aplicación de lectura en voz alta (**ElevenReader**). Si algún archivo pierde el BOM al editarlo, se recupera con `python3 herramientas/utf8-bom.py`; para revisar formato, extensión y reglas de lectura en voz alta está `python3 herramientas/revisar-capitulos.py`.
+
 ## Biblia de referencia
 
 Consulta la [biblia de referencia](biblia/README.md), organizada en 18 secciones: las 11 primeras documentan el universo de referencia; de la 12 a la 15 está el diseño del proyecto (protagonista, romance y rutas); y de la 16 a la 18, el método de trabajo, la bitácora de continuidad y los estándares de extensión de una novela ligera.

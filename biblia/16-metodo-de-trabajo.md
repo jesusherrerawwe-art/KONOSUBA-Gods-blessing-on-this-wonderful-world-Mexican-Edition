@@ -50,11 +50,20 @@ Se actualiza la bitácora de continuidad con todo lo que el capítulo dejó vivo
 8. **Diálogo con raya (—) al inicio de línea.** Es la convención del español y los lectores de voz la ignoran correctamente, marcando el cambio de turno con una pausa. Lo que se evita es la raya intercalada a media frase en exceso, porque desordena la entonación.
 9. **Nombres extranjeros sin diacríticos raros.** Se escriben de forma que un lector en español los pueda pronunciar.
 10. **Encabezado limpio.** El bloque de título del capítulo va en texto plano (título, obra, volumen, extensión y estado), sin negritas ni viñetas.
+11. **Los archivos se guardan en UTF-8 con BOM (UTF-8-BOM).** Lo pide la aplicación con la que el autor escucha los capítulos (**ElevenReader**, pedido del 12 de octubre de 2026): sin el BOM, no narra los documentos como deben ir. El BOM no se ve y no cambia una sola letra del texto; solo son tres bytes al inicio del archivo. Como es fácil que un editor lo borre al guardar, **después de cualquier edición a una pieza se vuelve a aplicar**.
 
 ### Aplicación
 
 - Estas reglas se aplican **a todos los capítulos** desde el capítulo 5.
+- **El 12 de octubre de 2026 las siete piezas del volumen 1 se convirtieron a UTF-8-BOM** (prólogo y capítulos 1 a 6), tras el aviso del autor sobre ElevenReader. El contenido quedó idéntico: los conteos de palabras no se movieron ni una unidad.
 - Los capítulos 0 a 4 se **normalizaron** el 12 de octubre de 2026 para cumplirlas, sin cambiar una sola palabra de la historia: solo se limpiaron símbolos, se pasaron las mayúsculas gritadas a caja normal y se convirtieron los puntos suspensivos.
+
+### Herramientas
+
+En la carpeta `herramientas/` viven los dos script que se corren a mano:
+
+- **`utf8-bom.py`** — pasa a UTF-8-BOM todos los `.md` de `novela/` (o los archivos que se le indiquen). Es idempotente: nunca deja doble BOM. Se corre con `python3 herramientas/utf8-bom.py`.
+- **`revisar-capitulos.py`** — revisa las piezas narrativas: que tengan BOM, que la extensión del encabezado coincida con el cuerpo y que se cumplan las reglas de texto a voz de arriba (sin marcas de formato, puntos suspensivos de tres puntos, sin abreviaturas, sin emojis, sin mayúsculas sostenidas, sin dobles espacios). Las fichas solo se revisan de formato. Se corre con `python3 herramientas/revisar-capitulos.py`; sale con error si encuentra algo que corregir, así que sirve de filtro **antes de cada commit**.
 
 ## La ficha de capítulo (plantilla)
 

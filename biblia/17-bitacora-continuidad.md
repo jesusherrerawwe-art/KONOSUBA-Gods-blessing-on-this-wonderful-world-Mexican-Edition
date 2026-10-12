@@ -424,3 +424,5 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 **Sigue en revisión, sin decisión:** la «casa de entrenamiento de su familia» de Darkness en el capítulo 5 (es noble de la capital; propuesta: cambiarla por el patio del gremio o dejar claro que es una casa de campo de los Dustiness).
 
 **Aprobación del autor (12 de octubre de 2026):** el prólogo y los capítulos 1 a 6 quedaron **aprobados por el autor**. El rótulo de las siete piezas ya dice «aprobado por el autor» y el tablero de `biblia/16` está en verde. Los nombres que viven dentro de esas piezas (María, Kenji, doña Hilda, Mabel, el gato Shimura, el padre Aldo, Tander, Osaka) se dan por buenos con ellas; si alguno no late, se cambia sin problema.
+
+**Formato de los archivos (12 de octubre de 2026):** el autor escucha los capítulos en **ElevenReader**, que necesita los documentos en **UTF-8 con BOM**. El prólogo y los capítulos 1 a 6 ya se convirtieron (contenido idéntico, conteos intactos) y a partir de aquí **toda pieza nueva nace en ese formato**. Se aplica con `herramientas/utf8-bom.py` y se verifica con `herramientas/revisar-capitulos.py`.

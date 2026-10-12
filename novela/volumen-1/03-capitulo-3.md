@@ -1,4 +1,4 @@
-# Capítulo 3. La muchacha que hacía temblar los cerros
+﻿# Capítulo 3. La muchacha que hacía temblar los cerros
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Volumen 1, capítulo 3. Extensión: 5,490 palabras. Estado: aprobado por el autor.

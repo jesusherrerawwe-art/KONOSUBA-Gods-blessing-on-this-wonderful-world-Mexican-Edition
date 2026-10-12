@@ -1,4 +1,4 @@
-# Capítulo 2. Un cuarto con ventana
+﻿# Capítulo 2. Un cuarto con ventana
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Volumen 1, capítulo 2. Extensión: 5,217 palabras. Estado: aprobado por el autor.

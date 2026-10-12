@@ -1,4 +1,4 @@
-# Fichas del Volumen 1
+﻿# Fichas del Volumen 1
 
 > Fichas de diseño de cada pieza del volumen, en el orden en que se escriben. Se redactan **antes** del texto y se aprueban antes de empezar a escribir (ver `biblia/16-metodo-de-trabajo.md`).
 

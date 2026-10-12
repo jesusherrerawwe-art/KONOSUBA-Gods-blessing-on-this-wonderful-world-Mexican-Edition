@@ -1,4 +1,4 @@
-# Capítulo 4. La gente que se pone enfrente
+﻿# Capítulo 4. La gente que se pone enfrente
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Volumen 1, capítulo 4. Extensión: 5,077 palabras. Estado: aprobado por el autor.
