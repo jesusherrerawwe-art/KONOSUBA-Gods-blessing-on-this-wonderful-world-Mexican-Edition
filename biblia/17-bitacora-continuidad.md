@@ -4,20 +4,21 @@
 >
 > **Regla de oro:** si la bitácora y el capítulo se contradicen, manda el capítulo — pero se corrige la bitácora el mismo día.
 
-**Última actualización:** tras el capítulo 2.
+**Última actualización:** tras el capítulo 3.
 
 ---
 
 ## Estado actual
 
-**Piezas escritas:** 3 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo).
+**Piezas escritas:** 4 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo).
 
 | Pieza | Estado |
 | --- | --- |
 | Prólogo — «Un lugar sin ventanas» | 🟦 Escrito (954 palabras) |
 | Capítulo 1 — «Todo lo que alcancé a ver desde aquí» | 🟦 Escrito (7,044 palabras) |
 | Capítulo 2 — «Un cuarto con ventana» | 🟦 Escrito (5,145 palabras) |
-| Capítulos 3–10 | ⬜ No escritos |
+| Capítulo 3 — «La muchacha que hacía temblar los cerros» | 🟦 Escrito (5,490 palabras) |
+| Capítulos 4–10 | ⬜ No escritos |
 | Epílogo del volumen | ⬜ No escrito |
 
 **Título de la obra:** 『**KONOSUBA! — La bendición de Jesús en este maravilloso mundo**』*(Edición Mexicana)* — propuesto por el agente, pendiente del visto bueno del autor. Alternativas: «El Rebaño Sagrado» y «Un cuarto con ventana».
@@ -36,6 +37,9 @@
 | **La bolsa de Aqua** | Con Aqua | Abanico, botella, piedra con forma de corazón y adornos inútiles | Cap. 1 |
 | **La carta de aventurero** | Bolsillo de Jesús | Clase: **aventurero**. Números regulares; suerte un poco arriba del promedio | Cap. 2 |
 | **La carta rota de Aqua** | Archivo del gremio | Dice «archipresbítera» con todos los renglones al tope. Luna la declaró rota; el gremio se rio | Cap. 2 |
+| **El vidrio verde del mar** | En el bolsillo de Jesús | Comprado con su primer dinero «porque es verde»; le recuerda el pedazo de mar de su ventana | Cap. 3 |
+| **Las cuatro monedas guardadas** | Con Jesús | Las primeras que guarda en su vida | Cap. 3 |
+| **La botita de Megumin** | Perdida en la panza de un sapo | Se menciona al escupirla: «muchísimo pasto y una botita» — le falta una | Cap. 3 |
 
 ## Detalles del mundo ya fijados por el texto
 
@@ -128,9 +132,9 @@
 | Heroína | Vínculo | Qué sabe | Pendiente |
 | --- | --- | --- | --- |
 | **Aqua** | Aliada y compañera de cuarto | Toda su vida, su familia y su promesa | El primer beso (Vol. 1) |
-| **Luna** | Primera amiga en Axel | Que es nuevo, que es amable y que eligió la peor clase | El beso sencillo (Vol. 2) |
-| **Megumin** | Sin conocer (solo el *bum* de los cerros) | — | Incorporación y primer beso (Vol. 1) |
-| **Darkness** | Sin conocer | — | Incorporación (Vol. 1); beso en Vol. 2 |
+| **Luna** | Primera amiga en Axel | Que es nuevo, que es amable y que eligió la peor clase; sabe quién es Megumin y por qué él le cayó bien | El beso sencillo (Vol. 2) |
+| **Megumin** | Compañera de grupo y primera amiga de su edad | Que él volteó a ver su práctica cuando nadie más lo hacía. Ya sabe que él «no había tenido amigos» | El beso «Explosión» (Vol. 1–2) |
+| **Darkness** | Apareció en la puerta del gremio | Nada todavía | Incorporación (cap. 4); beso en Vol. 2 |
 | **Wiz** | Sin conocer | — | Vol. 2 |
 | **Yunyun** | Sin conocer | — | Vol. 2 |
 | **Chris / Eris** | Sin conocer | — | Vol. 2 |
@@ -138,13 +142,43 @@
 
 ## Mundo y reputación
 
-- **Lugar:** Axel, cuarto de arriba de la posada del farol.
-- **Reputación de Jesús:** desconocido; en el gremio quedó como «el nuevo amable que eligió aventurero».
-- **Dinero:** cero.
-- **Vivienda:** cuarto del techo inclinado, en pago por trabajo.
-- **Compañía:** Aqua.
+- **Lugar:** Axel.
+- **Reputación de Jesús:** «el nuevo amable que eligió aventurero»; el gremio lo reconoció al volver de los sapos («¡volvieron los nuevos!»).
+- **Dinero:** 4 eris guardados (primer ahorro de su vida).
+- **Vivienda:** cuarto del techo inclinado, en pago por trabajo en la posada.
+- **Compañía:** Aqua y **Megumin**.
 - **Oficio:** aventurero registrado (clase inicial).
 - **Empleo actual:** manos en la posada de doña Hilda.
+
+## Detalles del mundo ya fijados por el texto (capítulo 3)
+
+### Megumin
+- **Megumin**, archimaga del **clan de los demonios carmesí**, de la **Aldea Carmesí**. Sombrero negro puntiagudo con una cosa dorada en la punta, capa roja, vestido rojo, botas rojas, ojos rojos «como la caoba». Es **más chiquita que Jesús**. Tiene **catorce años**. *(Aprobado en el canon: a los 14.)*
+- Su presentación: *«¡Soy Megumin! ¡Archimaga del clan de los demonios carmesí! … ¡La dueña de la Explosión!»* El gremio la ignora; el señor barbón dice «ya llegó».
+- **La Explosión:** una vez al día, un solo tiro, y la deja sin nada — no puede moverse ni cerrar el puño. Antes de cada lanzamiento **abre los brazos, recita palabras que suenan a piedras y pide público**.
+- **Reglas que ella misma puso:** que la lancen cuando ella diga, y solo cuando el blanco valga la pena.
+- Llevaba **cuatro días en Axel**, durmiendo en el establo del gremio, buscando grupo. Nadie la quería.
+- Vino a Jesús **porque él volteó a ver su práctica** cuando nadie en el pueblo voltea (conecta con el capítulo 2).
+- Le da **vergüenza y orgullo** su aldea, donde todos tienen nombres raros y se presentan con discursos. **No le gustan los tomates.** Le gusta dibujar y dibuja mal.
+- El sombrero **es su casa**: se lo quita y se lo pone en las piernas cuando descansa.
+- Trae **una piedra** que recogió el día que se fue de casa, «porque es mía». *(Confesó que la trae en el zapato y se corrigió a «en el bolsillo».)*
+- Le falta **una botita**, perdida en la panza de un sapo.
+
+### Los sapos gigantes
+- Del tamaño de un puesto de mercado o de una casa; verdes oscuros, panza amarilla, ojos enormes. **No son feroces: son tragones y uno piensa que tienen tiempo.**
+- **Debilidad descubierta:** están llenos de agua, así que la purificación de Aqua los hace reaccionar desde adentro. Jesús lo dedujo y dirigió: **la primera vez que gana usando la fuerza de otra persona.**
+- El encargo: **300 eris por pieza**, grupo de cuatro, mínimo.
+- **El papel de exención** de Luna para grupos incompletos: *«El gremio de Axel y la señorita Luna no se hacen responsables de los grupos incompletos, de los sapos, de las panzas de los sapos, ni de las personas que entren en las panzas de los sapos.»* Luna lo redactó, lo odia y lo tiene que dar.
+- **La moneda de este mundo se llama eris.**
+
+### El gremio (nuevos datos)
+- El **señor barbón** es el que dijo «y yo soy un príncipe»; reconoce a Megumin («ya llegó») y luego celebra el regreso de los nuevos. El gremio los aplaudió de verdad.
+- Un aventurero veterano y enorme advirtió a Jesús: *«los sapos abuelos tienen la panza dura y te atoran; ¿y quién te va a sacar de la panza si te atoras?»*. Le dio una palmada que le dejó el hombro de otro color.
+
+### La llegada de Darkness
+- Aparece al cierre, en la puerta del gremio: **armadura completa abollada en varios lados**, enormísima, voz de actriz, tres meses sin que nadie la quiera.
+- Se presenta como **cruzada de la orden de los caballeros de Belzerg**, «la única persona del gremio de Axel que aguanta de pie un golpe de sapo gigante».
+- Se le escapa, delante de todos: *«…necesito desesperadamente que alguien me trate mal.»* Lo negó inmediatamente y se puso roja. **Jesús la invitó a sentarse, igual que a Megumin.** Todavía no está admitida formalmente.
 
 ## Promesas abiertas (cosas insinuadas y todavía no pagadas)
 

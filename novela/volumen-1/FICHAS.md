@@ -98,4 +98,38 @@
 
 ---
 
-*(Aquí se irán agregando las fichas del capítulo 3 y siguientes.)*
+## Capítulo 3 — «La muchacha que hacía temblar los cerros»
+
+| Campo | Contenido |
+| --- | --- |
+| **Volumen** | 1 |
+| **Extensión** | 5,490 palabras (≈ 18 páginas) |
+| **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
+| **Foco** | Jesús, primera persona |
+| **Deseo local** | Encontrar a un cuarto miembro para poder aceptar el encargo de los sapos |
+| **Obstáculo** | Nadie quiere un grupo de dos, ni al lado de una «diosa» que nadie cree |
+| **Forma** | Cuatro movimientos: la búsqueda en el gremio, la llegada de Megumin, la cacería y el primer pago |
+| **Referencia del canon** | El episodio 2: la incorporación de Megumin, la Explosión de un solo tiro, la cacería de sapos gigantes y el pago. **Se aplaza** la entrada de Darkness al cierre del capítulo, como en el canon, y su admisión formal al capítulo 4 |
+| **Cambio al cierre** | Jesús consigue su primer amigo de su edad, gana su primer dinero y su grupo pasa de dos a cuatro |
+| **Lo que el lector aprende** | Que la Explosión es una vez al día y deja a Megumin inmóvil; que el gremio tiene un papel de exención para grupos incompletos; que en este mundo la moneda se llama **eris**; y que el «método ruta» de Jesús **falla** cuando se topa con una persona de verdad |
+| **Gancho** | La cruzada está en la puerta, pide un grupo y suelta una frase que no debería haber dicho |
+| **Rutas** | **Megumin**: ruta abierta. Se conocen, la alianza táctica nace y él la carga por primera vez. **Luna**: segunda bandera (le explica quién es Megumin y por qué importa que él no le preguntara por la magia). **Darkness**: aparece, sin incorporarse todavía |
+| **Objetos** | Playera (bañada en baba de sapo y defendida de la purificación de Aqua) · botita perdida de Megumin · el vidrio verde del mar (primera compra para sí mismo) · las cuatro monedas guardadas |
+| **Continuidad** | Todo lo del apartado del capítulo 3 en la bitácora (sección 17) |
+
+**Escenas obligadas cumplidas (ficha del personaje, sección 13):**
+- ✅ **La primera vez que carga a Megumin después de una Explosión.**
+- ✅ **El primer pago del gremio y lo que hace con el dinero:** paga la sopa de Aqua, le compra pan a Megumin, le lleva un frasco dulce a doña Hilda, compra un vidrio verde de dos monedas «porque es verde» y guarda cuatro monedas — las primeras que guarda en su vida.
+
+**Notas de escritura aplicadas:**
+- **El método ruta fracasa a propósito:** Jesús reconoce el arquetipo de la muchacha teatral de las novelas visuales, predice lo que va a querer — y se equivoca: ella lo único que quiere es sentarse a comer sopa. Es la primera lección del mundo real.
+- **La tesis de la amistad:** *«Para hacer ruido hay que tener permiso.»* Megumin es la primera persona que le muestra que se puede romper el mundo a gritos.
+- **Aqua útil sin dejar de ser Aqua:** su idea sale de él (ella es agua, el sapo es agua), lo que siembra su verdadera habilidad — organizar, dirigir, usar a los demás bien.
+- **Comedia coral:** el señor barbón que ya la vio llegar, Luna y su papel de exención que odia redactar, y la cruzada que confiesa de más en la puerta del gremio.
+- El cierre repite la escena del capítulo 2 con otra persona: *«Siéntate, ¿quieres comer algo.»* → *«Porque a mí me funcionó.»*
+
+**Pendiente de aprobación del autor:** el nombre del grupo (todavía no tiene), si la moneda se queda como **eris** (dato canónico de las novelas) y el apodo que el gremio le va a poner a Jesús (decisión 5, sigue abierta).
+
+---
+
+*(Aquí se irán agregando las fichas del capítulo 4 y siguientes.)*
