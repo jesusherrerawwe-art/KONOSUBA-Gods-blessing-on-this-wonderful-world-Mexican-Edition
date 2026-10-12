@@ -4,13 +4,13 @@
 >
 > **Regla de oro:** si la bitácora y el capítulo se contradicen, manda el capítulo — pero se corrige la bitácora el mismo día.
 
-**Última actualización:** tras el capítulo 4.
+**Última actualización:** tras el capítulo 5.
 
 ---
 
 ## Estado actual
 
-**Piezas escritas:** 5 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo).
+**Piezas escritas:** 6 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo).
 
 | Pieza | Estado |
 | --- | --- |
@@ -19,7 +19,8 @@
 | Capítulo 2 — «Un cuarto con ventana» | 🟦 Escrito (5,145 palabras) |
 | Capítulo 3 — «La muchacha que hacía temblar los cerros» | 🟦 Escrito (5,490 palabras) |
 | Capítulo 4 — «La gente que se pone enfrente» | 🟦 Escrito (5,070 palabras) |
-| Capítulos 5–10 | ⬜ No escritos |
+| Capítulo 5 — «El señor de la casa del cerro» | 🟦 Escrito (4,894 palabras) |
+| Capítulos 6–10 | ⬜ No escritos |
 | Epílogo del volumen | ⬜ No escrito |
 
 **El grupo ya está completo** (Jesús, Aqua, Megumin y Darkness) y registrado en el gremio como **cuadrilla**, todavía sin nombre.
@@ -46,6 +47,9 @@
 | **La piedra de Megumin** | Con Megumin | La recogió el día que se fue de casa. Jesús se la saca sin querer con *Robar* y se la devuelve | Cap. 4 |
 | **El dije de plata de Chris** | Con Chris | Chiquito, «una espada o una pluma o algo que volaba». Jesús se lo saca sin querer con *Robar*; ella lo recupera rápido y se pone seria | Cap. 4 |
 | **La hoja de la cuadrilla** | Archivo del gremio | Firmada por los cuatro; **el nombre sigue en blanco**. Apuntados extraoficialmente como **«los de los sapos»** (los apuntó el señor Baltasar) | Cap. 4 |
+| **El zapato ajeno** | Morral de Jesús | Le salió con Robar el día de las coles y se quedó con él. Se lo llevó al castillo de Beldia | Cap. 5 |
+| **Las tablas de Beldia** | Castillo del cerro | Tablas nuevas, cortadas derechito, apiladas sobre una mesa, con un martillo y un bote de clavos | Cap. 5 |
+| **El libro de banderas** | App de notas del celular | Seis banderas. La sexta se escribió al bajar del cerro de Beldia | Cap. 5 |
 
 ## Detalles del mundo ya fijados por el texto
 
@@ -139,7 +143,7 @@
 | --- | --- | --- | --- |
 | **Aqua** | Aliada y compañera de cuarto | Toda su vida, su familia y su promesa | El primer beso (Vol. 1) |
 | **Luna** | Primera amiga en Axel | Que es nuevo, que es amable y que eligió la peor clase; sabe quién es Megumin y por qué él le cayó bien | El beso sencillo (Vol. 2) |
-| **Megumin** | Compañera de grupo y primera amiga de su edad | Que él volteó a ver su práctica cuando nadie más lo hacía. Ya sabe que él «no había tenido amigos». Le robó la piedra y se la devolvió | El beso «Explosión» (Vol. 1–2) |
+| **Megumin** | Compañera de grupo y primera amiga de su edad | Que él volteó a ver su práctica cuando nadie más lo hacía. Ya sabe que él «no había tenido amigos». Le robó la piedra y se la devolvió. **Tiene seis días de vida si nadie va al castillo** | El beso «Explosión» (Vol. 1–2) |
 | **Darkness** | Cuarta integrante del grupo | Que él se enojó por ella, que le dijo **«nadie me ha dicho eso nunca»** y que ya sabe, a medias, lo de sus padres. Duerme en la posada, con cama pagada por él | El beso «el chiste que se rompe» (Vol. 2) |
 | **Chris** | Le enseñó *Robar* y le husmeó el bolsillo | Que trae las manos suaves de alguien que nunca trabajó, que tiene una llave que nunca ha usado y un dije que no es de este mundo *(no lo ha visto)* | El beso robado (Vol. 2) |
 | **Wiz** | Sin conocer | — | Vol. 2 |
@@ -237,6 +241,40 @@
   Y debajo, en letra chiquita: *«Ya no quiero que se me pongan enfrente. Voy a ver cómo le hago.»*
 - **Primera meta propia de Jesús en el mundo nuevo:** hacerse fuerte.
 
+## Detalles del mundo ya fijados por el texto (capítulo 5)
+
+### Beldia, el Dullahan
+- **Beldia**, general del Rey Demonio. Era caballero; ahora es lo que queda de un caballero. Cabeza y cuerpo se separan: se la quita, se la pone, y con la cabeza bajo el brazo asusta mejor. La voz le sale **del pecho, no de la boca**.
+- Llegó a Axel montado en un **caballo negro altísimo de ojos rojos**, con la cabeza puesta en el pico de la silla y el cuerpo colgado del estribo. Trae esqueletos con espada en la retaguardia.
+- Su trabajo: contar las ruinas del oeste, una por una, buscando algo que el Rey Demonio quiere y no encuentra. Lleva **cuatro años** y no se mueve de ahí.
+- **La casa:** un castillo de piedra a hora y media de Axel, en un cerro pelón, a unos seiscientos metros del cerro donde practica Megumin. Techo hundido de un lado, torre chueca y partida por el lado de la sombra, apuntalada con tablas. La casa era de un noble tacaño muerto hace doscientos años. **La arregló él solo.**
+- **El caballo se llama Estrella** y ya no come; Beldia le sigue dando pasto porque se le hace triste que no coma.
+- En el patio hay **un hoyo en forma de persona**, como cuando uno se acuesta en la arena y se levanta.
+- En su salón tiene una mesa con **tablas nuevas cortadas derechito**. *«¿Sabe qué es lo que más me molesta? Que las corto bien.»*
+- Lo que más le pesa de su trabajo no es el trabajo: que lo llamen **«el sin cabeza»** y que la gente se persigne cuando pasa.
+- **Veintidós días** tirándole explosiones a su casa. Y no fue al pueblo a pelear: fue a que le dejaran dormir por las tardes.
+- **Su frase clave:** *«Yo no estoy enojado. Yo estoy esperando.»* Y *«Nadie me la pidió.»*
+- Su regla para los humanos: *«Es la cosa que más se dice en este mundo.»* (sobre «sí, voy»)
+- **Le dio miedo Darkness.** Se lo dijo: *«Usted va a ser la primera persona que me ha dado miedo en doscientos años.»*
+- **Con Jesús:** lo sentó en una piedra, hablaron una hora, le dio agua de un cántaro y le corrigió el vocabulario: **«perdón» contra «lo siento»**. Y le preguntó por su casa: *«¿Tenía ventana? / —Una. Chiquita. / —Eso es lo único que hace falta. Una ventana y una puerta. Lo demás es lujo.»*
+- **Jesús le contó que a Darkness ya le habían quitado la maldición.** Beldia no lo sabía: veintidós días esperando un asunto que se había resuelto el primer día, y nadie le mandó ni un papel ni un mensajero.
+
+### La maldición y la escena del gremio
+- **Premonición de Muerte:** nube chiquita y negra, del tamaño de una naranja, que se mete en el pecho. **Siete días y el séptimo se muere con dolor.** Se quita yendo al castillo a pedirlo, o con magia.
+- Beldia se la lanzó a **Megumin** y **Darkness se metió en medio** y se la llevó ella.
+- **Darkness reaccionó como reacciona:** quiso saber la logística del castigo. Beldia se incomodó, se rascó la nuca y se fue.
+- **Aqua la rompió con una palabra cortita** (como de tres sílabas), ahí mismo, delante de sesenta aventureros: *«Las maldiciones de muerte son de nivel medio. Eso lo hago antes del desayuno.»*
+- **El gremio por fin la vio:** el señor barbón se hincó en una rodilla y le dijo «señora». Aqua lloró de verdad, la cargaron en hombros por la calle principal y esa noche no pagó ni una jarra.
+- **Darkness se quedó con el pecho vacío:** *«...¿ya?»*, con voz chiquita. Y esa noche la oyeron levantando piedras en el patio de su familia, sola.
+
+### Otros datos fijados
+- **Los monstruos chicos se fueron de la zona** (primero el valle, el río y el bosque) desde hace como un mes. Por eso el gremio está vacío y todo el mundo anda de malas. Nadie sabe a dónde se fueron.
+- **El cerro de práctica de Megumin** está a unos seiscientos metros de la casa de Beldia, y lo escogió porque la piedra aguanta la onda de choque y porque desde ahí se mide la altura del humo. **La torre del ala este tiene tres siglos.**
+- **El entrenamiento de Jesús:** cargar agua del pozo (veinte viajes con dos cubetas, luego cuarenta), sentarse bien y levantarse bien, y tres tardes viendo al señor barbón darle a un costal. El señor barbón le enseña: poner los pies, girar la cadera, no cerrar los ojos, y **no pedir perdón cuando le pega a la cosa**.
+- Jesús mide **uno cincuenta y siete** y le dijo a Beldia que era de «una isla con una casa chiquita en un cerro».
+- **La guardia evacuó la calle del mercado** antes de la llegada de Beldia; no lo hacían desde un incendio.
+- **Cuenta regresiva:** cuando Jesús baja del castillo quedan **seis días**.
+
 ## Promesas abiertas (cosas insinuadas y todavía no pagadas)
 
 - **El mensaje a su mamá** («que no me dolió»): prometido por Aqua. → Debe pagarse, y el epílogo es el lugar natural.
@@ -268,6 +306,8 @@
 
 **Techo:** el cuarto del techo inclinado, la posada del farol con la luz roja.
 **Promesa del grupo:** hacerse fuerte (Jesús), para que Darkness pueda pararse enfrente sin culpa (trato de ella).
+
+**Cuenta regresiva abierta:** quedan **seis días** para que Megumin tenga que ir al castillo del cerro. Nadie ha ido.
 
 ## Rutas románticas
 

@@ -163,4 +163,35 @@
 
 ---
 
-*(Aquí se irán agregando las fichas del capítulo 5 y siguientes.)*
+## Capítulo 5. El señor de la casa del cerro
+
+| Campo | Contenido |
+| --- | --- |
+| **Volumen** | 1 |
+| **Extensión** | 4,894 palabras (≈ 17 páginas) |
+| **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
+| **Foco** | Jesús, primera persona |
+| **Deseo local** | Entender qué está pasando con los cerros y, después, arreglarlo |
+| **Obstáculo** | La responsable es su propia amiga, y el agraviado es un general del Rey Demonio que tiene toda la razón |
+| **Forma** | Cuatro movimientos: la práctica en el cerro, la aparición de Beldia en la puerta, la visita al castillo, y la noche en el gremio |
+| **Referencia del canon** | Episodio 4 de la primera temporada: **Beldia el Dullahan**, general del Rey Demonio, cuya casa —un castillo viejo— Megumin bombardea todos los días; la **Premonición de Muerte** (morir en siete días); Darkness **intercepta la maldición**; Beldia se incomoda con las fantasías de ella; el general exige que vayan al castillo; **Aqua rompe la maldición** con una sola palabra. También se usa el dato de que los monstruos chicos huyeron de la zona y el gremio se quedó sin trabajo |
+| **Cambio al cierre** | Jesús descubre que su «método ruta» también sirve para equivocarse, y que ser amable no es lo mismo que ser bueno. Conoce al enemigo y lo entiende |
+| **Lo que el lector aprende** | Que **Megumin tiene seis días de vida** si nadie va al castillo; que **nadie va a ir** porque Aqua ya rompió la maldición; que Beldia lleva veintidós días sin dormir por un problema que ya se arregló y nadie le avisó; y que la casa de Jesús y la casa de Beldia son la misma historia |
+| **Gancho** | La luz encendida en la torre partida y un señor esperando |
+| **Rutas** | **Megumin**: ruta en crisis, sin beso y sin resolución. **Darkness**: su reacción a perder la maldición («...¿ya?») deja ver el hueco que va a llenar el Vol. 2. **Luna**: segunda escena íntima, esta vez con Megumin. **Aqua**: el gremio por fin la ve |
+| **Objetos** | Playera (puesta) · celular (linterna) · llave (recordada al llegar la noche) · **libro de banderas**: sexta bandera |
+| **Continuidad** | Todo lo del apartado del capítulo 5 en la bitácora (sección 17) |
+
+**Decisiones creativas de este capítulo:**
+- **El tema oculto es la casa.** Toda la primera parte trata de casas ajenas: la de Megumin («este cerro es mío»), la de Beldia (un castillo con dueño, no una ruina) y la de Jesús (veinticinco losetas, una ventana y una puerta). El intercambio final —«¿tenía ventana?» / «eso es lo único que hace falta»— es la tesis del capítulo.
+- **La casa que tenía dueño.** Beldia no da un discurso: muestra las **tablas** que corta todos los días. Y el remate: *«¿Sabe qué es lo que más me molesta? Que las corto bien.»*
+- **La figura de Beldia** se escribió como un vecino agraviado y no como un villano: no se enoja, cuenta, pide. Es la primera vez que la novela muestra que **un general del Rey Demonio puede tener razón**, y eso siembra la variante híbrida del final (decisión 17).
+- **«Lo siento» contra «perdón».** Beldia le da a Jesús una corrección que se va a quedar en el personaje: *«"Perdón" es cuando uno está en falta. "Lo siento" es cuando a uno le duele algo. Y a ti te duele todo, chico, todo el tiempo.»*
+- **El «método ruta» falla otra vez.** Jesús lee la escena como la leería un jugador (la que grita «yo voy» nunca va) y se queda tranquilo. Anotado como bandera seis: **«Piden las cosas por favor y no se las dan. Revisar siempre.»**
+- **La escena de Aqua** (que en el canon ocurre aquí mismo) se conserva completa, porque es la que hace que la espera de Beldia sea trágica en lugar de tonta.
+
+**Pendiente de aprobación del autor:** la romanización del nombre del general (**Beldia**, y no «Verdia», usada por otras traducciones) y el nombre del caballo (**Estrella**).
+
+---
+
+*(Aquí se irán agregando las fichas del capítulo 6 y siguientes.)*

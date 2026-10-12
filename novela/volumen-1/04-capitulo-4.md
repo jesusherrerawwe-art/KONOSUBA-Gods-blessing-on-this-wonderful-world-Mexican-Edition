@@ -639,15 +639,15 @@ Y no tenía nada apuntado. Nunca la llené. Se me ocurrió la idea, la apunté, 
 
 Y ahí, en un cuarto de Axel, con la luna por la ventana y tres personas durmiendo a mi alrededor, me puse a escribir.
 
-«Bandera 1. Te dan de comer sin preguntar.»
+«Bandera uno. Te dan de comer sin preguntar.»
 
-«Bandera 2. Te cargan sin que lo pidas.»
+«Bandera dos. Te cargan sin que lo pidas.»
 
-«Bandera 3. Se ríen de ti y se quedan.»
+«Bandera tres. Se ríen de ti y se quedan.»
 
-«Bandera 4. Te regañan. (Ojo: esto a lo mejor no es una bandera, esto a lo mejor es otra cosa. Revisar.)»
+«Bandera cuatro. Te regañan. (Ojo: esto a lo mejor no es una bandera, esto a lo mejor es otra cosa. Revisar.)»
 
-«Bandera 5. Se te ponen enfrente.»
+«Bandera cinco. Se te ponen enfrente.»
 
 Escribí eso y me quedé viendo la lista un buen rato.
 
