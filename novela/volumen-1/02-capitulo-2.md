@@ -1,8 +1,7 @@
-# Capítulo 2 — «Un cuarto con ventana»
+# Capítulo 2. Un cuarto con ventana
 
-**KONOSUBA! — La bendición de Jesús en este maravilloso mundo** *(Edición Mexicana)*
-**Volumen 1** · Capítulo 2 · 5,145 palabras
-**Estado:** primer borrador — pendiente de la revisión del autor
+KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
+Volumen 1, capítulo 2. Extensión: 5,145 palabras. Estado: primer borrador.
 
 ---
 
@@ -122,7 +121,7 @@ Dentro había como cuarenta personas. Mesas, bancas, jarras, platos, un tablero 
 
 Y todo ese montón de gente estaba hablando al mismo tiempo.
 
-Yo nunca había estado en un lugar con cuarenta personas hablando al mismo tiempo. Mi cuarto tenía tres ruidos: el *bip*, el ventilador, y mi mamá cuando cantaba en la cocina. Eso era todo mi mundo sonoro, y yo viví ahí quince años, y ahora estaba parado en una puerta con cuarenta personas hablando.
+Yo nunca había estado en un lugar con cuarenta personas hablando al mismo tiempo. Mi cuarto tenía tres ruidos: el bip, el ventilador, y mi mamá cuando cantaba en la cocina. Eso era todo mi mundo sonoro, y yo viví ahí quince años, y ahora estaba parado en una puerta con cuarenta personas hablando.
 
 No me asusté. Voy a ser claro en eso, porque me acuerdo perfecto: no me asusté, no me sentí mal, no me dieron ganas de irme.
 
@@ -180,7 +179,7 @@ Me quedé sin respuesta.
 
 De verdad. Me quedé sin respuesta. Abrí la boca y no me salió nada, porque en quince años nadie me había preguntado eso, y porque la respuesta honesta era «porque existo», y uno no puede decir eso en un gremio con cuarenta personas.
 
-—Es que… —dije— …no sé.
+—Es que... —dije— ...no sé.
 
 —Bueno, pues no te disculpes —dijo ella—. Aquí la gente llega y nadie se disculpa por llegar. Me llamo Luna. Soy la recepcionista. ¿Vienen a registrarse?
 
@@ -214,7 +213,7 @@ Mi nombre. Mi clase. Y un montón de números.
 
 Nunca me voy a acordar de los números, porque los números son aburridos, pero me acuerdo de una cosa: cuando Luna la agarró para leerla, puso una cara rara.
 
-—A ver… —dijo, y se ajustó la cinta—. Jesús Fujioka Hernández. —Y leyó mi nombre completo, con las tres partes, en voz alta, y a mí se me puso la piel de gallina y no supe por qué—. ¿De dónde eres? Por el nombre, digo.
+—A ver... —dijo, y se ajustó la cinta—. Jesús Fujioka Hernández. —Y leyó mi nombre completo, con las tres partes, en voz alta, y a mí se me puso la piel de gallina y no supe por qué—. ¿De dónde eres? Por el nombre, digo.
 
 —De Guadalajara —le dije—. De México.
 
@@ -222,7 +221,7 @@ Nunca me voy a acordar de los números, porque los números son aburridos, pero 
 
 Sentí como si me hubieran dado un vaso de agua fría.
 
-—…Gracias —le dije—. Es que mi…
+—...Gracias —le dije—. Es que mi...
 
 —¡Y los números! —me interrumpió, muy contenta—. Vamos a ver los números.
 
@@ -230,11 +229,11 @@ Y yo también los vi, porque alcancé a leerlos antes de que ella los tapara con
 
 Fuerza: regular. Vitalidad: regular. Inteligencia: regular. Poder mágico: nada. Destreza: regular. Agilidad: regular. Suerte: un poquito arriba de lo normal, nada más un poquito.
 
-—Bueno —dijo Luna, con una sonrisa de esas que se ponen para amortiguar—. Es… un buen punto de partida.
+—Bueno —dijo Luna, con una sonrisa de esas que se ponen para amortiguar—. Es... un buen punto de partida.
 
 —No entiendo nada de eso.
 
-—No tienes que entenderlo. Yo te lo explico. —Y se acomodó—. Mira: aquí, la gente llega y le salen números, y los números dicen para qué sirves. Si tienes fuerza, vas pa' guerrero. Si tienes magia, vas pa' mago. Si eres rápido, pa' ladrón. Los números son como… como la carta de recomendación que nadie te escribió.
+—No tienes que entenderlo. Yo te lo explico. —Y se acomodó—. Mira: aquí, la gente llega y le salen números, y los números dicen para qué sirves. Si tienes fuerza, vas pa' guerrero. Si tienes magia, vas pa' mago. Si eres rápido, pa' ladrón. Los números son como... como la carta de recomendación que nadie te escribió.
 
 —¿Y mis números qué dicen?
 
@@ -292,7 +291,7 @@ Y me explicó. Me explicó que «aventurero» es la clase de los que no son nada
 
 —Pues esa —le dije.
 
-—¡¿Qué?! —chilló Aqua, que se había acercado a escondidas—. ¡¿Aventurero?! ¡Yo te puedo conseguir una clase buena! ¡Yo conozco al…! ¡Yo le hablo a quien sea!
+—¡¿Qué?! —chilló Aqua, que se había acercado a escondidas—. ¡¿Aventurero?! ¡Yo te puedo conseguir una clase buena! ¡Yo conozco al...! ¡Yo le hablo a quien sea!
 
 —Es la que quiero.
 
@@ -300,7 +299,7 @@ Y me explicó. Me explicó que «aventurero» es la clase de los que no son nada
 
 —Es la que quiero —repetí, y me tapé la boca con la mano porque me estaba dando risa, porque decir que no dos veces seguidas es una cosa que yo nunca había hecho y me estaba empezando a gustar.
 
-Y pasó lo de siempre: Luna escribió en su tabla, la carta se volvió a calentar, y cuando la leyó otra vez, la palabra *aventurero* ya estaba ahí, junto a mi nombre, en una letra que se había escrito sola.
+Y pasó lo de siempre: Luna escribió en su tabla, la carta se volvió a calentar, y cuando la leyó otra vez, la palabra «aventurero» ya estaba ahí, junto a mi nombre, en una letra que se había escrito sola.
 
 Y yo sentí algo rarísimo, que era como orgullo, pero chiquito, y no entendía por qué me sentía orgulloso de una palabra que, según todos, no valía nada.
 
@@ -316,9 +315,9 @@ Luna volteó la carta para el otro lado, como si leyéndola al revés fuera a de
 
 —¿Qué?! —otra vez Aqua.
 
-—Es que… —Luna se rascó la nuca—. Es que aquí dice que eres archipresbítera.
+—Es que... —Luna se rascó la nuca—. Es que aquí dice que eres archipresbítera.
 
-—¡SÍ! —Aqua se subió a la banca otra vez—. ¡SÍ, SEÑORES! ¡ARCHIPRESBÍTERA! ¿¡Y qué dijeron de los números!?
+—¡Sí! —Aqua se subió a la banca otra vez—. ¡Sí, señores! ¡Archipresbítera! ¿¡Y qué dijeron de los números!?
 
 Y los números, hermano, los números eran un chiste.
 
@@ -382,7 +381,7 @@ Silencio.
 
 Aqua y yo nos vimos.
 
-—…No traemos —dije.
+—...No traemos —dije.
 
 —Me lo imaginé. —Luna se recargó en el mostrador—. A ver, les explico rápido, porque esto lo explicamos veinte veces al mes. Aquí nada es gratis. Dormir cuesta. Comer cuesta. Las armas cuestan y las armaduras cuestan y curarse cuesta, y hay que pagar la sanación, porque las sanadoras también comen.
 
@@ -398,7 +397,7 @@ Aqua se puso la mano en el pecho como si le hubieran dicho una blasfemia.
 
 —¿Ves, Luna? El niño tiene dignidad.
 
-—No es por dignidad —le dije a Luna—. Es porque… —y me dio un poquito de vergüenza decirlo— …me gustaría un cuarto con ventana.
+—No es por dignidad —le dije a Luna—. Es porque... —y me dio un poquito de vergüenza decirlo— ...me gustaría un cuarto con ventana.
 
 Y Luna me vio como un rato largo.
 
@@ -422,7 +421,7 @@ Y ella movió la cabeza, como diciendo «muchachos raros hay en todos lados», y
 
 —Y sé barrer. Y sé tallar platos. Y sé lavar ropa, más o menos. Y sé no molestar.
 
-—…¿Qué?
+—...¿Qué?
 
 —Que sé no molestar. Que puedo estar en un cuarto sin que se oiga.
 
@@ -448,17 +447,17 @@ Antes de irnos, me acerqué al tablero de la pared.
 
 Era una tabla enorme, con papeles clavados, unos amarillos y otros blancos, y cada papel era una cosa que alguien necesitaba. Leí los primeros cinco.
 
-*Se buscan manos para techos. Pagan al día.*
+«Se buscan manos para techos. Pagan al día.»
 
-*Recolección de hierbas del río. Se paga por canasta.*
+«Recolección de hierbas del río. Se paga por canasta.»
 
-*Limpieza de las alcantarillas del mercado. Advertencia: huele.*
+«Limpieza de las alcantarillas del mercado. Advertencia: huele.»
 
-*Se necesitan dos para cuidar un carro de noche.*
+«Se necesitan dos para cuidar un carro de noche.»
 
 Y luego, en un papel más grande que los otros, con la letra de alguien que quería que se leyera:
 
-*EXTERMINIO DE SAPOS GIGANTES. SE REQUIERE GRUPO DE CUATRO, MÍNIMO. SE PAGA POR PIEZA. SE AVISA QUE ES PELIGROSO Y QUE CADA AÑO SE MUERE ALGUIEN.*
+«Exterminio de sapos gigantes. Se requiere grupo de cuatro, mínimo. Se paga por pieza. Se avisa que es peligroso y que cada año se muere alguien.»
 
 Me quedé viendo ese papel un buen rato.
 
@@ -474,7 +473,7 @@ Y ahí fue cuando lo oí.
 
 Un ruido. Un ruido grande, seco, que venía de lejos, de los cerros, como cuando un trueno se cae al suelo.
 
-*Bum.*
+«Bum.»
 
 Me paré en seco y volteé a ver a todos lados, con el corazón en la garganta, esperando a ver quién corría.
 
@@ -482,13 +481,13 @@ Y nadie corrió.
 
 Los guardias siguieron en su puerta. El de la carretilla siguió empujando. Las dos niñas siguieron correteando. En el gremio, del otro lado de la ventana, cuarenta personas siguieron hablando al mismo tiempo.
 
-Y a los como diez segundos, *bum*, otra vez.
+Y a los como diez segundos, «bum», otra vez.
 
 —Aqua —le dije—. ¿Qué fue eso?
 
 —¿Eso? —dijo ella, sin darle ninguna importancia—. ¡Ah! ¡Si aquí siempre hacen eso! Hay una muchacha que va a los cerros a hacer explosiones. Yo creo que está mal de la cabeza.
 
-—…¿Explosiones?
+—...¿Explosiones?
 
 —Sí, explosiones. Un estruendo. Todos los días.
 

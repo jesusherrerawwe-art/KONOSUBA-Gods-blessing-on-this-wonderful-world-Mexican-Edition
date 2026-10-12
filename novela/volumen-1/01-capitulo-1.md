@@ -1,9 +1,7 @@
-# Capítulo 1 — «Todo lo que alcancé a ver desde aquí»
+# Capítulo 1. Todo lo que alcancé a ver desde aquí
 
-**KONOSUBA! — La bendición de Jesús en este maravilloso mundo** *(Edición Mexicana)*
-**Volumen 1** · Capítulo 1 · 7,044 palabras
-**Estado:** primer borrador — pendiente de la revisión del autor
-**Nota:** es el capítulo más largo de la novela, como quedó aprobado: cubre una vida entera, una muerte, un umbral y una llegada. Los siguientes ya pueden respirar más corto (4,500–5,000).
+KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
+Volumen 1, capítulo 1. Extensión: 7,044 palabras. Estado: primer borrador.
 
 ---
 
@@ -15,7 +13,7 @@ Y Hernández es el de mi mamá, para que tampoco se me olvidara el otro lado.
 
 Así que cargar mi nombre completo es como cargar una casa con dos puertas, y yo nunca supe cuál de las dos era la entrada principal.
 
-Nací en Guadalajara, Jalisco. De eso no me acuerdo nada, porque me llevaron a Japón cuando era muy chiquito, pero tengo la prueba: una camiseta blanca con un escudo bordado en el pecho, que dice, con letras que yo aprendí a leer antes que muchas otras, *Club Deportivo Guadalajara*.
+Nací en Guadalajara, Jalisco. De eso no me acuerdo nada, porque me llevaron a Japón cuando era muy chiquito, pero tengo la prueba: una camiseta blanca con un escudo bordado en el pecho, que dice, con letras que yo aprendí a leer antes que muchas otras, «Club Deportivo Guadalajara».
 
 Nos fuimos a Okinawa por mi papá. Consiguió trabajo allá y, además, el aire de la isla me hacía bien, o eso decían los doctores. Yo creo que en realidad se fueron porque la renta de una cabaña en la punta de un cerro salía muchísimo más barata que un departamento en la ciudad, y porque mi mamá era capaz de hacer que cualquier lugar se sintiera como una casa en dos tardes.
 
@@ -35,7 +33,7 @@ El gato era lo mejor del día. No era mi gato. Nunca lo toqué. No sé cómo se 
 
 Nunca le conté a nadie que el gato era lo mejor del día. Me daba pena.
 
-En mi cuarto también había un aparato que hacía *bip* cada tantos segundos, de día y de noche, tanto tiempo seguido que ya no se oía. Hacía falta que se callara para acordarse de que estaba ahí. Ese aparato tenía más años viviendo conmigo que muchos de mis recuerdos.
+En mi cuarto también había un aparato que hacía bip cada tantos segundos, de día y de noche, tanto tiempo seguido que ya no se oía. Hacía falta que se callara para acordarse de que estaba ahí. Ese aparato tenía más años viviendo conmigo que muchos de mis recuerdos.
 
 Y había un ventilador, que en verano sonaba como si estuviera rezongando.
 
@@ -175,7 +173,7 @@ Puso el partido. Mi mamá se sentó en la orilla de mi cama, con el plato blanco
 
 En el primer tiempo hubo un gol y yo grité, y me dolió la garganta de gritar, y me dio risa que me doliera, y mi mamá se rio de que me diera risa.
 
-Y me gané el sueño antes del medio tiempo, como a los cuarenta minutos, con el ventilador rezongando y el *bip* contando los segundos y la mano de mi mamá encima de la mía.
+Y me gané el sueño antes del medio tiempo, como a los cuarenta minutos, con el ventilador rezongando y el bip contando los segundos y la mano de mi mamá encima de la mía.
 
 Cuando desperté ya era de noche y ya no había partido.
 
@@ -201,7 +199,7 @@ Y eso, si les soy honesto, me sigue dando un poquito de comezón. Uno no deberí
 
 Me dormí otra vez.
 
-Y en algún momento de esa noche, mi mamá me estaba tomando la mano y el *bip* se empezó a hacer más lento, y yo lo escuché, y entendí lo que estaba pasando, y no me asusté.
+Y en algún momento de esa noche, mi mamá me estaba tomando la mano y el bip se empezó a hacer más lento, y yo lo escuché, y entendí lo que estaba pasando, y no me asusté.
 
 Voy a explicar eso, porque es la parte que la gente no entiende.
 
@@ -223,13 +221,13 @@ Lo último que alcancé a ver fue la ventana.
 
 Y no me dolió.
 
-Eso es importante. De todo lo que pasó, es lo único que quiero que se sepa bien: **no me dolió.**
+Eso es importante. De todo lo que pasó, es lo único que quiero que se sepa bien: no me dolió.
 
 ---
 
 Me desperté en un lugar sin techo.
 
-Eso ya lo conté, entonces no lo voy a repetir. Lo voy a contar rápido y nomás para llegar a lo bueno: el lugar blanco, la ventana que no había, el *bip* que extrañé, el dolor que no llegó, mis manos y la camiseta y la llave colgando.
+Eso ya lo conté, entonces no lo voy a repetir. Lo voy a contar rápido y nomás para llegar a lo bueno: el lugar blanco, la ventana que no había, el bip que extrañé, el dolor que no llegó, mis manos y la camiseta y la llave colgando.
 
 Y yo, de pie, esperando.
 
@@ -249,13 +247,13 @@ Se sacudió el agua del pelo como un perro y me vio.
 
 Y ahí, mi hermano, pasó una cosa hermosa: se enderezó completo, se arregló la ropa, se pasó las dos manos por la cara para quitarse el enojo, y se puso una sonrisa de doctora.
 
-—Bienvenido —dijo, con una voz completamente distinta, grave y tranquila—. Soy Aqua, diosa del agua, y estoy aquí para guiarte en el momento más importante de tu…
+—Bienvenido —dijo, con una voz completamente distinta, grave y tranquila—. Soy Aqua, diosa del agua, y estoy aquí para guiarte en el momento más importante de tu...
 
 Se le resbaló un pie, o algo se le resbaló, o se le mojó algo. El caso es que se calló de nalgas en medio del lugar blanco, y el lugar blanco, que no tenía piso, hizo un ruido de piso cuando le pegó.
 
 Se quedó ahí tirada un segundo.
 
-—…de tu existencia —terminó, desde el suelo.
+—...de tu existencia —terminó, desde el suelo.
 
 Y yo hice lo único que se me ocurrió hacer, que fue lo mismo que hacía mi mamá cuando yo me caía de la cama: me tapé la boca con la mano para no reírme, porque mi mamá me enseñó modales.
 
@@ -293,7 +291,7 @@ Luego se le pasó. Se le pasó rapidísimo, como se le pasan a la gente las cosa
 
 —Porque ya me había dado cuenta.
 
-—…Ah. —Se quedó un segundo sin saber qué hacer con eso, y después siguió—. Bueno. Tienes dos opciones. La primera es el Cielo.
+—...Ah. —Se quedó un segundo sin saber qué hacer con eso, y después siguió—. Bueno. Tienes dos opciones. La primera es el Cielo.
 
 —¿Y qué se hace en el Cielo?
 
@@ -301,7 +299,7 @@ Luego se le pasó. Se le pasó rapidísimo, como se le pasan a la gente las cosa
 
 —¿Cómo que nada?
 
-—Nada —dijo, con un desprecio profundo, como si el Cielo fuera una sala de espera—. Es limpio, es tranquilo, es bonito, y no pasa absolutamente nada. No hay comida rica, no hay fiestas, no hay nada de eso. Es como… —buscó la palabra— …aburrido. Bien aburrido. Espantosamente aburrido.
+—Nada —dijo, con un desprecio profundo, como si el Cielo fuera una sala de espera—. Es limpio, es tranquilo, es bonito, y no pasa absolutamente nada. No hay comida rica, no hay fiestas, no hay nada de eso. Es como... —buscó la palabra— ...aburrido. Bien aburrido. Espantosamente aburrido.
 
 —¿Y la segunda?
 
@@ -351,7 +349,7 @@ Pensé en que iba a ver la luz del sol directo, sin ventana de por medio, y que 
 
 —¿Mi cosa?
 
-—Tu cosa. Tu poder, tu arma, tu habilidad, lo que quieras. Todo el mundo pide algo. Uno pidió una espada mágica que corta todo. Una señora pidió una armadura. Un señor pidió… —hizo una mueca— …una dulcería. No quiero hablar de eso.
+—Tu cosa. Tu poder, tu arma, tu habilidad, lo que quieras. Todo el mundo pide algo. Uno pidió una espada mágica que corta todo. Una señora pidió una armadura. Un señor pidió... —hizo una mueca— ...una dulcería. No quiero hablar de eso.
 
 —¿Y yo puedo pedir lo que sea?
 
@@ -379,7 +377,7 @@ Después dejó el sello sobre el escritorio, muy despacio, y me preguntó:
 
 —Nada más eso.
 
-—Es que… —empezó, y se le atoró la voz—. Es que a mí me llegan todos. Me llegan todos, ¿eh? Los buenos, los malos, los que se murieron de viejitos y los que se murieron de tontos. Y todos piden algo. Todos. Unos piden un poder, otros piden dinero, otros me piden que les diga si los van a extrañar. Y yo les digo que sí, aunque a veces no.
+—Es que... —empezó, y se le atoró la voz—. Es que a mí me llegan todos. Me llegan todos, ¿eh? Los buenos, los malos, los que se murieron de viejitos y los que se murieron de tontos. Y todos piden algo. Todos. Unos piden un poder, otros piden dinero, otros me piden que les diga si los van a extrañar. Y yo les digo que sí, aunque a veces no.
 
 Se rascó la nariz.
 
@@ -449,7 +447,7 @@ Y dijo:
 
 —¡Que voy contigo! —y levantó los brazos como si acabara de ganar algo—. ¡Alguien tiene que asegurarse de que ese cuarto tenga ventana!
 
-—No, no hace falta…
+—No, no hace falta...
 
 —¡Sí hace falta! ¡Tú no sabes ni por dónde empezar! ¿Sabes cuánto cuesta una noche de posada? ¿Sabes lo que es un slime? ¿Sabes pelear?
 
@@ -459,7 +457,7 @@ Y dijo:
 
 —Pero eso es mucho trabajo para ti —le dije—. Y tú tienes lo tuyo aquí.
 
-—¡Pues sí, pero…! —se atoró—. ¡Es que…! ¡Es que no puedo ir a decirle a tu mamá que no te dolió si tú andas por allá muriéndote otra vez en una semana! ¡Porque eso se ve, eso se ve de lejos, eso pasa TODO el tiempo!
+—¡Pues sí, pero...! —se atoró—. ¡Es que...! ¡Es que no puedo ir a decirle a tu mamá que no te dolió si tú andas por allá muriéndote otra vez en una semana! ¡Porque eso se ve, eso se ve de lejos, eso pasa TODO el tiempo!
 
 Y yo entendí. No entendí bien, pero entendí algo: que ella tenía razón en una parte y que la otra parte no la iba a decir.
 
@@ -565,7 +563,7 @@ Antes de irnos me tocó el hombro y me dijo:
 
 Y yo usé ese segundo para hacer tres cosas. Para tocarme la llave. Para pasarle la mano al escudo bordado del pecho. Y para acordarme, sin querer, del plato blanco con el chipote en un lado.
 
-Y sentí el *bip* una última vez, aunque ya no había *bip*, y me despedí de ese ruido como quien se despide de una visita que se va de la casa.
+Y sentí el bip una última vez, aunque ya no había bip, y me despedí de ese ruido como quien se despide de una visita que se va de la casa.
 
 Después hubo mucho blanco.
 
@@ -663,7 +661,7 @@ Me dijo que el reino se llama Belzerg, y que el Rey Demonio está allá lejos, e
 
 —¡Ah, qué bien!
 
-—¡Sí! Y no te vayas a creer, pero es un trabajo muy mal pagado, y muy poco agradecido, y la gente no entiende la diferencia entre una sanación y una purificación, y encima…
+—¡Sí! Y no te vayas a creer, pero es un trabajo muy mal pagado, y muy poco agradecido, y la gente no entiende la diferencia entre una sanación y una purificación, y encima...
 
 Y así siguió un buen rato, con la lista de agravios, y a mí me empezó a dar muchísima risa por dentro, aunque no dije nada, porque mi mamá me enseñó modales.
 
@@ -771,7 +769,7 @@ Un montón de casas con techos de teja, apretadas, subiendo y bajando por un cer
 
 Y olía a leña. Y olía a pan.
 
-Y se oía gente. Se oía gente por todos lados, gente viva, gente trabajando y discutiendo y riéndose y gritándose, y yo llevaba quince años oyendo, como mucho, tres voces y un *bip*.
+Y se oía gente. Se oía gente por todos lados, gente viva, gente trabajando y discutiendo y riéndose y gritándose, y yo llevaba quince años oyendo, como mucho, tres voces y un bip.
 
 Me paré.
 

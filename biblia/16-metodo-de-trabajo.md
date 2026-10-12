@@ -28,6 +28,28 @@ Se escribe el capítulo completo. **Extensión objetivo: 4,500–5,000 palabras*
 ### Paso 4 — Revisión y bitácora
 Se actualiza la bitácora de continuidad con todo lo que el capítulo dejó vivo. Después se pasa al siguiente.
 
+## Regla de accesibilidad: el texto tiene que poder leerse en voz alta
+
+**Instrucción del autor (12 de octubre de 2026):** cada capítulo se escribe de manera que **una aplicación de texto a voz pueda leerlo sin problemas, con sus pausas naturales y sin confundir caracteres.**
+
+### Reglas de redacción
+
+1. **Sin marcas de formato en el cuerpo del texto.** Nada de asteriscos para negritas o cursivas, ni guiones bajos, ni acentos graves, ni almohadillas: los lectores de voz los leen como «asterisco» o los omiten mal. Si algo necesita énfasis, se logra con la redacción, no con símbolos.
+2. **Puntos suspensivos siempre con tres puntos (...).** Nunca el carácter único de puntos suspensivos (…), que algunos lectores anuncian como «puntos suspensivos».
+3. **Números escritos con letra en el texto narrativo.** «Cuarenta y dos», no «42». Las cifras con separadores («1,660») se leen mal o se interpretan como decimales.
+4. **Nada de mayúsculas sostenidas en frases largas.** Una mayúscula de grito se tolera en una palabra suelta («¡MEGUMIN!»), pero las frases gritadas se escriben en caja normal y el grito lo llevan los signos.
+5. **Documentos del mundo entre comillas angulares** («...»), no en cursiva. Los avisos, listas y cartas se leen así como una cita clara y con pausa natural.
+6. **Frases cortas y puntuación generosa.** Un lector de voz respira donde hay punto. Los párrafos con diez comas seguidas se atropellan.
+7. **Sin abreviaturas ni símbolos raros.** Nada de «Sr.», «pág.», barras, asteriscos decorativos ni emojis dentro de la narración.
+8. **Diálogo con raya (—) al inicio de línea.** Es la convención del español y los lectores de voz la ignoran correctamente, marcando el cambio de turno con una pausa. Lo que se evita es la raya intercalada a media frase en exceso, porque desordena la entonación.
+9. **Nombres extranjeros sin diacríticos raros.** Se escriben de forma que un lector en español los pueda pronunciar.
+10. **Encabezado limpio.** El bloque de título del capítulo va en texto plano (título, obra, volumen, extensión y estado), sin negritas ni viñetas.
+
+### Aplicación
+
+- Estas reglas se aplican **a todos los capítulos** desde el capítulo 5.
+- Los capítulos 0 a 4 se **normalizaron** el 12 de octubre de 2026 para cumplirlas, sin cambiar una sola palabra de la historia: solo se limpiaron símbolos, se pasaron las mayúsculas gritadas a caja normal y se convirtieron los puntos suspensivos.
+
 ## La ficha de capítulo (plantilla)
 
 ```

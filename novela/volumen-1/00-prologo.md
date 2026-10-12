@@ -1,8 +1,7 @@
-# Prólogo — «Un lugar sin ventanas»
+# Prólogo. Un lugar sin ventanas
 
-**KONOSUBA! — La bendición de Jesús en este maravilloso mundo** *(Edición Mexicana)*
-**Volumen 1** · Prólogo · 954 palabras (≈ 3.5 páginas)
-**Estado:** primer borrador — pendiente de la revisión del autor
+KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
+Volumen 1, prólogo. Extensión: 954 palabras. Estado: primer borrador.
 
 ---
 
@@ -24,9 +23,9 @@ El lugar era blanco, pero no blanco de hoja de papel. Era un blanco tibio, como 
 
 Y no había ruido.
 
-Eso sí me sorprendió, porque yo venía de un lugar con mucho ruido. En mi cuarto había un aparato que hacía *bip* cada tantos segundos, de día y de noche, tanto tiempo seguido que ya no se oía. Hacía falta que se callara para acordarse de que estaba ahí.
+Eso sí me sorprendió, porque yo venía de un lugar con mucho ruido. En mi cuarto había un aparato que hacía bip cada tantos segundos, de día y de noche, tanto tiempo seguido que ya no se oía. Hacía falta que se callara para acordarse de que estaba ahí.
 
-Aquí no había *bip*. Y lo confieso: lo extrañé. Después de tantos años, ya era como una visita.
+Aquí no había bip. Y lo confieso: lo extrañé. Después de tantos años, ya era como una visita.
 
 Me quedé quieto, escuchándome.
 
@@ -82,7 +81,7 @@ Nunca le di vuelta en la cerradura. Y ahora ahí estaba, colgada de mí, como un
 
 Yo no le tenía miedo a la muerte. Lo digo sin valentía y sin drama: cuando alguien la tiene cerca tanto tiempo, se hacen conocidas. Se vuelven casi vecinas. Yo ya sabía cómo era su voz, cómo se anunciaba, cómo esperaba a que uno estuviera distraído para sentarse junto a la cama.
 
-Pero una cosa es conocerla, y otra cosa es estar aquí: de pie, sin el *bip*, sin ventana, sin dolor y sin saber qué sigue.
+Pero una cosa es conocerla, y otra cosa es estar aquí: de pie, sin el bip, sin ventana, sin dolor y sin saber qué sigue.
 
 Pensé en mi mamá.
 

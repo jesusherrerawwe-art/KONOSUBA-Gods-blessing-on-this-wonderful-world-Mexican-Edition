@@ -1,8 +1,7 @@
-# Capítulo 4 — «La gente que se pone enfrente»
+# Capítulo 4. La gente que se pone enfrente
 
-**KONOSUBA! — La bendición de Jesús en este maravilloso mundo** *(Edición Mexicana)*
-**Volumen 1** · Capítulo 4 · 5,070 palabras
-**Estado:** primer borrador — pendiente de la revisión del autor
+KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
+Volumen 1, capítulo 4. Extensión: 5,070 palabras. Estado: primer borrador.
 
 ---
 
@@ -14,7 +13,7 @@ Eso fue lo que me dijo cuando le pregunté su nombre. Nada más eso. Una palabra
 
 —Darkness.
 
-—Sí, pero… ¿el otro?
+—Sí, pero... ¿el otro?
 
 —Darkness —repitió, y se puso colorada, y se quedó viendo el techo, y yo entendí que ahí había algo y que no era mi asunto.
 
@@ -46,13 +45,13 @@ Y Darkness se estremeció.
 
 Se estremeció completa, de los pies a la cabeza, y puso una cara que yo no le había visto a nadie en la vida.
 
-—…¿Me está regañando? —preguntó, con una vocecita.
+—...¿Me está regañando? —preguntó, con una vocecita.
 
-—¡PUES CLARO QUE LA ESTOY REGAÑANDO!
+—¡Pues claro que la estoy regañando!
 
-—…¿En serio?
+—...¿En serio?
 
-—¡MÉTASE!
+—¡Métase!
 
 —Gracias —dijo Darkness, con los ojos brillantes—. Gracias de verdad.
 
@@ -142,7 +141,7 @@ Me quedé callado.
 
 —«Los de los sapos» —repitió—. Así los apuntó el señor Baltasar cuando volvieron con las tres cabezas. Ya está apuntado. Ya no se puede desapuntar.
 
-—…¿Y nosotros cómo nos vamos a llamar?
+—...¿Y nosotros cómo nos vamos a llamar?
 
 —Todavía no. —Y sonrió con una sonrisa de mucho cariño—. Los apodos se pegan solos, cuando uno no está viendo, y casi siempre en el peor momento.
 
@@ -168,21 +167,21 @@ Era un papel amarillo, grande, clavado con cuatro clavos, y la gente se paraba e
 
 No era un rezo. Era leer.
 
-*AVISO DE TEMPORADA — CABEZAS VOLADORAS*
+Aviso de temporada. Cabezas voladoras.
 
-*Se informa a los señores aventureros que la temporada de coles de las montañas se adelantó este año. Se espera la llegada del enjambre para mañana al mediodía.*
+«Se informa a los señores aventureros que la temporada de coles de las montañas se adelantó este año. Se espera la llegada del enjambre para mañana al mediodía.»
 
-*Se pagarán TREINTA ERIS por cabeza entera y sana, entregada al gremio.*
+«Se pagarán treinta eris por cabeza entera y sana, entregada al gremio.»
 
-*Se recuerda a los aventureros nuevos que la cabeza vuela, que la cabeza pesa, y que la cabeza tiene un corazón duro. NO SE RECOMIENDA intentar detenerlas en el aire con la cara.*
+«Se recuerda a los aventureros nuevos que la cabeza vuela, que la cabeza pesa y que la cabeza tiene un corazón duro. No se recomienda intentar detenerlas en el aire con la cara.»
 
-*El gremio repartirá redes y canastos. El que no entregue redes al final de la temporada pagará las redes.*
+«El gremio repartirá redes y canastos. El que no entregue redes al final de la temporada pagará las redes.»
 
 —¿Qué es esto? —pregunté.
 
 Y me explicaron, entre los tres, y me tomó un rato entender.
 
-Resulta que en otoño, en las montañas, las coles crecen, y cuando crecen mucho se sueltan, y entonces… vuelan.
+Resulta que en otoño, en las montañas, las coles crecen, y cuando crecen mucho se sueltan, y entonces... vuelan.
 
 Así nomás. Vuelan. Millares. Se vienen en nube sobre el valle y se desploman sobre Axel como una tormenta de verdura.
 
@@ -238,7 +237,7 @@ Pelo castaño corto, cara de mapache, sonrisa grande, y la agilidad de alguien q
 
 —Ya sé. —Sonrió más—. Todo el gremio sabe.
 
-—…¿Qué cosa?
+—...¿Qué cosa?
 
 —Que eres el que ayuda a doña Hilda y le dice gracias a todo el mundo y se disculpa tres veces.
 
@@ -256,13 +255,13 @@ Se sentó en la silla, se puso a darle vueltas al cuchillo que traía, y me dijo
 
 —Menos.
 
-—…No sé nada.
+—...No sé nada.
 
 —Bien. —Y se levantó—. Los que dicen que saben no aprenden. Y aquí hay una cosa que se enseña rapidito y que sirve mucho con las manos vacías.
 
 Y me enseñó.
 
-Se llamaba **Robar**.
+Se llamaba Robar.
 
 Y no era lo que yo pensaba. No era agarrar cosas ajenas y correr. Era una habilidad, una habilidad de verdad, de las que se aprenden y se guardan y se apuntan en la carta, y funcionaba así: uno estira la mano, dice la palabra, y la mano se mete donde nadie la ve y saca algo. Algo. Lo que sea. Nunca se sabe qué, hasta que ya lo tiene uno en la mano.
 
@@ -292,7 +291,7 @@ Un dije de plata, chiquito, con una forma que yo no conocía: una espada o una p
 
 Chris se quedó muy quieta.
 
-—…Eso no —dijo, y me lo quitó, y me lo quitó rápido, y se lo colgó.
+—...Eso no —dijo, y me lo quitó, y me lo quitó rápido, y se lo colgó.
 
 —Perdón.
 
@@ -356,7 +355,7 @@ Y luego se te viene encima una cabeza de col del tamaño de un perro.
 
 Y te das cuenta de que la palabra «col» no te estaba contando nada.
 
-—¡AGÁRRALA! —me gritó Aqua.
+—¡Agárrala! —me gritó Aqua.
 
 —¡¿CÓMO?!
 
@@ -386,7 +385,7 @@ Y luego un zapato.
 
 —Perdón.
 
-—¡¿Dónde te lo sacaste?!… ¡Ay, no, no me digas!
+—¡¿Dónde te lo sacaste?!... ¡Ay, no, no me digas!
 
 Y con eso pasé la mañana: golpeado, lleno de tierra, con un zapato ajeno en el morral, y con más coles en la red que en toda mi vida.
 
@@ -418,7 +417,7 @@ Llegó de la nada, saltando desde el techo de una casa, con el escudo por delant
 
 Y la col le pegó.
 
-Le pegó en el pecho con un ruido que se oyó en tres cuadras, y Darkness… se rio.
+Le pegó en el pecho con un ruido que se oyó en tres cuadras, y Darkness... se rio.
 
 Se rio, con una risa larga, y se agarró el escudo, y dijo:
 
@@ -450,7 +449,7 @@ Se volteó, felicísima.
 
 —¡Gracias!
 
-—No te estoy… —y me atoré, y volví a empezar—: No te estoy agradeciendo. Te estoy diciendo que no lo hagas.
+—No te estoy... —y me atoré, y volví a empezar—: No te estoy agradeciendo. Te estoy diciendo que no lo hagas.
 
 Darkness bajó el carro, se lo pasó a los señores, y me miró como si yo acabara de hablar en otro idioma.
 
@@ -458,9 +457,9 @@ Darkness bajó el carro, se lo pasó a los señores, y me miró como si yo acaba
 
 —Que no te pongas enfrente.
 
-—…¿Pero esa es mi función?
+—...¿Pero esa es mi función?
 
-—¡Es que había una niña! —dije, y me di cuenta de que estaba gritando, y de que yo nunca grito, y de que no pude parar—. ¡Ibas a…! ¡Te pegó en el pecho! ¡Con todo! ¡Y te reíste!
+—¡Es que había una niña! —dije, y me di cuenta de que estaba gritando, y de que yo nunca grito, y de que no pude parar—. ¡Ibas a...! ¡Te pegó en el pecho! ¡Con todo! ¡Y te reíste!
 
 Darkness se quedó muy quieta.
 
@@ -482,13 +481,13 @@ Y yo me quedé sin aire.
 
 —¿Cómo que nadie?
 
-—Yo tengo… —empezó, y se corrigió— …yo vengo de un lugar donde la gente cuida su nombre. Y donde uno se hace caballero y ya está: uno se pone delante y eso es bueno. Y siempre, siempre, siempre, todo el mundo me ha dicho que aguanto bien.
+—Yo tengo... —empezó, y se corrigió— ...yo vengo de un lugar donde la gente cuida su nombre. Y donde uno se hace caballero y ya está: uno se pone delante y eso es bueno. Y siempre, siempre, siempre, todo el mundo me ha dicho que aguanto bien.
 
 Se le movió la boca.
 
-—Tú me preguntaste si iba a… —y no terminó la frase—. Y te enojaste.
+—Tú me preguntaste si iba a... —y no terminó la frase—. Y te enojaste.
 
-—Es que yo…
+—Es que yo...
 
 Y ahí me atoré, porque la frase que me venía en la boca era una frase que yo no le contaba a nadie.
 
@@ -496,7 +495,7 @@ Y la dije.
 
 No sé por qué la dije ahí, en la calle, con la gente y las coles y las ollas, con la panza vacía y los zapatos llenos de pasto, con la playera sucia y la llave colgada.
 
-—Es que yo crecí con dos personas que se ponían enfrente de mí todos los días —dije—. Y me dijeron toda la vida que eso era amor, y era amor, y todavía sueño con eso. Y no quiero… no quiero que alguien más se ponga ahí. No quiero que se me pongan enfrente.
+—Es que yo crecí con dos personas que se ponían enfrente de mí todos los días —dije—. Y me dijeron toda la vida que eso era amor, y era amor, y todavía sueño con eso. Y no quiero... no quiero que alguien más se ponga ahí. No quiero que se me pongan enfrente.
 
 Darkness no dijo nada.
 
@@ -534,7 +533,7 @@ Y yo me volteé, y en una colina a doscientos metros había una nube de polvo de
 
 Y Aqua, que venía corriendo desde el otro lado con una col en la cabeza y el pelo hecho un desastre, me dijo, sin aire:
 
-—¡Es que no la dejaban! ¡Y la cola… la cola era la reina!
+—¡Es que no la dejaban! ¡Y la cola... la cola era la reina!
 
 Y yo corrí.
 
@@ -546,7 +545,7 @@ Llegué y ya estaba tirada en el pasto, con el sombrero de lado y el bastón a d
 
 —¡Era la reina, Jesús! —Y me agarró la manga—. ¡Era la más grande! ¡Le dije a todo el mundo que me apartaran! ¡Le puse nombre! ¡Se llamaba Beatriz!
 
-—… ¿Le pusiste nombre a una col?
+—... ¿Le pusiste nombre a una col?
 
 —¡Ya no existe, no hay problema!
 
@@ -634,29 +633,29 @@ Y cuando terminé, me fui a la aplicación de notas, y ahí estaba la lista que 
 
 La lista vieja. La de Japón, la que empecé a los once años, con letra de niño:
 
-*Cosas que hace la gente cuando alguien empieza a importarle.*
+«Cosas que hace la gente cuando alguien empieza a importarle.»
 
 Y no tenía nada apuntado. Nunca la llené. Se me ocurrió la idea, la apunté, y no escribí una sola cosa, porque yo no sabía, porque en mi cuarto de veinticinco losetas nunca hubo nadie más que yo y una pared.
 
 Y ahí, en un cuarto de Axel, con la luna por la ventana y tres personas durmiendo a mi alrededor, me puse a escribir.
 
-*Bandera 1 — Te dan de comer sin preguntar.*
+«Bandera 1. Te dan de comer sin preguntar.»
 
-*Bandera 2 — Te cargan sin que lo pidas.*
+«Bandera 2. Te cargan sin que lo pidas.»
 
-*Bandera 3 — Se ríen de ti y se quedan.*
+«Bandera 3. Se ríen de ti y se quedan.»
 
-*Bandera 4 — Te regañan. (Ojo: esto a lo mejor no es una bandera, esto a lo mejor es otra cosa. Revisar.)*
+«Bandera 4. Te regañan. (Ojo: esto a lo mejor no es una bandera, esto a lo mejor es otra cosa. Revisar.)»
 
-*Bandera 5 — Se te ponen enfrente.*
+«Bandera 5. Se te ponen enfrente.»
 
 Escribí eso y me quedé viendo la lista un buen rato.
 
 Y luego escribí abajo, con la letra bien chiquita, como se escriben las cosas que uno quiere esconder de uno mismo:
 
-*Ya no quiero que se me pongan enfrente.*
+«Ya no quiero que se me pongan enfrente.»
 
-*Voy a ver cómo le hago.*
+«Voy a ver cómo le hago.»
 
 Y apagué la pantalla.
 
@@ -678,7 +677,7 @@ En el cuarto de al lado, Aqua se acomodó en su cama, que rechinaba, y después 
 
 —¡Buenas noches, Aqua!
 
-—¡Buenas noches…!
+—¡Buenas noches...!
 
 Y yo me quedé ahí, con el celular apagado en el pecho y con la ventana abierta, y por primera vez desde que había llegado a este mundo, me di cuenta de una cosa que me llenó la panza de algo calientito.
 

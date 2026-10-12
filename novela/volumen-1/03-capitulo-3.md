@@ -1,8 +1,7 @@
-# Capítulo 3 — «La muchacha que hacía temblar los cerros»
+# Capítulo 3. La muchacha que hacía temblar los cerros
 
-**KONOSUBA! — La bendición de Jesús en este maravilloso mundo** *(Edición Mexicana)*
-**Volumen 1** · Capítulo 3 · 5,490 palabras
-**Estado:** primer borrador — pendiente de la revisión del autor
+KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
+Volumen 1, capítulo 3. Extensión: 5,490 palabras. Estado: primer borrador.
 
 ---
 
@@ -48,7 +47,7 @@ Y sí, era un problema. Pero también me estaba empezando a dar risa, y ella tam
 
 Leí el papel. Ya lo había leído el primer día, pero otra vez, con más calma:
 
-*EXTERMINIO DE SAPOS GIGANTES. SE REQUIERE GRUPO DE CUATRO, MÍNIMO. SE PAGA POR PIEZA. SE AVISA QUE ES PELIGROSO Y QUE CADA AÑO SE MUERE ALGUIEN.*
+«Exterminio de sapos gigantes. Se requiere grupo de cuatro, mínimo. Se paga por pieza. Se avisa que es peligroso y que cada año se muere alguien.»
 
 —Ese paga lo que ningún otro —dijo Luna—. Y entre más paga, más se muere la gente. Es la regla más confiable de este oficio.
 
@@ -74,7 +73,7 @@ Los sapos bajaban de los cerros cada primavera, se comían las huertas y los ani
 
 —Gracias.
 
-—No me des…
+—No me des...
 
 —Perdón.
 
@@ -90,7 +89,7 @@ Me acerqué a un señor enorme, de esos que uno ve y piensa que ahí sí.
 
 —¿Sapos? —me dijo—. ¿Sapos chicos o sapos abuelos?
 
-—…¿Qué es la diferencia?
+—...¿Qué es la diferencia?
 
 —Que los abuelos tienen la panza dura y te atoran. ¿Y ustedes cuántos son?
 
@@ -144,7 +143,7 @@ Y luego, desde una mesa, el señor barbón dijo:
 
 —Ya llegó.
 
-—¡CÁLLESE!
+—¡Cállese!
 
 Y el señor barbón se rio y volvió a su jarra, y el gremio entero volvió a lo suyo, y la muchacha del sombrero se quedó parada ahí en medio, con las dos manos arriba, como una estatua a medio hacer.
 
@@ -152,7 +151,7 @@ Y luego se dio la vuelta, me vio a mí, y caminó derechito hacia mi mesa.
 
 —Tú —me dijo—. Tú eres nuevo. Buscas gente.
 
-—…Sí. ¿Cómo…?
+—...Sí. ¿Cómo...?
 
 —Te he estado observando —dijo, con mucha gravedad—. Desde la ventana. Llevas toda la mañana ofreciéndote con la gente y todos te dicen que no.
 
@@ -174,7 +173,7 @@ En ese momento, en mi cabeza, se encendió una cosa.
 
 Porque yo había visto esa escena antes. Yo había visto esa escena como cuarenta veces, en cuarenta novelas visuales distintas. La muchacha rara y orgullosa que llega al principio de la ruta, se presenta con un nombre grandote, se pone en ridículo delante de todos, y luego resulta que es la más fuerte. Es un arquetipo. Es de los primeros que uno aprende a reconocer, y yo era bueno para eso, y en el fondo de mi cabeza una vocecita me dijo:
 
-*Ah. Esta es de las mías.*
+«Ah. Esta es de las mías.»
 
 Y me puse contento, y la cabeza me empezó a trabajar sola: ¿qué quiere? Quiere que le diga que sí, que le pregunte por su magia, que le pida una demostración.
 
@@ -190,7 +189,7 @@ Y le apreté la mano, y se la solté, y le dije:
 
 Y la muchacha se quedó parada ahí, con la mano en el aire, mirándome como si yo acabara de hacer un truco de magia.
 
-—…¿Qué?
+—...¿Qué?
 
 —Que si quieres comer algo. Hay sopa.
 
@@ -198,13 +197,13 @@ Y la muchacha se quedó parada ahí, con la mano en el aire, mirándome como si 
 
 —Sopa.
 
-—¿No me vas a preguntar…?
+—¿No me vas a preguntar...?
 
 —¿Por qué te vas a sentar?
 
 Y ahí, mi hermano, aprendí mi primera lección del mundo de verdad, y me la dio una muchacha con un sombrero enorme:
 
-**Yo no sabía nada.**
+Yo no sabía nada.
 
 Ni poquito.
 
@@ -236,7 +235,7 @@ Se calló. Y luego agregó, un poquito más rápido:
 
 —A nadie le importa. Hago mis prácticas todos los días, y todos los del pueblo están acostumbrados, y nadie voltea a ver. Y tú volteaste.
 
-Y yo me acordé del *bum*, y me acordé de la columna de humo contra el cielo morado, y me acordé de que lo había apuntado y no sabía por qué.
+Y yo me acordé del «bum», y me acordé de la columna de humo contra el cielo morado, y me acordé de que lo había apuntado y no sabía por qué.
 
 Ahora ya sabía por qué.
 
@@ -260,7 +259,7 @@ Y yo, que llevaba quince años sin saber decir que no, le dije:
 
 —Sí.
 
-—¡¿SÍ?! —chilló Aqua.
+—¡¿Sí?! —chilló Aqua.
 
 —Sí.
 
@@ -290,13 +289,13 @@ Luna nos puso los papeles enfrente y nos dijo lo del mínimo de cuatro.
 
 El papelito decía:
 
-*El gremio de Axel y la señorita Luna no se hacen responsables de los grupos incompletos, de los sapos, de las panzas de los sapos, ni de las personas que entren en las panzas de los sapos.*
+«El gremio de Axel y la señorita Luna no se hacen responsables de los grupos incompletos, de los sapos, de las panzas de los sapos, ni de las personas que entren en las panzas de los sapos.»
 
-*Firma aquí: _______*
+«Firma aquí: ______________________.»
 
 —¿Qué es esto? —pregunté.
 
-—Un papel que inven… que redacté hace dos años —dijo Luna—, cada vez que alguien quiere salir con menos gente de la que debería. Yo lo redacté. Yo lo odio. Y yo lo tengo que dar.
+—Un papel que inven... que redacté hace dos años —dijo Luna—, cada vez que alguien quiere salir con menos gente de la que debería. Yo lo redacté. Yo lo odio. Y yo lo tengo que dar.
 
 —¿Y la gente lo firma?
 
@@ -310,7 +309,7 @@ Cuando íbamos saliendo, Luna me alcanzó.
 
 —¿Qué?
 
-—La del sombrero… —bajó la voz—. Es del clan Carmesí.
+—La del sombrero... —bajó la voz—. Es del clan Carmesí.
 
 —¿Y eso qué?
 
@@ -318,7 +317,7 @@ Cuando íbamos saliendo, Luna me alcanzó.
 
 —Gracias.
 
-—No me des…
+—No me des...
 
 —Perdón.
 
@@ -386,7 +385,7 @@ Encima del sapo, el cielo se puso naranja.
 
 Y Megumin gritó, con toda la voz, con una voz que no era la de una niña con sombrero, sino la voz de las cosas que pasan en el mundo:
 
-—¡EXPLOSION!
+—¡Explosión!
 
 Y el mundo se vino abajo.
 
@@ -398,21 +397,21 @@ En su lugar había un cráter, del tamaño de un cuarto, con el fondo negrito y 
 
 Y diez metros atrás, sentada en el pasto, con el sombrero de lado y el bastón tirado, estaba Megumin.
 
-—¡¿Ya viste?! —me gritó, con los ojos rojos abiertos como platos—. ¡¿YA VISTE?!
+—¡¿Ya viste?! —me gritó, con los ojos rojos abiertos como platos—. ¡¿Ya viste?!
 
-—¡SÍ!
+—¡Sí!
 
-—¡¿FUE LO MÁS GRANDE QUE HAS VISTO EN TU VIDA?!
+—¡¿Fue lo más grande que has visto en tu vida?!
 
-—¡SÍ!
+—¡Sí!
 
-—¡DILO!
+—¡Dilo!
 
 —¡Fue lo más grande que he visto en mi vida!
 
 —¡Ahí está! —Y se intentó levantar, y no pudo—. ¡Ahora ayúdame!
 
-Y yo llegué a su lado, y me agaché, y ella me echó los brazos al cuello, y yo la levanté, y no pesaba nada, y la subí a mi espalda, y ahí me quedé parado, con una archimaga en la espalda, viendo el humo subir y pensando…
+Y yo llegué a su lado, y me agaché, y ella me echó los brazos al cuello, y yo la levanté, y no pesaba nada, y la subí a mi espalda, y ahí me quedé parado, con una archimaga en la espalda, viendo el humo subir y pensando...
 
 Y esa es la parte de la que me acuerdo con más cariño, y voy a decir por qué.
 
@@ -446,7 +445,7 @@ Yo bajé a Megumin y la dejé recargada en la piedra, y le dije que no se movier
 
 Y Aqua se puso a hacer lo que hace Aqua, que es gritar cosas técnicas.
 
-—¡¡PURIFICACIÓN DE AGUA SUPERIOR!! —gritó, y el pasto se iluminó un poco, y nada pasó, y un sapo se le vino encima, y aquello fue como ver caer un puesto de mercado sobre una persona.
+—¡¡Purificación de agua superior!! —gritó, y el pasto se iluminó un poco, y nada pasó, y un sapo se le vino encima, y aquello fue como ver caer un puesto de mercado sobre una persona.
 
 Y la persona entró al sapo.
 
@@ -460,13 +459,13 @@ Silencio del sapo.
 
 Y luego, desde adentro, apagadito, como cuando alguien grita dentro de una almohada:
 
-—¡…SÍ!
+—¡...SÍ!
 
 —¡Usa tu magia!
 
-—¡¿QUÉ?!
+—¡¿Qué?!
 
-—¡ESTÁS DENTRO DE UN SAPO! ¡EL SAPO ES PURO AGUA! ¡PURIFÍCALO!
+—¡Estás dentro de un sapo! ¡EL SAPO ES PURO AGUA! ¡Purifícalo!
 
 Silencio.
 
@@ -474,7 +473,7 @@ Y luego un silencio un poquito más raro, un silencio como de que alguien está 
 
 Y el sapo se puso blanco. Le empezaron a brillar los ojos como si le doliera la cabeza, y luego tosió, y de la tos salió Aqua, entera, empapada y con el pelo lleno de cosas.
 
-—¡¡¡AYYYY!!! —gritó, y salió corriendo hacia mí, y yo la agarré, y ella se me abrazó como abrazan los que tienen mucho susto, y yo la abracé, y ella me empezó a pegar en el brazo, y yo la dejé.
+—¡¡¡Aaaay!! —gritó, y salió corriendo hacia mí, y yo la agarré, y ella se me abrazó como abrazan los que tienen mucho susto, y yo la abracé, y ella me empezó a pegar en el brazo, y yo la dejé.
 
 Y en eso, otro sapo se tragó a Megumin.
 
@@ -500,7 +499,7 @@ Y yo, ahí arriba, con la panza del sapo entre las piernas, grité:
 
 Y desde adentro del sapo, desde una panza que debía ser pasto y agua y un calor asqueroso, salió la voz más indignada que he escuchado en dos mundos:
 
-—¡¡ESTO ES ASQUEROSO!!
+—¡¡Esto es asqueroso!!
 
 Y yo me puse a llorar de risa.
 
@@ -508,7 +507,7 @@ Ahí, en la espalda de un sapo, con una niña adentro diciéndome que estaba asq
 
 Y de ahí para adelante todo salió rápido.
 
-Aqua vino corriendo, todavía empapada, y gritó «¡PURIFICACIÓN!», y el sapo se puso blanco, y el sapo tosió, y el sapo escupió a Megumin con muchísimo pasto y una botita, y yo me bajé de un brinco y caí mal y me torcí un tobillo, y no me importó.
+Aqua vino corriendo, todavía empapada, y gritó «¡Purificación!», y el sapo se puso blanco, y el sapo tosió, y el sapo escupió a Megumin con muchísimo pasto y una botita, y yo me bajé de un brinco y caí mal y me torcí un tobillo, y no me importó.
 
 Y los dos sapos se fueron, y el valle se quedó callado, con un cráter humeando en medio y con tres personas tiradas en el pasto, apestando, mojadas, rotas y riéndonos.
 
@@ -576,7 +575,7 @@ Ya no podía caminar. Uno podría pensar que el problema es el cansancio, y sí 
 
 —Ya sé —le dije, y me agaché—. Súbete.
 
-—…Está bien. Nada más porque se está haciendo de noche.
+—...Está bien. Nada más porque se está haciendo de noche.
 
 Y se subió, y volvió a pesar nada, y en el camino se durmió dos veces y se despertó, y la segunda vez ya no se acordaba de dónde estaba y me preguntó que si ya habíamos llegado, y le dije que no, y se volvió a dormir.
 
@@ -672,7 +671,7 @@ Aqua se puso las manos en la cabeza.
 
 Y Aqua abrió la boca, y la cerró, y no supo qué decir, y ahí me di cuenta de que Megumin se estaba riendo con los ojos.
 
-—Yo tengo una cosa así —dijo Megumin—. Tengo una piedra. La recogí el día que me fui de casa, y es una piedra, y no sirve para nada, y la traigo en el zapato… —y se corrigió rápido— …en el bolsillo. En el bolsillo la traigo.
+—Yo tengo una cosa así —dijo Megumin—. Tengo una piedra. La recogí el día que me fui de casa, y es una piedra, y no sirve para nada, y la traigo en el zapato... —y se corrigió rápido— ...en el bolsillo. En el bolsillo la traigo.
 
 —¿Y por qué la traes?
 
@@ -708,11 +707,11 @@ Y se le iluminó la cara como si hubiera encontrado un tesoro.
 
 —¡Ustedes! —dijo—. ¡¿Son ustedes los que acaban de volver de los sapos?!
 
-—…Sí.
+—...Sí.
 
 —¡¿Son un grupo?!
 
-—…Sí.
+—...Sí.
 
 —¡¿Les falta gente?!
 
