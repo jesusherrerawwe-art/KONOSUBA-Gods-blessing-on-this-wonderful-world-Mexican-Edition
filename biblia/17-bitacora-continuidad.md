@@ -4,13 +4,13 @@
 >
 > **Regla de oro:** si la bitácora y el capítulo se contradicen, manda el capítulo — pero se corrige la bitácora el mismo día.
 
-**Última actualización:** tras el capítulo 3.
+**Última actualización:** tras el capítulo 4.
 
 ---
 
 ## Estado actual
 
-**Piezas escritas:** 4 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo).
+**Piezas escritas:** 5 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo).
 
 | Pieza | Estado |
 | --- | --- |
@@ -18,8 +18,11 @@
 | Capítulo 1 — «Todo lo que alcancé a ver desde aquí» | 🟦 Escrito (7,044 palabras) |
 | Capítulo 2 — «Un cuarto con ventana» | 🟦 Escrito (5,145 palabras) |
 | Capítulo 3 — «La muchacha que hacía temblar los cerros» | 🟦 Escrito (5,490 palabras) |
-| Capítulos 4–10 | ⬜ No escritos |
+| Capítulo 4 — «La gente que se pone enfrente» | 🟦 Escrito (5,070 palabras) |
+| Capítulos 5–10 | ⬜ No escritos |
 | Epílogo del volumen | ⬜ No escrito |
+
+**El grupo ya está completo** (Jesús, Aqua, Megumin y Darkness) y registrado en el gremio como **cuadrilla**, todavía sin nombre.
 
 **Título de la obra:** 『**KONOSUBA! — La bendición de Jesús en este maravilloso mundo**』*(Edición Mexicana)* — propuesto por el agente, pendiente del visto bueno del autor. Alternativas: «El Rebaño Sagrado» y «Un cuarto con ventana».
 
@@ -40,6 +43,9 @@
 | **El vidrio verde del mar** | En el bolsillo de Jesús | Comprado con su primer dinero «porque es verde»; le recuerda el pedazo de mar de su ventana | Cap. 3 |
 | **Las cuatro monedas guardadas** | Con Jesús | Las primeras que guarda en su vida | Cap. 3 |
 | **La botita de Megumin** | Perdida en la panza de un sapo | Se menciona al escupirla: «muchísimo pasto y una botita» — le falta una | Cap. 3 |
+| **La piedra de Megumin** | Con Megumin | La recogió el día que se fue de casa. Jesús se la saca sin querer con *Robar* y se la devuelve | Cap. 4 |
+| **El dije de plata de Chris** | Con Chris | Chiquito, «una espada o una pluma o algo que volaba». Jesús se lo saca sin querer con *Robar*; ella lo recupera rápido y se pone seria | Cap. 4 |
+| **La hoja de la cuadrilla** | Archivo del gremio | Firmada por los cuatro; **el nombre sigue en blanco**. Apuntados extraoficialmente como **«los de los sapos»** (los apuntó el señor Baltasar) | Cap. 4 |
 
 ## Detalles del mundo ya fijados por el texto
 
@@ -133,8 +139,9 @@
 | --- | --- | --- | --- |
 | **Aqua** | Aliada y compañera de cuarto | Toda su vida, su familia y su promesa | El primer beso (Vol. 1) |
 | **Luna** | Primera amiga en Axel | Que es nuevo, que es amable y que eligió la peor clase; sabe quién es Megumin y por qué él le cayó bien | El beso sencillo (Vol. 2) |
-| **Megumin** | Compañera de grupo y primera amiga de su edad | Que él volteó a ver su práctica cuando nadie más lo hacía. Ya sabe que él «no había tenido amigos» | El beso «Explosión» (Vol. 1–2) |
-| **Darkness** | Apareció en la puerta del gremio | Nada todavía | Incorporación (cap. 4); beso en Vol. 2 |
+| **Megumin** | Compañera de grupo y primera amiga de su edad | Que él volteó a ver su práctica cuando nadie más lo hacía. Ya sabe que él «no había tenido amigos». Le robó la piedra y se la devolvió | El beso «Explosión» (Vol. 1–2) |
+| **Darkness** | Cuarta integrante del grupo | Que él se enojó por ella, que le dijo **«nadie me ha dicho eso nunca»** y que ya sabe, a medias, lo de sus padres. Duerme en la posada, con cama pagada por él | El beso «el chiste que se rompe» (Vol. 2) |
+| **Chris** | Le enseñó *Robar* y le husmeó el bolsillo | Que trae las manos suaves de alguien que nunca trabajó, que tiene una llave que nunca ha usado y un dije que no es de este mundo *(no lo ha visto)* | El beso robado (Vol. 2) |
 | **Wiz** | Sin conocer | — | Vol. 2 |
 | **Yunyun** | Sin conocer | — | Vol. 2 |
 | **Chris / Eris** | Sin conocer | — | Vol. 2 |
@@ -143,10 +150,11 @@
 ## Mundo y reputación
 
 - **Lugar:** Axel.
-- **Reputación de Jesús:** «el nuevo amable que eligió aventurero»; el gremio lo reconoció al volver de los sapos («¡volvieron los nuevos!»).
-- **Dinero:** 4 eris guardados (primer ahorro de su vida).
+- **Reputación de Jesús:** «el nuevo amable que eligió aventurero»; el gremio ya lo aplaudió dos veces (los sapos y las coles).
+- **Dinero:** 415 eris del reparto de las coles, menos 300 pagados por dos camas. Le quedan **119 eris** (y los 4 que ya guardaba).
 - **Vivienda:** cuarto del techo inclinado, en pago por trabajo en la posada.
-- **Compañía:** Aqua y **Megumin**.
+- **Compañía:** Aqua, **Megumin** y **Darkness**. Los cuatro comen en la posada de doña Hilda.
+- **Cuadrilla:** registrada en el gremio **sin nombre**. Apuntados por el pueblo como «los de los sapos».
 - **Oficio:** aventurero registrado (clase inicial).
 - **Empleo actual:** manos en la posada de doña Hilda.
 
@@ -180,6 +188,55 @@
 - Se presenta como **cruzada de la orden de los caballeros de Belzerg**, «la única persona del gremio de Axel que aguanta de pie un golpe de sapo gigante».
 - Se le escapa, delante de todos: *«…necesito desesperadamente que alguien me trate mal.»* Lo negó inmediatamente y se puso roja. **Jesús la invitó a sentarse, igual que a Megumin.** Todavía no está admitida formalmente.
 
+## Detalles del mundo ya fijados por el texto (capítulo 4)
+
+### Darkness
+- Nombre de guerra: **Darkness**, y nada más. Cuando Jesús le pregunta el apellido, repite «Darkness» y se pone colorada. **Odia su nombre real.** *(Dato canónico: se llama Dustiness Ford Lalatina; el nombre real todavía no se ha dicho en la novela.)*
+- **Cruzada**, de familia noble *(aún no revelado a la party)*. **18 años** (adulta, según el canon verificado). Fuerza y aguante enormes: cargó cuatro barriles por la escalera de doña Hilda sin despeinarse.
+- **Virtud de la casa Dustiness que ella misma enuncia:** viene de un lugar «donde la gente cuida su nombre» y donde uno se hace caballero y se pone delante y eso es bueno.
+- **Le encanta que la regañen y que le peguen.** Durmió en el establo, se mojó en la lluvia y no probó bocado para «endurecerse», y estaba contenta. Doña Hilda la regañó y ella dio las gracias con los ojos brillantes.
+- **No acierta con la espada.** Se para enfrente y aguanta: en la cosecha frenó una col del tamaño de un perro con el escudo, en el pecho, y se rio pidiendo otra.
+- **Es devota de Eris** y trae un dije. *(Coincidencia deliberada: Jesús también trae un dije al cuello.)*
+- **Su momento clave:** Jesús le grita «no vuelvas a hacer eso» y ella responde **«nadie me ha dicho eso nunca»**. Él le cuenta por primera vez, y a medias, que creció con dos personas que se ponían enfrente de él todos los días. Ella propone el trato: *«Si tú te haces fuerte, yo puedo pararme enfrente sin que me dé culpa.»*
+- **Ya vive en la posada**, en una cama pagada por Jesús.
+
+### Chris
+- **Ladrona**, pelo castaño corto, «cara de mapache», sonrisa grande. Entró al cuarto de Jesús **por la ventana**, sin hacer ruido, la noche antes de la cosecha.
+- Sabe del gremio: *«Todo el gremio sabe que eres el que ayuda a doña Hilda y le dice gracias a todo el mundo.»*
+- **Le enseña la habilidad *Robar*:** se estira la mano, se dice la palabra, la mano se mete donde nadie la ve y **saca algo al azar**. «Cuando no puedes ganar la pelea, ganas por otro lado.»
+- **Hurgó los bolsillos de Jesús, le sacó la llave, la miró bien y se la devolvió:** la dejó en el buró con la cadenita acomodada. No se llevó nada.
+- Cuando Jesús le saca su dije de plata, se pone seria, lo recupera rápido y dice: *«Es que a mí también me toca lo que no debo.»*
+
+### La habilidad *Robar* de Jesús (regla propia del proyecto)
+- Es **aleatoria**, como en el canon, pero con su suerte moderada le tiende a salir **lo que la otra persona más cuida**. Le han salido: un botón, un trapo, un pedazo de queso, una piedra, un zapato ajeno, coles… **la piedra de Megumin** y **el dije de Chris**.
+- **Es una herramienta de vínculo, no un poder.** Cuando le saca a alguien algo precioso, el momento es incómodo y verdadero.
+
+### La cuadrilla y el apodo (decisiones pendientes, ahora con reglas en el texto)
+- En el gremio **ya son cuadrilla registrada**: firmaron la hoja con los cuatro nombres y las cuatro clases, **sin nombre de grupo**.
+- **Luna dejó la ley del pueblo:** *«Los nombres de los grupos no los escogen los grupos»*, y los apodos **«se pegan solos, cuando uno no está viendo, y casi siempre en el peor momento»**. El pueblo ya los apuntó como **«los de los sapos»**.
+- **El apodo de Jesús (decisión 5) sigue sin resolverse y ahora tiene su mecanismo narrativo listo para caer cuando el autor quiera.**
+
+### La temporada de las coles voladoras
+- Es otoño. Las coles de las montañas crecen tanto que **se sueltan y vuelan**, y llegan a Axel en enjambre el mismo día. Son **la comida del invierno** de la ciudad.
+- **Treinta eris por cabeza entera y sana.** El gremio reparte redes y canastos (y cobra las redes que no devuelvan).
+- Peligro real: caen como piedras. **Todos los años se muere alguien.** Aviso oficial del gremio, con cuatro clavos.
+- Cosecha de este año: **42 cabezas** en el grupo. Pago total: **1,660 eris** (1,260 + 400 de extra por haber salvado el carro del camino real). **Le tocaron 415 a Jesús.**
+- Megumin gastó su Explosión de ese día en **una col gigante a la que le puso nombre: Beatriz**. («¡Ya no existe, no hay problema!») Después la cargó Jesús por todo el valle.
+- El carro del camino real: una niña iba a recibir la col; **Darkness se puso enfrente y la frenó con el escudo**.
+
+### Otras cosas fijadas
+- Jesús pagó **el mes de dos camas** en la posada: la de Megumin y la de Darkness. *(La suya y la de Aqua se pagan con el trabajo: doña Hilda se lo dijo así.)*
+- **Doña Hilda:** «Muchacho, tú traes algo raro. Raro bueno.» Y ya aprendió a decirle que no le dé las gracias.
+- **Jesús durmió con el celular en el pecho** y la linterna se le coló por debajo de la puerta; Aqua lo cachó desde su cuarto. **El secreto del aparato sigue en pie, y ahora con una fisura cómica.** (Uso de la linterna: función aprobada.)
+- **El libro de banderas quedó inaugurado** — después de años de tener la idea apuntada y la lista vacía:
+  *Bandera 1 — Te dan de comer sin preguntar.*
+  *Bandera 2 — Te cargan sin que lo pidas.*
+  *Bandera 3 — Se ríen de ti y se quedan.*
+  *Bandera 4 — Te regañan. (Ojo: esto a lo mejor no es una bandera. Revisar.)*
+  *Bandera 5 — Se te ponen enfrente.*
+  Y debajo, en letra chiquita: *«Ya no quiero que se me pongan enfrente. Voy a ver cómo le hago.»*
+- **Primera meta propia de Jesús en el mundo nuevo:** hacerse fuerte.
+
 ## Promesas abiertas (cosas insinuadas y todavía no pagadas)
 
 - **El mensaje a su mamá** («que no me dolió»): prometido por Aqua. → Debe pagarse, y el epílogo es el lugar natural.
@@ -200,7 +257,17 @@
 
 ## Estado del grupo
 
-Dos personas: Aqua y Jesús. Sin dinero, sin techo, sin registro en el gremio. Al filo de Axel.
+**Cuatro integrantes, cuadrilla registrada en el gremio de Axel.**
+
+| Quién | Clase | Qué aporta | Qué le falta |
+| --- | --- | --- | --- |
+| **Jesús** | Aventurero | Organiza, carga, *Robar*, y ahora quiere hacerse fuerte | Fuerza, experiencia, sentido común de este mundo |
+| **Aqua** | Archipresbítera | Cura, purifica, ahuyenta muertos | Nadie le cree que es diosa; le sale caro todo |
+| **Megumin** | Archimaga | Una Explosión al día | Después de lanzarla, no puede moverse |
+| **Darkness** | Cruzada | Muro: aguanta cualquier golpe | No acierta un solo ataque; le encanta el castigo |
+
+**Techo:** el cuarto del techo inclinado, la posada del farol con la luz roja.
+**Promesa del grupo:** hacerse fuerte (Jesús), para que Darkness pueda pararse enfrente sin culpa (trato de ella).
 
 ## Rutas románticas
 

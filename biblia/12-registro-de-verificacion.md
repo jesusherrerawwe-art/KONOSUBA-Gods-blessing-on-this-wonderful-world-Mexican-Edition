@@ -91,6 +91,7 @@ Consultas hechas mientras se escriben los capítulos, para no fijar por error un
 | **Proceso de reencarnación** | Sección 07 de esta biblia (ya verificada) | Los dos destinos, la oferta de llevar una cosa y la llegada a Axel. La novela **varía a propósito**: Jesús no elige a nadie por despecho y Aqua se une por terquedad |
 | **Clases y carta de aventurero** | Sección 07 — **[SECUNDARIA — síntesis de novelas]** | La carta existe como registro de atributos y clase; los valores numéricos concretos son invención de la novela y se mantienen cualitativos |
 | **Moneda** | Sección 07 (nombre confirmado por fuente oficial del episodio 7) | La moneda se llama **eris**. Se usa en la novela |
+| **Darkness (identidad y datos)** | Búsqueda en fichas de personaje y wiki; sección 05 de esta biblia | **Dustiness Ford Lalatina**, **18 años**, cruzada de la casa Dustiness, devota de **Eris** (trae un dije), todos los puntos en defensa, **falla casi todos los ataques** a propósito, duerme con el nombre de guerra «Darkness» y **odia su nombre real**. La novela usa: nombre de guerra, cruzada, aguante, dije de Eris y la mala puntería. **El apellido real (Dustiness Ford Lalatina) todavía no se ha revelado en el texto** |
 
 ## 9. Cómo usar esta bitácora
 

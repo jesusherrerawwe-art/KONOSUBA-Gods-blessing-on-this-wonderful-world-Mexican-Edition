@@ -132,4 +132,35 @@
 
 ---
 
-*(Aquí se irán agregando las fichas del capítulo 4 y siguientes.)*
+## Capítulo 4 — «La gente que se pone enfrente»
+
+| Campo | Contenido |
+| --- | --- |
+| **Volumen** | 1 |
+| **Extensión** | 5,070 palabras (≈ 17 páginas) |
+| **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
+| **Foco** | Jesús, primera persona |
+| **Deseo local** | Que a nadie se le ocurra ponérsele enfrente para protegerlo |
+| **Obstáculo** | La cuarta integrante **existe justamente para eso**, y encima le encanta |
+| **Forma** | Cinco movimientos: la mañana con Darkness, el registro de la cuadrilla, la noche de Chris, la cosecha de las coles y el pago |
+| **Referencia del canon** | Episodio 3: la incorporación formal de Darkness, la batalla de las **coles voladoras** y **Chris enseñándole la habilidad de ladrón**. Datos verificados y usados: Darkness es **cruzada de la familia Dustiness**, tiene **18 años**, pone todos sus puntos en defensa, **no acierta ni a un blanco fijo**, gasta el nombre «Darkness» para no usar el suyo, es devota de **Eris** y trae un dije |
+| **Cambio al cierre** | El grupo queda completo y con nombre pendiente; Jesús decide **hacerse fuerte** — su primera meta propia en el mundo nuevo — y pone por escrito sus primeras «banderas» |
+| **Lo que el lector aprende** | Que Jesús **nunca grita** y que la única vez que gritó en este mundo fue por Darkness; que su habilidad de ladrón **saca lo que la gente no quiere soltar**; que en este mundo los apodos los pone la gente, no uno |
+| **Gancho** | La cuadrilla existe, el apodo viene en camino… y ahora que son cuatro, el encargo de los sapos gigantes ya está abierto |
+| **Rutas** | **Darkness**: ruta abierta con su primera bandera y la primera vez que alguien le dice «no te pongas enfrente». **Megumin**: primera fisura real (le roba la piedra y le devuelve algo más hondo). **Chris**: aparece, le enseña, le husmea el bolsillo y le devuelve la llave sin llevársela. **Luna**: explica la regla de los apodos. **Aqua**: cierre a través de la pared |
+| **Objetos** | **La llave**: Chris la saca, la mira y la devuelve; «gastada de un solo lado» · el **dije de plata de Chris** (el que Jesús saca sin querer, «una espada o una pluma o algo que volaba») · playera sucia de tierra de coles · celular (la linterna se cuela por debajo de la puerta) · **libro de banderas**: primeras entradas escritas en toda la vida de Jesús |
+| **Continuidad** | Todo lo del apartado del capítulo 4 en la bitácora (sección 17) |
+
+**Decisiones creativas tomadas en este capítulo (y por qué):**
+- **La habilidad de Jesús.** Siguiendo la ficha del personaje («habilidades de ladrón»), aprende *Robar*, pero se le da una vuelta propia: **la habilidad es aleatoria, y con su suerte moderada le tiende a sacar a la gente lo que más cuida.** No es un poder: es una herramienta de vínculo, y una bomba de tiempo emocional.
+- **El grito.** El personaje quedó definido como alguien que **nunca grita**; por eso la primera vez que grita en la novela tiene que ser un acontecimiento, y aquí es un acontecimiento **sobre otra persona**, no sobre él.
+- **El refrán del capítulo:** *«Nadie me ha dicho eso nunca.»* Tercera vez que le pasa a Jesús con alguien distinto (Aqua en el cap. 1, Megumin en el 3, Darkness aquí). El patrón es deliberado: **su don no es el poder, es ver a la gente.**
+- **La negociación de Darkness:** *«Si tú te haces fuerte, yo puedo pararme enfrente sin culpa.»* Es un trato que la desarma y que la deja igual. Su ruta («el chiste que se rompe») empieza exactamente aquí.
+
+**Pendientes que este capítulo deja abiertos (para el autor):**
+- **El nombre de la cuadrilla** (los del gremio ya la apuntaron como «los de los sapos», a propósito).
+- **El apodo de Jesús** (decisión 5): **Luna dejó la regla establecida** — «se pegan solos, cuando uno no está viendo, y casi siempre en el peor momento». Queda listo para caer cuando el autor quiera.
+
+---
+
+*(Aquí se irán agregando las fichas del capítulo 5 y siguientes.)*
