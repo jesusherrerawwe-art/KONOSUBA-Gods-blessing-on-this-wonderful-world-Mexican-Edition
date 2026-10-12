@@ -1,27 +1,28 @@
-# 17. Bitácora de continuidad
+﻿# 17. Bitácora de continuidad
 
 > **Documento vivo.** Se actualiza **después de cada capítulo escrito**, no antes. Es la red de seguridad del método de trabajo (sección 16): si algo aparece en un capítulo, aquí queda registrado para que los siguientes no lo contradigan ni lo olviden.
 >
 > **Regla de oro:** si la bitácora y el capítulo se contradicen, manda el capítulo — pero se corrige la bitácora el mismo día.
 
-**Última actualización:** revisión del volumen, 12 de octubre de 2026.
+**Última actualización:** capítulo 7 escrito y revisado, 12 de octubre de 2026.
 
 ---
 
 ## Estado actual
 
-**Piezas escritas:** 7 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo).
+**Piezas escritas:** 8 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo).
 
 | Pieza | Estado |
 | --- | --- |
-| Prólogo — «Un lugar sin ventanas» | 🟦 Escrito (954 palabras) |
-| Capítulo 1 — «Todo lo que alcancé a ver desde aquí» | 🟦 Escrito (7,123 palabras) |
-| Capítulo 2 — «Un cuarto con ventana» | 🟦 Escrito (5,217 palabras) |
-| Capítulo 3 — «La muchacha que hacía temblar los cerros» | 🟦 Escrito (5,495 palabras) |
-| Capítulo 4 — «La gente que se pone enfrente» | 🟦 Escrito (5,077 palabras) |
-| Capítulo 5 — «El señor de la casa del cerro» | 🟦 Escrito (5,030 palabras) |
-| Capítulo 6 — «El otro elegido» | 🟦 Escrito (5,148 palabras) |
-| Capítulos 7–10 | ⬜ No escritos |
+| Prólogo — «Un lugar sin ventanas» | 🟩 Aprobado (954 palabras) |
+| Capítulo 1 — «Todo lo que alcancé a ver desde aquí» | 🟩 Aprobado (7,123 palabras) |
+| Capítulo 2 — «Un cuarto con ventana» | 🟩 Aprobado (5,217 palabras) |
+| Capítulo 3 — «La muchacha que hacía temblar los cerros» | 🟩 Aprobado (5,490 palabras) |
+| Capítulo 4 — «La gente que se pone enfrente» | 🟩 Aprobado (5,077 palabras) |
+| Capítulo 5 — «El señor de la casa del cerro» | 🟩 Aprobado (5,030 palabras) |
+| Capítulo 6 — «El otro elegido» | 🟩 Aprobado (5,148 palabras) |
+| Capítulo 7 — «La gente que sí va» | 🟦 Escrito y revisado (5,005 palabras); pendiente del visto bueno |
+| Capítulos 8–10 | ⬜ No escritos |
 | Epílogo del volumen | ⬜ No escrito |
 
 **El grupo ya está completo** (Jesús, Aqua, Megumin y Darkness) y registrado en el gremio como **cuadrilla**, todavía sin nombre.
@@ -50,10 +51,14 @@
 | **La hoja de la cuadrilla** | Archivo del gremio | Firmada por los cuatro; **el nombre sigue en blanco**. Apuntados extraoficialmente como **«los de los sapos»** (los apuntó el señor Baltasar) | Cap. 4 |
 | **El zapato ajeno** | Morral de Jesús | Le salió con Robar el día de las coles y se quedó con él. Se lo llevó al castillo de Beldia | Cap. 5 |
 | **Las tablas de Beldia** | Castillo del cerro | Tablas nuevas, cortadas derechito, apiladas sobre una mesa, con un martillo y un bote de clavos | Cap. 5 |
-| **El libro de banderas** | App de notas del celular | Seis banderas. La sexta se escribió al bajar del cerro de Beldia | Cap. 5 |
+| **El libro de banderas** | App de notas del celular | Siete banderas. La sexta se escribió al bajar del cerro de Beldia; la séptima, la noche del séptimo día: «Van.» | Cap. 7 |
 | **La jaula de hierro** | Prestada al herrero de Axel | Catorce monedas que no tenían; hay que devolverla | Cap. 6 |
 | **La espada Gram** | Con Mitsurugi | Jesús se la saca con Robar y se la devuelve en el acto. **No se vendió** | Cap. 6 |
 | **Las trescientas velas** | Templo de Axis en Axel | De las caras, de las que huelen a miel. Compradas por Aqua | Cap. 6 |
+| **El pan de doña Hilda** | Se lo come Beldia | «Cuando uno llega a una casa ajena, lleva pan»: la mitad que Jesús le da al general antes de pedirle nada | Cap. 7 |
+| **La silla plegable de Beldia** | Arriba de la carreta | La dejó abierta en el patio la mañana que salió de su casa; se la lleva al oeste | Cap. 7 |
+| **Las cuatro tablas** | Torre partida del cerro | Apuntaladas contra la pared. **Nadie las tocó**; ahí siguen | Cap. 7 |
+| **La torre partida** | Cerro al oeste de Axel | Beldia se la regaló a Megumin: «el que la tumbe, que seas tú». Cayó esa tarde, con permiso | Cap. 7 |
 
 ## Detalles del mundo ya fijados por el texto
 
@@ -145,9 +150,9 @@
 
 | Heroína | Vínculo | Qué sabe | Pendiente |
 | --- | --- | --- | --- |
-| **Aqua** | Aliada y compañera de cuarto | Toda su vida, su familia y su promesa | El primer beso (Vol. 1) |
+| **Aqua** | Aliada y compañera de cuarto | Toda su vida, su familia y su promesa. **No pudo romper la maldición de Megumin** (sí la de Darkness) | El primer beso (Vol. 1) |
 | **Luna** | Primera amiga en Axel | Que es nuevo, que es amable y que eligió la peor clase; sabe quién es Megumin y por qué él le cayó bien | El beso sencillo (Vol. 2) |
-| **Megumin** | Compañera de grupo y primera amiga de su edad | Que él volteó a ver su práctica cuando nadie más lo hacía. Ya sabe que él «no había tenido amigos». Le robó la piedra y se la devolvió. **Se le acabó el plazo de siete días y el castillo sigue sin visita** | El beso «Explosión» (Vol. 1–2) |
+| **Megumin** | Compañera de grupo y primera amiga de su edad | Que él volteó a ver su práctica cuando nadie más lo hacía. Ya sabe que él «no había tenido amigos». Le robó la piedra y se la devolvió. **El séptimo día le pidió la vida a Beldia en voz alta, con el sombrero en las dos manos, y vive; el general le regaló su torre** | El beso «Explosión» (Vol. 1–2) |
 | **Darkness** | Cuarta integrante del grupo | Que él se enojó por ella, que le dijo **«nadie me ha dicho eso nunca»** y que ya sabe, a medias, lo de sus padres. Duerme en la posada, con cama pagada por él | El beso «el chiste que se rompe» (Vol. 2) |
 | **Chris** | Le enseñó *Robar* y le husmeó el bolsillo | Que trae las manos suaves de alguien que nunca trabajó, que tiene una llave que nunca ha usado y un dije que no es de este mundo *(no lo ha visto)* | El beso robado (Vol. 2) |
 | **Wiz** | Sin conocer | — | Vol. 2 |
@@ -314,12 +319,43 @@
 - **Es el séptimo día.** A las tres de la mañana suena la campana de la puerta de la ciudad, el señor barbón corre con una antorcha gritando **«¡El sin cabeza está en el camino!»**, y sobre los techos se ve la luz encendida del cerro y una **columna de humo delgadita, derechita, como un dedo.**
 - **El pendiente emocional que arrastra el capítulo 7:** tras lo de Mitsurugi, Jesús ya dudó una vez de la gente que promete y no cumple (capítulo 5). Ahora Beldia está esperando y **nadie fue al castillo en siete días**. Lo que el capítulo 7 tiene que resolver: si Jesús va, por fin, a ver al señor sin cabeza.
 
+## Detalles del mundo ya fijados por el texto (capítulo 7)
+
+### Beldia de mudanza
+- **Se va al oeste:** terminó su investigación —«ya encontraron lo que buscábamos, y ahora me toca ir a sacarlo»— y va con carreta, caballo, seis esqueletos y su silla plegable.
+- **El hallazgo queda sonando:** «Es grande. Grande de verdad.» (Semilla para el desastre del capítulo 10; todavía no se explica.)
+- Llega a Axel **al amanecer del séptimo día**, de paso, y la ciudad entera lo espera creyendo que viene a la guerra.
+- Trato: **«chico»** a Jesús, **«niña»** a Megumin, **«señora»** a Aqua. Nunca grita; la voz le sale del pecho.
+
+### La maldición como firma
+- Beldia **no había venido a quitar la maldición**: vino a cerrarla, y la cierra **solo si se la piden**. Su precio es que le pidan las cosas: «Yo llevo doscientos años pidiendo las cosas por favor y nadie me las da».
+- **Le ve la muerte a la gente** (es su trabajo): a Megumin le veía «una señora grande, con un manto, sentada en el pecho»; después de quitarle la maldición, ya no le ve nada.
+- **Megumin la pide en voz alta**, con el sombrero en las dos manos, delante del pueblo: «Yo me lo pido» y «Quiero que el humo suba derechito».
+- Beldia **se queda vivo** y se marcha: la novela no hace la pelea del canon.
+
+### Los esqueletos y Aqua
+- Los seis esqueletos **tiran las espadas y se van caminando hacia Aqua con los brazos arriba**, buscando que los salve (canon).
+- Beldia los persigue por el camino real: «¡Son del ejército! ¡Si me los echa a perder me los descuentan de la paga!»
+- Aqua **no** los purifica.
+
+### El regalo de la torre
+- Beldia le regala su casa derruida a Megumin: «Mi casa se queda sola. El que la tumbe, que seas tú. Nada más tú. Y de día, que quiero ver el humo desde el camino».
+- Confiesa por qué apuntalaba: **también tuvo casa y se la quitaron a la mala, con todo y cabeza** (canon).
+- **La torre cayó esa misma tarde**, con permiso, y Beldia la vio desde el camino. Cierra el hilo del «bum» de los cerros.
+
+### Otras cosas fijadas
+- **La puerta chica**: existe, junto a la garita; Luna consiguió que la abrieran sin que el capitán perdiera el honor. «Yo no abrí nada. Y si alguien pregunta, yo estoy en el archivo.»
+- **Los monstruos están volviendo**: al día siguiente, el gremio amanece con tres encargos («anoche volvieron los sapos al valle»). Beldia se va y el mundo chiquito regresa.
+- **El capitán de la guardia** sigue sin nombre propio. Doña Hilda, el señor barbón, padre Aldo y Estrella, igual.
+
 ## Promesas abiertas (cosas insinuadas y todavía no pagadas)
 
 - **El mensaje a su mamá** («que no me dolió»): prometido por Aqua. → Debe pagarse, y el epílogo es el lugar natural.
 - **El cuarto con ventana**: pedido como su «cosa». → Debe pagarse cuando consiga habitación en Axel.
 - **La llave** que nunca usó y la puerta que abre.
 - **El marcador del último partido** que nunca supo.
+- **Las ruinas del oeste:** Beldia invitó («si un día andan por las ruinas, pregunten por el sin cabeza») y dejó sonando el hallazgo: **algo grande**. → Semilla del Vol. 1.
+- **La frase de la madre:** pendiente de regresar.
 - El **hilo de los padres**, que se cierra en el epílogo.
 - La **pared del epílogo**.
 
@@ -346,50 +382,11 @@
 **Techo:** el cuarto del techo inclinado, la posada del farol con la luz roja.
 **Promesa del grupo:** hacerse fuerte (Jesús), para que Darkness pueda pararse enfrente sin culpa (trato de ella).
 
-**Cuenta regresiva cerrada:** pasaron los siete días y **nadie fue al castillo**. Beldia viene a Axel: **es el séptimo día**, tres de la mañana.
+**Cuenta regresiva cerrada:** pasaron los siete días y **nadie fue al castillo**; al amanecer del séptimo día, Beldia pasó por Axel de mudanza y **le quitó la maldición a Megumin**. (Capítulo 7.)
 
 **Lo que Jesús aprendió en el capítulo 6:** no es el único elegido, no hay un destino especial, y el oficio es el que uno se hace. Y sostuvo la cuerda por primera vez en su vida.
 
-## Rutas románticas
-
-| Heroína | Vínculo | Qué sabe | Pendiente |
-| --- | --- | --- | --- |
-| **Aqua** | Se conocen | Todo de su vida anterior | Primer beso (Vol. 1) |
-| **Megumin** | Sin conocer | — | Incorporación y primer beso (Vol. 1) |
-| **Darkness** | Sin conocer | — | Incorporación (Vol. 1); beso en Vol. 2 |
-| **Wiz** | Sin conocer | — | Vol. 2 |
-| **Yunyun** | Sin conocer | — | Vol. 2 |
-| **Luna** | Sin conocer | — | Vol. 2 |
-| **Chris / Eris** | Sin conocer | — | Vol. 2 |
-| **Iris** | Sin conocer | — | Vol. 3 (anillo) |
-
-## Mundo y reputación
-
-- **Lugar:** Axel.
-- **Reputación de Jesús:** desconocido.
-- **Dinero:** cero.
-- **Vivienda:** ninguna.
-- **Compañía:** Aqua.
-
-## Promesas abiertas (cosas insinuadas y todavía no pagadas)
-
-- La **puerta a casa** y el trato con Aqua: mencionados, sin resolver.
-- El **hilo de los padres:** pendiente hasta el epílogo.
-- La **frase de la madre:** pendiente de regresar.
-- La **pared del epílogo:** pendiente.
-
-## Estado de Jesús
-
-| Campo | Valor |
-| --- | --- |
-| Físico | El de la cabaña: delgado, pálido, sin callos |
-| Heridas | Ninguna |
-| Ánimo | Asombro |
-| Personas que lo conocen | 1 |
-
-## Estado del grupo
-
-Sin formar. Aqua y Jesús, camino a Axel.
+**Lo que Jesús aprendió en el capítulo 7:** que quedarse y acompañar también es una forma de ir; que él casi no va; y que las cosas se piden en voz alta.
 
 ---
 

@@ -1,4 +1,4 @@
-# 16. Método de trabajo: el ciclo de capítulo
+﻿# 16. Método de trabajo: el ciclo de capítulo
 
 > **Documento operativo.** Define cómo se escribe esta novela: capítulo a capítulo, volumen por volumen, con una bitácora de continuidad que evita los agujeros del método.
 
@@ -116,7 +116,7 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 | 4 | 🟩 Aprobado | «La gente que se pone enfrente» | 5,077 palabras · revisado y aprobado · entra Darkness; cuadrilla completa |
 | 5 | 🟩 Aprobado | «El señor de la casa del cerro» | 5,030 palabras · revisado y aprobado · Beldia y la maldición |
 | 6 | 🟩 Aprobado | «El otro elegido» | 5,148 palabras · revisado y aprobado · el lago, Mitsurugi y el séptimo día |
-| 7 | ⬜ Vacío | — | — |
+| 7 | 🟦 Revisado, sin aprobar | «La gente que sí va» | 5,005 palabras · revisado y limpio para texto a voz · **pendiente del visto bueno del autor** |
 | 8 | ⬜ Vacío | — | — |
 | 9 | ⬜ Vacío | — | — |
 | 10 | 🟩 Cierre fijado | *(por definir)* | **El Destructor** (clímax ya aprobado) |
@@ -126,7 +126,9 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 
 **Estructura fija del volumen:** prólogo corto + 10 capítulos + epílogo. **No hay páginas de interludio** (decisión del autor, sección 18).
 
-**Revisión del volumen:** completada el 12 de octubre de 2026 sobre las siete piezas escritas (aspecto físico, voces, ambientación, canon, ortografía y texto a voz). Informe para el autor: `REVISION-VOLUMEN-1.md`. **Decisiones del autor: las cuatro quedaron resueltas el 12 de octubre y están aplicadas.** El capítulo 7 espera la luz verde del autor (la ficha es lo siguiente).
+**Revisión del volumen:** completada el 12 de octubre de 2026 sobre las siete piezas escritas (aspecto físico, voces, ambientación, canon, ortografía y texto a voz). Informe para el autor: `REVISION-VOLUMEN-1.md`. **Decisiones del autor: las cuatro quedaron resueltas el 12 de octubre y están aplicadas.**
+
+**Capítulo 7 (12 de octubre de 2026):** el autor dio la luz verde («Comienza con el capítulo 7») y el capítulo ya está escrito y revisado; su ficha vive al final de `FICHAS.md`. Falta únicamente su visto bueno para pasar a 🟩 y abrir la ficha del capítulo 8.
 
 ## Estado de los volúmenes
 

@@ -224,4 +224,31 @@
 
 ---
 
-*(Aquí se irán agregando las fichas del capítulo 7 y siguientes.)*
+## Capítulo 7. La gente que sí va
+
+| Campo | Contenido |
+| --- | --- |
+| **Volumen** | 1 |
+| **Extensión** | 5,005 palabras (≈ 16 páginas) |
+| **Estado** | 🟦 Revisado (12 de octubre de 2026); pendiente de aprobación |
+| **Foco** | Jesús, primera persona |
+| **Deseo local** | Que Megumin viva: sacarla del plazo que se vence hoy |
+| **Obstáculo** | El único que puede quitarle la maldición —Beldia— no va a ofrecer nada: viene de paso, con su mudanza, y espera que se la pidan. Y la ciudad entera quiere cerrar la puerta y pelear |
+| **Forma** | Cuatro movimientos largos y un cierre: la madrugada en la puerta, la llegada del sin cabeza, la discusión del gremio, el pedido en el camino, y el cerro al atardecer |
+| **Referencia del canon** | Episodios 4 a 6 (temporada 1), arco del Dullahan: **Beldia vuelve a Axel** tras la semana, ahora desde el lado del que se marcha; su **armadura del Rey Demonio**, que le aguanta la magia sagrada; su truco de **lanzar la cabeza** para ver todo desde arriba; y **los no-muertos que persiguen a Aqua buscando salvación de una diosa**, que en el canon son sus propios soldados. La novela no usa el final del canon (no hay pelea ni muere el general): usa el marco y lo voltea |
+| **Cambio al cierre** | Jesús entiende que quedarse y acompañar también es una forma de ir. Y la cuadrilla aprende que en este mundo las cosas se piden en voz alta |
+| **Lo que el lector aprende** | Que Beldia se marcha al oeste porque **ya encontraron lo que buscaba** (queda sonando «es grande de verdad»); que la maldición solo la quita el que la puso y que **funciona como una firma**; que Beldia también tuvo casa, y que por eso le ponía tablas a la que le quedaba |
+| **Gancho** | Los monstruos chicos están volviendo a la región: el gremio amanece con encargos otra vez, y en el horizonte del oeste se quedó una palabra: «grande» |
+| **Rutas** | **Megumin**: la ruta se salda — el abrazo, el sombrero en las dos manos, y la primera vez que pide algo en voz alta. **Aqua**: su primera derrota real (no pudo con la maldición) y el susto de los esqueletos. **Darkness**: sigue ofreciéndose de escudo, y Beldia le tiene miedo. **Luna**: abre la puerta chica |
+| **Objetos** | El pan de doña Hilda (ruega el «pide por favor» de Beldia) · el sombrero de Megumin, que se quita para pedir · la libreta de banderas: séptima entrada · la silla plegable de Beldia, que se va con él |
+| **Continuidad** | Todo lo del apartado del capítulo 7 en la bitácora (sección 17) |
+
+**Decisiones creativas de este capítulo:**
+- **Beldia no viene a pelear ni a vengarse: viene a mudarse.** La ciudad se prepara para la guerra y el general llega con una carreta, una silla plegable y una cabeza. Todo el armamento de Axel se queda sin usar, y eso es la broma más larga del capítulo.
+- **El general se va porque ya encontraron lo que buscaba.** En el capítulo 5 contó que llevaba cuatro años contando ruinas del oeste; aquí se va a trabajar al hallazgo. Es la puerta por la que puede entrar el desastre del capítulo 10.
+- **La maldición como firma.** Beldia no es un verdugo: es un empleado que no puede dejar un papel sin cerrar. Eso da la llave del capítulo: no hay que pelear, hay que pedir. Y pedir en voz alta es lo más difícil que hace Megumin en toda la novela.
+- **El pedido es de Megumin, no de Jesús.** Jesús no la salva: la acompaña. Resuelve el pendiente del capítulo 5 («¿si Jesús va, por fin, a ver al señor sin cabeza?») sin traicionar el carácter de él: sostiene la puerta, sostiene la silla, sostiene a la amiga.
+- **«Van.»** La séptima bandera es la más corta y la más dura, porque la escribe el mismo día en que él tampoco fue.
+- **El final no es una pelea: es un derrumbe con permiso.** Beldia le regala la torre a Megumin, y la Explosión deja de ser un atropello para volverse una despedida. *«El que la tumbe, que seas tú.»*
+
+**Pendiente de aprobación del autor:** el motivo por el que Beldia se marcha al oeste (el hallazgo de las ruinas) y el destierro de la pelea con Beldia (la novela lo deja vivo y de viaje, no lo mata como el canon).
