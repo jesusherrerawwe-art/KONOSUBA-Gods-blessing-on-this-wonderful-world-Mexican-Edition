@@ -4,25 +4,49 @@
 >
 > **Regla de oro:** si la bitácora y el capítulo se contradicen, manda el capítulo — pero se corrige la bitácora el mismo día.
 
-**Última actualización:** sin capítulos escritos todavía.
+**Última actualización:** tras el prólogo.
 
 ---
 
 ## Estado actual
 
-**Capítulos escritos:** 0 de 30.
+**Piezas escritas:** 1 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo).
 
-La novela no ha comenzado a redactarse. Todo lo que sigue son los valores iniciales, listos para que el primer capítulo los mueva.
+| Pieza | Estado |
+| --- | --- |
+| Prólogo — «Un lugar sin ventanas» | 🟦 Escrito (954 palabras), pendiente de aprobación |
+| Capítulos 1–10 | ⬜ No escritos |
+| Epílogo del volumen | ⬜ No escrito |
 
 ## Objetos
 
 | Objeto | Dónde está | Estado | Última mención |
 | --- | --- | --- | --- |
-| **Playera de las Chivas** | Puesta (al morir) | Con Jesús | — |
+| **Playera de las Chivas** | Puesta | Con él; la del escudo bordado de «todos los días» | Prólogo |
 | **Celular** | Con Jesús | Cargado por Aqua · funciones: álbum, música, notas, linterna | — |
-| **La llave (cadena)** | Cuello de Jesús | Nunca usada | — |
+| **La llave (cadena)** | Cuello de Jesús | Nunca usada; «una pregunta que nunca hice» | Prólogo |
 | **La foto** | Galería del celular | Única imagen | — |
 | **Libro de banderas** | App de notas | Vacío | — |
+
+## Detalles del mundo ya fijados por el texto
+
+- En el cuarto de Jesús había **veinticinco losetas** en el techo; la que faltaba estaba junto a la lámpara, con una mancha de humedad con forma de isla.
+- Había un **aparato que hacía *bip*** día y noche; Jesús lo extraña como a una visita.
+- **Nunca había oído su propia respiración.**
+- Su hábito: **al entrar a cualquier lugar, busca primero la ventana.** No para mirar, sino para saber dónde está.
+- Su rutina de conteo: cuenta losetas, cuenta pasos. *«Que es exactamente lo que hace la gente que puede caminar»* — contó tres pasos y dejó de contar.
+- La muerte «se vuelve casi vecina»: no le tiene miedo.
+- El lugar de tránsito: blanco tibio, sin sombras ni paredes ni sol, sin techo y **sin ventanas**.
+- **Late bien:** el corazón le late fuerte y parejo, sin las carreras de antes.
+- **No nombra a nadie**: el prólogo no dice su nombre ni la palabra «muerte».
+
+## Plantillas sembradas por el prólogo (pendientes de cosechar)
+
+- **La ventana** → debe pagarse cuando pida el cuarto con ventana en Axel.
+- **La llave** presentada como «una pregunta que nunca hice».
+- **Su mamá** y el miedo de preguntar si la va a ver.
+- **«Se vuelven casi vecinas»** (la relación con la muerte).
+- **El conteo de cosas** como tic de personaje.
 
 ## Rutas románticas
 

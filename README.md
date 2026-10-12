@@ -6,9 +6,17 @@
 
 Esta es una **novela ligera original inspirada en el universo de *KonoSuba!***, con una aventura propia, humor disparatado y el espíritu irreverente que caracteriza a este maravilloso mundo.
 
+## La novela
+
+El texto de la novela vive en la carpeta [`novela/`](novela/), separada de la biblia porque es el entregable final.
+
+- [`novela/volumen-1/`](novela/volumen-1/) — Volumen 1: prólogo, capítulos 1 a 10 y epílogo.
+  - [`00-prologo.md`](novela/volumen-1/00-prologo.md) — «Un lugar sin ventanas».
+  - [`FICHAS.md`](novela/volumen-1/FICHAS.md) — fichas de diseño de cada pieza del volumen.
+
 ## Biblia de referencia
 
-Consulta la [biblia de referencia](biblia/README.md), organizada en 11 secciones sobre la producción del anime, sus temporadas, personajes, reglas del mundo, datos curiosos, guía de escritura y galería de arte.
+Consulta la [biblia de referencia](biblia/README.md), organizada en 18 secciones: las 11 primeras documentan el universo de referencia; de la 12 a la 15 está el diseño del proyecto (protagonista, romance y rutas); y de la 16 a la 18, el método de trabajo, la bitácora de continuidad y los estándares de extensión de una novela ligera.
 
 ## Dedicatoria
 
