@@ -1,7 +1,7 @@
 ﻿# Capítulo 8. No me dolió
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 8. Extensión: 5,495 palabras. Estado: revisado; pendiente de aprobación del autor.
+Volumen 1, capítulo 8. Extensión: 5,495 palabras. Estado: aprobado por el autor.
 
 ---
 

@@ -261,7 +261,7 @@
 | --- | --- |
 | **Volumen** | 1 |
 | **Extensión** | 5,495 palabras (≈ 17 páginas) |
-| **Estado** | 🟦 Revisado; pendiente de aprobación del autor |
+| **Estado** | 🟩 Aprobado por el autor (12 de octubre de 2026) |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Sacar el encargo del invierno para la señora del pan —y, debajo, no tener que morirse nunca más |
 | **Obstáculo** | Los espíritus de nieve tienen dueño: el señor del invierno, que no ataca a la gente, pero tampoco perdona que le toquen a sus animalitos |
@@ -282,4 +282,4 @@
 - **La octava bandera: «Vuelven.»** Cierra el arco: las tres que lo sacaron de la nieve, y él, que dijo que no.
 - **El dolor como prueba de vida.** «Yo me pasé quince años con un cuerpo que no le contestaba a nadie.» Aquí el cuerpo duele, y eso quiere decir que está aquí.
 
-**Pendiente de aprobación del autor:** los nombres y datos nuevos de este capítulo — **el cerro del río** (donde Aqua purificará la orilla el mes que entra), **la señora del pan de los gemelos** y los **quince días sin carros del norte** (semilla del capítulo 9). Las dos decisiones de fondo del capítulo (la muerte y el regreso como el canon, y que Megumin sea la primera en ver la foto) ya las aprobó el autor el 12 de octubre de 2026.
+**Aprobado por el autor el 12 de octubre de 2026**, junto con los datos nuevos del capítulo: **el cerro del río**, **la señora del pan de los gemelos** y los **quince días sin carros del norte** (semilla del capítulo 9). Las dos decisiones de fondo (la muerte y el regreso como el canon, y que Megumin sea la primera en ver la foto) también quedaron aprobadas.

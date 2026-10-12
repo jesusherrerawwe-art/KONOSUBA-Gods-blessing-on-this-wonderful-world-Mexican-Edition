@@ -4,13 +4,13 @@
 >
 > **Regla de oro:** si la bitácora y el capítulo se contradicen, manda el capítulo — pero se corrige la bitácora el mismo día.
 
-**Última actualización:** capítulo 8 escrito y revisado, 12 de octubre de 2026 (pendiente de aprobación del autor).
+**Última actualización:** capítulo 8 aprobado por el autor, 12 de octubre de 2026.
 
 ---
 
 ## Estado actual
 
-**Piezas escritas:** 9 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo); ocho aprobadas y la novena revisada, pendiente de aprobación del autor.
+**Piezas escritas:** 9 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo); **las nueve, aprobadas.**
 
 | Pieza | Estado |
 | --- | --- |
@@ -22,7 +22,7 @@
 | Capítulo 5 — «El señor de la casa del cerro» | 🟩 Aprobado (5,030 palabras) |
 | Capítulo 6 — «El otro elegido» | 🟩 Aprobado (5,148 palabras) |
 | Capítulo 7 — «La gente que sí va» | 🟩 Aprobado (5,005 palabras) |
-| Capítulo 8 — «No me dolió» | 🟦 Revisado (5,495 palabras) · pendiente de aprobación del autor |
+| Capítulo 8 — «No me dolió» | 🟩 Aprobado (5,495 palabras) |
 | Capítulos 9–10 | ⬜ No escritos |
 | Epílogo del volumen | ⬜ No escrito |
 

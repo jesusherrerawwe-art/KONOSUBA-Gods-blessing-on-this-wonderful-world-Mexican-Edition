@@ -117,7 +117,7 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 | 5 | 🟩 Aprobado | «El señor de la casa del cerro» | 5,030 palabras · revisado y aprobado · Beldia y la maldición |
 | 6 | 🟩 Aprobado | «El otro elegido» | 5,148 palabras · revisado y aprobado · el lago, Mitsurugi y el séptimo día |
 | 7 | 🟩 Aprobado | «La gente que sí va» | 5,005 palabras · revisado y aprobado por el autor · cierra el séptimo día |
-| 8 | 🟦 Revisado | «No me dolió» | 5,495 palabras · **revisado; pendiente de aprobación del autor** · la muerte y el regreso, como el canon |
+| 8 | 🟩 Aprobado | «No me dolió» | 5,495 palabras · revisado y aprobado por el autor · la muerte y el regreso, como el canon |
 | 9 | ⬜ Vacío | — | — |
 | 10 | 🟩 Cierre fijado | *(por definir)* | **El Destructor** (clímax ya aprobado) |
 | **Epílogo** | ⬜ Vacío | — | Cierra el arco del volumen y deja la puerta abierta |
@@ -130,7 +130,7 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 
 **Capítulo 7 (12 de octubre de 2026):** escrito, revisado y **aprobado por el autor** (ficha incluida). Siguiente en fila: el capítulo 8, con su ficha primero.
 
-**Capítulo 8 (12 de octubre de 2026):** escrito y revisado (ficha incluida); **pendiente de aprobación del autor**. Siguiente en fila: el capítulo 9, con su ficha primero.
+**Capítulo 8 (12 de octubre de 2026):** escrito, revisado y **aprobado por el autor** (ficha incluida). Siguiente en fila: el capítulo 9, con su ficha primero.
 
 ## Estado de los volúmenes
 
