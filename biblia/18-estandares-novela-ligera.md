@@ -139,7 +139,11 @@ Estas son las conclusiones más repetidas entre guías de escritura y análisis 
 | Contra la **web** (3,000–5,000 caracteres) | ⚠️ Nuestros capítulos serían largos para episodio web, correctos para capítulo de libro |
 | Contra el **concurso Dengeki** (100,000–150,000 caracteres) | ✅ Si se suman los tres volúmenes (≈120,000 palabras ≈ 200,000 caracteres), se supera el mínimo con holgura |
 
-### 5.3 La decisión
+### 5.3 La decisión ✅ **Aprobada: opción B**
+
+**El autor eligió la opción B: 4,500–5,000 palabras por capítulo**, con flexibilidad para que cada capítulo decida dentro del rango.
+
+> **Criterio de redacción:** piso de **4,000** palabras y techo de **5,500**. El capítulo 1, ya aprobado como el más largo, puede pasar el techo.
 
 **El plan actual es válido y está bien calibrado si el objetivo es «un KonoSuba de verdad».** Pero si el objetivo es el estándar de *Re:Zero* o *SAO* —las dos obras que el autor citó como referencia—, **hay que subir la extensión**.
 
@@ -162,10 +166,10 @@ Tres caminos posibles:
 
 ### 5.5 Ajustes de estructura que conviene adoptar
 
-- ✅ **Prólogo corto** antes del capítulo 1 (3–5 páginas). El prólogo estándar insinúa algo que el lector todavía no entiende. Encaja perfecto con el «primer paso en Axel» si se quiere abrir con un destello y luego retroceder a la vida de Jesús.
-- ✅ **Epílogo por volumen.** Cada tomo cierra su propio arco emocional y deja una puerta abierta.
-- ✅ **Páginas de interludio opcionales** (el «reporte del gremio», el diario de alguien, el menú de una taberna). Son baratísimas de escribir, cortan la monotonía y son muy del medio.
-- ✅ **Contenido: diálogo por encima de descripción.** Ya lo dice nuestra guía (sección 10), pero aquí queda cuantificado.
+- ✅ **Prólogo corto** antes del capítulo 1 (3–5 páginas). **Aprobado por el autor.** Un destello que el lector todavía no entiende. El prólogo estándar insinúa algo que viene; encaja con el «primer paso en Axel» si se abre con un destello y luego se retrocede a la vida de Jesús.
+- ✅ **Epílogo por volumen.** Cada tomo cierra su propio arco emocional y deja una puerta abierta. Es la convención del género y no se contrapone a nada del proyecto.
+- ❌ **Páginas de interludio: descartadas por el autor.** Solo capítulos numerados. El prólogo y el epílogo por volumen son la única excepción.
+- ✅ **Contenido: diálogo por encima de descripción.** Ya lo dice nuestra guía (sección 10), pero aquí queda cuantificado: descripción de dos a cuatro líneas para situar la escena, y el diálogo hace el resto.
 - ✅ **Nada de worldbuilding al principio.** Lección Re:Zero: personajes primero, sistema después.
 
 ---

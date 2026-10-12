@@ -23,7 +23,7 @@ El agente redacta una ficha breve con los campos del bloque siguiente y se la pr
 El autor la revisa, pide cambios, cambia el orden si hace falta o pide otra propuesta. La ficha se ajusta hasta que él diga que sí.
 
 ### Paso 3 — Redacción
-Se escribe el capítulo completo. Extensión objetivo: **3,500 a 4,500 palabras** (el capítulo 1 puede pasarse, ya está aprobado como el más largo).
+Se escribe el capítulo completo. **Extensión objetivo: 4,500–5,000 palabras**, con piso de 4,000 y techo de 5,500 (decisión aprobada en la sección 18). El capítulo 1 puede pasar el techo: ya está aprobado como el más largo.
 
 ### Paso 4 — Revisión y bitácora
 Se actualiza la bitácora de continuidad con todo lo que el capítulo dejó vivo. Después se pasa al siguiente.
@@ -72,6 +72,7 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 
 | Cap. | Estado | Título | Nota |
 | --- | --- | --- | --- |
+| **Prólogo** | 🟨 Pendiente de diseño | *(por definir)* | 3–5 páginas · un destello que el lector todavía no entiende |
 | 1 | 🟨 Diseño aprobado | *(por definir)* | Emotivo, lineal, muestra todo; cierra con el primer paso en Axel |
 | 2 | ⬜ Vacío | — | — |
 | 3 | ⬜ Vacío | — | — |
@@ -82,8 +83,11 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 | 8 | ⬜ Vacío | — | — |
 | 9 | ⬜ Vacío | — | — |
 | 10 | 🟩 Cierre fijado | *(por definir)* | **El Destructor** (clímax ya aprobado) |
+| **Epílogo** | ⬜ Vacío | — | Cierra el arco del volumen y deja la puerta abierta |
 
 **Leyenda:** ⬜ vacío · 🟨 en diseño · 🟦 en redacción · 🟩 cerrado/fijado
+
+**Estructura fija del volumen:** prólogo corto + 10 capítulos + epílogo. **No hay páginas de interludio** (decisión del autor, sección 18).
 
 ## Estado de los volúmenes
 
