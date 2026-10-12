@@ -26,7 +26,7 @@
 
 **El grupo ya está completo** (Jesús, Aqua, Megumin y Darkness) y registrado en el gremio como **cuadrilla**, todavía sin nombre.
 
-**Título de la obra:** 『**KONOSUBA! — La bendición de Jesús en este maravilloso mundo**』*(Edición Mexicana)* — propuesto por el agente, pendiente del visto bueno del autor. Alternativas: «El Rebaño Sagrado» y «Un cuarto con ventana».
+**Título de la obra:** 『**KONOSUBA! — La bendición de Jesús en este maravilloso mundo**』*(Edición Mexicana)* — **aprobado por el autor el 12 de octubre de 2026.** Las alternativas («El Rebaño Sagrado», «Un cuarto con ventana») quedaron descartadas como título de la obra.
 
 **Nota de continuidad:** el prólogo es un fragmento del **mismo instante** en que arranca la segunda mitad del capítulo 1 (el lugar sin ventanas, de pie, esperando). El capítulo **no repite** esa escena: la retoma donde el prólogo la dejó.
 

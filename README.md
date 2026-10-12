@@ -13,7 +13,7 @@ Esta es una **novela ligera original inspirada en el universo de *KonoSuba!***, 
 
 **Por qué este título:** el título oficial de la serie original es *God's Blessing on This Wonderful World!* — *«La bendición de Dios en este maravilloso mundo»*. Aquí el protagonista **se llama Jesús**, así que el juego de palabras funciona solo, en los dos sentidos: la bendición que él recibe y la bendición que él trae. Es un homenaje, no una burla.
 
-**Alternativas** *(por si el autor prefiere otra)*: **«El Rebaño Sagrado»** — la playera, el nombre y la party en una sola frase — o **«Un cuarto con ventana»**, que es la promesa que el protagonista pide al llegar.
+**Título aprobado por el autor el 12 de octubre de 2026.** Las alternativas que estuvieron en la mesa quedaron descartadas como nombre de la obra, aunque las dos siguen viviendo dentro del texto: «El Rebaño Sagrado» es el apodo de la afición de las Chivas y «Un cuarto con ventana» es el título del capítulo 2.
 
 ## La novela
 
