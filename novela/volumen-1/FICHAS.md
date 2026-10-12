@@ -194,4 +194,34 @@
 
 ---
 
-*(Aquí se irán agregando las fichas del capítulo 6 y siguientes.)*
+## Capítulo 6. El otro elegido
+
+| Campo | Contenido |
+| --- | --- |
+| **Volumen** | 1 |
+| **Extensión** | 4,906 palabras (≈ 17 páginas) |
+| **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
+| **Foco** | Jesús, primera persona |
+| **Deseo local** | Sacar al grupo de la quiebra antes del invierno |
+| **Obstáculo** | El dinero se lo gastó Aqua en el templo, y el único encargo grande es un lago contaminado lleno de monstruos |
+| **Forma** | Cinco movimientos: la quiebra, el encargo del lago, la purificación en jaula, el encuentro con Mitsurugi y la confesión de Aqua en el cuarto |
+| **Referencia del canon** | Episodio 5: la deuda de Aqua, el encargo de purificación del lago con monstruos, la jaula, el encuentro con **Mitsurugi Kyouya** (espadachín de clase avanzada, espada mágica **Gram**, fuerte sentido de la justicia, también enviado por Aqua), el reto y el robo de la espada |
+| **Cambio al cierre** | Jesús sabe que no es el único al que Aqua mandó, y decide que eso está bien: el trabajo es de uno. Y termina el plazo: **es el séptimo día** |
+| **Lo que el lector aprende** | Que hay **otros elegidos** y que Aqua ha mandado gente durante siglos sin acordarse de todos; que Jesús es el único que le pidió lo que nadie le pide (eco del capítulo 1); que Jesús sostiene la cuerda por primera vez en su vida; que Mitsurugi es de **Osaka** y entiende de dónde viene Jesús |
+| **Gancho** | «¡El sin cabeza está en el camino!» — Beldia viene a Axel, de noche, y es el séptimo día |
+| **Rutas** | **Aqua**: capítulo de ella, de punta a punta (el lago, la canción, el llanto, y la primera vez que le preguntan quién es ella para el grupo). **Megumin**: el país del silencio; no aparece en la trama del lago. **Darkness**: su escena en el agua, riéndose entre los monstruos. **Mitsurugi**: no es ruta, es espejo |
+| **Objetos** | La jaula de hierro (14 monedas prestadas por el herrero) · las trescientas velas de miel del templo · la espada Gram (robada con Robar y **devuelta**) |
+| **Continuidad** | Todo lo del apartado del capítulo 6 en la bitácora (sección 17) |
+
+**Decisiones creativas de este capítulo:**
+- **El duelo no se pelea.** Jesús se niega a pelear y ofrece la otra mejilla, que es su carácter; el conflicto se resuelve con `Robar` (la habilidad le entrega la cosa que Mitsurugi más cuida) y con **devolver la espada de inmediato** (variación deliberada del canon, en el que Kazuma la vende). Y Mitsurugi, humillado por la clemencia más que por el robo, responde con la mejor línea del capítulo: **«¡Pues yo prefiero que me la vendas!»**
+- **Primera vez que Jesús dice «lo siento».** Beldia le corrigió el vocabulario en el capítulo 5 y aquí se paga: elige «lo siento» en el momento exacto en que la frase es verdad.
+- **La cuerda.** El corazón temático del capítulo: *«en toda mi vida yo nunca había sido el que sostiene la cuerda. Yo era la cuerda.»* Conecta con sus padres, que lo sostuvieron toda su vida, y con su meta de hacerse fuerte.
+- **El mito del elegido, desarmado.** Jesús descubre que hay mucha gente elegida y que él es uno más. La conclusión lo deja mejor parado: sin destino especial, el trabajo es de uno.
+- **Mitsurugi es de Osaka.** El espejo del canon (dos enviados de Japón) se vuelve íntimo: es la única persona en el mundo que sabe lo que es un tifón, una tienda de conveniencia y un tren. Y le deja un regalo abierto: **hay una playa al noroeste, a dos semanas**. *«Si algún día vas, me avisas.»*
+
+**Pendiente de aprobación del autor:** el nombre del **padre Aldo** (el cura del templo de Axis en Axel), el pueblo de **Tander** (nombre del pueblo del lago) y el apunte de que Mitsurugi es de Osaka. Y la playa al noroeste queda como promesa abierta para el futuro de la novela.
+
+---
+
+*(Aquí se irán agregando las fichas del capítulo 7 y siguientes.)*

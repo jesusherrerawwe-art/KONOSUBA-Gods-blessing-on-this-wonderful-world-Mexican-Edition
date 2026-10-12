@@ -4,13 +4,13 @@
 >
 > **Regla de oro:** si la bitácora y el capítulo se contradicen, manda el capítulo — pero se corrige la bitácora el mismo día.
 
-**Última actualización:** tras el capítulo 5.
+**Última actualización:** tras el capítulo 6.
 
 ---
 
 ## Estado actual
 
-**Piezas escritas:** 6 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo).
+**Piezas escritas:** 7 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo).
 
 | Pieza | Estado |
 | --- | --- |
@@ -20,7 +20,8 @@
 | Capítulo 3 — «La muchacha que hacía temblar los cerros» | 🟦 Escrito (5,490 palabras) |
 | Capítulo 4 — «La gente que se pone enfrente» | 🟦 Escrito (5,070 palabras) |
 | Capítulo 5 — «El señor de la casa del cerro» | 🟦 Escrito (4,894 palabras) |
-| Capítulos 6–10 | ⬜ No escritos |
+| Capítulo 6 — «El otro elegido» | 🟦 Escrito (4,906 palabras) |
+| Capítulos 7–10 | ⬜ No escritos |
 | Epílogo del volumen | ⬜ No escrito |
 
 **El grupo ya está completo** (Jesús, Aqua, Megumin y Darkness) y registrado en el gremio como **cuadrilla**, todavía sin nombre.
@@ -50,6 +51,9 @@
 | **El zapato ajeno** | Morral de Jesús | Le salió con Robar el día de las coles y se quedó con él. Se lo llevó al castillo de Beldia | Cap. 5 |
 | **Las tablas de Beldia** | Castillo del cerro | Tablas nuevas, cortadas derechito, apiladas sobre una mesa, con un martillo y un bote de clavos | Cap. 5 |
 | **El libro de banderas** | App de notas del celular | Seis banderas. La sexta se escribió al bajar del cerro de Beldia | Cap. 5 |
+| **La jaula de hierro** | Prestada al herrero de Axel | Catorce monedas que no tenían; hay que devolverla | Cap. 6 |
+| **La espada Gram** | Con Mitsurugi | Jesús se la saca con Robar y se la devuelve en el acto. **No se vendió** | Cap. 6 |
+| **Las trescientas velas** | Templo de Axis en Axel | De las caras, de las que huelen a miel. Compradas por Aqua | Cap. 6 |
 
 ## Detalles del mundo ya fijados por el texto
 
@@ -143,7 +147,7 @@
 | --- | --- | --- | --- |
 | **Aqua** | Aliada y compañera de cuarto | Toda su vida, su familia y su promesa | El primer beso (Vol. 1) |
 | **Luna** | Primera amiga en Axel | Que es nuevo, que es amable y que eligió la peor clase; sabe quién es Megumin y por qué él le cayó bien | El beso sencillo (Vol. 2) |
-| **Megumin** | Compañera de grupo y primera amiga de su edad | Que él volteó a ver su práctica cuando nadie más lo hacía. Ya sabe que él «no había tenido amigos». Le robó la piedra y se la devolvió. **Tiene seis días de vida si nadie va al castillo** | El beso «Explosión» (Vol. 1–2) |
+| **Megumin** | Compañera de grupo y primera amiga de su edad | Que él volteó a ver su práctica cuando nadie más lo hacía. Ya sabe que él «no había tenido amigos». Le robó la piedra y se la devolvió. **Se le acabó el plazo de siete días y el castillo sigue sin visita** | El beso «Explosión» (Vol. 1–2) |
 | **Darkness** | Cuarta integrante del grupo | Que él se enojó por ella, que le dijo **«nadie me ha dicho eso nunca»** y que ya sabe, a medias, lo de sus padres. Duerme en la posada, con cama pagada por él | El beso «el chiste que se rompe» (Vol. 2) |
 | **Chris** | Le enseñó *Robar* y le husmeó el bolsillo | Que trae las manos suaves de alguien que nunca trabajó, que tiene una llave que nunca ha usado y un dije que no es de este mundo *(no lo ha visto)* | El beso robado (Vol. 2) |
 | **Wiz** | Sin conocer | — | Vol. 2 |
@@ -275,6 +279,41 @@
 - **La guardia evacuó la calle del mercado** antes de la llegada de Beldia; no lo hacían desde un incendio.
 - **Cuenta regresiva:** cuando Jesús baja del castillo quedan **seis días**.
 
+## Detalles del mundo ya fijados por el texto (capítulo 6)
+
+### El templo y el cura
+- Hay un **templo de la Iglesia Axis en Axel**: chiquito, de dos cuartos, con goteras en el techo. El cura se llama **padre Aldo**, tiene una nariz enorme y una paciencia igual de grande.
+- **Aqua le pagó el techo y le compró trescientas velas de miel**, y por eso el grupo se quedó con once monedas. *(Origen de la quiebra, variación propia del problema de dinero del canon.)*
+- Pregunta de Luna que quedó guardada: **«¿Y tú eres de las que dan, o de las que reciben?»** → pendiente de responder en el futuro.
+
+### El lago de Tander
+- A **medio día de camino** de Axel, cerca del pueblo de **Tander**. Es la fuente de agua de cuatro pueblos y llevaba meses rancia y amarga.
+- **Un lago enfermo, no sucio:** negro, tibio, con burbujas en el lodo. Monstruos largos que dejan raya en el agua y no sacan la cabeza.
+- **El plan de la jaula fue de Jesús:** jaula de hierro, cuerda, agua hasta la cintura, llave en el zapato de Darkness (regla de Aqua), tres jalones para subir.
+- **La purificación:** Aqua canta, en un idioma que no es de este mundo, y el agua se limpia en círculos. Los monstruos no entran al círculo. Al amanecer el lago está limpio.
+- **Darkness se metió al lago con armadura**, se hundió hasta el fondo y se puso de pie: se plantó enfrente de la jaula y se rio cada vez que algo le pasó por la pierna.
+- **La clave emotiva:** *«en toda mi vida yo nunca había sido el que sostiene la cuerda. Yo era la cuerda.»*
+
+### Mitsurugi Kyouya
+- **Mitsurugi Kyouya**, de **Osaka**. Tiene la edad de Jesús o un año más. Armadura sin un raspón, capa, pelo castaño bien cortado.
+- **Espada mágica Gram:** empuñadura de metal oscuro con dibujos que se mueven. **No es de este mundo.**
+- **Él también fue enviado por Aqua**; llegó **hace tres años** y es aventurero de rango alto (mató al basilisco de las minas del norte, ayudó a los pueblos del río). Viaja con **dos chicas con bastón** que lo admiran.
+- Cree que «las diosas se quedan en su escritorio»: **casi nadie sabe que Aqua sigue en este mundo.**
+- Identificó a Jesús por el acento: **«Tu acento es japonés. Se te oye cuando dices las palabras largas.»** Y remató con «¡Tú y yo somos vecinos!».
+- **El reto:** duelo con armas porque Jesús «metió a la diosa en una jaula». Jesús se negó a pelear. Mitsurugi atacó de todos modos y **`Robar` le entregó la espada**.
+- **Jesús se la devolvió en el acto** y le dijo **«lo siento»** (no «perdón») por primera vez en la novela.
+- Reacción de Mitsurugi, que es la mejor línea del capítulo: **«¡Pues yo prefiero que me la vendas!»** — la clemencia le dolió más que el robo.
+- **Promesa abierta:** *«La playa más cercana está al noroeste, a dos semanas. Si algún día vas, me avisas.»*
+
+### Aqua y los elegidos
+- **Aqua manda gente a este mundo continuamente desde hace siglos.** Ella lo describe como un escritorio: llegan, escogen, se van.
+- **No se acuerda de todos.** Pero de Jesús sí, y explicó por qué: *«Tú me pediste lo que nadie me pide. Eso no se olvida a nadie.»*
+- Jesús acepta la conclusión: **no es especial, y eso está bien; el trabajo es de uno.**
+
+### El cierre
+- **Es el séptimo día.** A las tres de la mañana suena la campana de la puerta de la ciudad, el señor barbón corre con una antorcha gritando **«¡El sin cabeza está en el camino!»**, y sobre los techos se ve la luz encendida del cerro y una **columna de humo delgadita, derechita, como un dedo.**
+- **El pendiente emocional que arrastra el capítulo 7:** tras lo de Mitsurugi, Jesús ya dudó una vez de la gente que promete y no cumple (capítulo 5). Ahora Beldia está esperando y **nadie fue al castillo en siete días**. Lo que el capítulo 7 tiene que resolver: si Jesús va, por fin, a ver al señor sin cabeza.
+
 ## Promesas abiertas (cosas insinuadas y todavía no pagadas)
 
 - **El mensaje a su mamá** («que no me dolió»): prometido por Aqua. → Debe pagarse, y el epílogo es el lugar natural.
@@ -307,7 +346,9 @@
 **Techo:** el cuarto del techo inclinado, la posada del farol con la luz roja.
 **Promesa del grupo:** hacerse fuerte (Jesús), para que Darkness pueda pararse enfrente sin culpa (trato de ella).
 
-**Cuenta regresiva abierta:** quedan **seis días** para que Megumin tenga que ir al castillo del cerro. Nadie ha ido.
+**Cuenta regresiva cerrada:** pasaron los siete días y **nadie fue al castillo**. Beldia viene a Axel: **es el séptimo día**, tres de la mañana.
+
+**Lo que Jesús aprendió en el capítulo 6:** no es el único elegido, no hay un destino especial, y el oficio es el que uno se hace. Y sostuvo la cuerda por primera vez en su vida.
 
 ## Rutas románticas
 

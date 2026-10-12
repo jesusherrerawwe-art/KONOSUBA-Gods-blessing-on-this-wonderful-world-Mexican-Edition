@@ -100,7 +100,7 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 | 3 | 🟦 Escrito | «La muchacha que hacía temblar los cerros» | 5,490 palabras · entra Megumin; el grupo ya es cuatro |
 | 4 | 🟦 Escrito | «La gente que se pone enfrente» | 5,070 palabras · entra Darkness; cuadrilla completa |
 | 5 | 🟦 Escrito | «El señor de la casa del cerro» | 4,894 palabras · Beldia y la maldición |
-| 6 | ⬜ Vacío | — | — |
+| 6 | 🟦 Escrito | «El otro elegido» | 4,906 palabras · el lago, Mitsurugi y el séptimo día |
 | 7 | ⬜ Vacío | — | — |
 | 8 | ⬜ Vacío | — | — |
 | 9 | ⬜ Vacío | — | — |
