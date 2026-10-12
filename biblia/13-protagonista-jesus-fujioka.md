@@ -112,6 +112,8 @@ La estructura sigue el ritmo del anime —cuyas tres temporadas tienen 10, 10 y 
 
 Trece decisiones, tomadas junto con el autor. Doce están cerradas y una quedó **reservada como sorpresa** por él.
 
+*(El romance, las rutas y el Rey Demonio tienen su propio tablero en la sección 14: decisiones 14 a 18.)*
+
 | # | Decisión | Estado | Resultado |
 | --- | --- | --- | --- |
 | 1 | ¿Qué pasa con Kazuma? | ✅ Tomada | Vive su vida en Japón; nunca reencarna. Jesús es una bendición paralela |
@@ -127,6 +129,11 @@ Trece decisiones, tomadas junto con el autor. Doce están cerradas y una quedó 
 | 11 | ¿Cuánto canon usamos? | ✅ Tomada | **Balance ≈50%**, en el orden del anime; los clímax se proponen en el Plan |
 | 12 | Tono del capítulo 1 | ✅ Tomada | Emotivo primero y comedia después; se muestra **todo** con ternura; narración lineal; cierra con el primer paso en Axel |
 | 13 | Títulos de los tres volúmenes | 🤫 Sorpresa | Reservado por el autor; no se proponen aquí |
+| 14 | Reparto romántico | ✅ Tomada | **Siete rutas**: núcleo (Aqua, Megumin, Darkness) + círculo (Wiz, Yunyun, Luna, Chris) |
+| 15 | El «libro de banderas» | ✅ Tomada | Columna central del arco romántico, con arco propio y transformación en el epílogo |
+| 16 | ¿Chris es Eris? | ✅ Tomada | **Sí**: se usa el dato de las novelas; dos diosas tras el mismo chico |
+| 17 | El Rey Demonio | ✅ Tomada | **Variante híbrida**: nunca pelea en pantalla; el trato existe como reloj emocional |
+| 18 | Textura de la guerra | ✅ Tomada | Solo rumor y horizonte: alertas, refugiados y comentarios sueltos |
 
 ## Decisiones abiertas
 
