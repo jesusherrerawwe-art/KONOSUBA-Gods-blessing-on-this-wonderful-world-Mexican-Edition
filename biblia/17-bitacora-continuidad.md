@@ -4,13 +4,13 @@
 >
 > **Regla de oro:** si la bitácora y el capítulo se contradicen, manda el capítulo — pero se corrige la bitácora el mismo día.
 
-**Última actualización:** capítulo 7 aprobado por el autor, 12 de octubre de 2026.
+**Última actualización:** capítulo 8 escrito y revisado, 12 de octubre de 2026 (pendiente de aprobación del autor).
 
 ---
 
 ## Estado actual
 
-**Piezas escritas:** 8 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo); las ocho, aprobadas.
+**Piezas escritas:** 9 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo); ocho aprobadas y la novena revisada, pendiente de aprobación del autor.
 
 | Pieza | Estado |
 | --- | --- |
@@ -22,7 +22,8 @@
 | Capítulo 5 — «El señor de la casa del cerro» | 🟩 Aprobado (5,030 palabras) |
 | Capítulo 6 — «El otro elegido» | 🟩 Aprobado (5,148 palabras) |
 | Capítulo 7 — «La gente que sí va» | 🟩 Aprobado (5,005 palabras) |
-| Capítulos 8–10 | ⬜ No escritos |
+| Capítulo 8 — «No me dolió» | 🟦 Revisado (5,495 palabras) · pendiente de aprobación del autor |
+| Capítulos 9–10 | ⬜ No escritos |
 | Epílogo del volumen | ⬜ No escrito |
 
 **El grupo ya está completo** (Jesús, Aqua, Megumin y Darkness) y registrado en el gremio como **cuadrilla**, todavía sin nombre.
@@ -36,7 +37,7 @@
 | Objeto | Dónde está | Estado | Última mención |
 | --- | --- | --- | --- |
 | **Playera de las Chivas** | Puesta | La compró su papá en Guadalajara; la del escudo bordado | Cap. 1 |
-| **Celular** | Con Jesús | Cruzó con él. Tiene **la única foto** y la **lista de banderas** en las notas | Cap. 1 |
+| **Celular** | Con Jesús | Cruzó con él. Tiene **la única foto** y la **lista de banderas** en las notas. En el cap. 8 sale por primera vez delante de alguien: **Megumin ve la foto** | Cap. 8 |
 | **La llave (cadena)** | Cuello de Jesús | «La llave de una puerta que nunca abrió». La cargó al dar el primer paso | Cap. 1 |
 | **La foto** | Galería del celular | Él y su madre en la puerta de la cabaña, riéndose, torcida, malísima. **Es la mejor foto que existe** | Cap. 1 |
 | **Libro de banderas** | App de notas | Ya existe: la lista que empezó en Japón | Cap. 1 |
@@ -51,7 +52,8 @@
 | **La hoja de la cuadrilla** | Archivo del gremio | Firmada por los cuatro; **el nombre sigue en blanco**. Apuntados extraoficialmente como **«los de los sapos»** (los apuntó el señor Baltasar) | Cap. 4 |
 | **El zapato ajeno** | Morral de Jesús | Le salió con Robar el día de las coles y se quedó con él. Se lo llevó al castillo de Beldia | Cap. 5 |
 | **Las tablas de Beldia** | Castillo del cerro | Tablas nuevas, cortadas derechito, apiladas sobre una mesa, con un martillo y un bote de clavos | Cap. 5 |
-| **El libro de banderas** | App de notas del celular | Siete banderas. La sexta se escribió al bajar del cerro de Beldia; la séptima, la noche del séptimo día: «Van.» | Cap. 7 |
+| **El libro de banderas** | App de notas del celular | Ocho banderas. La séptima, la noche del séptimo día: «Van.». La octava, la noche de la nieve: **«Vuelven.»** | Cap. 8 |
+| **El frasco número doce** | Bodega de la posada de doña Hilda | Aqua se guardó un espíritu de nieve escondido: es el primer refrigerador de Axel y subió la comida de la posada todo el invierno | Cap. 8 |
 | **La jaula de hierro** | Prestada al herrero de Axel | Catorce monedas que no tenían; hay que devolverla | Cap. 6 |
 | **La espada Gram** | Con Mitsurugi | Jesús se la saca con Robar y se la devuelve en el acto. **No se vendió** | Cap. 6 |
 | **Las trescientas velas** | Templo de Axis en Axel | De las caras, de las que huelen a miel. Compradas por Aqua | Cap. 6 |
@@ -150,14 +152,13 @@
 
 | Heroína | Vínculo | Qué sabe | Pendiente |
 | --- | --- | --- | --- |
-| **Aqua** | Aliada y compañera de cuarto | Toda su vida, su familia y su promesa. **No pudo romper la maldición de Megumin** (sí la de Darkness) | El primer beso (Vol. 1) |
+| **Aqua** | Aliada y compañera de cuarto | Toda su vida, su familia y su promesa. **No pudo romper la maldición de Megumin** (sí la de Darkness). En el cap. 8 **le grita al cielo y lo jala de la muerte**, y por fin recibe el «gracias» | El primer beso (Vol. 1) |
 | **Luna** | Primera amiga en Axel | Que es nuevo, que es amable y que eligió la peor clase; sabe quién es Megumin y por qué él le cayó bien | El beso sencillo (Vol. 2) |
-| **Megumin** | Compañera de grupo y primera amiga de su edad | Que él volteó a ver su práctica cuando nadie más lo hacía. Ya sabe que él «no había tenido amigos». Le robó la piedra y se la devolvió. **El séptimo día le pidió la vida a Beldia en voz alta, con el sombrero en las dos manos, y vive; el general le regaló su torre** | El beso «Explosión» (Vol. 1–2) |
-| **Darkness** | Cuarta integrante del grupo | Que él se enojó por ella, que le dijo **«nadie me ha dicho eso nunca»** y que ya sabe, a medias, lo de sus padres. Duerme en la posada, con cama pagada por él | El beso «el chiste que se rompe» (Vol. 2) |
+| **Megumin** | Compañera de grupo y primera amiga de su edad | Que él volteó a ver su práctica cuando nadie más lo hacía. Ya sabe que él «no había tenido amigos». Le robó la piedra y se la devolvió. **El séptimo día le pidió la vida a Beldia en voz alta y el general le regaló su torre.** En el cap. 8 es **la primera persona a la que le muestra la foto de su mamá**, y sabe del más allá, de la oferta de Eris y del «no» | El beso «Explosión» (Vol. 1–2) |
+| **Darkness** | Cuarta integrante del grupo | Que él se enojó por ella, que le dijo **«nadie me ha dicho eso nunca»** y que ya sabe, a medias, lo de sus padres. Duerme en la posada, con cama pagada por él. En el cap. 8 **se hinca y pide perdón de verdad** por primera vez en su vida | El beso «el chiste que se rompe» (Vol. 2) |
 | **Chris** | Le enseñó *Robar* y le husmeó el bolsillo | Que trae las manos suaves de alguien que nunca trabajó, que tiene una llave que nunca ha usado y un dije que no es de este mundo *(no lo ha visto)* | El beso robado (Vol. 2) |
 | **Wiz** | Sin conocer | — | Vol. 2 |
 | **Yunyun** | Sin conocer | — | Vol. 2 |
-| **Chris / Eris** | Sin conocer | — | Vol. 2 |
 | **Iris** | Sin conocer | — | Vol. 3 (anillo) |
 
 ## Mundo y reputación
@@ -348,12 +349,60 @@
 - **Los monstruos están volviendo**: al día siguiente, el gremio amanece con tres encargos («anoche volvieron los sapos al valle»). Beldia se va y el mundo chiquito regresa.
 - **El capitán de la guardia** sigue sin nombre propio. Doña Hilda, el señor barbón, padre Aldo y Estrella, igual.
 
+## Detalles del mundo ya fijados por el texto (capítulo 8)
+
+### El invierno en Axel
+- La nieve llegó **ocho días después** de que Beldia se fuera, de noche. Dura todo el capítulo. La ciudad se apaga: **sin carreteros se acaban los encargos que se pagan bien**, los sapos se meten al fondo del agua y la caza se sube al monte.
+- La posada de doña Hilda pone **dos cobijas colgadas en la puerta** para quien llegue, y sirve atole (que en este mundo no se llama atole).
+- Los encargos del grupo en invierno: **barrer el techo del granero grande** de Axel (si se cae, se cae el pan de febrero) y **llevar tres barriles** a la bodega de don Baltasar.
+- El **suéter gris con un hueco en el codo** del respaldo de una silla: nadie en la posada sabe de quién es.
+
+### Los espíritus de nieve y el señor del invierno
+- Son **bolas de pelo blanco, del tamaño de un perro chiquito, con ojos negros**, y se dejan cazar. El encargo los paga **por frasco**; el gremio también paga «una cosa más grande por la piel del señor del invierno, en caso de que alguien tenga la suerte de encontrárselo».
+- **La ley del encargo, dicha por Luna:** «Los espíritus son animalitos. El problema es que tienen un señor. No es un monstruo: es un espíritu grande, y no le gusta que le toquen a sus animalitos». El año anterior ese encargo lo tomó un grupo de cuatro de los que bajan a los lagos: **volvieron tres**.
+- **Luna manda al grupo al hielo por una razón chica y verdadera:** la señora del pan, la de los gemelos, lleva **tres días quemando sillas** para no morirse de frío.
+- **El señor del invierno** se aparece en el filo de la llanura: **armadura samurái azul y blanca**, casco con dos cuchillos, tela gruesa a los costados, y un hueco azul en vez de cara. **No ataca a la gente.** Ataca cuando alguien **se levanta con el arma en la mano** delante de él (la espada de Darkness se parte en dos; a ella no la toca).
+- Cuando Aqua le **devuelve los once espíritus**, el señor se queda quieto y se va al fondo de la llanura. Perdona a quien se hinca y le pide perdón con la frente en el piso. Antes de irse se queda parado en un hoyo de nieve, de espaldas, «como un señor que se para en el andén a ver pasar el tren».
+- **De dónde le viene la cara:** Jesús creció viendo las estampas de esos señores samurái en Japón (tienda de la esquina, cajas de jugo, láminas de la escuela). El Shogun se manifiesta con la forma que la gente tiene en la cabeza.
+
+### El más allá y Eris
+- **Eris:** muchacha chiquita, pelo larguísimo entre plata y lila en dos colas bajas atadas con bolitas anaranjadas, ojos morados, ropa blanca y morada con capita de plumas, y **una cicatriz chiquita en la mejilla** — la misma que la de Chris, cosa que Jesús nota sin sacar conclusiones («no era momento de andar de adivinanzas»).
+- Es **la diosa a la que le rezan en Axel** y la que le reza Darkness con su dije de plata; se pone rojísima cuando Jesús se lo dice.
+- **El lugar blanco:** el mismo del prólogo y del capítulo 1. Sin ventanas, con el sillón que no es sillón y lo blanco tibio «como sábana tendida al sol».
+- **La oferta:** Eris puede abrirle **la puerta de su casa** y mandarlo con su mamá, entero y de verdad (no es sueño), pero **a los días se enferma otra vez y se muere otra vez, ahí, en su casa, con ella viéndolo: «y te va a enterrar dos veces».**
+- **Regla del cielo (nueva, fijada aquí):** a los que ya se les dio una vida **no se les puede dar otra**; y **a los que ya volvieron una vez no se los puede jalar otra vez** (por eso Aqua no puede revivirlo: es «prohibidísimo» y hay papeleo).
+- **La decisión de Jesús:** dice que no. «No le voy a romper eso. Aunque me muera de ganas. Aunque me muera otra vez.» Y Eris le deja la frase: **«Los que dicen que no, dicen que no por miedo. Tú dijiste que no por ella.»**
+- **El regreso lo arranca Aqua gritándole al cielo:** «¡Yo también soy diosa…! ¡A este muchacho no me lo vas a dejar en la nieve!», y la segunda parte, más bajita: «yo lo hice una vez, y lo voy a hacer otra, y después me voy a parar en tu puerta y te lo voy a decir en la cara». Y remata desde abajo, hablando sola: «…aunque yo tenga que llenar un formulario».
+- **Eris lo lleva hasta el filo y le suelta la mano:** «Del otro lado, la que tiene que jalar eres tú. O ella. O lo que sea.»
+- **El regreso:** vuelve por el frío, y **le duele todo**. Su primera frase emocional del capítulo: **«Estaba vivo. Y me dolía.»** (El dolor de un cuerpo que sí avisa; contraste directo con los quince años de un cuerpo que no le contestaba a nadie.)
+- **Lo que las tres hicieron mientras estaba muerto** (contado por ellas): Darkness le pide perdón al señor del invierno hincada; Aqua intenta revivirlo con las manos en el pecho y no pasa nada, dos veces; las tres se culpan entre sí y cada una se lleva su parte; después Aqua grita al cielo y el señor del invierno voltea la cara de la armadura.
+- **«Busca la ventana»** (el grito mudo de Jesús del capítulo 1) queda registrado: Megumin lo oyó con la frente en su rodilla y se lo confiesa después, en el cuarto.
+
+### El cerro del río y el trabajo de Megumin
+- Aqua va a **purificar la orilla del río el mes que entra** (con permiso de Mabel) y el **cerro del río** queda limpio: ahí puede tirar Megumin. Ella pregunta «¿En serio?» con los ojos aguados: es la primera vez que alguien le ofrece un lugar para explotar que no es una casa ajena.
+
+### Semilla para el capítulo 9
+- Luna, al día siguiente del regreso: **«hace quince días que no baja ni un carro del norte. Y nadie sabía por qué.»** Queda abierto, sin explicar.
+
+### Otras cosas fijadas
+- **Ocho banderas;** la octava es **«Vuelven.»**, con la nota: «Lo apunto por las tres que me sacaron de la nieve, y por mí, que dije que no.»
+- El **celular** sale del cuarto por primera vez delante de alguien: **Megumin** ve la foto, y no se la muestra a nadie más.
+- **La foto** (él y su mamá en la puerta de la cabaña, riéndose, torcida) sigue sin decir quién la tomó.
+- **Aqua trae escondido el frasco doce** y con eso la posada tiene refrigerador todo el invierno: «tres semanas insoportable».
+- La **señora del pan** (la de los gemelos) y el **cerro del río** entran al mundo del libro.
+- El **capitán de la guardia**, el señor barbón, Mabel, doña Hilda y el padre Aldo siguen sin nombre propio.
+
 ## Promesas abiertas (cosas insinuadas y todavía no pagadas)
 
 - **El mensaje a su mamá** («que no me dolió»): prometido por Aqua. → Debe pagarse, y el epílogo es el lugar natural.
 - **El cuarto con ventana**: pedido como su «cosa». → Debe pagarse cuando consiga habitación en Axel.
 - **La llave** que nunca usó y la puerta que abre.
 - **El marcador del último partido** que nunca supo.
+- **El mensaje a su mamá**, doblemente cargado desde el cap. 8: Aqua prometió decirle **que no le dolió**, y ahora el lector sabe que Jesús también se enteró de que su madre lo enterró una vez y de que podía volver.
+- **La puerta que Eris le ofreció y él cerró:** existe, y quedó cerrada por decisión suya.
+- **El cerro del río:** compromiso de Megumin y Aqua para el mes que entra (primera salida del grupo desde el invierno).
+- **Los carros del norte:** quince días sin bajar (semilla del capítulo 9).
+- **Megumin quedó dentro del secreto:** sabe del más allá, de la oferta y de la foto; el resto del grupo no.
 - **Las ruinas del oeste:** Beldia invitó («si un día andan por las ruinas, pregunten por el sin cabeza») y dejó sonando el hallazgo: **algo grande**. → Semilla del Vol. 1.
 - **La frase de la madre:** pendiente de regresar.
 - El **hilo de los padres**, que se cierra en el epílogo.
@@ -364,9 +413,10 @@
 | Campo | Valor |
 | --- | --- |
 | Físico | Cuerpo sano por primera vez en su vida; sin callos, sin fuerza, con la panza vacía |
-| Heridas | Ninguna |
-| Ánimo | Asombro y felicidad; un hueco por su mamá |
-| Personas que lo conocen | 1 (Aqua) |
+| Heridas | Ninguna; el pecho le duele nada más cuando se despereza (secuela de la muerte #2) |
+| Ánimo | Asombro y felicidad; un hueco por su mamá, ahora con una decisión encima: eligió este mundo a sabiendas de lo que dejó allá |
+| Personas que lo conocen | Aqua (todo) y **Megumin** (el más allá, la oferta y la foto, desde el cap. 8) |
+| Muertes | **Dos** (la de Japón y la de la llanura del norte, cap. 8); de la segunda volvió porque Aqua lo jaló |
 
 ## Estado del grupo
 
@@ -387,6 +437,8 @@
 **Lo que Jesús aprendió en el capítulo 6:** no es el único elegido, no hay un destino especial, y el oficio es el que uno se hace. Y sostuvo la cuerda por primera vez en su vida.
 
 **Lo que Jesús aprendió en el capítulo 7:** que quedarse y acompañar también es una forma de ir; que él casi no va; y que las cosas se piden en voz alta.
+
+**Lo que Jesús aprendió en el capítulo 8:** que puede volver, y que no siempre va a poder elegir; que su vida aquí ya es de verdad (le duele el cuerpo y no lo cambia por nada); y que las tres que lo sacaron de la nieve se quedaron con un pedazo de culpa que él no les pidió.
 
 ---
 

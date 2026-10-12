@@ -252,3 +252,34 @@
 - **El final no es una pelea: es un derrumbe con permiso.** Beldia le regala la torre a Megumin, y la Explosión deja de ser un atropello para volverse una despedida. *«El que la tumbe, que seas tú.»*
 
 **Pendiente de aprobación del autor:** el motivo por el que Beldia se marcha al oeste (el hallazgo de las ruinas) y el destierro de la pelea con Beldia (la novela lo deja vivo y de viaje, no lo mata como el canon).
+
+---
+
+## Capítulo 8. No me dolió
+
+| Campo | Contenido |
+| --- | --- |
+| **Volumen** | 1 |
+| **Extensión** | 5,495 palabras (≈ 17 páginas) |
+| **Estado** | 🟦 Revisado; pendiente de aprobación del autor |
+| **Foco** | Jesús, primera persona |
+| **Deseo local** | Sacar el encargo del invierno para la señora del pan —y, debajo, no tener que morirse nunca más |
+| **Obstáculo** | Los espíritus de nieve tienen dueño: el señor del invierno, que no ataca a la gente, pero tampoco perdona que le toquen a sus animalitos |
+| **Forma** | Cinco movimientos: la primera nieve de Axel, el encargo de Luna, la llanura y el Shogun, el más allá con Eris, y el regreso en tres escenas (la nieve, la posada, el cuarto) |
+| **Referencia del canon** | Episodio 7 (temporada 1): el encargo de los **espíritus de nieve** (que en el canon pagan 100,000 eris, aquí por frasco), la **Explosión de Megumin** que la deja tirada, la aparición del **Shogun del Invierno**, la huida tirados en el suelo y la orden de Aqua de **soltar a los espíritus**, la **muerte del protagonista** y **Eris** en el más allá. El canon revive al protagonista porque pide volver a Japón; aquí Jesús **rechaza volver a su casa** y el regreso se lo arranca Aqua gritándole al cielo |
+| **Cambio al cierre** | Jesús ya sabe que su regreso se puede repetir —y que hay una puerta, en el más allá, que él mismo cerró a propósito |
+| **Lo que el lector aprende** | Que el más allá tiene reglas («a los que ya volvieron una vez no se los puede jalar otra vez»), que **Eris es la diosa a la que le reza Darkness** y que **Aqua se atreve con el reglamento** por él; y que el dolor de un cuerpo sano también es una forma de estar vivo |
+| **Gancho** | Megumin ya tiene dónde explotar: **el cerro del río**. Y Luna suelta la alarma del capítulo 9: **hace quince días que no baja ni un carro del norte** |
+| **Rutas** | **Megumin**: Jesús le cuenta el más allá, la oferta de Eris y el «no», y es **la primera persona a la que le muestra la foto del celular**. **Aqua**: la que le grita al cielo y lo jala de vuelta; recibe el «gracias» que llevaba esperando. **Darkness**: su culpa, y su primer perdón de verdad, hincada enfrente del señor del invierno. **Eris**: aparece en persona y se queda como promesa (el secreto Chris = Eris no se paga aquí) |
+| **Objetos** | Los once frascos devueltos y el **doce** que Aqua se guarda · el frasco-refrigerador de la posada · **el celular**, que sale del secreto por primera vez delante de alguien · **la foto** · el libro de banderas: octava entrada |
+| **Continuidad** | Todo lo del apartado del capítulo 8 en la bitácora (sección 17) |
+
+**Decisiones creativas de este capítulo:**
+- **Muere y vuelve, como el canon** (decisión del autor, 12 de octubre de 2026). La muerte no se resuelve con un discurso: se resuelve con Aqua gritándole al cielo y con un «formulario».
+- **Las tres se culpan entre sí** (decisión del autor): Megumin, porque creyó que su pedido también la protegía a ella; Darkness, porque se puso enfrente cuando nadie se lo pidió; Aqua, porque sabía la regla y no la pudo cumplir.
+- **El Shogun del Invierno no es un villano: es el dueño de sus animalitos.** Espera, perdona a quien se hinca y le pide perdón, y se va al fondo de la llanura. Su figura le viene de la cabeza de Jesús: creció viendo esas estampas en Japón.
+- **El más allá de Eris es un trámite con reglas**, y Eris hace bien su trabajo. La puerta a casa es la tentación más grande del capítulo, y el «no» es la decisión más adulta que Jesús ha tomado en dos vidas.
+- **La octava bandera: «Vuelven.»** Cierra el arco: las tres que lo sacaron de la nieve, y él, que dijo que no.
+- **El dolor como prueba de vida.** «Yo me pasé quince años con un cuerpo que no le contestaba a nadie.» Aquí el cuerpo duele, y eso quiere decir que está aquí.
+
+**Pendiente de aprobación del autor:** los nombres y datos nuevos de este capítulo — **el cerro del río** (donde Aqua purificará la orilla el mes que entra), **la señora del pan de los gemelos** y los **quince días sin carros del norte** (semilla del capítulo 9). Las dos decisiones de fondo del capítulo (la muerte y el regreso como el canon, y que Megumin sea la primera en ver la foto) ya las aprobó el autor el 12 de octubre de 2026.
