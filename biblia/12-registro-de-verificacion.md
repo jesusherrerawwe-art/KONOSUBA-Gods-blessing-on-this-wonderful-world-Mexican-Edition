@@ -81,7 +81,18 @@ Se abrieron y cotejaron las siguientes páginas oficiales:
 - **Créditos de la cuarta temporada:** son anunciados, no emitidos. La biblia los trata como producción futura.
 - **Términos de licencia y uso de imágenes:** siguen sujetos a la política de KADOKAWA; ver la sección 11 antes de publicar cualquier material visual.
 
-## 8. Cómo usar esta bitácora
+## 8. Verificaciones hechas durante la redacción (12 de octubre de 2026)
+
+Consultas hechas mientras se escriben los capítulos, para no fijar por error un dato del canon:
+
+| Dato | Verificación | Resultado |
+| --- | --- | --- |
+| **Edad de Megumin** | Búsqueda en fuentes secundarias (ficha de personajes, wiki, resúmenes de la novela) | **Catorce años en el anime**; la novela la presenta a los **trece** y pasa la mayor parte de la serie a los catorce. Kazuma tiene **dieciséis**. **Decisión de la novela: Megumin tiene catorce**, y por ser menor que Jesús (quince) su romance se escribe en el registro del anime (decisión 3) |
+| **Proceso de reencarnación** | Sección 07 de esta biblia (ya verificada) | Los dos destinos, la oferta de llevar una cosa y la llegada a Axel. La novela **varía a propósito**: Jesús no elige a nadie por despecho y Aqua se une por terquedad |
+| **Clases y carta de aventurero** | Sección 07 — **[SECUNDARIA — síntesis de novelas]** | La carta existe como registro de atributos y clase; los valores numéricos concretos son invención de la novela y se mantienen cualitativos |
+| **Moneda** | Sección 07 (nombre confirmado por fuente oficial del episodio 7) | La moneda se llama **eris**. Se usa en la novela |
+
+## 9. Cómo usar esta bitácora
 
 Cuando la novela avance y se consulte o añada información nueva sobre el universo, conviene:
 

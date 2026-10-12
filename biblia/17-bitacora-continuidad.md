@@ -153,7 +153,7 @@
 ## Detalles del mundo ya fijados por el texto (capítulo 3)
 
 ### Megumin
-- **Megumin**, archimaga del **clan de los demonios carmesí**, de la **Aldea Carmesí**. Sombrero negro puntiagudo con una cosa dorada en la punta, capa roja, vestido rojo, botas rojas, ojos rojos «como la caoba». Es **más chiquita que Jesús**. Tiene **catorce años**. *(Aprobado en el canon: a los 14.)*
+- **Megumin**, archimaga del **clan de los demonios carmesí**, de la **Aldea Carmesí**. Sombrero negro puntiagudo con una cosa dorada en la punta, capa roja, vestido rojo, botas rojas, ojos rojos «como la caoba». Es **más chiquita que Jesús**. Tiene **catorce años** en el anime (la novela la presenta a los trece y pasa la mayor parte de la serie a los catorce) → **es menor que Jesús, que tiene quince**. Por eso su romance se escribe en el registro del anime (decisión 3).
 - Su presentación: *«¡Soy Megumin! ¡Archimaga del clan de los demonios carmesí! … ¡La dueña de la Explosión!»* El gremio la ignora; el señor barbón dice «ya llegó».
 - **La Explosión:** una vez al día, un solo tiro, y la deja sin nada — no puede moverse ni cerrar el puño. Antes de cada lanzamiento **abre los brazos, recita palabras que suenan a piedras y pide público**.
 - **Reglas que ella misma puso:** que la lancen cuando ella diga, y solo cuando el blanco valga la pena.
