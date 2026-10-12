@@ -4,13 +4,13 @@
 >
 > **Regla de oro:** si la bitácora y el capítulo se contradicen, manda el capítulo — pero se corrige la bitácora el mismo día.
 
-**Última actualización:** capítulo 7 escrito y revisado, 12 de octubre de 2026.
+**Última actualización:** capítulo 7 aprobado por el autor, 12 de octubre de 2026.
 
 ---
 
 ## Estado actual
 
-**Piezas escritas:** 8 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo).
+**Piezas escritas:** 8 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo); las ocho, aprobadas.
 
 | Pieza | Estado |
 | --- | --- |
@@ -21,7 +21,7 @@
 | Capítulo 4 — «La gente que se pone enfrente» | 🟩 Aprobado (5,077 palabras) |
 | Capítulo 5 — «El señor de la casa del cerro» | 🟩 Aprobado (5,030 palabras) |
 | Capítulo 6 — «El otro elegido» | 🟩 Aprobado (5,148 palabras) |
-| Capítulo 7 — «La gente que sí va» | 🟦 Escrito y revisado (5,005 palabras); pendiente del visto bueno |
+| Capítulo 7 — «La gente que sí va» | 🟩 Aprobado (5,005 palabras) |
 | Capítulos 8–10 | ⬜ No escritos |
 | Epílogo del volumen | ⬜ No escrito |
 
@@ -423,3 +423,5 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 **Aprobación del autor (12 de octubre de 2026):** el prólogo y los capítulos 1 a 6 quedaron **aprobados por el autor**. El rótulo de las siete piezas ya dice «aprobado por el autor» y el tablero de `biblia/16` está en verde. Los nombres que viven dentro de esas piezas (María, Kenji, doña Hilda, Mabel, el gato Shimura, el padre Aldo, Tander, Osaka) se dan por buenos con ellas; si alguno no late, se cambia sin problema.
 
 **Formato de los archivos (12 de octubre de 2026):** el autor escucha los capítulos en **ElevenReader**, que necesita los documentos en **UTF-8 con BOM**. El prólogo y los capítulos 1 a 6 ya se convirtieron (contenido idéntico, conteos intactos) y a partir de aquí **toda pieza nueva nace en ese formato**. Se aplica con `herramientas/utf8-bom.py` y se verifica con `herramientas/revisar-capitulos.py`.
+
+**Aprobación del autor — capítulo 7 (12 de octubre de 2026):** «Aprobado. 👌✨». El capítulo 7 «La gente que sí va» quedó aprobado junto con su ficha, y con él los dos puntos que la ficha dejaba abiertos: **Beldia se va al oeste** cargando la cosa grande, y **aquí no hay pelea ni muere el general**. La pieza y el tablero ya dicen «aprobado por el autor».

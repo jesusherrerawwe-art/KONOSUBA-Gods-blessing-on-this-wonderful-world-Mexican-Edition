@@ -1,7 +1,7 @@
 ﻿# Capítulo 7. La gente que sí va
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 7. Extensión: 5,005 palabras. Estado: revisado; pendiente de aprobación del autor.
+Volumen 1, capítulo 7. Extensión: 5,005 palabras. Estado: aprobado por el autor.
 
 ---
 

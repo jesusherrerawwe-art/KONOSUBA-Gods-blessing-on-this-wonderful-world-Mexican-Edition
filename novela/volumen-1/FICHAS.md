@@ -230,7 +230,7 @@
 | --- | --- |
 | **Volumen** | 1 |
 | **Extensión** | 5,005 palabras (≈ 16 páginas) |
-| **Estado** | 🟦 Revisado (12 de octubre de 2026); pendiente de aprobación |
+| **Estado** | 🟩 Aprobado por el autor (12 de octubre de 2026) |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que Megumin viva: sacarla del plazo que se vence hoy |
 | **Obstáculo** | El único que puede quitarle la maldición —Beldia— no va a ofrecer nada: viene de paso, con su mudanza, y espera que se la pidan. Y la ciudad entera quiere cerrar la puerta y pelear |
