@@ -19,8 +19,16 @@ Esta carpeta reúne la biblia de referencia para desarrollar una novela ligera o
 13. [Protagonista original del proyecto: Jesús Fujioka Hernández](13-protagonista-jesus-fujioka.md)
 14. [Romance, rutas y el Rey Demonio](14-rutas-romance-y-rey-demonio.md)
 15. [Ficha definitiva del personaje: Jesús Fujioka Hernández](15-ficha-definitiva-jesus-fujioka.md)
+16. [Método de trabajo: el ciclo de capítulo](16-metodo-de-trabajo.md)
+17. [Bitácora de continuidad](17-bitacora-continuidad.md)
 
-Las secciones 1 a 11 documentan el universo de referencia. Las secciones 12 a 15 son de trabajo: la 12 registra las verificaciones y correcciones, la 13 conserva el registro histórico de decisiones del protagonista, la 14 desarrolla el romance, las rutas y el papel del Rey Demonio, y la **15 es la ficha definitiva para escribir a Jesús**. Ninguna de las cuatro últimas es canon.
+Las secciones 1 a 11 documentan el universo de referencia.
+
+Las secciones 12 a 15 son de **diseño**: la 12 registra las verificaciones y correcciones, la 13 conserva el registro histórico de decisiones del protagonista, la 14 desarrolla el romance, las rutas y el papel del Rey Demonio, y la 15 es la **ficha definitiva para escribir a Jesús**.
+
+Las secciones 16 y 17 son de **producción**: la 16 explica el método de trabajo (capítulo a capítulo) y la 17 es la **bitácora de continuidad**, que se actualiza después de cada capítulo escrito.
+
+Ninguna de las secciones 12 a 17 es canon.
 
 ## Cómo leerla
 
