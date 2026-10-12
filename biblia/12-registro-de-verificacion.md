@@ -36,7 +36,25 @@ La biblia se redactó con prioridad en páginas oficiales japonesas del anime y 
 - **Kanasaki en el guion.** Además de la ficha del episodio 11, la del **episodio 9** de la tercera temporada lo acredita en guion y composición de planos. *(Sección 01.)*
 - **Reparto de voz de secundarios** (página oficial de KonoSuba 3): Sayuri Yahagi (Claire), Reina Ueda (Rain), Takuya Eguchi (Mitsurugi), Sayuri Hara (Luna), Yui Horie (Wiz) y Masakazu Nishida (Vanir). *(Sección 06.)*
 
-## 4. Comprobaciones directas contra el sitio oficial (11 de octubre de 2026)
+## 4. Referencia rápida: cuántos episodios tiene cada temporada
+
+Dato cotejado con el sitio oficial japonés y con el listado de episodios, útil para diseñar la estructura de la novela original.
+
+| Contenido | Episodios | Año | Fuente |
+| --- | --- | --- | --- |
+| Temporada 1 (TV) | **10** | 2016 | `konosuba.com/1st/story/` |
+| OVA de la temporada 1 (*¡Bendición para este maravilloso collar!*) | +1 | 2016 | Lanzado con la edición limitada del volumen 9 |
+| Temporada 2 (TV) | **10** | 2017 | `konosuba.com/2nd/story/` |
+| OVA de la temporada 2 (*¡Bendición para estas maravillosas obras de arte!*) | +1 | 2017 | Incluido en la caja oficial |
+| Película *Legend of Crimson* | 1 largometraje | 2019 | J.C.Staff |
+| Spin-off *An Explosion on This Wonderful World!* | **12** | 2023 | Drive |
+| Temporada 3 (TV) | **11** | 2024 | `konosuba.com/3rd/story/` |
+| OVAs *BONUS STAGE* | +2 | 2025 | Proyección en cines y edición doméstica |
+| **Total de la serie principal (TV)** | **31** | 2016–2024 | |
+
+**Nota de estructura:** la novela original de este proyecto se diseñó con **30 capítulos en tres volúmenes de 10**, de modo que cada volumen respira al ritmo de una temporada del anime. La correspondencia es de *ritmo y extensión*, no de contenido: qué eventos del canon se adaptan, se transforman u omiten es una decisión creativa aparte.
+
+## 5. Comprobaciones directas contra el sitio oficial (11 de octubre de 2026)
 
 Se abrieron y cotejaron las siguientes páginas oficiales:
 
@@ -48,7 +66,7 @@ Se abrieron y cotejaron las siguientes páginas oficiales:
 - `konosuba.com/news/?mode=detail&id=20260726` — anuncio oficial de la cuarta temporada: 2027, ENGI, equipo y reparto.
 - `promo.kadokawa.co.jp/sneakerbunko/konosuba/` — portal editorial: *Yorimichi 4* y la entrega *Extra*, ambos del 28 de febrero de 2026; catálogo de complementos.
 
-## 5. Comprobaciones con prensa especializada (fuente secundaria)
+## 6. Comprobaciones con prensa especializada (fuente secundaria)
 
 - Cierre de *Fantastic Days*: confirmado por RPG Site y GamingOnPhone (anuncio de las desarrolladoras incluido).
 - Programación posterior del juego nuevo: GamingOnPhone (octubre de 2026), que cita el sitio oficial del juego.
@@ -56,14 +74,14 @@ Se abrieron y cotejaron las siguientes páginas oficiales:
 - Cuarta temporada: Anime News Network, APRSI y Gametrader, coincidentes con el anuncio oficial.
 - *Yorimichi 4*: wiki de fans y fichas comerciales, coincidentes con el portal editorial.
 
-## 6. Pendientes y límites
+## 7. Pendientes y límites
 
 - **Diseño interno del sistema de magia y habilidades:** sigue sin fuente primaria publicada. La biblia lo mantiene etiquetado como **[SECUNDARIA — síntesis de novelas]** y así debe quedarse hasta cotejar los pasajes concretos de la novela. *(Sección 07.)*
 - **Guion exacto de los OVAs *BONUS STAGE*:** la información pública disponible es promocional; los resúmenes detallados pertenecen a la función en cines y no se han cotejado aquí.
 - **Créditos de la cuarta temporada:** son anunciados, no emitidos. La biblia los trata como producción futura.
 - **Términos de licencia y uso de imágenes:** siguen sujetos a la política de KADOKAWA; ver la sección 11 antes de publicar cualquier material visual.
 
-## 7. Cómo usar esta bitácora
+## 8. Cómo usar esta bitácora
 
 Cuando la novela avance y se consulte o añada información nueva sobre el universo, conviene:
 

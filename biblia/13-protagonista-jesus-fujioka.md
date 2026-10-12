@@ -1,6 +1,6 @@
 # 13. Protagonista original del proyecto: Jesús Fujioka Hernández
 
-> **Aviso:** esta sección **no documenta canon de *KonoSuba***. Reúne el material creativo original de este proyecto, aportado por el autor, más notas de desarrollo. Se irá actualizando conforme avance el Plan de Acción de los 26 capítulos.
+> **Aviso:** esta sección **no documenta canon de *KonoSuba***. Reúne el material creativo original de este proyecto, aportado por el autor, más notas de desarrollo. Se irá actualizando conforme avance el Plan de Acción de los **30 capítulos** (3 volúmenes de 10).
 
 ## El personaje en una frase
 
@@ -88,9 +88,17 @@ La gracia de la mezcla: ninguna de las tres por separado resuelve nada; **juntas
 
 **7. Los padres se cierran en el epílogo.** El hilo emocional de la madre y el padre **no** se resuelve durante la aventura: el cierre llega al final de la novela, en el epílogo.
 
-**8. La novela tiene dos mitades (13 / 13).**
-- **Primera mitad — «La vida que gana»:** Jesús aprende que puede vivir. El mundo, la gente, el cuerpo que funciona, la party que se arma sin que él lo pida.
-- **Segunda mitad — «La vida que comparte»:** ya no es solo lo que recibe, sino lo que devuelve: la ciudad, las personas que dependen de él, el sacrificio elegido.
+**8. La novela tiene 30 capítulos, repartidos en tres volúmenes de 10.**
+
+| Volumen | Capítulos | Título de trabajo | Qué cuenta |
+| --- | --- | --- | --- |
+| **Vol. 1** | 1–10 | *(por definir)* | La vida que no pudo tener, la muerte, Aqua, la llegada a Axel y la formación de la party |
+| **Vol. 2** | 11–20 | *(por definir)* | La vida cotidiana ya ganada: el gremio, la ciudad, los vínculos, el mundo abriéndose |
+| **Vol. 3** | 21–30 | *(por definir)* | Lo que devuelve: la crisis, la elección, el sacrificio y el cierre |
+
+La estructura sigue el ritmo del anime —cuyas tres temporadas tienen 10, 10 y 11 episodios—, de modo que **cada volumen respira como una temporada completa**. Eso da a cada bloque su propia apertura, su propio clímax y su propia respiración.
+
+**El tema de fondo sigue siendo el mismo:** los dos primeros volúmenes cantan *«la vida que gana»* y el tercero *«la vida que comparte»*. Falta definir si esa frontera temática se traza al final del Vol. 2 o dentro del Vol. 3.
 
 **9. La historia se cuenta en primera persona, desde Jesús.** Su voz es la de un chico amable que observa con humor y ternura; el lector conoce el mundo por lo que a él le llama la atención. Eso convierte cada animal, cada comida y cada persona en un descubrimiento.
 
@@ -109,7 +117,7 @@ Doce decisiones, tomadas junto con el autor. Las que están en pausa lo están *
 | 5 | ¿Cómo lo llaman en Axel? | ✅ Tomada | Un apodo que le inventa el gremio (falta definir cuál) |
 | 6 | ¿Qué cruza con él? | ✅ Tomada | La playera de las Chivas y su celular… que aún tiene señal |
 | 7 | Hilo de los padres | ✅ Tomada | Se cierra en el epílogo |
-| 8 | Estructura de los 26 capítulos | ✅ Tomada | Dos mitades: «La vida que gana» y «La vida que comparte» (13/13) |
+| 8 | Estructura de la novela | ✅ Tomada | **30 capítulos en 3 volúmenes de 10**, con el ritmo de las tres temporadas del anime |
 | 9 | Voz narrativa | ✅ Tomada | Primera persona, desde Jesús |
 | 10 | Romance | ✅ Tomada | Harem abierto: todas las rutas, con respeto y comedia |
 | 11 | ¿Cuánto canon usamos? | ⏸️ En pausa | El autor quiere dedicarle más tiempo antes de decidir |
@@ -118,6 +126,8 @@ Doce decisiones, tomadas junto con el autor. Las que están en pausa lo están *
 ## Decisiones abiertas
 
 - [ ] **El apodo exacto del gremio.** Definirlo con cuidado: tiene que sonar natural en un mundo de fantasía, ser cálido y funcionar como broma recurrente.
-- [ ] **Las reglas del celular.** Batería, cobertura, aplicaciones, cámara, música. Una vez fijadas, se respetan en los 26 capítulos (y el gag se vuelve más gracioso, no menos).
+- [ ] **Las reglas del celular.** Batería, cobertura, aplicaciones, cámara, música. Una vez fijadas, se respetan en los 30 capítulos (y el gag se vuelve más gracioso, no menos).
+- [ ] **Los títulos de los tres volúmenes.** Cada volumen necesita su propio nombre, con la misma fórmula que el título general de la obra.
+- [ ] **Dónde se traza la frontera temática** entre «la vida que gana» y «la vida que comparte».
 - [ ] **¿Cuánto canon usamos?** En pausa por decisión del autor.
 - [ ] **El tono del capítulo 1.** En pausa por decisión del autor.
