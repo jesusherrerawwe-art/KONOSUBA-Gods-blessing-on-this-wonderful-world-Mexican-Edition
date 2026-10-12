@@ -157,7 +157,7 @@ Silencio.
 
 Sesenta aventureros, y la guardia, y los del mercado, y nadie dijo nada.
 
-—Pregunté que dónde está el mago —dijo el caballero—. El que viene a tirar explosiones a mi casa. Todos los días. Desde hace veintidós días.
+—Pregunté que dónde está el mago —dijo el caballero—. El que viene a tirar explosiones a mi casa. Todos los días. Desde hace diecisiete días.
 
 Y yo volví a ver a Megumin.
 
@@ -171,7 +171,7 @@ Y el caballero se volteó a verla, y se quedó como cinco segundos sin decir nad
 
 —¡Está cayéndose!
 
-—¡Está cayéndose porque tú le tiras todos los días! —Y con la mano señaló el cerro—. La torre del ala este tiene tres siglos de estar de pie. Tiene tres siglos. Y hace veintidós mañanas que la estoy apuntalando con tablas mientras ustedes me la siguen partiendo.
+—¡Está cayéndose porque tú le tiras todos los días! —Y con la mano señaló el cerro—. La torre del ala este tiene tres siglos de estar de pie. Tiene tres siglos. Y hace diecisiete mañanas que la estoy apuntalando con tablas mientras ustedes me la siguen partiendo.
 
 Y yo, subido en la barda, me acordé del hoyo.
 
@@ -193,7 +193,7 @@ Y se sacó la cabeza, y se la puso debajo del brazo, para que se viera bien.
 
 Y el gremio, sesenta personas, se movió un paso para atrás.
 
-—Y Beldia —siguió, y se volvió a poner la cabeza— tiene dos cosas que hacer aquí. La primera es un trabajo muy aburrido que no les importa. La segunda es dormir por las tardes. Y llevo veintidós tardes sin dormir, señorita, porque el señor de la casa del cerro no puede dormir cuando le están partiendo el ala este de su casa.
+—Y Beldia —siguió, y se volvió a poner la cabeza— tiene dos cosas que hacer aquí. La primera es un trabajo muy aburrido que no les importa. La segunda es dormir por las tardes. Y llevo diecisiete tardes sin dormir, señorita, porque el señor de la casa del cerro no puede dormir cuando le están partiendo el ala este de su casa.
 
 Ahí, en ese momento, en la explanada de la puerta, a mí se me ocurrió una cosa y me dio mucha pena.
 
@@ -485,7 +485,7 @@ Y Beldia se levantó de la silla, y por primera vez en la hora se le movió la v
 
 Y Beldia se pasó las manos por la cara, y se sentó otra vez, y se quedó viendo el hoyo del patio un buen rato.
 
-—Veintidós días —dijo—. Veintidós días y nadie me dijo que el asunto estaba cerrado. Ni un papel. Ni un mensajero. Nada. —Se rascó la barba mal recortada—. Yo llevo veintidós días sin dormir por un problema que ya se había resuelto y a nadie se le ocurrió avisarme.
+—Diecisiete días —dijo—. Diecisiete días y nadie me dijo que el asunto estaba cerrado. Ni un papel. Ni un mensajero. Nada. —Se rascó la barba mal recortada—. Yo llevo diecisiete días sin dormir por un problema que ya se había resuelto y a nadie se le ocurrió avisarme.
 
 —Perdón.
 

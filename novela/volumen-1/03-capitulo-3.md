@@ -1,7 +1,7 @@
 # Capítulo 3. La muchacha que hacía temblar los cerros
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 3. Extensión: 5,495 palabras. Estado: primer borrador.
+Volumen 1, capítulo 3. Extensión: 5,490 palabras. Estado: primer borrador.
 
 ---
 
@@ -125,13 +125,13 @@ Y el gremio entero, cuarenta personas hablando al mismo tiempo, se calló.
 
 Porque entró una muchacha con un sombrero enorme.
 
-El sombrero era negro, puntiagudo, con una cosa dorada en la punta, y le quedaba enorme. Debajo del sombrero traía una capa negra con orilla dorada, y un vestido rojo, y botas naranjas, y los ojos le hacían juego con todo eso: rojos como la caoba, brillantes, y muy abiertos. Traía un parche negro en un ojo, y el pelo castaño oscuro, a la altura de los hombros, le salía por debajo del sombrero.
+El sombrero era negro, puntiagudo, con una cosa dorada en la punta, y le quedaba enorme. Debajo del sombrero traía una capa negra con orilla dorada, y un vestido rojo, y botas naranjas, y los ojos le hacían juego con todo eso: rojos como la caoba, brillantes, y muy abiertos. Traía un parche negro en un ojo, y el pelo castaño oscuro, a la altura de los hombros, le salía por debajo del sombrero. Y en la pierna derecha, una venda gorda enrollada de la rodilla al tobillo.
 
 Era chiquita, más chiquita que yo, y yo no soy grande. Tenía la cara de alguien que está a punto de decir algo importante.
 
 Caminó al centro del gremio.
 
-Y ahí, en medio de todos, se puso una mano en el pecho, se paró de puntitas, levantó la otra mano al cielo y anunció:
+Y ahí, en medio de todos, se puso una mano en el pecho, se paró de puntitas, levantó la otra mano y anunció:
 
 —¡Soy Megumin! ¡Archimaga del clan de los demonios carmesí! ¡La más poderosa hechicera de la Aldea Carmesí! ¡La que domina la magia más destructiva de la historia! ¡La dueña de la Explosión!
 
@@ -197,7 +197,7 @@ Y la muchacha se quedó parada ahí, con la mano en el aire, mirándome como si 
 
 —¿Por qué te vas a sentar?
 
-Y ahí, mi hermano, aprendí mi primera lección del mundo de verdad, y me la dio una muchacha con un sombrero enorme:
+Y ahí, mi hermano, aprendí mi primera lección del mundo de verdad:
 
 Yo no sabía nada.
 
@@ -343,7 +343,7 @@ Aprendí que cuando algo le importa mucho, se calla, y que a lo mejor por eso se
 
 Y aprendí que el sombrero no es un sombrero: es su casa. Cuando se lo quita y se lo pone en las piernas, uno entiende que la muchacha está descansando.
 
-Cuando llegamos al valle, ella sacó su bastón —un bastón de madera con una piedra azul en la punta, que brillaba poquito—, se plantó en una piedra y nos dijo:
+Cuando llegamos al valle, ella sacó su bastón —un bastón de madera con una piedra azul en la punta—, se plantó en una piedra y nos dijo:
 
 —Escúchenme bien. Yo nada más puedo lanzar una vez. Una. Y cuando la lanzo, me quedo sin nada —y levantó una mano antes de que yo dijera nada—. No me digan que la use para defenderme, porque no puedo. No me digan que la lance al principio, porque no puedo. Y no me digan que la lance al final, porque tampoco. Yo la lanzo cuando yo diga.
 
@@ -455,7 +455,7 @@ Y Aqua se puso a hacer lo que hace Aqua, que es gritar cosas técnicas.
 
 Y la persona entró al sapo.
 
-Completa. Con todo y gritos. Uno ve esas cosas en los dibujos y piensa que son chistosas, y sí, mi hermano, pero también son verdad: mi amiga, la que me había acompañado a este mundo, desapareció dentro de un sapo delante de mis ojos, y no había nada, absolutamente nada que yo pudiera hacer con un palo.
+Completa. Con todo y gritos. Uno ve esas cosas en los dibujos y piensa que son chistosas, y sí, mi hermano, pero también son verdad: mi amiga, la que me había acompañado a este mundo, desapareció dentro de un sapo delante de mis ojos, y no había nada que yo pudiera hacer con un palo.
 
 Y ahí fue cuando me di cuenta de la única cosa que sí podía hacer.
 
@@ -691,7 +691,7 @@ Y me guardé cuatro monedas, y las apreté en el bolsillo, y me di cuenta de que
 
 Cuando volvimos al gremio ya era de noche, y el gremio estaba lleno, y ahí, en la puerta, había un problema.
 
-Una mujer altísima, con una armadura completa abollada en varios lados, estaba parada en medio del pasillo y no dejaba pasar a nadie. Traía el pelo rubio recogido en una coleta alta, con las puntas anaranjadas, y una espada grandota cruzada en la espalda.
+Una mujer altísima, con una armadura completa abollada en varios lados, estaba parada en medio del pasillo y no dejaba pasar a nadie. Traía el pelo rubio en una coleta alta de puntas anaranjadas y una espada grandota cruzada en la espalda.
 
 —¿Sabes quién soy? —le estaba diciendo al señor barbón.
 
@@ -757,7 +757,7 @@ Y supe lo que iba a decir antes de que lo dijera, porque las dos cosas que le im
 
 Y yo me quedé viendo a la cruzada, parada ahí con la armadura abollada y la cara roja y las dos manos apretadas, esperando una respuesta.
 
-Y me acordé de mí, hace ocho días, parado en una puerta parecida, sin saber qué decir.
+Y me acordé de mí, hace tres días, parado en una puerta parecida, sin saber qué decir.
 
 —Sí —le dije—. Siéntate, ¿quieres comer algo?
 

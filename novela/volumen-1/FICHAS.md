@@ -103,7 +103,7 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 5,495 palabras (≈ 18 páginas) |
+| **Extensión** | 5,490 palabras (≈ 18 páginas) |
 | **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Encontrar a un cuarto miembro para poder aceptar el encargo de los sapos |
@@ -176,7 +176,7 @@
 | **Forma** | Cuatro movimientos: la práctica en el cerro, la aparición de Beldia en la puerta, la visita al castillo, y la noche en el gremio |
 | **Referencia del canon** | Episodio 4 de la primera temporada: **Beldia el Dullahan**, general del Rey Demonio, cuya casa —un castillo viejo— Megumin bombardea todos los días; la **Premonición de Muerte** (morir en siete días); Darkness **intercepta la maldición**; Beldia se incomoda con las fantasías de ella; el general exige que vayan al castillo; **Aqua rompe la maldición** con una sola palabra. También se usa el dato de que los monstruos chicos huyeron de la zona y el gremio se quedó sin trabajo |
 | **Cambio al cierre** | Jesús descubre que su «método ruta» también sirve para equivocarse, y que ser amable no es lo mismo que ser bueno. Conoce al enemigo y lo entiende |
-| **Lo que el lector aprende** | Que **Megumin tiene seis días de vida** si nadie va al castillo; que **nadie va a ir** porque Aqua ya rompió la maldición; que Beldia lleva veintidós días sin dormir por un problema que ya se arregló y nadie le avisó; y que la casa de Jesús y la casa de Beldia son la misma historia |
+| **Lo que el lector aprende** | Que **Megumin tiene seis días de vida** si no va al castillo, porque **su maldición no se puede romper: solo Beldia se la puede quitar**; que Beldia lleva diecisiete días sin dormir por un problema que ya se arregló y nadie le avisó; y que la casa de Jesús y la casa de Beldia son la misma historia |
 | **Gancho** | La luz encendida en la torre partida y un señor esperando |
 | **Rutas** | **Megumin**: ruta en crisis, sin beso y sin resolución. **Darkness**: su reacción a perder la maldición («...¿ya?») deja ver el hueco que va a llenar el Vol. 2. **Luna**: segunda escena íntima, esta vez con Megumin. **Aqua**: el gremio por fin la ve |
 | **Objetos** | Playera (puesta) · celular (linterna) · llave (recordada al llegar la noche) · **libro de banderas**: sexta bandera |

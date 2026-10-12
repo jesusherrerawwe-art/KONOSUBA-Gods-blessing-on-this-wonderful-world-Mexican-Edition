@@ -6,7 +6,7 @@ Qué se revisó, capítulo por capítulo: **aspecto físico de los personajes, f
 
 **Cómo se hizo:** lectura completa de las siete piezas + verificaciones contra la biblia del proyecto y contra fichas y resúmenes del canon en internet + un revisor automático que corre sobre los siete archivos y marca ortografía, signos, mayúsculas, números y todo lo que un lector de texto a voz podría confundir. El informe técnico crudo quedó en `scratch/informe_auto.txt` (material de trabajo, no forma parte de la novela).
 
-**Resultado en una línea:** el volumen quedó consistente con el canon y limpio para texto a voz; se corrigieron **más de cuarenta cosas** en total y quedan **cuatro decisiones** para ti, marcadas abajo con ❓ y resumidas al final.
+**Resultado en una línea:** el volumen quedó consistente con el canon y limpio para texto a voz; se corrigieron **más de cuarenta cosas** en total. Las **cuatro decisiones** que quedaron abiertas se resolvieron el mismo 12 de octubre y están aplicadas; abajo quedan marcadas con ✅.
 
 ---
 
@@ -63,7 +63,7 @@ No se tocó. El lugar blanco, la llave, la camiseta y la voz del narrador coinci
 8. **«pa'lante / pa'trás» → «palante / patrás»**. Los mexicanismos se quedan; se les quitó el apóstrofo para no tropezar con el texto a voz.
 9. **Recorte para volver al techo.** Con las ampliaciones de descripción, el capítulo llegó a 5,625 palabras. Se recortaron repeticiones (no escenas) en dos pasadas hasta dejar 5,495, dentro del límite de 5,500.
 
-**❓ Pendiente de tu decisión:** las **vendas en la pierna derecha** de Megumin son canon, pero el capítulo nunca las menciona (solo el parche). ¿Las agregamos (una línea en el vestuario) o se quedan fuera?
+**✅ Decidido:** las **vendas en la pierna derecha** ya están en su presentación (una venda gorda de tela, enrollada de la rodilla al tobillo).
 
 ### Capítulo 4 — «La gente que se pone enfrente»
 1. **Gritos normalizados** (CÓMO, CON LA RED, JESÚS, DUÉRMETE, CUÁL LINTERNA, NO ES LO MISMO y un MEGUMIN).
@@ -83,7 +83,7 @@ El capítulo decía que la maldición «se había quitado el mismo día, en cinc
 
 Además se añadieron dos réplicas de Beldia que sostienen la escena: «Yo no estoy enojado. Yo estoy esperando» y «el asunto no se ha cerrado».
 
-**❓ Pendiente de tu decisión:** los **«veintidós días»** de Beldia. La línea de tiempo del volumen suma **diecisiete** (Megumin llega el día 1 y la noche de la puerta de Axel es el día 17; los capítulos 3, 4 y 5 fijan el resto del calendario). Con veintidós, Beldia dice cinco días más de los que pueden haber pasado. Opciones: **(a)** bajar sus veintidós a diecisiete (recomendado: es un número, no una escena); **(b)** dejarlo y ajustar los días de otra parte; **(c)** dejarlo tal cual, aceptando que Beldia cuenta de más por el coraje.
+**✅ Decidido:** los **«veintidós días»** de Beldia bajaron a **diecisiete**, que es lo que da la línea de tiempo (Megumin llega el día 1 y la noche de la puerta de Axel es el día 17). El «hoyo de veintidós metros» se queda: eso es el ancho del cráter.
 
 ### Capítulo 6 — «El otro elegido»
 1. **El reloj de los siete días ahora cuadra.** El capítulo abre con «Quedaban cinco días», la jaula tarda tres días de herrería y llega la víspera, el lago es el día de «Quedaba un día» y el séptimo día es la llegada de Beldia. Antes el conteo no coincidía con el «Seis días» que Jesús escribe al final del capítulo 5.
@@ -94,7 +94,7 @@ Además se añadieron dos réplicas de Beldia que sostienen la escena: «Yo no e
 6. **Se añadió la decisión de Megumin** («—Yo aguanto la cuerda… —Mañana voy a ir al cerro. Sola. Ya lo decidí.»). Antes su decisión se intuía en el cierre; ahora está dicha, y el final pega más.
 7. **«las dos chicas con bastón se taparon la boca» → «las dos muchachas se taparon la boca»** (coherencia con el punto 5).
 
-**❓ Pendiente de tu decisión:** «**Yo me enteré el martes**». Este mundo no tiene martes (ni miércoles, ni sábado). Se puede cambiar por «al día siguiente» o «esa semana» en una línea. **(Recomendado: cambiarlo.)**
+**✅ Decidido:** el «martes» se fue. Ahora dice «Yo me enteré de golpe, cuando entré al cuarto y vi mi caja vacía».
 
 ---
 
@@ -159,12 +159,12 @@ Para que no lo tomes por descuido:
 
 ---
 
-## Las cuatro decisiones que te pido (resumen)
+## Las cuatro decisiones (resueltas el 12 de octubre)
 
-1. **Maldición (cap. 5):** ¿se queda el arreglo como está —solo se rompe la de Darkness y la de Megumin se la tiene que quitar Beldia—, o prefieres otra cosa?
-2. **Los «veintidós días» de Beldia:** ¿se bajan a diecisiete, se dejan, o se ajusta la línea de tiempo en otro lado?
-3. **Las vendas de Megumin:** ¿se añaden o se quedan fuera?
-4. **El «martes» del capítulo 6:** ¿se cambia o se queda?
+1. **Maldición (cap. 5):** ✅ «Como lo sientas mejor» → se queda el arreglo (solo se rompe la de Darkness; la de Megumin la tiene que quitar Beldia).
+2. **Los días de Beldia:** ✅ bajaron de veintidós a **diecisiete**.
+3. **Las vendas de Megumin:** ✅ se añadieron.
+4. **El «martes» del capítulo 6:** ✅ se cambió.
 
 Aparte de eso, siguen en la mesa los pendientes que ya conoces: el título de la obra, el apodo del gremio, el nombre del gato (**Shimura**), los nombres nuevos del capítulo 6 (**padre Aldo**, **Tander**, **Osaka**), el visto bueno de los capítulos 2 a 6, del prólogo y de Mabel, y la romanización **Beldia**.
 
@@ -172,4 +172,4 @@ Aparte de eso, siguen en la mesa los pendientes que ya conoces: el título de la
 
 ## Qué sigue
 
-Con esto, **la revisión queda terminada**. No se ha empezado el capítulo 7: primero van tus decisiones y las respuestas a los pendientes de siempre. Cuando digas, la ficha del capítulo 7 es lo siguiente.
+Con esto, **la revisión queda terminada y tus cuatro decisiones aplicadas**, ya en el repositorio. No se ha empezado el capítulo 7: cuando digas, lo siguiente es la ficha del capítulo 7 (el cerro, Beldia y la maldición de Megumin).

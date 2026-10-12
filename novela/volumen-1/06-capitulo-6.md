@@ -23,7 +23,7 @@ Resulta que en Axel hay un templo de la Iglesia Axis, chiquito, de dos cuartos, 
 
 Y resulta que Aqua lo encontró.
 
-Yo me enteré el martes, cuando entré al cuarto y vi mi caja vacía.
+Yo me enteré de golpe, cuando entré al cuarto y vi mi caja vacía.
 
 —Aqua.
 

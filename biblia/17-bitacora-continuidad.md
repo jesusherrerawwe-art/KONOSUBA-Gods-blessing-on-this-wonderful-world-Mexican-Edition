@@ -261,7 +261,7 @@
 - Su regla para los humanos: *«Es la cosa que más se dice en este mundo.»* (sobre «sí, voy»)
 - **Le dio miedo Darkness.** Se lo dijo: *«Usted va a ser la primera persona que me ha dado miedo en doscientos años.»*
 - **Con Jesús:** lo sentó en una piedra, hablaron una hora, le dio agua de un cántaro y le corrigió el vocabulario: **«perdón» contra «lo siento»**. Y le preguntó por su casa: *«¿Tenía ventana? / —Una. Chiquita. / —Eso es lo único que hace falta. Una ventana y una puerta. Lo demás es lujo.»*
-- **Jesús le contó que a Darkness ya le habían quitado la maldición.** Beldia no lo sabía: veintidós días esperando un asunto que se había resuelto el primer día, y nadie le mandó ni un papel ni un mensajero.
+- **Jesús le contó que a Darkness ya le habían quitado la maldición.** Beldia no lo sabía: diecisiete días esperando un asunto que se había resuelto el primer día, y nadie le mandó ni un papel ni un mensajero. (La maldición de **Megumin sigue adentro**: solo Beldia puede quitarla.)
 
 ### La maldición y la escena del gremio
 - **Premonición de Muerte:** nube chiquita y negra, del tamaño de una naranja, que se mete en el pecho. **Siete días y el séptimo se muere con dolor.** Se quita yendo al castillo a pedirlo, o con magia.
@@ -419,4 +419,6 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 - **Cap. 5:** **la maldición solo se rompe a Darkness**; la de Megumin queda adentro y solo Beldia puede quitarla — es lo que explica la despedida del capítulo y el viaje al cerro. Aqua la atrapa «en la armadura».
 - **Cap. 6:** el reloj de los siete días ahora es explícito (cinco días al abrir, un día en el lago, la víspera con la jaula lista en tres días de herrería) para que el séptimo día caiga justo al final.
 
-**Pendientes de decisión que quedaron anotados en el informe:** los «veintidós días» de Beldia frente a la línea de tiempo (suman diecisiete), el «martes» del capítulo 6, la «casa de entrenamiento de su familia» de Darkness (es noble de la capital), las vendas de Megumin y si se aceptan los mexicanismos del capítulo 3 («palante», «patrás», «Nomás el marco»).
+**Decisiones del autor (12 de octubre de 2026), ya aplicadas:** los «veintidós días» de Beldia bajaron a **diecisiete** (el hoyo de veintidós metros se queda: es el ancho del cráter); «el martes» del capítulo 6 se cambió por «de golpe»; **las vendas de la pierna derecha de Megumin ya están** en su presentación del capítulo 3; y el arreglo de la maldición se queda como está.
+
+**Sigue en revisión, sin decisión:** la «casa de entrenamiento de su familia» de Darkness en el capítulo 5 (es noble de la capital; propuesta: cambiarla por el patio del gremio o dejar claro que es una casa de campo de los Dustiness).
