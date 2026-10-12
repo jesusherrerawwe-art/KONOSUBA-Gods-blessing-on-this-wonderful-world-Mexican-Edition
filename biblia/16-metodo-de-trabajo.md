@@ -118,8 +118,8 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 | 6 | 🟩 Aprobado | «El otro elegido» | 5,148 palabras · revisado y aprobado · el lago, Mitsurugi y el séptimo día |
 | 7 | 🟩 Aprobado | «La gente que sí va» | 5,005 palabras · revisado y aprobado por el autor · cierra el séptimo día |
 | 8 | 🟩 Aprobado | «No me dolió» | 5,495 palabras · revisado y aprobado por el autor · la muerte y el regreso, como el canon |
-| 9 | ⬜ Vacío | — | — |
-| 10 | 🟩 Cierre fijado | *(por definir)* | **El Destructor** (clímax ya aprobado) |
+| 9 | 🟨 Revisado | «El camino del norte» | 8,216 palabras · **revisado; pendiente de aprobación del autor** · entra Wiz; se descubre que el Destructor rompió el paso |
+| 10 | 🟩 Cierre fijado | *(por definir)* | **El Destructor** (clímax ya aprobado); llega a Axel al final del capítulo 9 |
 | **Epílogo** | ⬜ Vacío | — | Cierra el arco del volumen y deja la puerta abierta |
 
 **Leyenda:** ⬜ vacío · 🟨 en diseño · 🟦 en redacción o revisión (pendiente de aprobación) · 🟩 aprobado por el autor, cerrado o fijado
@@ -130,7 +130,9 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 
 **Capítulo 7 (12 de octubre de 2026):** escrito, revisado y **aprobado por el autor** (ficha incluida). Siguiente en fila: el capítulo 8, con su ficha primero.
 
-**Capítulo 8 (12 de octubre de 2026):** escrito, revisado y **aprobado por el autor** (ficha incluida). Siguiente en fila: el capítulo 9, con su ficha primero.
+**Capítulo 8 (12 de octubre de 2026):** escrito, revisado y **aprobado por el autor** (ficha incluida).
+
+**Capítulo 9 (12 de octubre de 2026):** escrito y revisado (ficha y texto entregados juntos, con las cuatro decisiones de diseño ya aprobadas por el autor); **pendiente de aprobación del autor.** **No se recortó:** se dejó largo, según la indicación del autor del 12 de octubre («si el capítulo se extiende de más, no lo recortes, déjalo así»).
 
 ## Estado de los volúmenes
 

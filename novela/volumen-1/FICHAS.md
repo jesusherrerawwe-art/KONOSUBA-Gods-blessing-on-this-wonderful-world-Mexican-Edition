@@ -283,3 +283,42 @@
 - **El dolor como prueba de vida.** «Yo me pasé quince años con un cuerpo que no le contestaba a nadie.» Aquí el cuerpo duele, y eso quiere decir que está aquí.
 
 **Aprobado por el autor el 12 de octubre de 2026**, junto con los datos nuevos del capítulo: **el cerro del río**, **la señora del pan de los gemelos** y los **quince días sin carros del norte** (semilla del capítulo 9). Las dos decisiones de fondo (la muerte y el regreso como el canon, y que Megumin sea la primera en ver la foto) también quedaron aprobadas.
+
+---
+
+## Capítulo 9. El camino del norte
+
+| Campo | Contenido |
+| --- | --- |
+| **Volumen** | 1 |
+| **Extensión** | 8,202 palabras (≈ 25 páginas). **No se recortó**: la indicación del autor fue dejar el capítulo largo si se extendía |
+| **Estado** | 🟨 Revisado; pendiente de aprobación del autor |
+| **Foco** | Jesús, primera persona |
+| **Deseo local** | Que vuelva a bajar la sal por el camino del norte —y, debajo de eso, ser de los que van cuando alguien no llega |
+| **Obstáculo** | El camino del norte está roto y la venta del paso está a medias: hace dieciséis días pasó por ahí el Destructor |
+| **Forma** | Ocho movimientos: la sal que se acaba, el gremio y el encargo, la tienda de Wiz, la lección de Drenar, el camino y el paso roto, el relato de los carreteros, el regreso por el puente de hielo, la alarma y el mapa |
+| **Referencia del canon** | **Wiz** (anime, episodio 10; novela, volumen 2): liche, exgeneral del Rey Demonio, dueña de una tienda de objetos mágicos en Axel, «veinte años para siempre», la **Bruja del Hielo** del hielo y del rayo negro en el canon, y a la que Aqua intenta purificar cada vez que la ve. **El Destructor (la Fortaleza Móvil)**: arma con forma de araña gigante construida por una civilización del norte, que lleva siglos caminando y pisando pueblos; en el canon la gente ya no pelea con ella: la trata como una inundación y desaloja. **Drenar (Drain Touch)**: la magia de las liches, que absorbe vida y magia y puede pasárselas a otra persona; en el clímax del episodio 10 es la que mueve el coronatita |
+| **Cambio al cierre** | Jesús deja de ser el que recibe: baja por la gente del norte y sube con la respuesta. Y ya sabe lo que viene, y no es un general con caballo: es una máquina |
+| **Lo que el lector aprende** | Que Wiz existe y es de fiar aunque esté muerta; que Beldia tiene colegas de generación y que el ejército del Rey Demonio fue, para algunos, una vida y no una vocación; que la magia se puede pasar de mano en mano; y que en el gremio de Axel hay un libro viejo que ya vio pasar al Destructor |
+| **Gancho** | La campana del gremio: al norte se oyó el ruido de molino, y el libro del archivo dice que el aviso es de dos días. El Destructor viene para Axel |
+| **Rutas** | **Wiz**: entra al reparto por la puerta de su tienda. Le da azúcar a desconocidos, le enseña Drenar y le presta la cobija. Es la primera persona a la que Jesús le dice «ya me morí dos veces» sin que se le caiga la cara de susto. **Megumin**: le pone el sombrero en la cabeza a Elvira y se queda con la regla de Wiz sobre las dos Explosiones. **Darkness**: la espada soldada y el «otra vez» de la lección. **Aqua**: la purificación fallida, la mano de Tomás curada y el «soy la mejor» |
+| **Objetos** | La espada soldada de Darkness · el letrero torcido de la tienda · el plato con migajas del fondo (el de los que van de paso) · la cobija de Wiz · la carta de la señora del pan · el celular: novena entrada del libro de banderas |
+| **Continuidad** | Todo lo del apartado del capítulo 9 en la bitácora (sección 17) |
+
+**Decisiones creativas de este capítulo (las cuatro, aprobadas por el autor el 12 de octubre de 2026):**
+- **Wiz entra completa al reparto** y se suma al camino del norte. No es una aparición: se queda. Se presenta con tres cosas que la definen en el canon: la tienda en quiebra, la cortesía con todo el mundo y el aire de no darse cuenta de nada (es la única que no entiende por qué Aqua se le echa encima y la única que ofrece azúcar en invierno).
+- **El Destructor pasó por el camino del norte y lo rompió.** Aquí no se ve: se cuenta, y se cuenta por huellas. Los carreteros son los testigos, y la muchacha Elvira es la única que lo vio con sus ojos: «era una casa con patas». En el capítulo 10 llega a Axel.
+- **Jesús aprende de Wiz la habilidad de pasar magia por contacto (Drenar).** Es el pago del capítulo y la pieza del clímax del 10: la correa entre Aqua y Megumin. Se aprende con la mano, no con un libro, y tiene un límite que Wiz dice en voz alta: «puedes tirar dos veces, niña, pero tu cuerpo no».
+- **El capítulo cierra con la alarma en el gremio.** La ciudad entera se pone sobre el plano de Axel, con el camino del sur para la gente y el dedo de Jesús marcando dónde se rompió el camino del norte.
+- **La novena bandera: «Cuentan contigo.»** Nace de la frase de Fermín: en su pueblo, cuando alguien sale a buscar a otro, se dice que salió a dar la cara por él.
+- **Beldia tiene biografía.** Wiz cuenta que fue su compañero de generación, que entró un año después que ella, que le dejaba leña en la puerta y que la silla de la carreta se la dio un señor que vendía telas. Es el mismo general que en el capítulo 7 se fue al oeste sin decir a dónde.
+- **Comedia y ternura repartidas:** el «no me diga señora» de Wiz, la purificación fallida, el intento de Aqua de presumir y quedarse sin fuerzas, el «otra vez» de Darkness, el sombrero de Megumin y los tres cuartos de hora de la lección.
+
+**Personajes y lugares nuevos de este capítulo:**
+- **Wiz** — liche, exgeneral del Rey Demonio, dueña de la tienda de objetos mágicos del callejón del sur. Cortés, airhead, arruinada y generosa.
+- **Fermín** — carretero mayor, veintiocho años subiendo y bajando el camino del norte. Testigo del paso del Destructor y el que deja la puerta abierta de su casa.
+- **Tomás** (su hijo, herido en la mano), **Rosa** (su mujer), **Petra** (cocinera del mesón del paso, hermana de la señora del pan), **Tino** (el muchacho que no le quita la vista de encima a Jesús) y **Elvira** (la muchacha de la edad de Megumin que quiere ser aventurera), más dos niños chiquitos y un perro. Ocho personas y cuatro carretas.
+- **La venta del paso** — el último techo antes de la nieve, ahora una pared y media.
+- **El paso del norte**, la zanja del camino y el **puente de hielo** que levantan entre Wiz y Aqua.
+
+**Nota de proceso:** la ficha se entrega junto con el primer borrador porque las cuatro decisiones de diseño ya estaban aprobadas. Si el autor pide cambios en la ficha, se aplican al texto antes de sellar el capítulo.

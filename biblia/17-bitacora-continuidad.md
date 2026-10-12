@@ -4,13 +4,13 @@
 >
 > **Regla de oro:** si la bitácora y el capítulo se contradicen, manda el capítulo — pero se corrige la bitácora el mismo día.
 
-**Última actualización:** capítulo 8 aprobado por el autor, 12 de octubre de 2026.
+**Última actualización:** capítulo 9 escrito y revisado, pendiente de aprobación del autor, 12 de octubre de 2026.
 
 ---
 
 ## Estado actual
 
-**Piezas escritas:** 9 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo); **las nueve, aprobadas.**
+**Piezas escritas:** 10 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo); **nueve aprobadas por el autor y el capítulo 9 revisado, pendiente de su aprobación.**
 
 | Pieza | Estado |
 | --- | --- |
@@ -23,7 +23,8 @@
 | Capítulo 6 — «El otro elegido» | 🟩 Aprobado (5,148 palabras) |
 | Capítulo 7 — «La gente que sí va» | 🟩 Aprobado (5,005 palabras) |
 | Capítulo 8 — «No me dolió» | 🟩 Aprobado (5,495 palabras) |
-| Capítulos 9–10 | ⬜ No escritos |
+| Capítulo 9 — «El camino del norte» | 🟨 Revisado; pendiente de aprobación del autor (8,216 palabras) |
+| Capítulo 10 | ⬜ No escrito |
 | Epílogo del volumen | ⬜ No escrito |
 
 **El grupo ya está completo** (Jesús, Aqua, Megumin y Darkness) y registrado en el gremio como **cuadrilla**, todavía sin nombre.
@@ -52,7 +53,7 @@
 | **La hoja de la cuadrilla** | Archivo del gremio | Firmada por los cuatro; **el nombre sigue en blanco**. Apuntados extraoficialmente como **«los de los sapos»** (los apuntó el señor Baltasar) | Cap. 4 |
 | **El zapato ajeno** | Morral de Jesús | Le salió con Robar el día de las coles y se quedó con él. Se lo llevó al castillo de Beldia | Cap. 5 |
 | **Las tablas de Beldia** | Castillo del cerro | Tablas nuevas, cortadas derechito, apiladas sobre una mesa, con un martillo y un bote de clavos | Cap. 5 |
-| **El libro de banderas** | App de notas del celular | Ocho banderas. La séptima, la noche del séptimo día: «Van.». La octava, la noche de la nieve: **«Vuelven.»** | Cap. 8 |
+| **El libro de banderas** | App de notas del celular | Nueve banderas. Séptima: «Van.» (noche del séptimo día). Octava: **«Vuelven.»** (noche de la nieve). Novena, la de la campana: **«Cuentan contigo.»** | Cap. 9 |
 | **El frasco número doce** | Bodega de la posada de doña Hilda | Aqua se guardó un espíritu de nieve escondido: es el primer refrigerador de Axel y subió la comida de la posada todo el invierno | Cap. 8 |
 | **La jaula de hierro** | Prestada al herrero de Axel | Catorce monedas que no tenían; hay que devolverla | Cap. 6 |
 | **La espada Gram** | Con Mitsurugi | Jesús se la saca con Robar y se la devuelve en el acto. **No se vendió** | Cap. 6 |
@@ -61,6 +62,12 @@
 | **La silla plegable de Beldia** | Arriba de la carreta | La dejó abierta en el patio la mañana que salió de su casa; se la lleva al oeste | Cap. 7 |
 | **Las cuatro tablas** | Torre partida del cerro | Apuntaladas contra la pared. **Nadie las tocó**; ahí siguen | Cap. 7 |
 | **La torre partida** | Cerro al oeste de Axel | Beldia se la regaló a Megumin: «el que la tumbe, que seas tú». Cayó esa tarde, con permiso | Cap. 7 |
+| **La espada soldada de Darkness** | Al hombro de Darkness | El herrero le soldó las dos mitades que dejó el señor del invierno: una cicatriz de herradura a la mitad. «Va a pegar distinto y va a pegar igual» | Cap. 9 |
+| **El letrero de la tienda de Wiz** | Callejón del sur de Axel | Torcido, pintado con cuidado y muy mal pulso: «Objetos mágicos de Wiz. Si se le ocurre, lo tenemos» | Cap. 9 |
+| **El plato con migajas** | Fondo de la tienda de Wiz | Círculo de tiza con un plato de migajas: «para los que se mueren y no saben a dónde ir» | Cap. 9 |
+| **La cobija de Wiz** | Con Jesús | Delgadísima, no sirve para el frío del paso: «sirve para las manos». Se la dio al salir de la tienda | Cap. 9 |
+| **La carta de la señora del pan** | Con Petra, la cocinera del mesón | La bajaron al paso y llegó a su destinataria, que venía en la última carreta | Cap. 9 |
+| **El libro viejo del archivo** | Gremio de Axel | Registro del Destructor: «Camina desde antes de que se fundara el reino», nueve poblaciones destruidas, aviso de dos días, «no se pelea con ella» | Cap. 9 |
 
 ## Detalles del mundo ya fijados por el texto
 
@@ -392,6 +399,60 @@
 - La **señora del pan** (la de los gemelos) y el **cerro del río** entran al mundo del libro.
 - El **capitán de la guardia**, el señor barbón, Mabel, doña Hilda y el padre Aldo siguen sin nombre propio.
 
+## Detalles del mundo ya fijados por el texto (capítulo 9)
+
+### La tienda de Wiz
+- Está en un callejón del sur, entre la panadería y el taller de los carreteros, con el letrero torcido y la puerta abierta. **Todo lo que se vende en Axel viene del camino del norte**, así que la tienda lleva dieciséis días sin género. Wiz tiene una **lista de papel con el pan que le fía a la señora del pan** junto a la caja vacía.
+- **Wiz:** liche, exgeneral del Rey Demonio, retirada y con tienda. Piel muy blanca, pelo castaño ondulado con un mechón sobre un ojo y un pelo parado en la coronilla, vestido morado claro bajo una sobreveste morada oscura con ribetes dorados, **broche de alas de murciélago** en el pecho, bufanda hasta los ojos. Se ve cansada «de una manera antigua».
+- **Sus reglas dichas aquí:** «No me diga señora» (tiene veinte años, «para siempre»); «yo no me como a la gente, vivo de la magia que se les cae a las cosas cuando se mueren» (con una excepción y un bandido en el pasado); «es que yo ya sé cómo es eso: llevo mucho tiempo sola en esta tienda».
+- **Aqua la reconoce al instante** y trata de purificarla ahí mismo; Wiz no se defiende: se deja, y lo único que pide es cerrar la puerta para que no entre el frío a los frascos. De ahí salen los tres vasos de agua con azúcar (azúcar, en invierno, con el azúcar por las nubes).
+- El aire de Wiz: cortés con todos, airhead, generosa y arruinada. Nadie en Axel le teme.
+
+### Beldia tiene biografía (lo cuenta Wiz)
+- **Beldia entró al ejército un año después que ella**: mismo castillo, misma mesa, mismo invierno. «Beldia es el tipo de persona que, si te ve corriendo por el patio con la capa al aire, no te dice nada y te corta un leño del montón para que lo lleves.»
+- Cada vez que pasaba por Axel **le dejaba leña en la puerta**. «Le debo una cobija desde hace cien años.»
+- **La silla de la carreta se la dio un señor que vendía telas** en el pueblo donde nació Wiz, que la arregló con alambre y le cortó las patas a la altura que le dio la gana. Beldia la trae toda la vida.
+- Wiz, sobre su partida al oeste: «Cuando alguien no sabe qué va a hacer, agarra su silla y camina para un lado.»
+
+### Drenar (la magia de pasar), la que Jesús aprende
+- **Se llama Drenar y es la magia de los que están muertos:** agarrar por la mano la fuerza de alguien y pasársela a otra persona. **No sirve para pelear; sirve para aguantar.** Wiz la usa para curar: le saca la fiebre a la gente y se la pasa a un perro, a un árbol o a la nieve, y una vez por semana va al cementerio a darle de comer a las raíces.
+- **Cómo se siente (Jesús):** «como cuando uno va al mar y el mar lo empuja un poquito por dentro», y la **carta de aventurero se le pone tibia** en el bolsillo. Aprendió en tres cuartos de hora, agarrado de la mano de Wiz.
+- **Lo que Jesús ve al leer a los demás** (regla propia del proyecto, nueva): Aqua es un río, Megumin una antorcha cerrada en un cuarto de madera, Darkness un muro tibio, «como cuando uno pone la mano en la pared y la pared está tibia». Wiz: «Qué bueno eres. Eso es lo único que importa; todo lo demás se aprende».
+- **El límite, dicho por Wiz y semilla del clímax del capítulo 10:** «Puedes tirar dos veces, niña. Pero tu cuerpo no puede. La magia se te vuelve a llenar en un día, y los huesos no. Si truenas dos veces, la segunda te la tira el cuerpo y no tú.»
+- **Se puede sacar de más sin querer:** Jesús le jala fuerza a Aqua sin proponérselo y la sienta de golpe en un cajón. Y a Darkness le encanta: «¿Aunque sea dolor?» → «Sobre todo el dolor».
+
+### El camino del norte, el paso y el puente
+- **La sequía de la sal:** sin carreteros se acaba la sal, el aceite bueno, el papel de envolver y **las medicinas del padre Aldo**. Dieciséis días sin bajar un solo carro del norte.
+- **El encargo del gremio:** «Reconocimiento del camino real del norte»; llegar al paso, verificar el camino y reportar; alimentación cubierta; **novecientos eris**; «no se requiere combate».
+- **El paso:** a dos días de camino; la nieve a la rodilla; el aire sabe a metal. Wiz **endurece y alisa la nieve con la mano** («soy muy buena para el hielo») y parte un peñasco del tamaño de un carro con dos dedos: «Antes me llamaban la Bruja del Hielo».
+- **El camino roto:** una zanja de lado a lado, de un ancho de carreta, con las losas cuadradas del camino tiradas «como dientes». **La venta del paso** (el mesón de Petra, la hermana de la señora del pan) es una pared y media con el techo caído.
+- **El puente de hielo:** Wiz hace el hielo y Aqua lo purifica y lo vuelve brillante; entre las dos levantan un puente del ancho de la carreta, con las losas de barandal. Pasan las cuatro carretas una por una.
+
+### Los carreteros del norte (personajes nuevos)
+- **Fermín**, carretero mayor: veintiocho años subiendo y bajando el camino del norte. **Tomás**, su hijo, con una herida en la mano que no confiesa; **Rosa**, la mujer de Tomás; **Petra**, la cocinera del mesón; **Tino**, el muchacho; **Elvira**, de la edad de Megumin, que quiere ser aventurera y a la que Megumin le pone su sombrero en la cabeza («yo me fui de mi casa a los trece; nadie te va a decir que sí; vas a tener que ir a que te digan que no, y luego irte»). Más dos niños chiquitos y un perro. **Cuatro carretas, ocho personas.**
+- **La frase de Fermín:** «En mi pueblo, cuando alguien sale a buscar a otro, se dice que salió a dar la cara por él.» Y su promesa: «Si algún día suben al norte, mi casa es tu casa.»
+- Jesús les pasa la fiebre a Tomás con Drenar y Wiz le saca la mitad y la tira a la nieve (la nieve silba); Aqua cura la mano, los pies de Rosa y los ojos del más chico, y se duerme llorando de cansancio después del «soy la mejor».
+- **Megumin les cae bien de gratis:** en el camino del norte ya se cuenta que una muchacha de Axel tiró un cerro abajo con un solo trueno.
+
+### El Destructor (la Fortaleza Móvil)
+- **Cómo se supo:** el camino se rompió hace dieciséis días, «a la madrugada, un ruido de molino, como algo que va moliendo», y el suelo se movió. **Las huellas:** hoyos redondos **del tamaño de una carreta**, con la losa del camino hecha polvo adentro, subiendo la loma y bajando al valle «derechito» («los animales no caminan derechito»).
+- **Elvira es la única que lo vio:** «Era una casa con patas.» Más alta que la muralla, patas de piedra y de hierro, torres arriba, **muchos ojos chiquitos** en una parte como de cabeza. Caminaba «parejo, pesado, pero no lento», como un carretero que no quiere tirar la carga. «Sentí que me veía… y sentí que no le importaba. Me veía como una piedra en el camino.»
+- **Wiz lo conoció de niña** y da el nombre: **la Fortaleza Móvil**, construida en el reino del norte para una guerra que ya se acabó y dejada andando; camina y pisa lo que encuentra. **«No se pelea con ella: se le quita uno del camino.»**
+- **Lo que dice el archivo del gremio** (libro del tiempo del abuelo de Luna): «Fortaleza Móvil, también llamada el Destructor. Camina desde antes de que se fundara el reino. Cuando pasa, se debe evacuar la población. No se pelea con ella.» Y la página siguiente: «Registros conocidos: nueve poblaciones destruidas. Síntoma de su llegada: el ruido de molino. **Tiempo de aviso: dos días.**»
+- **Fermín:** va al paso de carreta, hacia el sur, por el camino del norte; el sur, por ese camino, es Axel. Su cálculo: **cuatro o cinco días**.
+
+### La alarma y el mapa (cierre del capítulo)
+- **La campana del gremio tiene dos usos:** la de las buenas noticias (cuando vuelve alguien que se daba por perdido) y la de alarma. El capítulo cierra con la segunda.
+- **Axel entera se organiza para irse:** los viejos y los niños por el camino del sur en cuanto haya luz, un carro por familia y dos familias por carro, los demás a los graneros de abajo. «Nadie sale por el norte, y nadie sale solo.» **Doña Hilda no se va** («Setenta años esta casa»).
+- **El plano de Axel** existe y está en el gremio: el papel del tamaño de la mesa del fondo, con la muralla, las calles, el río, el cerro y el camino del norte saliendo por la puerta de arriba. Sobre él trabajan la señora del pan, el señor de la bodega, Mabel y Luna.
+- **Última imagen:** Luna le pide a Jesús que ponga el dedo donde se rompió el camino, «y el pueblo entero se quedó viendo mi dedo».
+
+### Otras cosas fijadas
+- **Nueve banderas;** la novena es **«Cuentan contigo.»**, con la nota: «Lo apunto porque yo tengo una casa. Y una casa, en este mundo, es un lugar por el que uno sale a la calle cuando suena la campana.»
+- **La nieve del invierno ya es vieja:** la primera cayó en el capítulo 8 y aquí ya hay hielo duro, ventisca y caminos blancos.
+- **Jesús ya no es el que recibe:** «yo era al que iban a ver, al que le llevaban la sopa, al que le sostenían la puerta», y por primera vez está del lado que va.
+- **Wiz se queda en Axel** con su tienda: no se va con el grupo ni se muda. Queda como refugio de la ciudad y como la única persona a la que Jesús le dijo «ya me morí dos veces» sin que se le cayera la cara de susto.
+
 ## Promesas abiertas (cosas insinuadas y todavía no pagadas)
 
 - **El mensaje a su mamá** («que no me dolió»): prometido por Aqua. → Debe pagarse, y el epílogo es el lugar natural.
@@ -400,8 +461,13 @@
 - **El marcador del último partido** que nunca supo.
 - **El mensaje a su mamá**, doblemente cargado desde el cap. 8: Aqua prometió decirle **que no le dolió**, y ahora el lector sabe que Jesús también se enteró de que su madre lo enterró una vez y de que podía volver.
 - **La puerta que Eris le ofreció y él cerró:** existe, y quedó cerrada por decisión suya.
+- **El secreto de Wiz:** sabe que Jesús se murió dos veces, y ahora él también sabe de la gente del ejército del Rey Demonio que ya no trabaja.
 - **El cerro del río:** compromiso de Megumin y Aqua para el mes que entra (primera salida del grupo desde el invierno).
-- **Los carros del norte:** quince días sin bajar (semilla del capítulo 9).
+- **Los carros del norte: pagado.** Eran dieciséis días sin bajar porque **el Destructor rompió el camino del paso** (capítulo 9). De ahí sale la amenaza del clímax del volumen: **viene para Axel, con aviso de dos días.**
+- **La casa de Fermín al norte:** «si algún día suben al norte, mi casa es tu casa». Queda abierta, y con ella el camino del norte entero.
+- **Elvira quiere ser aventurera:** Megumin le dejó el sombrero prestado. Queda como promesa del mundo (y como espejo de Megumin a los trece).
+- **La tienda de Wiz:** arruinada, con la renta encima y sin género hasta que se arregle el camino. Queda abierta.
+- **La regla de Wiz sobre las dos Explosiones:** «la magia se te vuelve a llenar en un día, y los huesos no». Es la pieza que hace falta para el clímax del capítulo 10.
 - **Megumin quedó dentro del secreto:** sabe del más allá, de la oferta y de la foto; el resto del grupo no.
 - **Las ruinas del oeste:** Beldia invitó («si un día andan por las ruinas, pregunten por el sin cabeza») y dejó sonando el hallazgo: **algo grande**. → Semilla del Vol. 1.
 - **La frase de la madre:** pendiente de regresar.
@@ -415,8 +481,9 @@
 | Físico | Cuerpo sano por primera vez en su vida; sin callos, sin fuerza, con la panza vacía |
 | Heridas | Ninguna; el pecho le duele nada más cuando se despereza (secuela de la muerte #2) |
 | Ánimo | Asombro y felicidad; un hueco por su mamá, ahora con una decisión encima: eligió este mundo a sabiendas de lo que dejó allá |
-| Personas que lo conocen | Aqua (todo) y **Megumin** (el más allá, la oferta y la foto, desde el cap. 8) |
+| Personas que lo conocen | Aqua (todo), **Megumin** (el más allá, la oferta y la foto, desde el cap. 8) y **Wiz** (que sabe de las dos muertes y no se espantó; el resto del grupo y el pueblo, no) |
 | Muertes | **Dos** (la de Japón y la de la llanura del norte, cap. 8); de la segunda volvió porque Aqua lo jaló |
+| Habilidades nuevas | **Drenar** (cap. 9), aprendida de Wiz: pasar magia y vida por contacto. Es la única magia que sabe |
 
 ## Estado del grupo
 
@@ -437,6 +504,10 @@
 **Lo que Jesús aprendió en el capítulo 6:** no es el único elegido, no hay un destino especial, y el oficio es el que uno se hace. Y sostuvo la cuerda por primera vez en su vida.
 
 **Lo que Jesús aprendió en el capítulo 7:** que quedarse y acompañar también es una forma de ir; que él casi no va; y que las cosas se piden en voz alta.
+
+**Lo que Jesús aprendió en el capítulo 9:** que hay gente que aguanta el invierno entero sin quejarse y que la ciudad se organiza sola sobre un plano; que Wiz, Beldia y él están del mismo lado del mapa; y que a él le toca ser de los que salen a la calle cuando suena la campana.
+
+**Gente nueva con la que cuenta el grupo:** Wiz (tienda y magia), los carreteros del norte (Fermín y los suyos) y el archivo del gremio.
 
 **Lo que Jesús aprendió en el capítulo 8:** que puede volver, y que no siempre va a poder elegir; que su vida aquí ya es de verdad (le duele el cuerpo y no lo cambia por nada); y que las tres que lo sacaron de la nieve se quedaron con un pedazo de culpa que él no les pidió.
 
