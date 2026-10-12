@@ -25,8 +25,14 @@ El autor la revisa, pide cambios, cambia el orden si hace falta o pide otra prop
 ### Paso 3 — Redacción
 Se escribe el capítulo completo. **Extensión objetivo: 4,500–5,000 palabras**, con piso de 4,000 y techo de 5,500 (decisión aprobada en la sección 18). El capítulo 1 puede pasar el techo: ya está aprobado como el más largo.
 
-### Paso 4 — Revisión y bitácora
-Se actualiza la bitácora de continuidad con todo lo que el capítulo dejó vivo. Después se pasa al siguiente.
+### Paso 4 — Revisión, bitácora y el rótulo «Estado»
+Se actualiza la bitácora de continuidad con todo lo que el capítulo dejó vivo y **se revisa el renglón del encabezado**, que lleva la extensión y el estado de la pieza. El campo Estado solo tiene tres valores:
+
+1. **«primer borrador»** — mientras el capítulo se acaba de escribir y todavía no pasa la revisión.
+2. **«revisado; pendiente de aprobación del autor»** — después de la revisión de estilo, canon y texto a voz, y hasta que el autor dé el visto bueno.
+3. **«aprobado por el autor»** — cuando el autor lo aprueba. A partir de ahí, cualquier cambio de fondo se le consulta.
+
+*Lección del 12 de octubre de 2026:* los rótulos se quedaron en «primer borrador» después de la revisión y de la aprobación del capítulo 1. **Al cerrar cada paso del ciclo, se revisa el encabezado**, no solo la bitácora.
 
 ## Regla de accesibilidad: el texto tiene que poder leerse en voz alta
 
@@ -95,7 +101,7 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 | Cap. | Estado | Título | Nota |
 | --- | --- | --- | --- |
 | **Prólogo** | 🟦 Escrito | «Un lugar sin ventanas» | 954 palabras · revisado · pendiente de aprobación del autor |
-| 1 | 🟦 Escrito | «Todo lo que alcancé a ver desde aquí» | 7,123 palabras · el más largo · revisado · aprobado |
+| 1 | 🟩 Aprobado | «Todo lo que alcancé a ver desde aquí» | 7,123 palabras · el más largo · revisado y aprobado por el autor |
 | 2 | 🟦 Escrito | «Un cuarto con ventana» | 5,217 palabras · revisado · introduce a Luna y paga la ventana |
 | 3 | 🟦 Escrito | «La muchacha que hacía temblar los cerros» | 5,490 palabras · revisado · entra Megumin; el grupo ya es cuatro |
 | 4 | 🟦 Escrito | «La gente que se pone enfrente» | 5,077 palabras · revisado · entra Darkness; cuadrilla completa |
@@ -107,7 +113,7 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 | 10 | 🟩 Cierre fijado | *(por definir)* | **El Destructor** (clímax ya aprobado) |
 | **Epílogo** | ⬜ Vacío | — | Cierra el arco del volumen y deja la puerta abierta |
 
-**Leyenda:** ⬜ vacío · 🟨 en diseño · 🟦 en redacción · 🟩 cerrado/fijado
+**Leyenda:** ⬜ vacío · 🟨 en diseño · 🟦 en redacción o revisión (pendiente de aprobación) · 🟩 aprobado por el autor, cerrado o fijado
 
 **Estructura fija del volumen:** prólogo corto + 10 capítulos + epílogo. **No hay páginas de interludio** (decisión del autor, sección 18).
 

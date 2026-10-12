@@ -1,7 +1,7 @@
 # Capítulo 1. Todo lo que alcancé a ver desde aquí
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 1. Extensión: 7,123 palabras. Estado: primer borrador.
+Volumen 1, capítulo 1. Extensión: 7,123 palabras. Estado: aprobado por el autor.
 
 ---
 

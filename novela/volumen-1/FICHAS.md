@@ -10,7 +10,7 @@
 | --- | --- |
 | **Volumen** | 1 |
 | **Extensión** | 954 palabras (≈ 3.5 páginas) — objetivo del género: 3–5 páginas |
-| **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
+| **Estado** | 🟦 Revisado (12 de octubre de 2026); pendiente de aprobación |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Entender dónde está. Y encontrar una ventana |
 | **Obstáculo** | No hay ventanas, no hay *bip*, no hay sol. El lugar no explica nada |
@@ -43,7 +43,7 @@
 | --- | --- |
 | **Volumen** | 1 |
 | **Extensión** | 7,123 palabras (≈ 25 páginas). Es el capítulo más largo de la novela, como quedó aprobado |
-| **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
+| **Estado** | 🟩 Aprobado por el autor (revisado el 12 de octubre de 2026) |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Vivir. Y después, poder caminar y ver el sol sin ventana de por medio |
 | **Obstáculo** | Su cuerpo; después, las reglas del más allá; después, el miedo de que su madre se quede sola |
@@ -73,7 +73,7 @@
 | --- | --- |
 | **Volumen** | 1 |
 | **Extensión** | 5,217 palabras (≈ 17 páginas) |
-| **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
+| **Estado** | 🟦 Revisado (12 de octubre de 2026); pendiente de aprobación |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Comer, tener dónde dormir y conseguir **el cuarto con ventana** que pidió en el más allá |
 | **Obstáculo** | No tienen dinero. No conocen a nadie. Y Aqua es Aqua |
@@ -104,7 +104,7 @@
 | --- | --- |
 | **Volumen** | 1 |
 | **Extensión** | 5,490 palabras (≈ 18 páginas) |
-| **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
+| **Estado** | 🟦 Revisado (12 de octubre de 2026); pendiente de aprobación |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Encontrar a un cuarto miembro para poder aceptar el encargo de los sapos |
 | **Obstáculo** | Nadie quiere un grupo de dos, ni al lado de una «diosa» que nadie cree |
@@ -138,7 +138,7 @@
 | --- | --- |
 | **Volumen** | 1 |
 | **Extensión** | 5,077 palabras (≈ 17 páginas) |
-| **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
+| **Estado** | 🟦 Revisado (12 de octubre de 2026); pendiente de aprobación |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que a nadie se le ocurra ponérsele enfrente para protegerlo |
 | **Obstáculo** | La cuarta integrante **existe justamente para eso**, y encima le encanta |
@@ -169,7 +169,7 @@
 | --- | --- |
 | **Volumen** | 1 |
 | **Extensión** | 5,030 palabras (≈ 17 páginas) |
-| **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
+| **Estado** | 🟦 Revisado (12 de octubre de 2026); pendiente de aprobación |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Entender qué está pasando con los cerros y, después, arreglarlo |
 | **Obstáculo** | La responsable es su propia amiga, y el agraviado es un general del Rey Demonio que tiene toda la razón |
@@ -200,7 +200,7 @@
 | --- | --- |
 | **Volumen** | 1 |
 | **Extensión** | 5,148 palabras (≈ 17 páginas) |
-| **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
+| **Estado** | 🟦 Revisado (12 de octubre de 2026); pendiente de aprobación |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Sacar al grupo de la quiebra antes del invierno |
 | **Obstáculo** | El dinero se lo gastó Aqua en el templo, y el único encargo grande es un lago contaminado lleno de monstruos |

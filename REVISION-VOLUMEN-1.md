@@ -23,7 +23,7 @@ Qué se revisó, capítulo por capítulo: **aspecto físico de los personajes, f
 | Capítulo 6 — «El otro elegido» | 5,148 | Limpio | Reloj de los siete días; aspecto de Mitsurugi; la decisión de Megumin |
 | **Total** | **34,044** | | |
 
-Los conteos ya están actualizados en los encabezados de cada archivo, en la bitácora (`biblia/17`) y en la ficha de cada capítulo.
+Los conteos ya están actualizados en los encabezados de cada archivo, en la bitácora (`biblia/17`) y en la ficha de cada capítulo. El **rótulo de estado** de los encabezados también quedó al día: el capítulo 1 dice «aprobado por el autor» y las demás piezas dicen «revisado; pendiente de aprobación del autor».
 
 ---
 
