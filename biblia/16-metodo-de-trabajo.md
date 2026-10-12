@@ -73,7 +73,7 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 | Cap. | Estado | Título | Nota |
 | --- | --- | --- | --- |
 | **Prólogo** | 🟦 Escrito | «Un lugar sin ventanas» | 954 palabras · pendiente de aprobación del autor |
-| 1 | 🟨 Diseño aprobado | *(por definir)* | Emotivo, lineal, muestra todo; cierra con el primer paso en Axel |
+| 1 | 🟦 Escrito | «Todo lo que alcancé a ver desde aquí» | 7,044 palabras · el más largo · pendiente de aprobación |
 | 2 | ⬜ Vacío | — | — |
 | 3 | ⬜ Vacío | — | — |
 | 4 | ⬜ Vacío | — | — |
