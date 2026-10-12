@@ -67,4 +67,35 @@
 
 ---
 
-*(Aquí se irán agregando las fichas del capítulo 2 y siguientes.)*
+## Capítulo 2 — «Un cuarto con ventana»
+
+| Campo | Contenido |
+| --- | --- |
+| **Volumen** | 1 |
+| **Extensión** | 5,145 palabras (≈ 17 páginas) |
+| **Estado** | 🟦 Primer borrador escrito, pendiente de aprobación |
+| **Foco** | Jesús, primera persona |
+| **Deseo local** | Comer, tener dónde dormir y conseguir **el cuarto con ventana** que pidió en el más allá |
+| **Obstáculo** | No tienen dinero. No conocen a nadie. Y Aqua es Aqua |
+| **Forma** | Primer día completo en Axel, de la puerta de la ciudad a la primera noche: cinco escenas que bajan de la épica a lo doméstico |
+| **Referencia del canon** | El registro en el gremio, la carta de aventurero, la clase inicial y el problema del dinero del episodio 1. Se introducen la recepcionista Luna (ruta) y el tablero de encargos. **Se difiere** la caza de sapos gigantes y a Megumin (episodio 2 del canon) al capítulo 3 |
+| **Cambio al cierre** | De recién llegado sin nada a aprendiz con techo, oficio y un gato en la barda |
+| **Lo que el lector aprende** | Cómo funciona el gremio y la carta; que Jesús eligió la clase «aventurero»; que su suerte es un poco mejor que el promedio; que hay una muchacha que hace explotar los cerros todas las tardes |
+| **Gancho** | «Mañana hay que buscar gente, porque los encargos buenos son pa' cuatro» + el papel de los sapos gigantes + la columna de humo en los cerros |
+| **Rutas** | **Luna**: primeras banderas (le pregunta por qué se disculpa, le dice que su nombre suena a que le pide cosas a la gente). Aqua: crece la compañía silenciosa |
+| **Objetos** | La **carta de aventurero** (nueva, se guarda en el bolsillo de la camiseta) · playera, celular y llave (mencionados de paso) |
+| **Continuidad** | Todo lo del apartado del capítulo 2 en la bitácora (sección 17) |
+
+**Notas de escritura aplicadas:**
+- **Escena obligada cumplida:** «La primera vez que se disculpa con alguien del gremio y le dicen *¿por qué te disculpas?*» (Luna).
+- **Promesa pagada:** el cuarto con ventana, pedido en el capítulo 1, se cumple aquí. La ventana da al callejón, huele a basura y **hay un gato en la barda**.
+- **Semilla de Megumin:** el *bum* de los cerros al anochecer, la columna de humo y el pueblo entero sin voltear. Jesús lo apunta — y él es el único que lo apunta.
+- **Gancho del gremio:** el papel de los sapos gigantes con el aviso de que cada año se muere alguien.
+- **El cierre:** la noche, lavado. Intenta decir «buenas noches, mamá» y **no le sale la palabra**; Aqua, desde el otro lado de la pared, contesta «buenas noches». Duerme con la ventana abierta: lo más triste y lo que vino a buscar, en el mismo renglón.
+- El estilo se apoya en objetos concretos: el plato de pan caliente, la escalera fea, el agua que brilla, la oreja partida del gato.
+
+**Pendiente de aprobación del autor:** el título de la obra, el nombre de **doña Hilda** (posadera) y el de **Shimura II** (el gato de la barda de Axel, que en el texto no se nombra; en la cabeza de Jesús sí).
+
+---
+
+*(Aquí se irán agregando las fichas del capítulo 3 y siguientes.)*

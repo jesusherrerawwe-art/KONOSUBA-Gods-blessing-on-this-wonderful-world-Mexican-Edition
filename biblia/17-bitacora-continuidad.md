@@ -4,20 +4,23 @@
 >
 > **Regla de oro:** si la bitácora y el capítulo se contradicen, manda el capítulo — pero se corrige la bitácora el mismo día.
 
-**Última actualización:** tras el capítulo 1.
+**Última actualización:** tras el capítulo 2.
 
 ---
 
 ## Estado actual
 
-**Piezas escritas:** 2 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo).
+**Piezas escritas:** 3 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo).
 
 | Pieza | Estado |
 | --- | --- |
 | Prólogo — «Un lugar sin ventanas» | 🟦 Escrito (954 palabras) |
 | Capítulo 1 — «Todo lo que alcancé a ver desde aquí» | 🟦 Escrito (7,044 palabras) |
-| Capítulos 2–10 | ⬜ No escritos |
+| Capítulo 2 — «Un cuarto con ventana» | 🟦 Escrito (5,145 palabras) |
+| Capítulos 3–10 | ⬜ No escritos |
 | Epílogo del volumen | ⬜ No escrito |
+
+**Título de la obra:** 『**KONOSUBA! — La bendición de Jesús en este maravilloso mundo**』*(Edición Mexicana)* — propuesto por el agente, pendiente del visto bueno del autor. Alternativas: «El Rebaño Sagrado» y «Un cuarto con ventana».
 
 **Nota de continuidad:** el prólogo es un fragmento del **mismo instante** en que arranca la segunda mitad del capítulo 1 (el lugar sin ventanas, de pie, esperando). El capítulo **no repite** esa escena: la retoma donde el prólogo la dejó.
 
@@ -31,6 +34,8 @@
 | **La foto** | Galería del celular | Él y su madre en la puerta de la cabaña, riéndose, torcida, malísima. **Es la mejor foto que existe** | Cap. 1 |
 | **Libro de banderas** | App de notas | Ya existe: la lista que empezó en Japón | Cap. 1 |
 | **La bolsa de Aqua** | Con Aqua | Abanico, botella, piedra con forma de corazón y adornos inútiles | Cap. 1 |
+| **La carta de aventurero** | Bolsillo de Jesús | Clase: **aventurero**. Números regulares; suerte un poco arriba del promedio | Cap. 2 |
+| **La carta rota de Aqua** | Archivo del gremio | Dice «archipresbítera» con todos los renglones al tope. Luna la declaró rota; el gremio se rio | Cap. 2 |
 
 ## Detalles del mundo ya fijados por el texto
 
@@ -82,26 +87,64 @@
 - **Axel** vista desde el camino: casas de teja apretadas subiendo un cerro, muro de piedra, una puerta grande, humo en las chimeneas, una torre o iglesia arriba, luces encendiéndose, olor a leña y a pan, y mucha gente viva.
 - **Cierre:** la llave apretada sobre la camiseta, el primer paso, y nadie diciéndole «despacito».
 
+## Detalles del mundo ya fijados por el texto (capítulo 2)
+
+### Axel
+- **La puerta de la ciudad** la guardan dos guardias armados; el de la cara le dijo «aquí los problemas muerden».
+- La ciudad huele a cebolla, a pan, a humo y **a gente que trabaja**. Está llena de ropa colgada en balcones, carretillas, niños y perros echados al sol.
+- Hay una plaza con una fuente y una estatua ecuestre de alguien. El gremio está **a dos cuadras** de la plaza.
+
+### El gremio
+- Edificio grande de madera, puertas abiertas, unas cuarenta personas dentro, mesas, jarras, un **tablero enorme con papeles clavados** y **un animal de metal colgado de una viga** que Jesús no supo qué era.
+- **Luna** es la recepcionista: pelo castaño, blusa blanca, cinta en la cabeza, ojos cansados, cara amable. Lleva una tabla con papeles. Es quien orienta a los que llegan. Le dijo que su nombre «suena a que le pides cosas a la gente». **Sabe el nombre completo de Jesús y lo dijo en voz alta.**
+- Aqua se subió a una banca a anunciar que es una diosa. **Nadie la creyó.** Un señor barbón le contestó «y yo soy un príncipe»; ella respondió «usted es un borracho»; él dijo «eso también».
+- **El registro:** se pone la mano sobre una carta de cartón grueso; la carta se calienta y se escriben solas las letras («no te muevas, que se te queda pegada»).
+- **La carta de Jesús:** fuerza regular, vitalidad regular, inteligencia regular, poder mágico nada, destreza regular, agilidad regular, **suerte un poquito arriba de lo normal**. Luna: *«Dicen que puedes ser cualquier cosa, y que todavía no eres ninguna.»* Y sobre la suerte: *«hay gente que jura que sirve, y esa gente vive mejor que la otra»*.
+- **Clase escogida:** aventurero, la clase de los que todavía no son nada; puede aprender de todo, más despacio y más caro.
+- **La carta de Aqua:** todos los renglones al tope, con la tinta manchada. Salió igual cuatro veces. Luna la declaró rota. Aqua lloró (mitad teatro, mitad verdad) y el gremio entero se rio sin maldad. **Jesús se sentó a su lado sin decir nada.**
+- **El tablero de encargos** tiene: manos para techos (pagan al día), recolección de hierbas del río (por canasta), limpieza de alcantarillas del mercado («advertencia: huele»), cuidar un carro de noche (se necesitan dos) y **EXTERMINIO DE SAPOS GIGANTES — grupo de cuatro, mínimo, se paga por pieza, «se avisa que es peligroso y que cada año se muere alguien»**.
+- **El establo** detrás del gremio es gratis y es un establo.
+- Regla de dinero de Luna: nada es gratis; dormir, comer, armas, armaduras y **hasta las sanaciones** cuestan.
+- Luna: *«los aventureros nuevos llegan todos apurados a matar cosas y yo ya vi morir a muchos apurados»* / *«los que llegan a cargar cosas duran más»*.
+
+### El bum de los cerros (semilla)
+- Al anochecer se oyen **explosiones** que vienen de los cerros, dos o tres, separadas por unos segundos, y **nadie en Axel reacciona**. Aqua dice que hay «una muchacha» que va a los cerros a hacer explosiones todas las tardes y que está mal de la cabeza.
+- Se ve **una columna de humo** contra el cielo morado.
+- Jesús lo apunta y **es el único que lo apunta**: *«la gente que hace ruido y a nadie le importa es la que uno tiene que ir a buscar»*.
+
+### La posada y el cuarto
+- **Doña Hilda:** señora bajita, pelo blanco recogido, brazos fuertes, vive sola, siempre busca manos. No paga: da cama y comida. Risa de una sola sílaba.
+- **La posada del farol con la luz roja**, en una esquina de la plaza: nueve mesas y la escalera más fea de Axel.
+- **El cuarto de Jesús:** el más chico que ha visto; un catre, una silla, un buró con un cajón, techo inclinado y **un techo lleno de manchas con forma de isla** (igual que su cuarto de Okinawa).
+- **La ventana:** chiquita, de madera, pintura reventada, vidrio sucio. Da a un callejón, se ve la pared de la casa de al lado, un pedazo de cielo con luna y estrellas que no conoce, y huele un poco a basura. **Los seguros trabajan mal.**
+- **El gato de la barda de Axel:** flaco, pardo, con una oreja partida. Se estaba lamiendo una pata. No se fue. *(En la cabeza de Jesús es el segundo Shimura; en el texto no se le pone nombre.)*
+- Aqua cocina su propia agua «purificada» y el agua brilla; doña Hilda la pone a lavar el fondo de la olla.
+- Jesús trabajó hasta la madrugada: barrió, talló platos, movió cajas, bajó dos barriles «por partes, con mucha técnica y muy poco resultado». Doña Hilda le dio **pan caliente con queso** y se sentó enfrente mientras comía.
+- **El cierre:** intentó decir «buenas noches, mamá» y **se le acabó el aire antes de la palabra**. Aqua, del otro lado de la pared, contestó «buenas noches». Durmió **con la ventana abierta toda la noche**.
+- Luna le advirtió que no le diera más las gracias. Y él le volvió a dar las gracias.
+
 ## Rutas románticas
 
 | Heroína | Vínculo | Qué sabe | Pendiente |
 | --- | --- | --- | --- |
-| **Aqua** | Aliados desde el más allá | Toda su vida, su familia y su promesa | El primer beso (Vol. 1) |
-| **Megumin** | Sin conocer | — | Incorporación y primer beso (Vol. 1) |
+| **Aqua** | Aliada y compañera de cuarto | Toda su vida, su familia y su promesa | El primer beso (Vol. 1) |
+| **Luna** | Primera amiga en Axel | Que es nuevo, que es amable y que eligió la peor clase | El beso sencillo (Vol. 2) |
+| **Megumin** | Sin conocer (solo el *bum* de los cerros) | — | Incorporación y primer beso (Vol. 1) |
 | **Darkness** | Sin conocer | — | Incorporación (Vol. 1); beso en Vol. 2 |
 | **Wiz** | Sin conocer | — | Vol. 2 |
 | **Yunyun** | Sin conocer | — | Vol. 2 |
-| **Luna** | Sin conocer | — | Vol. 2 |
 | **Chris / Eris** | Sin conocer | — | Vol. 2 |
 | **Iris** | Sin conocer | — | Vol. 3 (anillo) |
 
 ## Mundo y reputación
 
-- **Lugar:** a las puertas de Axel, al atardecer.
-- **Reputación de Jesús:** desconocido.
+- **Lugar:** Axel, cuarto de arriba de la posada del farol.
+- **Reputación de Jesús:** desconocido; en el gremio quedó como «el nuevo amable que eligió aventurero».
 - **Dinero:** cero.
-- **Vivienda:** ninguna.
+- **Vivienda:** cuarto del techo inclinado, en pago por trabajo.
 - **Compañía:** Aqua.
+- **Oficio:** aventurero registrado (clase inicial).
+- **Empleo actual:** manos en la posada de doña Hilda.
 
 ## Promesas abiertas (cosas insinuadas y todavía no pagadas)
 

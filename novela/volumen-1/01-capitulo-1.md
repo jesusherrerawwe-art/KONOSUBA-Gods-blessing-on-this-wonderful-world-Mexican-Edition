@@ -1,5 +1,6 @@
 # Capítulo 1 — «Todo lo que alcancé a ver desde aquí»
 
+**KONOSUBA! — La bendición de Jesús en este maravilloso mundo** *(Edición Mexicana)*
 **Volumen 1** · Capítulo 1 · 7,044 palabras
 **Estado:** primer borrador — pendiente de la revisión del autor
 **Nota:** es el capítulo más largo de la novela, como quedó aprobado: cubre una vida entera, una muerte, un umbral y una llegada. Los siguientes ya pueden respirar más corto (4,500–5,000).

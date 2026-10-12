@@ -6,6 +6,15 @@
 
 Esta es una **novela ligera original inspirada en el universo de *KonoSuba!***, con una aventura propia, humor disparatado y el espíritu irreverente que caracteriza a este maravilloso mundo.
 
+### Título de la obra
+
+> ## 『**KONOSUBA! — La bendición de Jesús en este maravilloso mundo**』
+> ### *(Edición Mexicana)*
+
+**Por qué este título:** el título oficial de la serie original es *God's Blessing on This Wonderful World!* — *«La bendición de Dios en este maravilloso mundo»*. Aquí el protagonista **se llama Jesús**, así que el juego de palabras funciona solo, en los dos sentidos: la bendición que él recibe y la bendición que él trae. Es un homenaje, no una burla.
+
+**Alternativas** *(por si el autor prefiere otra)*: **«El Rebaño Sagrado»** — la playera, el nombre y la party en una sola frase — o **«Un cuarto con ventana»**, que es la promesa que el protagonista pide al llegar.
+
 ## La novela
 
 El texto de la novela vive en la carpeta [`novela/`](novela/), separada de la biblia porque es el entregable final.

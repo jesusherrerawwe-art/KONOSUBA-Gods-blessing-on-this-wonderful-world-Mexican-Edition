@@ -74,7 +74,7 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 | --- | --- | --- | --- |
 | **Prólogo** | 🟦 Escrito | «Un lugar sin ventanas» | 954 palabras · pendiente de aprobación del autor |
 | 1 | 🟦 Escrito | «Todo lo que alcancé a ver desde aquí» | 7,044 palabras · el más largo · pendiente de aprobación |
-| 2 | ⬜ Vacío | — | — |
+| 2 | 🟦 Escrito | «Un cuarto con ventana» | 5,145 palabras · introduce a Luna y paga la ventana |
 | 3 | ⬜ Vacío | — | — |
 | 4 | ⬜ Vacío | — | — |
 | 5 | ⬜ Vacío | — | — |
