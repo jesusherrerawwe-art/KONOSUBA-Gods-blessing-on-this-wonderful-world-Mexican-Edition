@@ -52,6 +52,31 @@ Un chico que pasó quince años en una habitación mirando un equipo de fútbol 
 - Vestimenta de llegada: **camiseta blanca con el escudo del Club Deportivo Guadalajara**, jeans azules y **tenis rojos con agujetas blancas**. Al cuello, **una cadena con un dije**.
 - Manos suaves. No tiene callos: nunca ha trabajado con las manos. En Axel, eso cambia.
 
+### La cadena y la llave 📝 *(propuesta del agente, sujeta a veto)*
+
+En el póster aprobado lleva una cadena al cuello con un dije pequeño. Esto es lo que es:
+
+> **Es la llave de la puerta de la cabaña.**
+> **Y nunca la ha usado.**
+
+- De niño se la colgó **para no perderla si algún día salía**. Le parecía lógico.
+- **Nunca salió.**
+- Así que es la llave de una puerta que él jamás abrió con sus propias manos. Quince años dando vueltas al cuello de alguien que no cruzaba esa puerta.
+
+**Por qué es la pieza correcta:**
+
+- **Se conecta con el tema entero del proyecto.** La historia tiene tres puertas: la puerta de casa (que existe y da miedo), la puerta del cuarto (que no se abría) y la puerta hacia el otro mundo (que sí se abrió, sin llave). Un dije diminuto que **es una puerta** y que cuelga del pecho de Jesús es la metáfora más económica posible.
+- **Su mamá sigue viva en Japón.** Es decir: **la puerta existe, la llave funciona, y él no puede llegar.** Eso es exactamente el dilema del epílogo, colgado del cuello.
+- **Nadie en Axel sabe qué es.** Es pequeño, va debajo de la camiseta y no llama la atención. Cuando **alguien** finalmente pregunte qué abre, el lector ya va a saber la respuesta y el personaje no. *Esa* es la escena.
+- **Es silencioso.** No pide una escena de explicación: pide que se note una vez y se deje en paz.
+
+**Reglas de uso:**
+- Se menciona **muy poco** —es un detalle de vestuario, no un discurso—. Dos o tres apariciones como máximo.
+- **Nunca se explica en voz alta** hasta que alguien pregunte, y esa conversación pertenece al desarrollo, no al capítulo 1.
+- **No la usa nunca.** Si algún día la usa, es porque la historia llegó a su punto más alto.
+
+*(Pendiente del visto bueno del autor.)*
+
 **Cambio físico a lo largo de la novela** *(esto es una de las mejores herramientas dramáticas del proyecto)*:
 - **Vol. 1:** manos ampolladas, primeros callos, quemaduras de sol. Aprende a cansarse.
 - **Vol. 2:** se le ensanchan los hombros; ya carga a Megumin sin pedir ayuda. La piel se le oscurece.
@@ -157,12 +182,13 @@ Una **camiseta blanca con el escudo del Club Deportivo Guadalajara** en el pecho
 - **Para Jesús, el escudo es su acta de nacimiento.** Nació en esa ciudad y no la recuerda; el escudo es la prueba de que su vida empezó en algún lugar antes de la cabaña.
 - Nadie en Axel entiende qué es. **Eso es el chiste y también la ternura.**
 
-### De dónde viene 📝 *(propuesta: dos variantes, el autor elige)*
+### De dónde viene ✅ **Aprobado: la trajo su padre**
 
-- **Variante A — «La camiseta del papá»:** se la trajo su padre en uno de los viajes buscando una cura, cuando pasó por Guadalajara. No la compró como regalo: la compró **porque en esa ciudad no se acordaba de nada más que de él**.
-- **Variante B — «La camiseta del tío»:** la mandó por correo un familiar de Guadalajara, con una carta que Jesús leyó cien veces. El parentesco es con la rama materna: la casa de donde viene su madre.
+En uno de los viajes buscando una cura, su padre pasó por Guadalajara —la ciudad donde Jesús nació y de la que no recuerda nada— y compró la camiseta.
 
-*(Elegir una y escribirla una vez, en un capítulo. Nunca explicarla dos veces.)*
+No fue un regalo pensado con antelación. La compró **porque en esa ciudad no se acordaba de nada más que de él.**
+
+> **Nota de escritura:** esta explicación se da **una sola vez** en los 30 capítulos, sin subrayarla ni repetirla. Si el lector se acuerda de esto cuando la playera se rompa y alguien de este mundo la cosa, el trabajo está hecho.
 
 ### Su recorrido por los 30 capítulos 📝 *(itinerario propuesto)*
 
@@ -174,7 +200,7 @@ Una **camiseta blanca con el escudo del Club Deportivo Guadalajara** en el pecho
 | **Vol. 2** | Le queda **estrecha**. Ya no es el cuerpo de la cabaña. Se la pone igual; se le revienta una costura en plena misión | El cambio físico, contado por la ropa |
 | **Vol. 2** | La explica por primera vez: la ciudad, el equipo, el rebaño. **Y alguien responde** | La playera se vuelve un tema, no un objeto |
 | **Vol. 3** | **Decide no usarla** para su pelea más importante: la deja doblada en casa, o se la pone encima de otra cosa. Necesita ser él, no el recuerdo | Crecimiento: ya no necesita la playera para ser quien es |
-| **Epílogo** | Le cosen algo nuevo encima —o le hacen **una segunda, hecha a mano en Axel** con el mismo escudo— y las dos cuelgan de la misma pared | Cierre: pertenece a los dos mundos, y ya no le pesa |
+| **Epílogo** | **Remendada con trozos de este mundo:** cada rotura se fue parchando con retazos de la casa, del manto de una, de la capa de otra. **El escudo quedó intacto:** nadie se atrevió a tapar el escudo | Cierre: el pasado no se olvida ni se cambia, **se sostiene con lo que llegó después** |
 
 ### Reglas de uso (para no gastarla)
 
@@ -184,11 +210,28 @@ Una **camiseta blanca con el escudo del Club Deportivo Guadalajara** en el pecho
 - **Si en algún momento se lava ropa en la casa, ella está ahí.** Los lectores atentos lo notarán. Es una forma de decir «su pasado vive con él» sin decir nada.
 - **Cuando se rompa, que se rompa feo.** No hay drama si el daño es limpio.
 
-### El fútbol en Axel 📝 *(propuesta de capítulo ligero)*
+### El fútbol en Axel ✅ **Aprobado: capítulo completo en el Vol. 2**
 
-Un capítulo de la Vol. 2 en el que Jesús les enseña a jugar: los chicos de la ciudad contra un equipo de aventureros del gremio. Comedia garantizada: Megumin cobra el tiro libre con Explosión; Darkness se pone de portera y **goza** cada gol; Aqua exige ser árbitro y celebrar los goles que nadie hizo; Luna organiza la apuesta y la ciudad entera termina en la cancha.
+Los chicos de la ciudad contra un equipo de aventureros del gremio, con las reglas que Jesús recuerde de ver partidos por televisión. Comedia garantizada:
 
-> **Cierre emocional:** puede ser la primera vez que Jesús hace algo **suyo** en este mundo, algo que trae él, sin que nadie se lo pida. Y no sirve para salvar a nadie: solo sirve para ser feliz.
+- **Megumin** cobra los tiros libres con **Explosión**. *(Nadie patea, para variar.)*
+- **Darkness** se pone de portera y **disfruta** cada gol. Se vuelve un problema táctico.
+- **Aqua** exige ser árbitro, y celebra los goles que nadie hizo.
+- **Luna** organiza la apuesta oficial del gremio.
+- **Jesús** descubre que puede correr. Y que le gusta. Y que se cansa. Y que quiere seguir.
+
+> **Cierre emocional:** es la primera vez que Jesús hace algo **suyo** en este mundo — algo que trae él, sin que nadie se lo pida — y **no sirve para salvar a nadie**. Solo sirve para ser feliz.
+
+### La pared del epílogo 📝 *(propuesta del agente, sujeta a veto)*
+
+La camiseta de las Chivas —remendada, desteñida, **con el escudo intacto**— cuelga en la pared de la casa de Axel, junto a otras dos cosas:
+
+- **La llave** (ver la sección siguiente), colgada de un clavo al lado.
+- **La foto.**
+
+No se explica. No hay discurso. **El último párrafo de la novela no habla de la playera**: la deja ahí, a la vista, y confía en que el lector se acuerde de todo lo que pasó para que llegara a esa pared.
+
+*(Pendiente del visto bueno del autor.)*
 
 ---
 
@@ -248,7 +291,7 @@ Las reglas están aprobadas en la sección 13 y se respetan tal cual:
 | **Vol. 1** | Un cuerpo que descubre el mundo | Aprende que puede querer conservar algo |
 | **Vol. 2** | Un aventurero que sostiene a un equipo | Pasa de ser cuidado a **cuidar** |
 | **Vol. 3** | Un joven que decide | Entiende que quedarse también es una forma de salvar |
-| **Epílogo** | Un hombre con dos mundos y una pared donde cuelgan dos camisetas | Ya no es la habitación: es la casa |
+| **Epílogo** | Un hombre con dos mundos y una pared que lo cuenta todo | Ya no es la habitación: **es la casa** |
 
 **Pregunta dramática que lo ordena todo:** *¿puede alguien que perdió toda su vida ser capaz de elegir una nueva sin traicionar la primera?*
 
@@ -280,10 +323,11 @@ Momentos que el proyecto debe tener tarde o temprano:
 - [ ] La primera vez que dice «mi casa» y se da cuenta de lo que dijo.
 - [ ] Alguien preguntando por el escudo del pecho.
 - [ ] La playera rompiéndose y alguien de este mundo cosiéndola mal y con cariño.
+- [ ] **Alguien preguntando qué abre la llave.**
 - [ ] Alguien leyendo el libro de banderas.
-- [ ] El fútbol en Axel.
+- [ ] El fútbol en Axel. ✅ *(aprobado)*
 - [ ] La primera vez que alguien le dice que se quede… y él se queda.
-- [ ] El epílogo: la pared con las dos camisetas.
+- [ ] El epílogo: **la pared** —la playera remendada con retazos de este mundo, el escudo intacto, la llave y la foto—.
 
 ---
 
