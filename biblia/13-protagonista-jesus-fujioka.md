@@ -119,7 +119,7 @@ Trece decisiones, tomadas junto con el autor. Doce están cerradas y una quedó 
 | 3 | Dial del ecchi | ✅ Tomada | Elevado, sin contenido explícito, con reglas de casa |
 | 4 | ¿Cómo lo acompaña Aqua? | ✅ Tomada | Ella insiste hasta convencerlo; gana por terquedad |
 | 5 | ¿Cómo lo llaman en Axel? | ✅ Tomada | Un apodo que le inventa el gremio (falta definir cuál) |
-| 6 | ¿Qué cruza con él? | ✅ Tomada | La playera de las Chivas y su celular… que aún tiene señal |
+| 6 | ¿Qué cruza con él? | ✅ Tomada | La playera de las Chivas y su celular (reglas definidas más abajo) |
 | 7 | Hilo de los padres | ✅ Tomada | Se cierra en el epílogo |
 | 8 | Estructura de la novela | ✅ Tomada | **30 capítulos en 3 volúmenes de 10**, con el ritmo de las tres temporadas del anime |
 | 9 | Voz narrativa | ✅ Tomada | Primera persona, desde Jesús |
@@ -131,7 +131,7 @@ Trece decisiones, tomadas junto con el autor. Doce están cerradas y una quedó 
 ## Decisiones abiertas
 
 - [ ] **El apodo exacto del gremio.** Definirlo con cuidado: tiene que sonar natural en un mundo de fantasía, ser cálido y funcionar como broma recurrente.
-- [ ] **Las reglas del celular.** Batería, cobertura, aplicaciones, cámara, música. Una vez fijadas, se respetan en los 30 capítulos (y el gag se vuelve más gracioso, no menos).
+- [ ] **Detalles del celular por resolver:** ¿aparece su padre en la única foto? (recomendación en el apartado «Reglas del celular») ¿se rompe el secreto de la party en algún momento?
 - [ ] **Los títulos de los tres volúmenes.** 🤫 **Reservado como sorpresa por el autor.** No se proponen ni se definen aquí: se revelarán cuando él lo decida.
 - [ ] **Dónde se traza la frontera temática** entre «la vida que gana» y «la vida que comparte». El orden por temporadas sugiere que cae **al inicio del Vol. 3** (Vols. 1–2 cantan lo ganado, el Vol. 3 canta lo compartido). Pendiente de confirmar.
 - [ ] **Aprobar los tres clímax propuestos** (ver la sección siguiente).
@@ -155,9 +155,61 @@ El autor resolvió la última decisión pendiente. Estas son las cuatro piezas d
 - **El cierre manda.** Si el capítulo termina con el primer paso en Axel, entonces la última emoción que el lector se lleva **no es la pérdida: es el asombro**. Esa secuencia —elegía, umbral, asombro— es la estructura completa del capítulo.
 - **Extensión:** este será probablemente el capítulo más largo de la novela. Está bien: es la puerta de entrada y tiene que cubrir una vida entera, una muerte y un umbral. Los capítulos siguientes ya pueden respirar más corto.
 
+## Reglas del celular (aprobadas)
+
+> Cuatro decisiones tomadas por el autor. Estas reglas se respetan en los 30 capítulos; el gag gana fuerza cada vez que se repite, en lugar de desgastarse.
+
+### El aparato
+
+Es el mismo teléfono de su cabaña: el de las novelas visuales, el de los partidos de las Chivas, el del último mensaje de buenas noches de su madre. Llega al otro mundo sin explicación, junto con la playera. **Nadie** —ni Jesús— sabe por qué.
+
+### 1. La batería se carga con magia
+
+- **Aqua** lo carga mejor que nadie y **se ofende** cada vez que se lo piden. Después presume de haberlo hecho.
+- **Wiz** es la más eficiente y amable; nunca cobra, aunque su tienda lo necesite desesperadamente.
+- **Megumin** quiere cargarlo con **Explosión**. La respuesta es no. Siempre es no.
+- **Darkness** se ofrece como «conducto» con demasiado entusiasmo.
+- **Regla técnica:** la carga es proporcional a la magia transferida; sobrecargarlo lo calienta y produce efectos raros (chispas, estática en el pelo de quien lo toca, canciones que se saltan solas).
+
+**Función narrativa:** el celular **nunca es un aparato de Jesús solo**. Lo obliga a pedir ayuda, a deber favores, a compartirlo. Es un objeto que construye vínculos a la fuerza.
+
+### 2. Las funciones son las esenciales
+
+- **Álbum de fotos, música, notas y linterna.** Nada más: sin internet, sin llamadas, sin mapas, sin traductor.
+- **La linterna** es magia mundana dentro de una mazmorra: un objeto del otro mundo iluminando un calabozo de fantasía.
+- **La música** guarda la banda sonora de su vida anterior. Poner una canción frente a la party es un momento enorme; conviene dosificarlo.
+- **Las notas** son su cuaderno de anotaciones. De ahí podrá salir, si conviene, la voz escrita del narrador.
+- **La señal:** los iconos marcan señal completa y **nunca se mueven de ahí**. Ninguna llamada conecta nunca. Es el guiño a *In Another World With My Smartphone* reducido a un milagro burocrático y a un chiste visual: cobertura total en un mundo sin antenas. *(Si en algún momento se quiere que la señal haga algo más que brillar, eso se decidirá aparte; por ahora es solo un chiste.)*
+
+### 3. El secreto es de la party
+
+- **Solo Aqua, Megumin y Darkness** lo saben y lo protegen. Nadie más en Axel.
+- Eso obliga a **escenas de encubrimiento**: tapar a Jesús en el gremio, desviar a Luna, inventar excusas para Dust, esconderlo cuando alguien entra a la casa.
+- **Vanir** es la amenaza natural: su capacidad de «ver a través» de las personas lo pone a un paso de saberlo. Mientras el secreto dure, es una bomba de tiempo con sonrisa de comerciante.
+- El secreto **no se rompe solo**: si se rompe, será una decisión consciente del Plan de Acción, en un capítulo elegido. *(Pendiente.)*
+
+### 4. Una sola foto, la más preciosa
+
+- **Es una sola imagen.** Él y su madre. Nada más en la galería importa.
+- **¿Y su padre?** Recomendación: **la foto la tomó su padre.** Así aparece en ella sin aparecer —por haber apretado el botón, por haber estado ahí en el único momento en que los tres estuvieron juntos—, y eso resuelve el hilo del padre con enorme economía. *Pendiente del visto bueno del autor.*
+- **Reglas de uso:** aparece **contadas veces** en los 30 capítulos; la primera vez **no se describe en detalle**; Jesús decide cuándo mostrarla, nunca quien la pide; y cada aparición debe costarle algo al lector, jamás ser adorno.
+- **Pregunta de escritura:** ¿quién de la party la ve primero, y cómo? La escena existe; solo falta elegir a la protagonista y el momento.
+
+### Lo que nunca va a pasar (y por qué la regla es graciosa)
+
+Sin batería infinita, sin llamadas, sin museo de apps, sin Google Maps, sin cámara que resuelva misterios, sin fotos del más allá. El aparato es pequeñito, frágil y terco: **solo sirve para recordar de dónde viene Jesús.** Todo lo demás tiene que ganárselo a pulso, como cualquier aventurero de Axel.
+
+### Checklist de continuidad del celular
+
+- ¿Quién lo cargó esta vez, y qué pidió a cambio (aunque fuera cariño)?
+- ¿La escena respeta que las funciones son solo cuatro (álbum, música, notas, linterna)?
+- ¿El secreto se mantiene? ¿Quién podría haber visto algo?
+- Si aparece la foto, ¿la escena se lo ganó?
+- ¿El aparato se está usando para resolver un problema que debería resolver un personaje? Si sí, recortar.
+
 ## Avance del Plan: los tres clímax de volumen
 
-> **Propuesta, pendiente de aprobación.** El autor delegó esta decisión al desarrollo del Plan de Acción. Estos son los cierres propuestos para cada volumen: los grandes set-pieces del anime, reescritos para que el clímax emocional sea de Jesús y no de Kazuma.
+> **Propuesta, pendiente de aprobación.** El autor delegó esta decisión al desarrollo del Plan de Acción. Estos son los cierres propuestos para cada volumen: los greescritos para que el clímax emocional sea de Jesús y no de Kazuma.
 
 ### Vol. 1 — El Destructor
 
@@ -176,3 +228,4 @@ El viaje, la ciudad de Aqua, el general venenoso bajo las aguas.
 La deuda de los Dustiness, Aldarp, Maxwell, y una amiga dispuesta a entregar su vida entera.
 
 **Por qué él:** Darkness está dispuesta a sacrificarse por su familia, y Jesús **creció viendo exactamente eso**: una madre que se quedó a cuidarlo y un padre que gastó su vida buscando una cura. No puede soportarlo. El Vol. 3 no es un rescate: es un chico **negándose a que alguien más pague el precio que su familia pagó por él**. Y es el motor perfecto para que, en el epílogo, el hilo de sus padres se cierre.
+ilo de sus padres se cierre.
