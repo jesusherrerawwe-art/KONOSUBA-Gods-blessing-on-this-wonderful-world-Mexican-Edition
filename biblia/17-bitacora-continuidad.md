@@ -58,7 +58,7 @@
 ## Detalles del mundo ya fijados por el texto
 
 ### La familia y la casa (Japón)
-- **María** (madre), de Guadalajara; **Kenji** (padre), de Naha. *(Nombres puestos en el capítulo 1, pendientes del visto bueno del autor.)*
+- **María** (madre), de Guadalajara; **Kenji** (padre), de Naha. *(Nombres del capítulo 1, aprobados por el autor el 12 de octubre de 2026.)*
 - Cabaña de madera en la punta de un cerro, en Okinawa, con techo inclinado. Dos cuartos.
 - El cuarto de Jesús: veinticinco losetas, una lámpara, el aparato del *bip*, un ventilador que rezonga.
 - En el techo de la casa de al lado hay un **shīsā de barro al que Jesús llamó Shimura** y con el que hablaba.
@@ -422,3 +422,5 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 **Decisiones del autor (12 de octubre de 2026), ya aplicadas:** los «veintidós días» de Beldia bajaron a **diecisiete** (el hoyo de veintidós metros se queda: es el ancho del cráter); «el martes» del capítulo 6 se cambió por «de golpe»; **las vendas de la pierna derecha de Megumin ya están** en su presentación del capítulo 3; y el arreglo de la maldición se queda como está.
 
 **Sigue en revisión, sin decisión:** la «casa de entrenamiento de su familia» de Darkness en el capítulo 5 (es noble de la capital; propuesta: cambiarla por el patio del gremio o dejar claro que es una casa de campo de los Dustiness).
+
+**Aprobación del autor (12 de octubre de 2026):** el prólogo y los capítulos 1 a 6 quedaron **aprobados por el autor**. El rótulo de las siete piezas ya dice «aprobado por el autor» y el tablero de `biblia/16` está en verde. Los nombres que viven dentro de esas piezas (María, Kenji, doña Hilda, Mabel, el gato Shimura, el padre Aldo, Tander, Osaka) se dan por buenos con ellas; si alguno no late, se cambia sin problema.

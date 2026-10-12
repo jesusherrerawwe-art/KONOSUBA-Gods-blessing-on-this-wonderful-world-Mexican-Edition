@@ -1,7 +1,7 @@
 # Capítulo 5. El señor de la casa del cerro
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 5. Extensión: 5,030 palabras. Estado: revisado; pendiente de aprobación del autor.
+Volumen 1, capítulo 5. Extensión: 5,030 palabras. Estado: aprobado por el autor.
 
 ---
 

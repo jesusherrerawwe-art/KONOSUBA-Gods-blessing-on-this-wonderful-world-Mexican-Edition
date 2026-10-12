@@ -23,7 +23,7 @@ Qué se revisó, capítulo por capítulo: **aspecto físico de los personajes, f
 | Capítulo 6 — «El otro elegido» | 5,148 | Limpio | Reloj de los siete días; aspecto de Mitsurugi; la decisión de Megumin |
 | **Total** | **34,044** | | |
 
-Los conteos ya están actualizados en los encabezados de cada archivo, en la bitácora (`biblia/17`) y en la ficha de cada capítulo. El **rótulo de estado** de los encabezados también quedó al día: el capítulo 1 dice «aprobado por el autor» y las demás piezas dicen «revisado; pendiente de aprobación del autor».
+Los conteos ya están actualizados en los encabezados de cada archivo, en la bitácora (`biblia/17`) y en la ficha de cada capítulo. El **rótulo de estado** de los encabezados también quedó al día y, con el visto bueno del autor, **las siete piezas dicen ya «aprobado por el autor»**.
 
 ---
 
@@ -166,10 +166,10 @@ Para que no lo tomes por descuido:
 3. **Las vendas de Megumin:** ✅ se añadieron.
 4. **El «martes» del capítulo 6:** ✅ se cambió.
 
-Aparte de eso, siguen en la mesa los pendientes que ya conoces: el título de la obra, el apodo del gremio, el nombre del gato (**Shimura**), los nombres nuevos del capítulo 6 (**padre Aldo**, **Tander**, **Osaka**), el visto bueno de los capítulos 2 a 6, del prólogo y de Mabel, y la romanización **Beldia**.
+Aparte de eso, siguen en la mesa los pendientes que ya conoces: el título de la obra, el apodo del gremio y la romanización **Beldia**, además de las decisiones de historia que no son de texto (quién tomó la foto, cómo se rompe el secreto del celular, la frontera temática y los clímax de los volúmenes 2 y 3). Los nombres que ya viven dentro de las piezas aprobadas (Mabel, doña Hilda, el gato **Shimura**, el padre **Aldo**, **Tander**, **Osaka**) se dan por buenos con ellas.
 
 ---
 
 ## Qué sigue
 
-Con esto, **la revisión queda terminada y tus cuatro decisiones aplicadas**, ya en el repositorio. No se ha empezado el capítulo 7: cuando digas, lo siguiente es la ficha del capítulo 7 (el cerro, Beldia y la maldición de Megumin).
+Con esto, **la revisión queda terminada, tus cuatro decisiones aplicadas y el prólogo y los capítulos 1 a 6 aprobados por el autor**, todo en el repositorio. No se ha empezado el capítulo 7: cuando digas, lo siguiente es la ficha del capítulo 7 (el cerro, Beldia y la maldición de Megumin).

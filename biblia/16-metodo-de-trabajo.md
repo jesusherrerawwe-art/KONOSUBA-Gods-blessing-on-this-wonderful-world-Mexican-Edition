@@ -100,13 +100,13 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 
 | Cap. | Estado | Título | Nota |
 | --- | --- | --- | --- |
-| **Prólogo** | 🟦 Escrito | «Un lugar sin ventanas» | 954 palabras · revisado · pendiente de aprobación del autor |
+| **Prólogo** | 🟩 Aprobado | «Un lugar sin ventanas» | 954 palabras · revisado y aprobado por el autor |
 | 1 | 🟩 Aprobado | «Todo lo que alcancé a ver desde aquí» | 7,123 palabras · el más largo · revisado y aprobado por el autor |
-| 2 | 🟦 Escrito | «Un cuarto con ventana» | 5,217 palabras · revisado · introduce a Luna y paga la ventana |
-| 3 | 🟦 Escrito | «La muchacha que hacía temblar los cerros» | 5,490 palabras · revisado · entra Megumin; el grupo ya es cuatro |
-| 4 | 🟦 Escrito | «La gente que se pone enfrente» | 5,077 palabras · revisado · entra Darkness; cuadrilla completa |
-| 5 | 🟦 Escrito | «El señor de la casa del cerro» | 5,030 palabras · revisado · Beldia y la maldición |
-| 6 | 🟦 Escrito | «El otro elegido» | 5,148 palabras · revisado · el lago, Mitsurugi y el séptimo día |
+| 2 | 🟩 Aprobado | «Un cuarto con ventana» | 5,217 palabras · revisado y aprobado · introduce a Luna y paga la ventana |
+| 3 | 🟩 Aprobado | «La muchacha que hacía temblar los cerros» | 5,490 palabras · revisado y aprobado · entra Megumin; el grupo ya es cuatro |
+| 4 | 🟩 Aprobado | «La gente que se pone enfrente» | 5,077 palabras · revisado y aprobado · entra Darkness; cuadrilla completa |
+| 5 | 🟩 Aprobado | «El señor de la casa del cerro» | 5,030 palabras · revisado y aprobado · Beldia y la maldición |
+| 6 | 🟩 Aprobado | «El otro elegido» | 5,148 palabras · revisado y aprobado · el lago, Mitsurugi y el séptimo día |
 | 7 | ⬜ Vacío | — | — |
 | 8 | ⬜ Vacío | — | — |
 | 9 | ⬜ Vacío | — | — |
