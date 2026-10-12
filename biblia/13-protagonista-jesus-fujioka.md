@@ -122,12 +122,13 @@ Doce decisiones, tomadas junto con el autor. Las que están en pausa lo están *
 | 10 | Romance | ✅ Tomada | Harem abierto: todas las rutas, con respeto y comedia |
 | 11 | ¿Cuánto canon usamos? | ⏸️ En pausa | El autor quiere dedicarle más tiempo antes de decidir |
 | 12 | Tono del capítulo 1 | ⏸️ En pausa | «Todavía no hablemos de eso» |
+| 13 | Títulos de los tres volúmenes | 🤫 Sorpresa | Reservado por el autor; no se proponen aquí |
 
 ## Decisiones abiertas
 
 - [ ] **El apodo exacto del gremio.** Definirlo con cuidado: tiene que sonar natural en un mundo de fantasía, ser cálido y funcionar como broma recurrente.
 - [ ] **Las reglas del celular.** Batería, cobertura, aplicaciones, cámara, música. Una vez fijadas, se respetan en los 30 capítulos (y el gag se vuelve más gracioso, no menos).
-- [ ] **Los títulos de los tres volúmenes.** Cada volumen necesita su propio nombre, con la misma fórmula que el título general de la obra.
+- [ ] **Los títulos de los tres volúmenes.** 🤫 **Reservado como sorpresa por el autor.** No se proponen ni se definen aquí: se revelarán cuando él lo decida.
 - [ ] **Dónde se traza la frontera temática** entre «la vida que gana» y «la vida que comparte».
 - [ ] **¿Cuánto canon usamos?** En pausa por decisión del autor.
 - [ ] **El tono del capítulo 1.** En pausa por decisión del autor.
