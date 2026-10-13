@@ -332,3 +332,71 @@
 - **El paso del norte**, la zanja del camino y el **puente de hielo** que levantan entre Wiz y Aqua.
 
 **Nota de proceso:** la ficha se entrega junto con el primer borrador porque las cuatro decisiones de diseño ya estaban aprobadas. Si el autor pide cambios en la ficha, se aplican al texto antes de sellar el capítulo.
+
+
+---
+
+## Capítulo 10. El segundo trueno
+
+| Campo | Contenido |
+| --- | --- |
+| **Volumen** | 1 |
+| **Extensión** | 8,967 palabras (≈ 27 páginas). **No se recortó**: la indicación del autor fue dejar el capítulo largo si se extendía |
+| **Estado** | 🟨 Revisado; pendiente de aprobación del autor |
+| **Foco** | Jesús, primera persona |
+| **Deseo local** | Que la ciudad que lo adoptó siga en pie. Y, debajo de eso, estar por fin del lado de los que van |
+| **Obstáculo** | El Destructor no se puede detener: cuando el pueblo le arranca las patas, la máquina contesta con un reloj. Cuarenta minutos antes de reventar |
+| **Forma** | Cinco movimientos: la noche del gremio y el plan, los dos días de preparación, la última noche (el té con Megumin), el ataque al amanecer (la Ruptura y las dos Explosiones), el asalto y el teletransporte del coronatita |
+| **Referencia del canon** | **Anime, temporada 1, episodio 10** (la defensa de Axel): el gremio organiza la evacuación, el plan sale de una aventurera, el Destructor llega con aviso, Aqua rompe la barrera con **Ruptura Sagrada**, Megumin y Wiz le arrancan las patas a Explosiones, la máquina avisa que se va a autodestruir, la cruzada carga por gusto y los demás la siguen, adentro encuentran el **diario del constructor** que quedó atrapado a bordo, **Wiz usa Drenar sobre el protagonista** y teletransporta el **núcleo de coronatita** (que en el canon cae sobre la mansión del gobernador **Alderp**), y el calor acumulado obliga a la **segunda Explosión**, que deja a Megumin sin poder caminar. La novela sigue ese orden con dos cambios deliberados: la segunda Explosión la carga un rufián en el canon y aquí la carga Jesús, y el diario se cuenta en dos tiempos |
+| **Cambio al cierre** | Jesús deja de ser el que recibe: **le sacan y da tres veces** (le drenan a él, y él drena para la piedra, para Megumin y para la pierna). Y el pueblo sigue en pie, con la máquina de rodillas en el campo |
+| **Lo que el lector aprende** | Que este pueblo se defiende con lo que tiene (fosos, harina, hachas, ollas); que Wiz fue general y está enojada; que la máquina de ocho patas la construyó un hombre de Osaka que escribió su vida en un cuaderno que nadie leyó; que en este mundo la magia se pasa de mano en mano; y que el precio de tirar dos veces lo paga el cuerpo |
+| **Gancho** | El coronatita se fue «al azar». Cuatro días después, en el epílogo, se sabe dónde cayó |
+| **Rutas** | **Megumin**: el «yo quiero tirar dos», la pierna entablillada y el «¿viste lo que hizo mi cuerpo?». **Aqua**: el «acuérdate de que fui yo», el río entero que le sacan y el beso del manual. **Darkness**: «va a ser el mejor día de mi vida» y el hielo de Wiz que se levanta enfrente del pueblo. **Wiz**: la que se queda, la que se enoja y la que manda la piedra al azar |
+| **Objetos** | El cuaderno del constructor (y el lápiz del cajón) · el coronatita en su aro de hierro · el bastón de Megumin · la espada soldada de Darkness · la pierna entablillada con dos tablas de la muralla · el celular: **décima entrada del libro de banderas** |
+| **Continuidad** | Todo lo del apartado del capítulo 10 en la bitácora (sección 17) |
+
+**Decisiones creativas de este capítulo (las cuatro, tomadas con el autor el 13 de octubre de 2026):**
+- **Los dos usos de Drenar del canon, más un tercero «de corazón».** Jesús le pasa la magia de Aqua a Megumin (como en el canon) y Wiz le drena a él para mover el coronatita (como en el canon). El tercero es el más chiquito y el que más cuesta: cuando Aqua se queda vacía y Megumin se está desangrando, Jesús le empuja a Aqua lo último que le queda para que ella pueda curar. Se apaga y despierta al día siguiente en una carreta.
+- **Megumin paga de verdad.** Se lastima la pierna derecha, la de las vendas: el hueso se parte cuando el cuerpo le cobra la segunda Explosión. Es la cicatriz del volumen y un pendiente abierto del Vol. 2: semanas sin caminar y sin tirar nada, y la biblia de la magia sostiene la regla de Wiz («la magia se te vuelve a llenar en un día, y los huesos no»).
+- **La acusación de traición cae sobre Jesús**, como en el canon: él dio la orden de mandar la piedra al azar, y la piedra se metió en la casa de un gobernador de la corona. En el canon ese pleito abre la temporada 2; en la novela abre el Vol. 2.
+- **El primer beso de Jesús es de Aqua, y es el peor momento posible** (decisión del autor, 13 de octubre de 2026): en la nieve, con doscientos vecinos de testigos, a medio morir, y con ella justificándolo con una tontería de manual («cuando alguien se ahoga se le da aire»). Los dos lo niegan desde el primer día y la ruta queda cargada para todo el Vol. 2.
+- **El diario del constructor se cuenta en dos tiempos.** En el cuarto de mando se lee **la última hoja** (la carta de un muerto a quien sea que la encuentre, y el «No eres el único» que Jesús le escribe debajo); el resto del cuaderno se lee tres días después, en su cuarto, y ahí se sabe que el señor era de Osaka, que este mundo le quedó grande y que vivió cuarenta años arriba de su propia máquina.
+- **El reloj se oye.** El aviso de autodestrucción no se cuenta: se repite en voz alta por los pasillos («veintiséis minutos»), y se corta a media palabra cuando la segunda Explosión parte la máquina. El capítulo entero corre contra ese reloj.
+- **Comedia y ternura repartidas:** la Ruptura dicha en el gremio y no en la muralla, la ciudad que decide cuando se ríe con la panza, doña Hilda («aquí ya estamos los que nos queremos morir»), las ciento sesenta y una cosas de Wiz, el té horrible de la señora del pan y el «después me lo lees» de Megumin en el pasillo.
+
+**Canon verificado el 13 de octubre de 2026 (dinámica de tres pasos, punto 3):**
+- **El episodio 10 del anime** se cotejó completo antes de escribir (gremio, aviso, Ruptura, las dos Explosiones, el diario, el Drenar sobre el protagonista, el teletransporte del núcleo, la carga de Darkness, la segunda Explosión y sus consecuencias).
+- **Alderp / Aldarp:** la grafía que usa la biblia (secciones 03 y 06) es **Alderp**, y la que había quedado suelta en la sección 04 era «Aldarp». Se unificó todo a **Alderp**. Es el gobernador del pueblo de Axel y el noble al que en el canon le cae el núcleo encima: conviene sembrarlo aquí porque es el antagonista del arranque del Vol. 2.
+- **La fiscal Sena:** personaje del canon (procuradora de la corona destacada en Axel desde el incidente del Destructor). Aspecto verificado para la descripción: pelo negro largo con pasadores, gafas triangulares, uniforme azul con birrete de orla dorada, veinte años, seca y formal. **No se le inventó nada**: se la describe y se la deja entrar.
+
+---
+
+## Epílogo. Los que vuelven
+
+| Campo | Contenido |
+| --- | --- |
+| **Volumen** | 1 |
+| **Extensión** | 3,281 palabras (≈ 10 páginas) |
+| **Estado** | 🟨 Revisado; pendiente de aprobación del autor |
+| **Foco** | Jesús, primera persona |
+| **Deseo local** | Que lo que se salvó se celebre y que las cosas vueltas a su lugar queden dichas: la fiesta, el nombre del grupo y el lugar que él ocupa |
+| **Obstáculo** | En un pueblo chico nada se queda quieto (el beso), y la corona no mide lo que salvaste: mide lo que quemaste |
+| **Forma** | Cuatro movimientos: la levantada y los despojos de la fortaleza; la fiesta (Aqua contando la barrera, Darkness contenta, Wiz que vendió todo, Elvira y el sombrero); el nombre de la cuadrilla en el libro del año; los caballeros y la fiscal |
+| **Referencia del canon** | **Anime, temporada 2, episodio 1** (arranque): después de salvar la ciudad, los caballeros de la capital llegan y el protagonista queda acusado de traición porque el núcleo del Destructor destruyó la mansión del noble **Alderp**. La fiscal **Sena** es del canon y se verifica su aspecto. Aquí la acusación no se resuelve: se deja abierta, porque en el canon ocupa entero el arranque de la temporada |
+| **Cambio al cierre** | La cuadrilla tiene nombre, y Jesús tiene un lugar: **«Yo soy de aquí»** (décima bandera, capítulo 10) y «yo nada más quería un cuarto con ventana» (última línea del volumen) |
+| **Lo que el lector aprende** | Que en Axel el nombre de un grupo no lo escoge el grupo: se lo pega el camino; que las cosas que salvan la vida se cuelgan en la pared; y que en este reino el que salva a un pueblo y quema una casa de noble no queda impune |
+| **Gancho** | La fiscal Sena y cinco caballeros del rey en la puerta del gremio. **«¿Quién responde por usted?»** — «Los que vuelven» |
+| **Rutas** | **Aqua**: la negación pública del beso («es una cosa médica») y el silencio que sigue, que es lo primero que uno hace cuando algo sí pasó. **Megumin**: la archimaga en hombros del pueblo, bajada en brazos a la fiesta, con la pierna entablillada y el sombrero que le devuelve Elvira. **Darkness**: feliz porque puede contar que iba corriendo a que le pegaran. **Wiz**: vendió ciento cincuenta y ocho cosas y le da miedo la renta del mes que entra. **Luna**: la que cierra el libro del año y escribe el nombre nuevo |
+| **Objetos** | La hoja de la cuadrilla (cuatro nombres y una raya en blanco, desde el capítulo 4) · los pedazos de la fortaleza que el pueblo se lleva a su casa · el sombrero prestado de Megumin · los dos barriles y los tablones de la levantada · el vaso de Jesús en la mesa del beso |
+| **Continuidad** | Todo lo del apartado del epílogo en la bitácora (sección 17) |
+
+**Decisiones creativas de este epílogo (la del autor y las de proceso):**
+- **«Todo junto», como pidió el autor** (13 de octubre de 2026): la fiesta, el nombre nuevo de la cuadrilla y los caballeros de la capital en la última parte. No son tres escenas sueltas: van en un solo día que empieza de día y termina de noche, con la fiesta como hilo.
+- **El nombre lo pone el camino, no el grupo**: se respeta la ley que Luna explica en el capítulo 4 («los nombres de los grupos no los escogen los grupos»). Los nombres que las chicas proponen son chistes («los del agua sagrada», «la cuadrilla de la diosa», «los señores del trueno escarlata») y el que queda lo trae Fermín, el carretero, del camino del norte. **«Los que vuelven»** viene de las banderas 8 y 9 («Vuelven.», «Cuentan contigo.») y del estribillo de la señora del pan («nosotros aguantamos dos días»).
+- **La fiesta se llama la levantada**, y es del mundo del proyecto: el día en que el pueblo se junta a levantar lo que se cayó. Los despojos de la fortaleza se vuelven objetos de casa (remaches, vidrios de los ojos), que es exactamente lo que la novela hace con la playera: colgar en la pared lo que salvó la vida.
+- **El hilo de los padres se toca y no se cierra.** Jesús piensa en su mamá y en el papel que ella firmó, y quiere mandarle un recado con la única frase que le prometió Aqua desde el capítulo 1: **«que no me dolió»**. No sabe cómo, y el epílogo se queda con las ganas, porque ese es el pago del último volumen y no de este.
+- **El apodo de Jesús sigue pendiente** (decisión 5 del tablero): el pueblo no se pone de acuerdo («el muchacho», «el de la playera», «mijo»). Se deja dicho de manera explícita para que el lector sepa que falta y para que el Vol. 2 lo pueda pagar.
+
+**Personajes nuevos de este epílogo:**
+- **Sena** — fiscal de la corona destacada en Axel. Del canon: ver la ficha del capítulo 10.
+- **Elvira** (que ya existía desde el capítulo 9) — sube de promesa del mundo a promesa con fecha: le devuelve el sombrero a Megumin y su papá ya sabe que quiere ser aventurera.

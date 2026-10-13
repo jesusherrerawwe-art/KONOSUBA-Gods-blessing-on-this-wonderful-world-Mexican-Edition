@@ -4,13 +4,13 @@
 >
 > **Regla de oro:** si la bitácora y el capítulo se contradicen, manda el capítulo — pero se corrige la bitácora el mismo día.
 
-**Última actualización:** capítulo 9 escrito y revisado, pendiente de aprobación del autor, 12 de octubre de 2026.
+**Última actualización:** **Volumen 1 completo en el papel** (capítulo 10 y epílogo escritos y revisados, pendientes de aprobación), 13 de octubre de 2026.
 
 ---
 
 ## Estado actual
 
-**Piezas escritas:** 10 de 12 del Volumen 1 (prólogo + 10 capítulos + epílogo); **nueve aprobadas por el autor y el capítulo 9 revisado, pendiente de su aprobación.**
+**Piezas escritas:** las **12 de 12** del Volumen 1 (prólogo + 10 capítulos + epílogo): **65,171 palabras** de narrativa. **Nueve aprobadas por el autor** (prólogo y capítulos 1 a 8); el **capítulo 9**, el **capítulo 10** y el **epílogo** están revisados y pendientes de su aprobación.
 
 | Pieza | Estado |
 | --- | --- |
@@ -24,10 +24,10 @@
 | Capítulo 7 — «La gente que sí va» | 🟩 Aprobado (5,005 palabras) |
 | Capítulo 8 — «No me dolió» | 🟩 Aprobado (5,499 palabras) |
 | Capítulo 9 — «El camino del norte» | 🟨 Revisado; pendiente de aprobación del autor (8,376 palabras) |
-| Capítulo 10 | ⬜ No escrito |
-| Epílogo del volumen | ⬜ No escrito |
+| Capítulo 10 — «El segundo trueno» | 🟨 Revisado; pendiente de aprobación del autor (8,967 palabras) |
+| Epílogo — «Los que vuelven» | 🟨 Revisado; pendiente de aprobación del autor (3,281 palabras) |
 
-**El grupo ya está completo** (Jesús, Aqua, Megumin y Darkness) y registrado en el gremio como **cuadrilla**, todavía sin nombre.
+**El grupo ya está completo** (Jesús, Aqua, Megumin y Darkness), registrado en el gremio como **cuadrilla** y, desde el epílogo, **con nombre: «Los que vuelven»**.
 
 **Título de la obra:** 『**KONOSUBA! — La bendición de Jesús en este maravilloso mundo**』*(Edición Mexicana)* — **aprobado por el autor el 12 de octubre de 2026.** Las alternativas («El Rebaño Sagrado», «Un cuarto con ventana») quedaron descartadas como título de la obra.
 
@@ -50,10 +50,10 @@
 | **La botita de Megumin** | Perdida en la panza de un sapo | Se menciona al escupirla: «muchísimo pasto y una botita» — le falta una | Cap. 3 |
 | **La piedra de Megumin** | Con Megumin | La recogió el día que se fue de casa. Jesús se la saca sin querer con *Robar* y se la devuelve | Cap. 4 |
 | **El dije de plata de Chris** | Con Chris | Chiquito, «una espada o una pluma o algo que volaba». Jesús se lo saca sin querer con *Robar*; ella lo recupera rápido y se pone seria | Cap. 4 |
-| **La hoja de la cuadrilla** | Archivo del gremio | Firmada por los cuatro; **el nombre sigue en blanco**. Apuntados extraoficialmente como **«los de los sapos»** (los apuntó el señor Baltasar) | Cap. 4 |
+| **La hoja de la cuadrilla** | Archivo del gremio | Firmada por los cuatro en el cap. 4; **el nombre se escribió al cerrar el Vol. 1: «Los que vuelven»** (lo escribió Luna en el epílogo, en el libro del año). Antes anduvieron apuntados extraoficialmente como **«los de los sapos»** | Epílogo |
 | **El zapato ajeno** | Morral de Jesús | Le salió con Robar el día de las coles y se quedó con él. Se lo llevó al castillo de Beldia | Cap. 5 |
 | **Las tablas de Beldia** | Castillo del cerro | Tablas nuevas, cortadas derechito, apiladas sobre una mesa, con un martillo y un bote de clavos | Cap. 5 |
-| **El libro de banderas** | App de notas del celular | Nueve banderas. Séptima: «Van.» (noche del séptimo día). Octava: **«Vuelven.»** (noche de la nieve). Novena, la de la campana: **«Cuentan contigo.»** | Cap. 9 |
+| **El libro de banderas** | App de notas del celular | **Diez banderas.** Séptima: «Van.» (noche del séptimo día). Octava: **«Vuelven.»** (noche de la nieve). Novena, la de la campana: **«Cuentan contigo.»** Décima, la noche del Destructor: **«Yo soy de aquí.»** | Cap. 10 |
 | **El frasco número doce** | Bodega de la posada de doña Hilda | Aqua se guardó un espíritu de nieve escondido: es el primer refrigerador de Axel y subió la comida de la posada todo el invierno | Cap. 8 |
 | **La jaula de hierro** | Prestada al herrero de Axel | Catorce monedas que no tenían; hay que devolverla | Cap. 6 |
 | **La espada Gram** | Con Mitsurugi | Jesús se la saca con Robar y se la devuelve en el acto. **No se vendió** | Cap. 6 |
@@ -68,6 +68,9 @@
 | **La cobija de Wiz** | Con Jesús | Delgadísima, no sirve para el frío del paso: «sirve para las manos». Se la dio al salir de la tienda | Cap. 9 |
 | **La carta de la señora del pan** | Con Petra, la cocinera del mesón | La bajaron al paso y llegó a su destinataria, que venía en la última carreta | Cap. 9 |
 | **El libro viejo del archivo** | Gremio de Axel | Registro del Destructor: «Camina desde antes de que se fundara el reino», nueve poblaciones destruidas, aviso de dos días, «no se pelea con ella» | Cap. 9 |
+| **El cuaderno del constructor** | Con Jesús, dentro del suéter | Escrito a mano en japonés por el hombre de Osaka que construyó el Destructor y quedó cuarenta años atrapado a bordo. En la última hoja, la carta de un muerto a quien la encontrara, y debajo la firma de Jesús: «No eres el único». Es objeto y promesa del Vol. 2 | Cap. 10 |
+| **El coronatita** | Teletransportado «al azar» por Wiz | La mena que arde mil años, corazón del Destructor. Cayó en el jardín de la mansión del gobernador **Alderp** y la mansión se quemó entera. De ahí sale la acusación de traición | Cap. 10 / Epílogo |
+| **Los pedazos de la fortaleza** | Repartidos por Axel | Remaches, vidrios de los ojos y fierro torcido; cada familia se lleva uno y lo cuelga en su pared: «aquí no tiramos las cosas que nos salvaron la vida» | Epílogo |
 
 ## Detalles del mundo ya fijados por el texto
 
@@ -455,47 +458,166 @@
 - **Jesús ya no es el que recibe:** «yo era al que iban a ver, al que le llevaban la sopa, al que le sostenían la puerta», y por primera vez está del lado que va.
 - **Wiz se queda en Axel** con su tienda: no se va con el grupo ni se muda. Queda como refugio de la ciudad y como la única persona a la que Jesús le dijo «ya me morí dos veces» sin que se le cayera la cara de susto.
 
+## Detalles del mundo ya fijados por el texto (capítulo 10)
+
+### La víspera: cómo decide este pueblo
+- **El gremio no cerró** la noche del aviso: la ciudad entera adentro, con costales, lanzas, cajas vacías y el padre Aldo abriendo el templo. Sobre la mesa del fondo, el plano de Axel encima.
+- **La regla de las decisiones de Axel (dicha por el texto):** no se deciden cuando alguien propone ni cuando la gente dice que sí, sino **cuando la gente se ríe con la panza**; después cada quien se levanta y hace su parte.
+- **El plan de Jesús:** sacar a los que se tengan que ir (viejos, niños, enfermos) y quedarse los demás, «porque si nadie se queda, no se queda el grano, ni las medicinas, ni las casas». Su argumento: «yo llegué sin nada y sé lo que es que a uno le quemen lo poquito que tiene».
+- **Los dos días de preparación:** el capitán de la guardia cava **fosos** para arrancarle un paso a la máquina («no va a parar, pero le vamos a arrancar un paso»); la señora del pan junta la harina de todo el pueblo en un solo cuarto y todas las mujeres hornean; doña Hilda convierte la posada en la cocina grande; el herrero trabaja con la fragua prendida de madrugada a noche; los carreteros de Fermín bajan a los caseríos de la orilla del camino y vuelven con las cuatro carretas.
+- **La frase de la señora del pan:** «Tú aguanta dos días, que nosotros aguantamos dos días.» Es la frase de esta gente y ya venía del capítulo 9.
+- **Los que se quedan:** doña Hilda («Padre, usted se va con los que se están muriendo. Aquí ya estamos los que nos queremos morir»), el capitán de la guardia, el señor barbón, la señora del pan, la vecina del abrigo, Wiz y el grupo. **Doscientas personas** en el campo el día del ataque (cifra que se repite en el epílogo).
+- La última carreta sale al mediodía del segundo día.
+- **El herrero le devuelve su espada a Darkness** después de desarmarla, calentarla y volverla a armar: «Ya no le puedo hacer más. Ahora es tuya.» Y Darkness: «Va a ser el mejor día de mi vida.»
+
+### Wiz en la víspera (y el número que el epílogo paga)
+- Wiz saca **todas** sus cosas a la tienda y las ordena por color. **Son ciento sesenta y una** («Nunca las había contado. Son muchas»). En el epílogo quedan **ciento cincuenta y ocho vendidas** y tres rotas.
+- Su frase: «Niño, yo ya me morí una vez. A mí no me da miedo morirme. A mí me da miedo no estar cuando la gente que quiero se muere.»
+- **Su enojo con la máquina:** «Es de la casa. Fue de mi ejército. Va caminando desde antes de que yo naciera y va a caminar después de mí, y hoy viene a pisar mi pueblo, y yo le voy a arrancar una pata. Dos.»
+- Sabe Explosión y lo dice con vergüenza («Sé. Pero es muy feo»). En el clímax la usa.
+
+### El Destructor por dentro y por fuera
+- **Por fuera:** ocho patas de piedra labrada con remaches de hierro, casa con torres, almenas y parches, ojos chiquitos que siguen a Jesús, y debajo de todo el ruido de molino, que es la tierra moliéndose.
+- **Por dentro:** columnas de hierro, pasillos torcidos, paredes calientes y un zumbido que viene del piso. **Guardias de barro y piedra** que salen de las paredes («pesan mucho y no saben pelear»: el señor barbón les pega con las dos hachas y se ríe). Arriba, el **cuarto de mando**, redondo, con ventanas de vidrio grueso.
+- **La barrera («la piel»):** explicada por Wiz en el gremio (las piedras y las flechas se quedan pegadas en el aire como moscas en un vidrio) y rota por **Aqua desde las almenas** con la Ruptura (que en el gremio había anunciado y en la víspera dijo también). Cae en pedazos de luz que se apagan antes de tocar la nieve.
+- **La voz de lata:** la máquina habla en el idioma de aquí, sin apuro, y avisa de la autodestrucción en cuenta regresiva. Se oye dentro: cuarenta minutos al principio, treinta y uno en los pasillos, **veintiséis** en el cuarto del coronatita, y se corta a media palabra («nueve minu...») cuando la segunda Explosión parte la máquina.
+- **El coronatita:** una mena del tamaño de un puño, prendida como carbón sin llama, colgada en un aro de hierro en un cuarto redondo lleno de caños y cables. «La mena que arde mil años.» No se apaga.
+- **El teletransporte de Wiz:** tiene **cuatro marcas**, pero la piedra está pegada a la máquina, está caliente y es más vieja que sus marcas: solo la puede mandar **al azar**. Sus palabras: «Puede caer en el mar. Puede caer en un desierto. Puede caer encima de la casa de alguien.» (En el epílogo se sabe dónde cayó: en la casa de un gobernador.)
+
+### El cuaderno del constructor
+- Está sobre la mesa del cuarto de mando, en **japonés**. Su dueño es un señor flaco y seco, en silla de ruedas de metal, con abrigo blanco de doctor, gafas puestas y la cara pegada al cuaderno. Muerto hace muchísimos años. **Era japonés, de Osaka, y llegó a este mundo como un elegido más.**
+- **Se lee en dos tiempos:** en el cuarto de mando, **solo la última hoja**; el resto (**tres días después**, en su cuarto, con la lámpara prendida).
+- **Lo que dice:** vivía encerrado en un cuarto con la ventana tapada con una cobija; lo atropelló una carreta; una diosa le ofreció venir a pelear contra el Rey Demonio; este mundo le quedó grande («no sirvió para pelear, ni para el campo, ni para la gente»); se metió a estudiar máquinas y fue bueno para eso; un rey le pidió **la máquina más grande que se pudiera hacer**; la noche antes de entregarla se emborrachó y **la encendió para ver si prendía**; se levantó sola y lo primero que pisó fue el reino que la había hecho; **no se pudo bajar nunca**. Vivió **cuarenta años** arriba de ella, arreglándola, limpiándola, apagándola y prendiéndola, y le puso nombre a las patas. En las márgenes escribió: «hoy no pasó nada», «hoy tampoco», «ya no me acuerdo de la cara de mi mamá».
+- **La última hoja:** «Si alguien está leyendo esto: no sé quién seas. Si eres de allá, escríbeme algo. Nada más para saber que no soy el único.» Debajo, Jesús firma: **«No eres el único.»** Y se guarda el cuaderno dentro del suéter.
+- **Aqua sobre él:** su alma no está ahí, y no se fue al cielo: **se quedó dando vueltas en los pasillos porque estaba avergonzado**.
+- En el pasillo, camino al cuarto de mando, **Megumin le pide que se lo lea después** («Después me lo lees»). Por eso puede decirle en el clímax: «Ese señor de arriba escribió que no servía para nada.»
+- **El cuaderno se queda con Jesús.** Es objeto del volumen y promesa abierta.
+
+### El clímax paso por paso (para no contradecirlo después)
+1. Ruptura de Aqua desde las almenas; cae de sentón y grita «¡sin barrera!».
+2. Primera Explosión de Megumin («Perdón por lo que le voy a hacer a tu camino. Y gracias.»): le arranca tres patas y la deja de rodillas, inclinada al río, con una torre caída y humo negro en el lomo.
+3. El aviso de autodestrucción: cuarenta minutos.
+4. La fortaleza **se arrastra** hacia la muralla. El peligro no es la caída: es el calor de siglos. Si revienta, quema el campo, la muralla, el pueblo y todo lo que esté a un día de camino; si cae al río, se acaba el agua de todos.
+5. **Darkness carga** («¡A detenerla!») y el pueblo entero la sigue.
+6. El asalto: guardias, el cuarto de mando, el cuaderno, el coronatita.
+7. **Drenar #1 (Jesús recibe):** Wiz le drena para tener fuerza para teletransportar la piedra. «Tómela. Toda.» El drenado se siente «como cuando a uno le sacan la manta en el frío». Jesús queda de rodillas en el piso caliente.
+8. **El coronatita desaparece** con un ruidito seco. «¿A dónde se fue?» — «No sé. Eso es lo que quiere decir al azar.»
+9. **Drenar #2 (Jesús da, canon):** le saca a Aqua «el río entero» («le saqué el mar») y **se lo pasa a Megumin** por la mano. Aqua queda de rodillas en la nieve y le dice: «Qué bueno eres para esto.»
+10. **La pierna:** antes de tirar, el cuerpo le cobra la segunda Explosión. «Un crujido… como se oye una rama cuando se parte en el patio de una casa.» La pierna derecha, **la de las vendas**. Megumin grita, sigue apuntando y tira.
+11. La segunda Explosión abre la máquina de arriba abajo y el hielo de Wiz se levanta como una ola al revés y se come el viento, los pedazos y el fuego. **Axel se salva.**
+12. **Drenar #3 («de corazón»):** con Aqua vacía y Megumin sangrando, Jesús le **empuja** a Aqua lo último que le queda para que pueda curar. Se apaga (y en el camino alcanza a sentir el beso).
+13. Despierta al día siguiente en una carreta, tapado con dos cobijas y con la capa de Darkness, con Megumin a un lado, entablillada de la rodilla al tobillo y con la mano agarrada a la suya.
+
+### Las tres direcciones de Drenar (regla nueva del proyecto)
+- **Recibir** (te sacan), **pasar** (de una mano a otra) y **empujar** (dar lo tuyo sin sacarle a nadie). Las tres se usan en el clímax y las tres cuestan: la primera lo pone de rodillas, la segunda lo deja temblando y la tercera lo apaga hasta el día siguiente.
+- **Lo que no cura:** «El agua cierra la carne. El hueso no. Eso lo tiene que soldar su cuerpo, y eso tarda semanas» (Wiz, al día siguiente). **Regla de magia fijada:** la curación de Aqua no arregla huesos. Eso es lo que deja a Megumin fuera de combate y le da al volumen su cicatriz.
+
+### El beso (decisión del autor, 13 de octubre de 2026)
+- Ocurre en la nieve, **cuando Jesús se está apagando**: Aqua le levanta la cabeza con las dos manos, le da aire y lo justifica en voz alta: «Esto es por el aire. Cuando alguien se ahoga se le da aire. Es de un manual. Es una cosa médica.»
+- Jesús alcanza a sentirlo y lo deja. Es **el primer beso de su vida en dos mundos**, y así lo cuenta.
+- Se paga en el epílogo: un muchacho del gremio pregunta por el beso delante de todos, Aqua lo niega a gritos («¡no pasó nada!») y los dos se quedan callados «porque callar es lo primero que uno hace cuando algo sí pasó».
+- **Regla de continuidad:** desde aquí, toda escena entre Jesús y Aqua tiene esto debajo. No se repite el beso, no se explica, y los dos lo niegan mientras dure el Vol. 2 (como pide la ficha de la ruta de Aqua).
+
+### Precios del capítulo
+- **Axel: cero muertos.** Brazos quebrados, un señor con la espalda lastimada y mucha gente con las manos quemadas del calor.
+- **Megumin:** la pierna derecha partida y entablillada; semanas sin caminar y sin tirar nada. **Cicatriz del volumen y pendiente del Vol. 2.**
+- **Jesús:** se apaga y amanece al día siguiente en una carreta.
+- **Aqua:** dormida desde la noche anterior; «antes de dormirse dijo, y lo dijo muchas veces, que ella fue la que dio la magia».
+- **Wiz:** agotada; al día siguiente camina junto a la carreta con un frasco de agua con azúcar.
+
+### La décima bandera
+- **«Yo soy de aquí.»** Con la nota: lo apunta porque cuando se acabó todo alguien le preguntó a dónde iba y él dijo «a mi casa», y no se dio cuenta hasta después de lo que había dicho; y porque el señor del cuaderno vivió cuarenta años arriba de una máquina sin poder decir nunca esa frase.
+
+### Otras cosas fijadas (capítulo 10)
+- **La última noche:** Megumin le lleva té (el horrible de la señora del pan), se sienta en el piso contra la cama y le pide ir **al cerro del río** cuando ya esté todo («con el permiso de la gente del río»). Queda como cita abierta.
+- La ventana del cuarto: por primera vez piensa que **la ventana no es suya**, y aun así va a pelear por ella. «Eso… es la cosa más rara que me ha pasado en dos vidas.»
+- Las dos tazas se quedan en el piso y la lámpara prendida.
+
+## Detalles del mundo ya fijados por el texto (epílogo)
+
+### La levantada (fiesta nueva, del mundo del proyecto)
+- **Cuatro días después** del ataque (así lo dice la fiscal: «hace cuatro días»). **Se llama la levantada** y es el día en que el pueblo se junta a levantar lo que se cayó. Empieza a las ocho de la mañana con el señor barbón subido a una carreta y termina de noche en el gremio.
+- **Costumbre fijada:** «Aquí no tiramos las cosas que nos salvaron la vida. Las colgamos en la pared.» Los despojos de la fortaleza se vuelven cosas de casa: remaches, vidrios de los ojos para collares y el herrero cortando fierro torcido para cada familia. **Es el eco doméstico de la pared del epílogo final (sección 15).**
+- Hay pan de harina fina, dos barriles de algo que pica en la nariz, tres músicos, tablones y niños corriendo con pedazos de la máquina.
+
+### El nombre de la cuadrilla
+- Se escribe de noche, en el gremio, en el **libro del año** que lee Luna: los encargos del verano, los sapos, las coles, el granero, el invierno, los que no volvieron (dos), los que se mudaron (once), los que se murieron de viejos (cuatro), y después **los doscientos nombres de los que salieron al campo esa mañana**, uno por uno.
+- La **hoja de la cuadrilla** (cuatro nombres, cuatro clases y la raya del nombre en blanco) llevaba abierta **desde el capítulo 4**. Luna recuerda la ley que ya dijo entonces: los nombres no los escogen los grupos, se los pega la gente, «y casi siempre en el peor momento».
+- Los nombres que se proponen y se rechazan: «los del agua sagrada» y «la cuadrilla de la diosa» (Aqua), «los señores del trueno escarlata» (Megumin), «los de la hoja en blanco» (el señor barbón, de broma).
+- **«Los que vuelven»:** lo trae **Fermín, el carretero**, del camino del norte («a la gente que sale y que vuelve, allá le decimos así, nada más: los que vuelven»), y el gremio lo aprueba golpeando los jarros en la mesa. **Lo escribe Luna** en la hoja. Nombre aprobado por el autor el 13 de octubre de 2026.
+
+### Lo que se paga en el epílogo
+- **El sombrero de Megumin:** Elvira lo devuelve envuelto en un trapo y pide que le dé las gracias. Megumin lo desdobla, le sopla el polvo y se lo pone sin decir nada.
+- **Elvira:** le dijo la verdad a su papá («que quiero ser aventurera, y que voy a volver»). Su papá le dijo que no y ella le dijo que ya lo sabía. Queda como promesa del mundo.
+- **La tienda de Wiz:** vendió todo (**158** de las 161 cosas; tres se rompieron) porque el pueblo entero se puso a comprar. Su miedo nuevo: la renta del mes que entra.
+- **Las banderas:** la décima es la que cierra el libro y **«Yo soy de aquí»** queda como última línea anotada del volumen.
+- **El apodo de Jesús:** sigue pendiente y se dice en el texto («el muchacho», «el de la playera», «mijo»). El Vol. 2 lo tiene que pagar.
+
+### El hilo de los padres: se toca, no se cierra
+- Después de firmar el nombre nuevo, Jesús piensa en su mamá: que allá ella firmó un papel y que esa es la cuenta que él trae y todavía no ha podido pagar.
+- Quiere mandarle un recado y no sabe cómo. La única frase que le escribiría es **la que Aqua le prometió desde el capítulo 1: «que no me dolió».** Queda con las ganas, «y eso también va a tener su día». **El cierre es del último volumen (decisión 7 del tablero).**
+
+### Los caballeros y la fiscal (cierre del volumen)
+- Entran **cinco caballeros** con la insignia del rey, con las capas mojadas y cara de tres días de camino, y detrás **Sena**: fiscal de la corona destacada en Axel. Joven, abrigo azul, birrete con orla dorada, pelo negro recogido con pasadores y **gafas triangulares**.
+- Sus dos listas: **las casas que no se quemaron** (el pueblo entero) y **las que sí** (la del gobernador **Alderp**). «La ley de este reino no dice nada de las segundas. Nada más de las primeras.»
+- **El cargo es de la corona:** la piedra fue teletransportada por Wiz, pero quien **dio la orden** fue Jesús (declaraciones de los vecinos de la puerta sur). Sena le habla por su nombre y apellido: «el aventurero Jesús de Axel».
+- **Wiz intenta cargar con la culpa** y Sena se lo prohíbe («No meta las manos»), porque una liche retirada del ejército del Rey Demonio convierte el asunto en otro.
+- **El cierre:** los cuatro se paran detrás de Jesús; Sena pregunta quién responde por él, y Fermín contesta desde la puerta, para toda la plaza: **«Los que vuelven.»** Última línea del volumen: «Yo nada más quería un cuarto con ventana.»
+- **La acusación queda abierta a propósito:** es el arranque del Vol. 2 (en el canon, el juicio abre la temporada 2).
+
 ## Promesas abiertas (cosas insinuadas y todavía no pagadas)
 
-- **El mensaje a su mamá** («que no me dolió»): prometido por Aqua. → Debe pagarse, y el epílogo es el lugar natural.
-- **El cuarto con ventana**: pedido como su «cosa». → Debe pagarse cuando consiga habitación en Axel.
+> **Puesto al día el 13 de octubre de 2026**, al cerrar el Vol. 1. Se separan las que **ya se pagaron** de las que siguen abiertas.
+
+**Pagadas en el Vol. 1:**
+- **El cuarto con ventana: pagado** (capítulo 2, y devuelto con más fuerza en el 10: «yo nada más quería un cuarto con ventana», la última línea del volumen).
+- **Los carros del norte: pagado** (capítulos 9 y 10). Eran dieciséis días sin bajar porque el Destructor rompió el camino del paso.
+- **La regla de Wiz sobre las dos Explosiones: pagada** (capítulo 10): «la magia se te vuelve a llenar en un día, y los huesos no».
+- **El nombre de la cuadrilla: pagado** (epílogo): «Los que vuelven», escrito por Luna en la hoja que llevaba abierta desde el capítulo 4.
+- **El sombrero de Megumin y Elvira: pagado** (epílogo): la niña lo devuelve y su papá ya sabe que quiere ser aventurera.
+- **Las ciento sesenta y una cosas de Wiz: pagadas a medias** (epílogo): vendió 158; la renta del mes que entra sigue siendo problema.
+
+**Abiertas (para el Vol. 2 y después):**
+- **El mensaje a su mamá** («que no me dolió»): prometido por Aqua desde el capítulo 1. En el epílogo del Vol. 1 **Jesús decide que quiere mandarle un recado y no sabe cómo**. El cierre es del último volumen.
+- **El hilo de los padres:** se toca en el epílogo del Vol. 1 y **se cierra en el epílogo final** (decisión 7 del tablero).
+- **La pared del epílogo** (playera, llave y foto): es del **epílogo final**, cuando exista la casa.
+- **El juicio y la acusación de traición** (nuevo, epílogo del Vol. 1): la fiscal Sena se lleva el asunto a la corona. Es el arranque del Vol. 2, como en el canon.
+- **Alderp, el gobernador** (nuevo): el núcleo del Destructor cayó en su mansión. Queda como antagonista sembrado (es el del canon y el que en el canon se aprovecha del juicio).
+- **La pierna de Megumin** (nuevo): hueso partido, semanas de curación y sin tirar nada. **Cicatriz del Vol. 1 y pendiente del Vol. 2.**
+- **El cuaderno del constructor** (nuevo): se queda con Jesús, dentro del suéter. Cuarenta años de la vida de un elegido que se quedó atrapado arriba de su propia máquina y que solo pedía que alguien le contestara.
+- **El apodo de Jesús** sigue pendiente (decisión 5 del tablero): el epílogo lo dice en voz alta para que el lector sepa que falta.
 - **La llave** que nunca usó y la puerta que abre.
 - **El marcador del último partido** que nunca supo.
-- **El mensaje a su mamá**, doblemente cargado desde el cap. 8: Aqua prometió decirle **que no le dolió**, y ahora el lector sabe que Jesús también se enteró de que su madre lo enterró una vez y de que podía volver.
 - **La puerta que Eris le ofreció y él cerró:** existe, y quedó cerrada por decisión suya.
-- **El secreto de Wiz:** sabe que Jesús se murió dos veces, y ahora él también sabe de la gente del ejército del Rey Demonio que ya no trabaja.
-- **El cerro del río:** compromiso de Megumin y Aqua para el mes que entra (primera salida del grupo desde el invierno).
-- **Los carros del norte: pagado.** Eran dieciséis días sin bajar porque **el Destructor rompió el camino del paso** (capítulo 9). De ahí sale la amenaza del clímax del volumen: **viene para Axel, con aviso de dos días.**
-- **La casa de Fermín al norte:** «si algún día suben al norte, mi casa es tu casa». Queda abierta, y con ella el camino del norte entero.
-- **Elvira quiere ser aventurera:** Megumin le dejó el sombrero prestado. Queda como promesa del mundo (y como espejo de Megumin a los trece).
-- **La tienda de Wiz:** arruinada, con la renta encima y sin género hasta que se arregle el camino. Queda abierta.
-- **La regla de Wiz sobre las dos Explosiones:** «la magia se te vuelve a llenar en un día, y los huesos no». Es la pieza que hace falta para el clímax del capítulo 10.
-- **Megumin quedó dentro del secreto:** sabe del más allá, de la oferta y de la foto; el resto del grupo no.
-- **Las ruinas del oeste:** Beldia invitó («si un día andan por las ruinas, pregunten por el sin cabeza») y dejó sonando el hallazgo: **algo grande**. → Semilla del Vol. 1.
 - **La frase de la madre:** pendiente de regresar.
-- El **hilo de los padres**, que se cierra en el epílogo.
-- La **pared del epílogo**.
+- **El cerro del río** (nuevo impulso, capítulo 10): la cita de la última noche con Megumin es «mañana, cuando ya esté todo». Queda como primera salida del grupo, y la pierna entablillada la retrasa.
+- **El secreto de Wiz:** sabe que Jesús se murió dos veces; el resto del grupo y el pueblo, no.
+- **Megumin quedó dentro del secreto:** sabe del más allá, de la oferta y de la foto; el resto del grupo no.
+- **La casa de Fermín al norte:** «si algún día suben al norte, mi casa es tu casa». Queda abierta, y con ella el camino del norte entero.
+- **Las ruinas del oeste:** Beldia invitó («si un día andan por las ruinas, pregunten por el sin cabeza») y dejó sonando el hallazgo: **algo grande**.
+- **Elvira va a volver:** promesa con fecha de la muchacha a la que Megumin le prestó el sombrero.
 
 ## Estado de Jesús
 
 | Campo | Valor |
 | --- | --- |
-| Físico | Cuerpo sano por primera vez en su vida; sin callos, sin fuerza, con la panza vacía |
+| Físico | Cuerpo sano por primera vez en su vida; sin callos, sin fuerza. El día del Destructor se vació tres veces y amaneció al día siguiente en una carreta, tapado con dos cobijas |
 | Heridas | Ninguna; el pecho le duele nada más cuando se despereza (secuela de la muerte #2) |
-| Ánimo | Asombro y felicidad; un hueco por su mamá, ahora con una decisión encima: eligió este mundo a sabiendas de lo que dejó allá |
+| Ánimo | Asombro y felicidad; un hueco por su mamá, ahora con una decisión encima: eligió este mundo a sabiendas de lo que dejó allá. Al cerrar el volumen ya se dice de aquí («Yo soy de aquí», décima bandera) y carga encima una acusación de traición que no buscó |
 | Personas que lo conocen | Aqua (todo), **Megumin** (el más allá, la oferta y la foto, desde el cap. 8) y **Wiz** (que sabe de las dos muertes y no se espantó; el resto del grupo y el pueblo, no) |
 | Muertes | **Dos** (la de Japón y la de la llanura del norte, cap. 8); de la segunda volvió porque Aqua lo jaló |
-| Habilidades nuevas | **Drenar** (cap. 9), aprendida de Wiz: pasar magia y vida por contacto. Es la única magia que sabe |
+| Habilidades nuevas | **Drenar** (cap. 9), aprendida de Wiz: pasar magia y vida por contacto. Es la única magia que sabe, y desde el cap. 10 la usa **en las tres direcciones**: recibe (Wiz), pasa (de Aqua a Megumin) y empuja (le da a Aqua lo último que le queda) |
+| Banderas | **Diez.** La décima, «Yo soy de aquí», se escribe la noche del Destructor |
 
 ## Estado del grupo
 
-**Cuatro integrantes, cuadrilla registrada en el gremio de Axel.**
+**Cuatro integrantes, cuadrilla registrada en el gremio de Axel y bautizada al cerrar el Vol. 1: «Los que vuelven»** (epílogo; el nombre lo trajo Fermín del camino del norte).
 
 | Quién | Clase | Qué aporta | Qué le falta |
 | --- | --- | --- | --- |
 | **Jesús** | Aventurero | Organiza, carga, *Robar*, y ahora quiere hacerse fuerte | Fuerza, experiencia, sentido común de este mundo |
 | **Aqua** | Archipresbítera | Cura, purifica, ahuyenta muertos | Nadie le cree que es diosa; le sale caro todo |
-| **Megumin** | Archimaga | Una Explosión al día | Después de lanzarla, no puede moverse |
+| **Megumin** | Archimaga | Una Explosión al día (en el cap. 10 tiró **dos el mismo día**) | Después de lanzarla, no puede moverse; y desde el cap. 10, la pierna derecha entablillada: semanas sin caminar y sin tirar nada |
 | **Darkness** | Cruzada | Muro: aguanta cualquier golpe | No acierta un solo ataque; le encanta el castigo |
 
 **Techo:** el cuarto del techo inclinado, la posada del farol con la luz roja.
