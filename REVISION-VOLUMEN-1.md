@@ -166,7 +166,7 @@ Para que no lo tomes por descuido:
 3. **Las vendas de Megumin:** ✅ se añadieron.
 4. **El «martes» del capítulo 6:** ✅ se cambió.
 
-Aparte de eso, siguen en la mesa los pendientes que ya conoces: el apodo del gremio y la romanización **Beldia** (el título de la obra ya quedó aprobado: 『**KONOSUBA! — La bendición de Jesús en este maravilloso mundo**』, Edición Mexicana), además de las decisiones de historia que no son de texto (quién tomó la foto, cómo se rompe el secreto del celular, la frontera temática y los clímax de los volúmenes 2 y 3). Los nombres que ya viven dentro de las piezas aprobadas (Mabel, doña Hilda, el gato **Shimura**, el padre **Aldo**, **Tander**, **Osaka**) se dan por buenos con ellas.
+Aparte de eso, siguen en la mesa los pendientes que ya conoces: el apodo del gremio y la romanización **Beldia** (el título de la obra ya quedó aprobado: 『**KONOSUBA! — La bendición de Jesús en este maravilloso mundo**』, Edición Mexicana), además de las decisiones de historia que no son de texto (quién tomó la foto, cómo se rompe el secreto del celular, la frontera temática y los clímax de los volúmenes 2 y 3). Los nombres que ya viven dentro de las piezas aprobadas (doña Hilda, el gato **Shimura**, el padre **Aldo**, **Tander**, **Osaka**) se dan por buenos con ellas. (**Mabel**, que estaba en esa lista, se retiró el 13 de octubre de 2026 a petición del autor: no existe ningún personaje con ese nombre en el canon.)
 
 ---
 

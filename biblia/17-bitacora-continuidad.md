@@ -22,8 +22,8 @@
 | Capítulo 5 — «El señor de la casa del cerro» | 🟩 Aprobado (5,030 palabras) |
 | Capítulo 6 — «El otro elegido» | 🟩 Aprobado (5,148 palabras) |
 | Capítulo 7 — «La gente que sí va» | 🟩 Aprobado (5,005 palabras) |
-| Capítulo 8 — «No me dolió» | 🟩 Aprobado (5,495 palabras) |
-| Capítulo 9 — «El camino del norte» | 🟨 Revisado; pendiente de aprobación del autor (8,216 palabras) |
+| Capítulo 8 — «No me dolió» | 🟩 Aprobado (5,499 palabras) |
+| Capítulo 9 — «El camino del norte» | 🟨 Revisado; pendiente de aprobación del autor (8,205 palabras) |
 | Capítulo 10 | ⬜ No escrito |
 | Epílogo del volumen | ⬜ No escrito |
 
@@ -386,7 +386,7 @@
 - **«Busca la ventana»** (el grito mudo de Jesús del capítulo 1) queda registrado: Megumin lo oyó con la frente en su rodilla y se lo confiesa después, en el cuarto.
 
 ### El cerro del río y el trabajo de Megumin
-- Aqua va a **purificar la orilla del río el mes que entra** (con permiso de Mabel) y el **cerro del río** queda limpio: ahí puede tirar Megumin. Ella pregunta «¿En serio?» con los ojos aguados: es la primera vez que alguien le ofrece un lugar para explotar que no es una casa ajena.
+- Aqua va a **purificar la orilla del río el mes que entra** (con permiso del capitán de la guardia) y el **cerro del río** queda limpio: ahí puede tirar Megumin. Ella pregunta «¿En serio?» con los ojos aguados: es la primera vez que alguien le ofrece un lugar para explotar que no es una casa ajena.
 
 ### Semilla para el capítulo 9
 - Luna, al día siguiente del regreso: **«hace quince días que no baja ni un carro del norte. Y nadie sabía por qué.»** Queda abierto, sin explicar.
@@ -397,7 +397,7 @@
 - **La foto** (él y su mamá en la puerta de la cabaña, riéndose, torcida) sigue sin decir quién la tomó.
 - **Aqua trae escondido el frasco doce** y con eso la posada tiene refrigerador todo el invierno: «tres semanas insoportable».
 - La **señora del pan** (la de los gemelos) y el **cerro del río** entran al mundo del libro.
-- El **capitán de la guardia**, el señor barbón y la señora del pan siguen sin nombre propio.
+- El **capitán de la guardia**, el señor barbón, la señora del pan y la vecina del abrigo siguen sin nombre propio.
 
 ## Detalles del mundo ya fijados por el texto (capítulo 9)
 
@@ -444,7 +444,7 @@
 ### La alarma y el mapa (cierre del capítulo)
 - **La campana del gremio tiene dos usos:** la de las buenas noticias (cuando vuelve alguien que se daba por perdido) y la de alarma. El capítulo cierra con la segunda.
 - **Axel entera se organiza para irse:** los viejos y los niños por el camino del sur en cuanto haya luz, un carro por familia y dos familias por carro, los demás a los graneros de abajo. «Nadie sale por el norte, y nadie sale solo.» **Doña Hilda no se va** («Setenta años esta casa»).
-- **El plano de Axel** existe y está en el gremio: el papel del tamaño de la mesa del fondo, con la muralla, las calles, el río, el cerro y el camino del norte saliendo por la puerta de arriba. Sobre él trabajan la señora del pan, el señor de la bodega, Mabel y Luna.
+- **El plano de Axel** existe y está en el gremio: el papel del tamaño de la mesa del fondo, con la muralla, las calles, el río, el cerro y el camino del norte saliendo por la puerta de arriba. Sobre él trabajan la señora del pan, don Baltasar, la vecina del abrigo y Luna.
 - **Última imagen:** Luna le pide a Jesús que ponga el dedo donde se rompió el camino, «y el pueblo entero se quedó viendo mi dedo».
 
 ### Otras cosas fijadas
@@ -543,7 +543,7 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 
 **Sigue en revisión, sin decisión:** la «casa de entrenamiento de su familia» de Darkness en el capítulo 5 (es noble de la capital; propuesta: cambiarla por el patio del gremio o dejar claro que es una casa de campo de los Dustiness).
 
-**Aprobación del autor (12 de octubre de 2026):** el prólogo y los capítulos 1 a 6 quedaron **aprobados por el autor**. El rótulo de las siete piezas ya dice «aprobado por el autor» y el tablero de `biblia/16` está en verde. Los nombres que viven dentro de esas piezas (María, Kenji, doña Hilda, Mabel, el gato Shimura, el padre Aldo, Tander, Osaka) se dan por buenos con ellas; si alguno no late, se cambia sin problema.
+**Aprobación del autor (12 de octubre de 2026):** el prólogo y los capítulos 1 a 6 quedaron **aprobados por el autor**. El rótulo de las siete piezas ya dice «aprobado por el autor» y el tablero de `biblia/16` está en verde. Los nombres que viven dentro de esas piezas (María, Kenji, doña Hilda, Mabel, el gato Shimura, el padre Aldo, Tander, Osaka) se dan por buenos con ellas; si alguno no late, se cambia sin problema. (De esa lista, **Mabel** ya no está: el autor pidió quitarla el 13 de octubre de 2026; ver la sección de correcciones al final de este documento.)
 
 **Formato de los archivos (12 de octubre de 2026):** el autor escucha los capítulos en **ElevenReader**, que necesita los documentos en **UTF-8 con BOM**. El prólogo y los capítulos 1 a 6 ya se convirtieron (contenido idéntico, conteos intactos) y a partir de aquí **toda pieza nueva nace en ese formato**. Se aplica con `herramientas/utf8-bom.py` y se verifica con `herramientas/revisar-capitulos.py`.
 
@@ -555,7 +555,7 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 
 **Capítulo 1 — dos errores encontrados por el autor en su repaso:**
 
-1. **«Mabel» no existe en el canon de KonoSuba.** El nombre estaba puesto en la compañera de oficina de Aqua, en el más allá. **Se quitó:** ahora es **«la de la ventanilla de al lado»**, mencionada y no vista, y el chiste del papeleo se conserva completo. Ojo: el mismo nombre había quedado, por error de continuidad, en boca de una vecina de Axel en los **capítulos 8 y 9**; queda **pendiente de decisión del autor** qué se hace con ella.
+1. **«Mabel» no existe en el canon de KonoSuba.** El nombre estaba puesto en la compañera de oficina de Aqua, en el más allá. **Se quitó:** ahora es **«la de la ventanilla de al lado»**, mencionada y no vista, y el chiste del papeleo se conserva completo. Ojo: el mismo nombre había quedado, por error de continuidad, en boca de una vecina de Axel en los **capítulos 8 y 9**, que era otra persona. **Decisión del autor (13 de octubre de 2026): también ahí se quita el nombre**; la vecina queda como **«la vecina del abrigo»** (la del abrigo que parecía un cártel, cap. 8) y el permiso de la orilla del río pasa al **capitán de la guardia**.
 2. **Contradicción en la despedida del más allá.** Aqua decía «¡Vámonos! ¡Se hace tarde!» y dos líneas después «Nadie te va a apurar». Ahora dice: **«La prisa es mía. Tú tómate tu segundo.»** La prisa queda del lado de Aqua y el segundo del lado de Jesús; ya no se contradicen y el párrafo siguiente («Y yo usé ese segundo para hacer tres cosas») sigue funcionando igual.
 
 **Conteo:** el capítulo 1 pasa de **7,123 a 7,127 palabras**, y el encabezado, la ficha, el tablero y el informe de revisión ya quedaron actualizados. Su estado **no cambia**: sigue **aprobado por el autor** (la corrección la pidió él).

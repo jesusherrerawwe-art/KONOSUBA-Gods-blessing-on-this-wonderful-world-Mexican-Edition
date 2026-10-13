@@ -117,8 +117,8 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 | 5 | 🟩 Aprobado | «El señor de la casa del cerro» | 5,030 palabras · revisado y aprobado · Beldia y la maldición |
 | 6 | 🟩 Aprobado | «El otro elegido» | 5,148 palabras · revisado y aprobado · el lago, Mitsurugi y el séptimo día |
 | 7 | 🟩 Aprobado | «La gente que sí va» | 5,005 palabras · revisado y aprobado por el autor · cierra el séptimo día |
-| 8 | 🟩 Aprobado | «No me dolió» | 5,495 palabras · revisado y aprobado por el autor · la muerte y el regreso, como el canon |
-| 9 | 🟨 Revisado | «El camino del norte» | 8,216 palabras · **revisado; pendiente de aprobación del autor** · entra Wiz; se descubre que el Destructor rompió el paso |
+| 8 | 🟩 Aprobado | «No me dolió» | 5,499 palabras · revisado y aprobado por el autor · la muerte y el regreso, como el canon |
+| 9 | 🟨 Revisado | «El camino del norte» | 8,205 palabras · **revisado; pendiente de aprobación del autor** · entra Wiz; se descubre que el Destructor rompió el paso |
 | 10 | 🟩 Cierre fijado | *(por definir)* | **El Destructor** (clímax ya aprobado); llega a Axel al final del capítulo 9 |
 | **Epílogo** | ⬜ Vacío | — | Cierra el arco del volumen y deja la puerta abierta |
 

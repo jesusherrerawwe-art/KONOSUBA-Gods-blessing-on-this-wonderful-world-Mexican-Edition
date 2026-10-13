@@ -262,7 +262,7 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 5,495 palabras (≈ 17 páginas) |
+| **Extensión** | 5,499 palabras (≈ 17 páginas) |
 | **Estado** | 🟩 Aprobado por el autor (12 de octubre de 2026) |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Sacar el encargo del invierno para la señora del pan —y, debajo, no tener que morirse nunca más |
@@ -284,6 +284,8 @@
 - **La octava bandera: «Vuelven.»** Cierra el arco: las tres que lo sacaron de la nieve, y él, que dijo que no.
 - **El dolor como prueba de vida.** «Yo me pasé quince años con un cuerpo que no le contestaba a nadie.» Aquí el cuerpo duele, y eso quiere decir que está aquí.
 
+**Corrección pedida por el autor (13 de octubre de 2026):** se quitó el nombre **Mabel** de este capítulo (no existe ningún personaje con ese nombre en el canon de *KonoSuba*): la vecina queda sin nombre («una vecina con un abrigo que parecía un cártel») y el permiso de la orilla del río pasa al **capitán de la guardia**. El capítulo pasa de 5,495 a **5,499 palabras** y sigue **aprobado por el autor**.
+
 **Aprobado por el autor el 12 de octubre de 2026**, junto con los datos nuevos del capítulo: **el cerro del río**, **la señora del pan de los gemelos** y los **quince días sin carros del norte** (semilla del capítulo 9). Las dos decisiones de fondo (la muerte y el regreso como el canon, y que Megumin sea la primera en ver la foto) también quedaron aprobadas.
 
 ---
@@ -293,7 +295,7 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 8,199 palabras (≈ 25 páginas). **No se recortó**: la indicación del autor fue dejar el capítulo largo si se extendía |
+| **Extensión** | 8,205 palabras (≈ 25 páginas). **No se recortó**: la indicación del autor fue dejar el capítulo largo si se extendía |
 | **Estado** | 🟨 Revisado; pendiente de aprobación del autor |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que vuelva a bajar la sal por el camino del norte —y, debajo de eso, ser de los que van cuando alguien no llega |

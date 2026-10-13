@@ -1,7 +1,7 @@
 ﻿# Capítulo 8. No me dolió
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 8. Extensión: 5,495 palabras. Estado: aprobado por el autor.
+Volumen 1, capítulo 8. Extensión: 5,499 palabras. Estado: aprobado por el autor.
 
 ---
 
@@ -31,7 +31,7 @@ Doña Hilda me gritó desde la escalera, y yo cerré la ventana, y bajé corrien
 
 Doña Hilda tenía el comedor calientito y a la mitad de la gente de siempre.
 
-Ahí estaba el señor barbón, diciendo que el invierno le había llegado directo al hombro malo, y Mabel con un abrigo que parecía un cártel. Doña Hilda servía atole, que en este mundo no se llama atole pero se parece mucho.
+Ahí estaba el señor barbón, diciendo que el invierno le había llegado directo al hombro malo, y una vecina con un abrigo que parecía un cártel. Doña Hilda servía atole, que en este mundo no se llama atole pero se parece mucho.
 
 Mis tres amigas llegaron juntas, y traían tres caras distintas.
 
@@ -373,7 +373,7 @@ Lo demás fue un desorden de cosas bonitas.
 
 Darkness me cargó hasta la puerta del pueblo, y en el camino le dije que me estaba apretando, y no me creyó, y yo le dije que me estaba apretando de a deveras, y me apretó más y lloró más.
 
-En la puerta había salido gente a buscarnos: el señor barbón, Mabel y el capitán de la guardia con una linterna.
+En la puerta había salido gente a buscarnos: el señor barbón, la señora del pan y el capitán de la guardia con una linterna.
 
 Esa noche en la posada hubo caldo para todos.
 
@@ -399,7 +399,7 @@ Era que la muchacha del sombrero no tenía dónde explotar, y no sabía qué hac
 
 —¿Cuál?
 
-—El cerro del río. Yo voy a purificar la orilla el mes que entra, porque las nieves traen cosas, y el cerro se va a quedar limpio. Le pedí el permiso a Mabel hace mucho. Nada más que no se me había ocurrido para qué.
+—El cerro del río. Yo voy a purificar la orilla el mes que entra, porque las nieves traen cosas, y el cerro se va a quedar limpio. Le pedí el permiso al capitán hace mucho. Nada más que no se me había ocurrido para qué.
 
 Y Megumin se quedó con la cuchara en el aire, y luego se le llenaron los ojos de agua, y luego preguntó una cosa que nadie esperaba:
 
