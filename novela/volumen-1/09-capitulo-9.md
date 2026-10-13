@@ -1,7 +1,7 @@
 ﻿# Capítulo 9. El camino del norte
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 9. Extensión: 8,202 palabras. Estado: revisado; pendiente de aprobación del autor.
+Volumen 1, capítulo 9. Extensión: 8,199 palabras. Estado: revisado; pendiente de aprobación del autor.
 
 ---
 
@@ -686,7 +686,7 @@ Salí a la calle, y la calle estaba llena.
 
 No llena de gente que va: llena de gente que viene. Los de la muralla, con las lanzas al hombro; los del mercado, con los carros; los del lado del río, que ya venían con las cosas encima, porque las noticias, en este pueblo, corren más rápido que la campana. Y en el gremio, mi hermano, estaba la ciudad entera sobre una mesa.
 
-Luna había bajado el plano. Yo no sabía que Axel tuviera un plano, y ahí estaba: un papel del tamaño de la mesa del fondo, con la muralla, con las calles, con el río, con el cerro a un lado y con el camino del norte saliendo por la puerta de arriba, dibujado con tinta y con la letra de un señor que ya se murió. Y encima del plano estaba trabajando todo el mundo: la señora del pan, que ya había puesto sus dos panaderías en la orilla del papel; el señor de la bodega, con el dedo clavado en el camino del sur; Mabel, apuntando en una hoja los carros que había; y Luna, con la pluma en la oreja, repartiendo a la gente en hileras.
+Luna había bajado el plano. Yo no sabía que Axel tuviera un plano, y ahí estaba: un papel del tamaño de la mesa del fondo, con la muralla, con las calles, con el río, con el cerro a un lado y con el camino del norte saliendo por la puerta de arriba, dibujado con tinta y con la letra de un señor que ya se murió. Y encima del plano estaba trabajando todo el mundo: la señora del pan, que ya había puesto sus dos panaderías en la orilla del papel; don Baltasar, con el dedo clavado en el camino del sur; Mabel, apuntando en una hoja los carros que había; y Luna, con la pluma en la oreja, repartiendo a la gente en hileras.
 
 —Los viejos y los niños, por el camino del sur, en cuanto haya luz —decía—. Los que tengan carro, un carro por familia y dos familias por carro. Los que no tengan, a los graneros de abajo. Nadie sale por el norte, y nadie sale solo.
 

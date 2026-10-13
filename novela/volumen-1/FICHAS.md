@@ -42,7 +42,7 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 7,123 palabras (≈ 25 páginas). Es el capítulo más largo de la novela, como quedó aprobado |
+| **Extensión** | 7,127 palabras (≈ 25 páginas). Es el capítulo más largo de la novela, como quedó aprobado |
 | **Estado** | 🟩 Aprobado por el autor (revisado el 12 de octubre de 2026) |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Vivir. Y después, poder caminar y ver el sol sin ventana de por medio |
@@ -64,6 +64,8 @@
 - La última frase del capítulo («Y adelante había pan») mezcla lo épico con lo doméstico: el tono de *KonoSuba*.
 
 **Pendiente de aprobación del autor:** los nombres **María** (madre) y **Kenji** (padre), puestos en este capítulo; y el detalle de quién tomó la única foto (la recomendación sigue siendo que la tomó su padre).
+
+**Corrección pedida por el autor (13 de octubre de 2026):** se quitó el nombre **Mabel** (no existe ningún personaje con ese nombre en el canon de *KonoSuba*): la compañera de oficina de Aqua queda como **«la de la ventanilla de al lado»**, mencionada y no vista. También se corrigió la contradicción de la despedida del más allá (Aqua apuraba y luego decía que nadie lo apuraría), que ahora dice: **«La prisa es mía. Tú tómate tu segundo.»** El capítulo pasa de 7,123 a **7,127 palabras** y sigue **aprobado por el autor**.
 
 ---
 
@@ -291,7 +293,7 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 8,202 palabras (≈ 25 páginas). **No se recortó**: la indicación del autor fue dejar el capítulo largo si se extendía |
+| **Extensión** | 8,199 palabras (≈ 25 páginas). **No se recortó**: la indicación del autor fue dejar el capítulo largo si se extendía |
 | **Estado** | 🟨 Revisado; pendiente de aprobación del autor |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que vuelva a bajar la sal por el camino del norte —y, debajo de eso, ser de los que van cuando alguien no llega |

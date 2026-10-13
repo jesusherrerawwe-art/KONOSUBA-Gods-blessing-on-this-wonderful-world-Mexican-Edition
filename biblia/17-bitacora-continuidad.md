@@ -15,7 +15,7 @@
 | Pieza | Estado |
 | --- | --- |
 | Prólogo — «Un lugar sin ventanas» | 🟩 Aprobado (954 palabras) |
-| Capítulo 1 — «Todo lo que alcancé a ver desde aquí» | 🟩 Aprobado (7,123 palabras) |
+| Capítulo 1 — «Todo lo que alcancé a ver desde aquí» | 🟩 Aprobado (7,127 palabras) |
 | Capítulo 2 — «Un cuarto con ventana» | 🟩 Aprobado (5,217 palabras) |
 | Capítulo 3 — «La muchacha que hacía temblar los cerros» | 🟩 Aprobado (5,490 palabras) |
 | Capítulo 4 — «La gente que se pone enfrente» | 🟩 Aprobado (5,077 palabras) |
@@ -97,7 +97,7 @@
 - **Nunca le dijo que quería salir.** Nunca se quejó, para no ponerla triste.
 
 ### El más allá y Aqua
-- Alguien (Mabel, compañera de oficina de Aqua) **mencionada pero no vista**: Aqua no quiere que se le descuadre el papeleo con ella.
+- Alguien **mencionada pero no vista**: **la de la ventanilla de al lado**, compañera de oficina de Aqua; Aqua no quiere que se le descuadre el papeleo con ella. (Tuvo nombre hasta el 13 de octubre de 2026; se le quitó al no existir en el canon.)
 - Aqua llegó **empapada y enojada** por haber perdido algo («¡Iba ganando!»), y se recompuso para atenderlo.
 - Los destinos que ofrece: **el Cielo** (aburridísimo, «no hay nada de eso»), **volver a nacer** (sin recuerdos) y **el tercer mundo** (magia, gremios, un Rey Demonio que va ganando).
 - **La petición de Jesús:** que le diga a su mamá que no le dolió. Aqua lo promete: *«Yo te prometo que se lo voy a decir.»* → **promesa viva, pendiente de pago.**
@@ -397,7 +397,7 @@
 - **La foto** (él y su mamá en la puerta de la cabaña, riéndose, torcida) sigue sin decir quién la tomó.
 - **Aqua trae escondido el frasco doce** y con eso la posada tiene refrigerador todo el invierno: «tres semanas insoportable».
 - La **señora del pan** (la de los gemelos) y el **cerro del río** entran al mundo del libro.
-- El **capitán de la guardia**, el señor barbón, Mabel, doña Hilda y el padre Aldo siguen sin nombre propio.
+- El **capitán de la guardia**, el señor barbón y la señora del pan siguen sin nombre propio.
 
 ## Detalles del mundo ya fijados por el texto (capítulo 9)
 
@@ -548,3 +548,16 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 **Formato de los archivos (12 de octubre de 2026):** el autor escucha los capítulos en **ElevenReader**, que necesita los documentos en **UTF-8 con BOM**. El prólogo y los capítulos 1 a 6 ya se convirtieron (contenido idéntico, conteos intactos) y a partir de aquí **toda pieza nueva nace en ese formato**. Se aplica con `herramientas/utf8-bom.py` y se verifica con `herramientas/revisar-capitulos.py`.
 
 **Aprobación del autor — capítulo 7 (12 de octubre de 2026):** «Aprobado. 👌✨». El capítulo 7 «La gente que sí va» quedó aprobado junto con su ficha, y con él los dos puntos que la ficha dejaba abiertos: **Beldia se va al oeste** cargando la cosa grande, y **aquí no hay pelea ni muere el general**. La pieza y el tablero ya dicen «aprobado por el autor».
+
+---
+
+## Correcciones pedidas por el autor (13 de octubre de 2026)
+
+**Capítulo 1 — dos errores encontrados por el autor en su repaso:**
+
+1. **«Mabel» no existe en el canon de KonoSuba.** El nombre estaba puesto en la compañera de oficina de Aqua, en el más allá. **Se quitó:** ahora es **«la de la ventanilla de al lado»**, mencionada y no vista, y el chiste del papeleo se conserva completo. Ojo: el mismo nombre había quedado, por error de continuidad, en boca de una vecina de Axel en los **capítulos 8 y 9**; queda **pendiente de decisión del autor** qué se hace con ella.
+2. **Contradicción en la despedida del más allá.** Aqua decía «¡Vámonos! ¡Se hace tarde!» y dos líneas después «Nadie te va a apurar». Ahora dice: **«La prisa es mía. Tú tómate tu segundo.»** La prisa queda del lado de Aqua y el segundo del lado de Jesús; ya no se contradicen y el párrafo siguiente («Y yo usé ese segundo para hacer tres cosas») sigue funcionando igual.
+
+**Conteo:** el capítulo 1 pasa de **7,123 a 7,127 palabras**, y el encabezado, la ficha, el tablero y el informe de revisión ya quedaron actualizados. Su estado **no cambia**: sigue **aprobado por el autor** (la corrección la pidió él).
+
+**De paso (coherencia):** en el capítulo 9, «el señor de la bodega» ahora es **don Baltasar**, el dueño de la bodega desde el capítulo 8.

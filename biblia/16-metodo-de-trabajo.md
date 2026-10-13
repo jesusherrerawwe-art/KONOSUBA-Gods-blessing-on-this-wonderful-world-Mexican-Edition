@@ -110,7 +110,7 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 | Cap. | Estado | Título | Nota |
 | --- | --- | --- | --- |
 | **Prólogo** | 🟩 Aprobado | «Un lugar sin ventanas» | 954 palabras · revisado y aprobado por el autor |
-| 1 | 🟩 Aprobado | «Todo lo que alcancé a ver desde aquí» | 7,123 palabras · el más largo · revisado y aprobado por el autor |
+| 1 | 🟩 Aprobado | «Todo lo que alcancé a ver desde aquí» | 7,127 palabras · el más largo · revisado y aprobado por el autor |
 | 2 | 🟩 Aprobado | «Un cuarto con ventana» | 5,217 palabras · revisado y aprobado · introduce a Luna y paga la ventana |
 | 3 | 🟩 Aprobado | «La muchacha que hacía temblar los cerros» | 5,490 palabras · revisado y aprobado · entra Megumin; el grupo ya es cuatro |
 | 4 | 🟩 Aprobado | «La gente que se pone enfrente» | 5,077 palabras · revisado y aprobado · entra Darkness; cuadrilla completa |

@@ -15,7 +15,7 @@ Qué se revisó, capítulo por capítulo: **aspecto físico de los personajes, f
 | Pieza | Palabras | Ortografía / TTS | Cambios de contenido |
 | --- | --- | --- | --- |
 | Prólogo — «Un lugar sin ventanas» | 954 | Limpio | Ninguno |
-| Capítulo 1 — «Todo lo que alcancé a ver desde aquí» | 7,123 | Limpio | Aspecto de Aqua; estatura; tres frases rotas; gritos y signos |
+| Capítulo 1 — «Todo lo que alcancé a ver desde aquí» | 7,127 | Limpio | Aspecto de Aqua; estatura; tres frases rotas; gritos y signos |
 | Capítulo 2 — «Un cuarto con ventana» | 5,217 | Limpio | Aspecto de Luna; escena de registro ampliada; cuatro erratas |
 | Capítulo 3 — «La muchacha que hacía temblar los cerros» | 5,495 | Limpio | Aspecto de Megumin y de Darkness; arma; firma del gremio; edad de Megumin |
 | Capítulo 4 — «La gente que se pone enfrente» | 5,077 | Limpio | Aspecto de Chris; Darkness sin escudo; precio de la posada |

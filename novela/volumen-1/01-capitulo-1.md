@@ -1,7 +1,7 @@
 ﻿# Capítulo 1. Todo lo que alcancé a ver desde aquí
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 1. Extensión: 7,123 palabras. Estado: aprobado por el autor.
+Volumen 1, capítulo 1. Extensión: 7,127 palabras. Estado: aprobado por el autor.
 
 ---
 
@@ -415,7 +415,7 @@ Aqua se pasó el brazo por la cara. Ella también estaba llorando y yo creo que 
 
 —Ya te dije.
 
-—No, no, no. —Levantó un dedo—. Eso es una promesa. Eso no es tu cosa. La cosa es aparte. Todos traen una cosa, y si tú no traes nada, se me descuadra el papeleo, y si se me descuadra el papeleo, se le descuadra el papeleo a Mabel, y si se le descuadra el papeleo a Mabel, Mabel me hace llenar un formulario. Y yo no voy a llenar un formulario.
+—No, no, no. —Levantó un dedo—. Eso es una promesa. Eso no es tu cosa. La cosa es aparte. Todos traen una cosa, y si tú no traes nada, se me descuadra el papeleo, y si se me descuadra el papeleo, se le descuadra el papeleo a la de la ventanilla de al lado, y la de la ventanilla me hace llenar un formulario. Y yo no voy a llenar un formulario.
 
 —¿Entonces?
 
@@ -563,7 +563,7 @@ Aqua se me quedó viendo un rato, con la cabeza ladeada, como si yo fuera un mue
 
 Antes de irnos me tocó el hombro y me dijo:
 
-—Tomate un segundo. Nadie te va a apurar.
+—La prisa es mía. Tú tómate tu segundo.
 
 Y yo usé ese segundo para hacer tres cosas. Para tocarme la llave. Para pasarle la mano al escudo bordado del pecho. Y para acordarme, sin querer, del plato blanco con el chipote en un lado.
 
@@ -741,9 +741,9 @@ Aqua se asomó y se le puso la cara blanca.
 
 Y me agarró del brazo y me arrastró como doscientos metros, corriendo, y yo corrí, y me dolieron las costillas, y las costillas me dolieron de una manera nueva, de una manera de músculo y no de enfermedad, y por eso no me quejé, y cuando ya no se veía el sapo me solté el brazo y me paré, con las manos en las rodillas, respirando.
 
-—Estás muy mal —dijo Aqua—. Estás malísimo. Le voy a decir a Mabel que me devuelva mi solicitud.
+—Estás muy mal —dijo Aqua—. Estás malísimo. Le voy a decir a la de la ventanilla que me devuelva mi solicitud.
 
-—¿Y Mabel qué te va a decir?
+—¿Y ella qué te va a decir?
 
 —Que ya la aprobaron.
 
