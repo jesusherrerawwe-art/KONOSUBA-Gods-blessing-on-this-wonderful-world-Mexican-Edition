@@ -1,7 +1,7 @@
 ﻿# Capítulo 10. El segundo trueno
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 10. Extensión: 8,967 palabras. Estado: revisado; pendiente de aprobación del autor.
+Volumen 1, capítulo 10. Extensión: 8,971 palabras. Estado: revisado; pendiente de aprobación del autor.
 
 ---
 

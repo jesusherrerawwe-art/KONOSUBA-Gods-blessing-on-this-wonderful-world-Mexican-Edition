@@ -341,7 +341,7 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 8,967 palabras (≈ 27 páginas). **No se recortó**: la indicación del autor fue dejar el capítulo largo si se extendía |
+| **Extensión** | 8,971 palabras (≈ 27 páginas). **No se recortó**: la indicación del autor fue dejar el capítulo largo si se extendía |
 | **Estado** | 🟨 Revisado; pendiente de aprobación del autor |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que la ciudad que lo adoptó siga en pie. Y, debajo de eso, estar por fin del lado de los que van |

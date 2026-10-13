@@ -10,7 +10,7 @@
 
 ## Estado actual
 
-**Piezas escritas:** las **12 de 12** del Volumen 1 (prólogo + 10 capítulos + epílogo): **65,171 palabras** de narrativa. **Nueve aprobadas por el autor** (prólogo y capítulos 1 a 8); el **capítulo 9**, el **capítulo 10** y el **epílogo** están revisados y pendientes de su aprobación.
+**Piezas escritas:** las **12 de 12** del Volumen 1 (prólogo + 10 capítulos + epílogo): **65,175 palabras** de narrativa. **Nueve aprobadas por el autor** (prólogo y capítulos 1 a 8); el **capítulo 9**, el **capítulo 10** y el **epílogo** están revisados y pendientes de su aprobación.
 
 | Pieza | Estado |
 | --- | --- |
@@ -24,7 +24,7 @@
 | Capítulo 7 — «La gente que sí va» | 🟩 Aprobado (5,005 palabras) |
 | Capítulo 8 — «No me dolió» | 🟩 Aprobado (5,499 palabras) |
 | Capítulo 9 — «El camino del norte» | 🟨 Revisado; pendiente de aprobación del autor (8,376 palabras) |
-| Capítulo 10 — «El segundo trueno» | 🟨 Revisado; pendiente de aprobación del autor (8,967 palabras) |
+| Capítulo 10 — «El segundo trueno» | 🟨 Revisado; pendiente de aprobación del autor (8,971 palabras) |
 | Epílogo — «Los que vuelven» | 🟨 Revisado; pendiente de aprobación del autor (3,281 palabras) |
 
 **El grupo ya está completo** (Jesús, Aqua, Megumin y Darkness), registrado en el gremio como **cuadrilla** y, desde el epílogo, **con nombre: «Los que vuelven»**.
