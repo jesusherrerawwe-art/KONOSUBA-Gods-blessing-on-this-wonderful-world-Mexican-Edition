@@ -23,7 +23,7 @@
 | Capítulo 6 — «El otro elegido» | 🟩 Aprobado (5,148 palabras) |
 | Capítulo 7 — «La gente que sí va» | 🟩 Aprobado (5,005 palabras) |
 | Capítulo 8 — «No me dolió» | 🟩 Aprobado (5,499 palabras) |
-| Capítulo 9 — «El camino del norte» | 🟨 Revisado; pendiente de aprobación del autor (8,205 palabras) |
+| Capítulo 9 — «El camino del norte» | 🟨 Revisado; pendiente de aprobación del autor (8,376 palabras) |
 | Capítulo 10 | ⬜ No escrito |
 | Epílogo del volumen | ⬜ No escrito |
 
@@ -410,6 +410,7 @@
 
 ### Beldia tiene biografía (lo cuenta Wiz)
 - **Beldia entró al ejército un año después que ella**: mismo castillo, misma mesa, mismo invierno. «Beldia es el tipo de persona que, si te ve corriendo por el patio con la capa al aire, no te dice nada y te corta un leño del montón para que lo lleves.»
+- **El pasado entre los dos (canon, contado aquí):** cuando Wiz era aventurera, **Beldia le puso la maldición mortal** y ella **se murió de eso**, «nada más que a mi manera»: así se volvió liche. Wiz lo dice sin drama, en una línea, y cierra con «De eso no hablamos». Después empezaron la leña y el pan. **Divergencia deliberada del proyecto:** aquí Beldia no muere y la guerra, para algunos generales, ya terminó; el canon no se borra, se resignifica.
 - Cada vez que pasaba por Axel **le dejaba leña en la puerta**. «Le debo una cobija desde hace cien años.»
 - **La silla de la carreta se la dio un señor que vendía telas** en el pueblo donde nació Wiz, que la arregló con alambre y le cortó las patas a la altura que le dio la gana. Beldia la trae toda la vida.
 - Wiz, sobre su partida al oeste: «Cuando alguien no sabe qué va a hacer, agarra su silla y camina para un lado.»
@@ -437,12 +438,13 @@
 ### El Destructor (la Fortaleza Móvil)
 - **Cómo se supo:** el camino se rompió hace dieciséis días, «a la madrugada, un ruido de molino, como algo que va moliendo», y el suelo se movió. **Las huellas:** hoyos redondos **del tamaño de una carreta**, con la losa del camino hecha polvo adentro, subiendo la loma y bajando al valle «derechito» («los animales no caminan derechito»).
 - **Elvira es la única que lo vio:** «Era una casa con patas.» Más alta que la muralla, patas de piedra y de hierro, torres arriba, **muchos ojos chiquitos** en una parte como de cabeza. Caminaba «parejo, pesado, pero no lento», como un carretero que no quiere tirar la carga. «Sentí que me veía… y sentí que no le importaba. Me veía como una piedra en el camino.»
-- **Wiz lo conoció de niña** y da el nombre: **la Fortaleza Móvil**, construida en el reino del norte para una guerra que ya se acabó y dejada andando; camina y pisa lo que encuentra. **«No se pelea con ella: se le quita uno del camino.»**
+- **Wiz lo conoció de niña** y da el nombre: **la Fortaleza Móvil**, construida en el reino del norte para una guerra que ya se acabó y dejada andando; camina y pisa lo que encuentra. **«No se pelea con ella: se le quita uno del camino.»** Y sobre su rumbo: «¿Y para dónde va? — A ningún lado. Va pasando. Yo creo que ya ni sabe que camina.» (Canon: la fortaleza quedó automatizada hace siglos.)
+- **Se perdió de vista dieciséis días:** bajó al valle a paso de carreta y no llegó; «uno no pierde de vista una casa que camina, ¿verdad? Pues esa sí». Eso deja el aviso del archivo en pie: cuando vuelve a oírse el ruido de molino, quedan **dos días**.
 - **Lo que dice el archivo del gremio** (libro del tiempo del abuelo de Luna): «Fortaleza Móvil, también llamada el Destructor. Camina desde antes de que se fundara el reino. Cuando pasa, se debe evacuar la población. No se pelea con ella.» Y la página siguiente: «Registros conocidos: nueve poblaciones destruidas. Síntoma de su llegada: el ruido de molino. **Tiempo de aviso: dos días.**»
 - **Fermín:** va al paso de carreta, hacia el sur, por el camino del norte; el sur, por ese camino, es Axel. Su cálculo: **cuatro o cinco días**.
 
 ### La alarma y el mapa (cierre del capítulo)
-- **La campana del gremio tiene dos usos:** la de las buenas noticias (cuando vuelve alguien que se daba por perdido) y la de alarma. El capítulo cierra con la segunda.
+- **La campana del gremio tiene dos usos:** la de las buenas noticias (cuando vuelve alguien que se daba por perdido) y la de alarma. El capítulo cierra con la segunda, y la toca por el aviso que trae **un muchacho de los caseríos del norte**: «¡Se oye! ¡En el norte se oye el ruido de molino!»
 - **Axel entera se organiza para irse:** los viejos y los niños por el camino del sur en cuanto haya luz, un carro por familia y dos familias por carro, los demás a los graneros de abajo. «Nadie sale por el norte, y nadie sale solo.» **Doña Hilda no se va** («Setenta años esta casa»).
 - **El plano de Axel** existe y está en el gremio: el papel del tamaño de la mesa del fondo, con la muralla, las calles, el río, el cerro y el camino del norte saliendo por la puerta de arriba. Sobre él trabajan la señora del pan, don Baltasar, la vecina del abrigo y Luna.
 - **Última imagen:** Luna le pide a Jesús que ponga el dedo donde se rompió el camino, «y el pueblo entero se quedó viendo mi dedo».

@@ -113,6 +113,16 @@ Se revisaron el prólogo y los capítulos 1 a 6 (aspecto físico, formas de habl
 
 Las correcciones mecánicas de esta revisión (ortografía, signos, mayúsculas, texto a voz) y los hallazgos que esperan decisión del autor están en **`REVISION-VOLUMEN-1.md`**, en la raíz del repositorio.
 
+## 11. Verificaciones del capítulo 9 (13 de octubre de 2026)
+
+Repaso de canon hecho con la **dinámica de tres pasos** (sección 16, regla 6) mientras se pulía «El camino del norte». Fuentes: ficha de **Wiz** de konosuba.fandom.com, resumen del **episodio 8** (en inglés y en español), síntesis de la novela ligera sobre la habilidad *Drain Touch* y ficha del **Destructor** (en inglés y en español).
+
+- **Wiz** — liche, dueña de una tienda de objetos mágicos «famosa» en Axel, exgeneral del Rey Demonio y **exaventurera conocida como la «Bruja del Hielo»** (*Ice Witch*, 氷の魔女): el título es canon y corresponde a su etapa de aventurera, antes de volverse liche. Se deja purificar por Aqua sin defenderse y su tienda está casi en bancarrota. Todo lo usado en el capítulo queda respaldado.
+- **Drenar (Drain Touch)** — habilidad característica de las liches: absorbe vida y magia del objetivo y puede transferirlas a otra persona. **Kazuma se la aprende a Wiz en el episodio 8** (novela, volumen 1). La razón por la que puede aprenderla es la clase: **solo la clase Aventurero aprende habilidades de otras clases**, aunque le cuesten más. Jesús es aventurero, así que la escena del capítulo 9 es canon-compatible; Aqua, Megumin y Darkness no podrían aprenderla.
+- **Beldia y Wiz** — en el canon, la party de Wiz enfrentó a Beldia y él les puso la maldición mortal; de ahí viene que ella terminara como liche. En el capítulo 9 ese pasado **no se borra: se cuenta en una línea** («él me puso una maldición. La mala. Yo me morí de eso») y se convierte en el origen raro de la leña y el pan que se intercambian. El proyecto mantiene su divergencia de fondo (aquí Beldia no muere), ya registrada en las decisiones del tablero.
+- **Destructor** — arma con forma de araña gigante, construida por una civilización del norte tecnológicamente avanzada y **automatizada desde hace siglos**; vaga **al azar** por el continente y arrasa lo que encuentra. La gente ya no pelea con ella: desaloja y reconstruye, como con una inundación. Ninguno de esos datos se contradice en el capítulo.
+- **Nombres originales** — **Fermín, Tomás, Rosa, Tino, Elvira y Petra** (carreteros del norte y mesón del paso) se cotejaron contra las listas de personajes del canon: no existen personajes con esos nombres en *KonoSuba*, así que quedan como originales del proyecto y están registrados en la bitácora.
+
 ## 10. Cómo usar esta bitácora
 
 Cuando la novela avance y se consulte o añada información nueva sobre el universo, conviene:

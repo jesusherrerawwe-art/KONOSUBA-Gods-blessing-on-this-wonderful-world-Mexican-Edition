@@ -1,13 +1,13 @@
 ﻿# Capítulo 9. El camino del norte
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 9. Extensión: 8,205 palabras. Estado: revisado; pendiente de aprobación del autor.
+Volumen 1, capítulo 9. Extensión: 8,376 palabras. Estado: revisado; pendiente de aprobación del autor.
 
 ---
 
 Hacía dieciséis días que no bajaba ni un carro del norte, y a Axel se le acabó la sal.
 
-Yo me enteré porque doña Hilda me mandó a buscarla. Fui a la bodega, subí a los cajones, levanté las tapas, y no había. Ni sal, ni el aceite bueno, ni el papel del que envuelve el pan, ni las velas de sebo, ni las medicinas del padre Aldo, que se le habían acabado a medio invierno. Todo eso llega por el camino del norte, en carretas, y las carretas llevaban dos semanas sin bajar.
+Yo me enteré porque doña Hilda me mandó a buscarla. Fui a la bodega, subí a los cajones, levanté las tapas, y no había. Ni sal, ni el aceite bueno, ni el papel del que envuelve el pan, ni las velas de sebo, ni las medicinas del padre Aldo, que se habían acabado con el frío. Todo eso llega por el camino del norte, en carretas. Y las carretas, ese invierno, se habían quedado del otro lado.
 
 Al principio nadie le dio importancia, porque en invierno las carretas siempre tardan: se les hielan los caminos, se les atasca el eje, se les muere un buey y ahí se quedan, esperando a que el mundo se vuelva a mover. Dieciséis días, sin embargo, ya es otra cosa.
 
@@ -41,7 +41,7 @@ Las tres voltearon a verme. Yo también me sorprendí un poquito. Pero ya lo hab
 
 —Puedes dormir donde quieras, Darkness, pero primero vamos a preguntar a los que saben.
 
-Esa mañana, antes de salir de casa, habíamos pasado por la herrería, porque ahí quedaba una cosa por arreglar: la espada de Darkness, la que el señor del invierno le había partido en dos pedazos en la llanura. El herrero le había soldado las dos mitades y le había quedado una espada con una cicatriz de herradura a la mitad, derechita, maciza, fea como una promesa vieja.
+Esa mañana, antes de salir de casa, habíamos pasado por la herrería, porque ahí quedaba una cosa por arreglar: la espada de Darkness, la que el señor del invierno le había partido en dos pedazos en la llanura. El herrero le había soldado las dos mitades y le había quedado una espada con una costura gruesa a media hoja, derechita, maciza, fea como una promesa vieja.
 
 —Va a pegar igual —dijo el herrero—. Va a pegar distinto y va a pegar igual.
 
@@ -49,7 +49,7 @@ Y Darkness se la echó al hombro, con una cara de felicidad que a mí me dio un 
 
 —Una espada que ya se rompió una vez —dijo—. Ahora sabe cómo se siente. Es una buena espada.
 
-Así que ahí, con la espada soldada de Darkness al hombro, nos apuntamos los cuatro, y cuando Luna escribió el nombre de Jesús, que soy yo, levantó la pluma y me miró un segundo de más.
+Así que ahí, con Darkness y su espada soldada al hombro, nos apuntamos los cuatro, y cuando Luna escribió el nombre de Jesús, que soy yo, levantó la pluma y me miró un segundo de más.
 
 —¿Los cuatro? —dijo.
 
@@ -146,7 +146,7 @@ Cuando Aqua se quedó sin aire, Wiz dijo:
 
 —Porque me gusta vender. —Y se puso colorada, cosa que en una liche es rarísima—. Bueno, me gusta tener la tienda. Vender, vender... vender no se me da mucho.
 
-—La tienda está vacía —dijo Darkness, con la mano en la puerta de la bodega, y yo la jalé del brazo, porque Darkness es así.
+—La tienda está vacía —dijo Darkness, con la mano en la puerta del cuarto de atrás, y yo la jalé del brazo, porque Darkness es así.
 
 —Es el camino —dijo Wiz, y por primera vez se le puso la cara triste—. Todo lo de esta tienda viene del norte. Y hace dieciséis días que no llega nada. Ni a mí, ni a nadie.
 
@@ -184,13 +184,13 @@ Y mi hermano, la señora Wiz se rio. Toda la tienda se puso tibia de golpe. Se r
 
 Y ahí Wiz hizo la cosa de las personas buenas: contar una verdad grande como si fuera un detalle.
 
-—Es mi compañero de generación —dijo—. Él entró un año después que yo. Nos tocó el mismo castillo, la misma mesa, el mismo invierno. Beldia es el tipo de persona que, si te ve corriendo por el patio con la capa al aire, no te dice nada y te corta un leño del montón para que lo lleves. Cada vez que pasaba por aquí, me dejaba leña en la puerta. Le debo una cobija desde hace cien años. —Y luego, con una voz más suave—: Se fue al oeste, dice. ¿Y sabe qué va a hacer?
+—Es mi compañero de generación —dijo—. Él entró un año después que yo. Nos tocó el mismo castillo, la misma mesa, el mismo invierno. Y antes de eso, cuando yo era aventurera, él me puso una maldición. La mala. —Lo dijo sin bajar la voz ni subirla, como se dice un precio—. Yo me morí de eso, mija. Nada más que me morí a mi manera, y aquí sigo, con mi tienda. De eso no hablamos. Beldia es el tipo de persona que, si te ve corriendo por el patio con la capa al aire, no te dice nada y te corta un leño del montón para que lo lleves. Cada vez que pasaba por aquí, me dejaba leña en la puerta. Le debo una cobija desde hace cien años. —Y luego, con una voz más suave—: Se fue al oeste, dice. ¿Y sabe qué va a hacer?
 
 —No nos dijo.
 
 —No creo que sepa —dijo Wiz—. Cuando alguien no sabe qué va a hacer, agarra su silla y camina para un lado. Y él caminó para el oeste.
 
-Yo me quedé viendo a la señora muerta que hablaba de un general como se habla de un vecino. Y me acordé del patio del castillo del cerro, del hoyo en forma de persona en la tierra, de las tablas apiladas y del martillo. Y me acordé de que yo, hace dos meses, tenía miedo de los generales del Rey Demonio, como todo el mundo. Y ahora uno me había pedido disculpas por arrancarle un pino a Beldia y la otra le fiaba el pan a la señora del pan.
+Yo me quedé viendo a la señora muerta que hablaba de un general como se habla de un vecino. Y me acordé del patio del castillo del cerro, del hoyo en forma de persona en la tierra, de las tablas apiladas y del martillo. Y me acordé de que yo, hace un mes, tenía miedo de los generales del Rey Demonio, como todo el mundo. Y ahora uno me había pedido disculpas por arrancarle un pino a Beldia y la otra le fiaba el pan a la señora del pan.
 
 Ah, ¿no les dije? Ese es otro detalle que me desarmó. Cuando Wiz sacó los vasos, vi que en el mostrador, junto a la caja vacía, había una lista de papel con letra de la señora del pan, y decía, con números y todo, los panes que le fían a la liche.
 
@@ -344,7 +344,7 @@ Así que la bolsa de la señora del pan llevaba pan para nosotros y una carta pa
 
 Y con eso, mi hermano, a las dos horas de camino ya teníamos un encargo más y nadie lo había firmado.
 
-Caminamos todo el día. El mundo se hizo blanco y luego se hizo sordo. Ya saben cómo es: uno va caminando, el paisaje no cambia, y de repente ya no sabe uno si lleva una hora o cuatro; el frío se mete por las mangas y el aire sabe a metal. Darkness iba adelante abriendo el paso, con la espada nueva de cicatriz al hombro, y se le veía tan feliz que Aqua le preguntó si estaba bien, y ella dijo:
+Caminamos todo el día. El mundo se hizo blanco y luego se hizo sordo. Ya saben cómo es: uno va caminando, el paisaje no cambia, y de repente ya no sabe uno si lleva una hora o cuatro; el frío se mete por las mangas y el aire sabe a metal. Darkness iba adelante abriendo el paso, con la espada de la costura nueva al hombro, y se le veía tan feliz que Aqua le preguntó si estaba bien, y ella dijo:
 
 —Es que no hay nada como el frío cuando lo aguantas.
 
@@ -506,7 +506,7 @@ Y en la nieve, mi hermano, se hizo un silencio que no era del viento.
 
 Y ahí todo el mundo entendió la cosa al mismo tiempo, y la cosa era esta: el sur, por el camino del norte, en este mundo, baja a Axel.
 
-—El camino ya está roto —dijo Fermín—. Y nosotros ya no podemos pasar. Y esa cosa va a llegar a su pueblo, muchachos, y no le falta mucho, porque va a paso de carreta. Yo creo que en cuatro o cinco días la tienen en la puerta.
+—El camino ya está roto —dijo Fermín—. Y nosotros ya no podemos pasar. Y esa cosa va a llegar a su pueblo, muchachos. Eso pensábamos nosotros: que en cuatro o cinco días ya estaría encima de Axel, porque camina a paso de carreta. Y pasaron dieciséis. —Se pasó la mano por la boca—. Dieciséis días, y no llegó. Se perdió de vista. Uno no pierde de vista una casa que camina, ¿verdad? Pues esa sí.
 
 Y luego, cuando ya estábamos todos callados, habló la señora Wiz.
 
@@ -523,6 +523,10 @@ Estaba blanca, más blanca que de costumbre, y tenía las dos manos apretadas en
 Y Wiz la vio, con la cara de alguien que ya vio la respuesta, y dijo:
 
 —Uno se quita.
+
+—¿Y para dónde va? —preguntó Megumin.
+
+—A ningún lado —dijo Wiz—. Va pasando. Yo creo que ya ni sabe que camina.
 
 ---
 
@@ -641,6 +645,10 @@ Y Luna leyó, con la voz de recepcionista:
 Y luego pasó la página, y leyó la parte que nadie quería oír:
 
 —«Registros conocidos: nueve poblaciones destruidas. Síntoma de su llegada: el ruido de molino. Tiempo de aviso: dos días.»
+
+Y antes de que alguien dijera nada, se abrió la puerta del gremio de golpe: entró un muchacho de los caseríos del norte, blanco de nieve hasta la cintura y sin aire, que venía corriendo desde la puerta de la muralla. Traía una sola cosa que decir, y la dijo gritando, delante de todo el mundo:
+
+—¡Se oye! ¡En el norte se oye el ruido de molino!
 
 Y a lo lejos, del lado de la muralla, en la puerta del lado del norte, sonó la campana del gremio. Y esta vez no era la de las buenas noticias.
 

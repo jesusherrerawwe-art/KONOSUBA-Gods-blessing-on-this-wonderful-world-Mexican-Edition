@@ -104,6 +104,11 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 3. **Todo destino ya aprobado sigue en pie.** El clímax del Vol. 1 (el Destructor) y el arco de la playera son destino, no sugerencia.
 4. **Si una idea nueva cambia algo ya escrito, se anota y se decide con calma.** No se reescribe por impulso ni se ignora.
 5. **Al cerrar cada volumen** se hace una revisión de conjunto: qué quedó, qué falta, qué se prometió y no se pagó.
+6. **Dinámica de escritura en tres pasos (pedida por el autor el 13 de octubre de 2026):**
+   1. **Confirmar rápido los puntos más importantes del capítulo anterior** (los que el nuevo capítulo tiene que respetar: fechas, objetos, promesas, estado de cada personaje).
+   2. **Escribir el borrador completo del capítulo siguiente**, sin pulir de más: primero la idea central y la escena.
+   3. **Pulir detalles y narración con apoyo de la biblia y del internet**, cotejando canon, nombres y continuidad. Puede tomar más tiempo; **se prefiere lento y seguro a rápido con errores** (palabras del autor).
+7. **Ningún nombre propio nuevo entra al texto sin cotejarse contra el canon** (personajes, lugares, títulos). Si el nombre es original, se marca como original en la bitácora, con quién es y de dónde salió. **Regla nacida del error «Mabel» (13 de octubre de 2026):** un nombre inventado se coló en el más allá del capítulo 1 y en dos capítulos más, y hubo que retirarlo. No se repite.
 
 ## Tablero del Volumen 1 (capítulos 1–10)
 
@@ -118,7 +123,7 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 | 6 | 🟩 Aprobado | «El otro elegido» | 5,148 palabras · revisado y aprobado · el lago, Mitsurugi y el séptimo día |
 | 7 | 🟩 Aprobado | «La gente que sí va» | 5,005 palabras · revisado y aprobado por el autor · cierra el séptimo día |
 | 8 | 🟩 Aprobado | «No me dolió» | 5,499 palabras · revisado y aprobado por el autor · la muerte y el regreso, como el canon |
-| 9 | 🟨 Revisado | «El camino del norte» | 8,205 palabras · **revisado; pendiente de aprobación del autor** · entra Wiz; se descubre que el Destructor rompió el paso |
+| 9 | 🟨 Revisado | «El camino del norte» | 8,376 palabras · **revisado; pendiente de aprobación del autor** · entra Wiz; se descubre que el Destructor rompió el paso |
 | 10 | 🟩 Cierre fijado | *(por definir)* | **El Destructor** (clímax ya aprobado); llega a Axel al final del capítulo 9 |
 | **Epílogo** | ⬜ Vacío | — | Cierra el arco del volumen y deja la puerta abierta |
 

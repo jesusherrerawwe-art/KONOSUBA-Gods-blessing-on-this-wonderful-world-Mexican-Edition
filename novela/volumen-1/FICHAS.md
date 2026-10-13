@@ -295,13 +295,13 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 8,205 palabras (≈ 25 páginas). **No se recortó**: la indicación del autor fue dejar el capítulo largo si se extendía |
+| **Extensión** | 8,376 palabras (≈ 25 páginas). **No se recortó**: la indicación del autor fue dejar el capítulo largo si se extendía |
 | **Estado** | 🟨 Revisado; pendiente de aprobación del autor |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que vuelva a bajar la sal por el camino del norte —y, debajo de eso, ser de los que van cuando alguien no llega |
 | **Obstáculo** | El camino del norte está roto y la venta del paso está a medias: hace dieciséis días pasó por ahí el Destructor |
 | **Forma** | Ocho movimientos: la sal que se acaba, el gremio y el encargo, la tienda de Wiz, la lección de Drenar, el camino y el paso roto, el relato de los carreteros, el regreso por el puente de hielo, la alarma y el mapa |
-| **Referencia del canon** | **Wiz** (anime, episodio 10; novela, volumen 2): liche, exgeneral del Rey Demonio, dueña de una tienda de objetos mágicos en Axel, «veinte años para siempre», la **Bruja del Hielo** del hielo y del rayo negro en el canon, y a la que Aqua intenta purificar cada vez que la ve. **El Destructor (la Fortaleza Móvil)**: arma con forma de araña gigante construida por una civilización del norte, que lleva siglos caminando y pisando pueblos; en el canon la gente ya no pelea con ella: la trata como una inundación y desaloja. **Drenar (Drain Touch)**: la magia de las liches, que absorbe vida y magia y puede pasárselas a otra persona; en el clímax del episodio 10 es la que mueve el coronatita |
+| **Referencia del canon** | **Wiz** (anime, episodio 10; novela, volumen 2): liche, exgeneral del Rey Demonio, dueña de una tienda de objetos mágicos en Axel, «veinte años para siempre», la **Bruja del Hielo** del hielo y del rayo negro en el canon, y a la que Aqua intenta purificar cada vez que la ve. **El Destructor (la Fortaleza Móvil)**: arma con forma de araña gigante construida por una civilización del norte, que lleva siglos caminando y pisando pueblos; en el canon la gente ya no pelea con ella: la trata como una inundación y desaloja. **Drenar (Drain Touch)**: la magia de las liches, que absorbe vida y magia y puede pasárselas a otra persona; **Wiz se la enseñó a Kazuma en el episodio 8** y en el clímax del episodio 10 es la que mueve el coronatita. En el canon solo la **clase Aventurero** puede aprender habilidades de otras clases —que es justo la clase de Jesús—, y por eso ni Aqua ni Megumin ni Darkness podrían aprenderla |
 | **Cambio al cierre** | Jesús deja de ser el que recibe: baja por la gente del norte y sube con la respuesta. Y ya sabe lo que viene, y no es un general con caballo: es una máquina |
 | **Lo que el lector aprende** | Que Wiz existe y es de fiar aunque esté muerta; que Beldia tiene colegas de generación y que el ejército del Rey Demonio fue, para algunos, una vida y no una vocación; que la magia se puede pasar de mano en mano; y que en el gremio de Axel hay un libro viejo que ya vio pasar al Destructor |
 | **Gancho** | La campana del gremio: al norte se oyó el ruido de molino, y el libro del archivo dice que el aviso es de dos días. El Destructor viene para Axel |
@@ -317,6 +317,12 @@
 - **La novena bandera: «Cuentan contigo.»** Nace de la frase de Fermín: en su pueblo, cuando alguien sale a buscar a otro, se dice que salió a dar la cara por él.
 - **Beldia tiene biografía.** Wiz cuenta que fue su compañero de generación, que entró un año después que ella, que le dejaba leña en la puerta y que la silla de la carreta se la dio un señor que vendía telas. Es el mismo general que en el capítulo 7 se fue al oeste sin decir a dónde.
 - **Comedia y ternura repartidas:** el «no me diga señora» de Wiz, la purificación fallida, el intento de Aqua de presumir y quedarse sin fuerzas, el «otra vez» de Darkness, el sombrero de Megumin y los tres cuartos de hora de la lección.
+
+**Canon verificado el 13 de octubre de 2026 (dinámica de tres pasos, punto 3):**
+- **Wiz «Bruja del Hielo»:** el título existe en el canon (**Ice Witch**, 氷の魔女); se lo ganó como aventurera, antes de volverse liche. La tienda es «famosa» en Axel y está casi en bancarrota, y Wiz se deja purificar por Aqua sin defenderse. Todo eso está en el capítulo.
+- **Drenar:** es la habilidad clásica de las liches; Kazuma la aprende de Wiz (episodio 8, novela 1) porque la clase **aventurero** puede aprender de todas las clases. Jesús es aventurero: la escena queda dentro del canon, no aparte.
+- **Beldia y Wiz:** en el canon, la party de Wiz lo enfrentó y él los maldijo con la maldición mortal, y ella terminó volviéndose liche. Aquí eso no se borra: **se cuenta** («él me puso una maldición. La mala. Yo me morí de eso») y se convierte en la razón de que la leña y el pan viajen entre los dos. Divergencia deliberada, ya notada en la bitácora: en este mundo Beldia **no muere** y la guerra, para algunos generales, ya terminó.
+- **El Destructor:** araña gigante de ocho patas, ojos-sensor, construida por una civilización del norte y automatizada hace siglos; **vaga al azar**, y por eso el capítulo puede decir que se perdió de vista y volvió. La gente no pelea con ella: desaloja.
 
 **Personajes y lugares nuevos de este capítulo:**
 - **Wiz** — liche, exgeneral del Rey Demonio, dueña de la tienda de objetos mágicos del callejón del sur. Cortés, airhead, arruinada y generosa.
