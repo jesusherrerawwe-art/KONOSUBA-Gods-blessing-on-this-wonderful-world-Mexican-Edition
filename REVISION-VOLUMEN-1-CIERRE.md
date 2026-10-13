@@ -37,6 +37,15 @@ Encabezados, fichas y biblia, todos al día: cap. 9 **8,343** · cap. 10 **8,889
 
 **Alderp** unificado en las cuatro secciones de la biblia donde aparecía (estaba como «Aldarp» en la 04) y usado en el epílogo; **Sena** verificado antes de escribirla (aspecto, oficio y momento del canon). Ningún otro nombre propio nuevo quedó sin cotejar: es la regla 7, y esta revisión la pasó a limpio.
 
+**Auditoría exhaustiva de nombres (13 de octubre de 2026), a raíz del caso «Mabel».** Se revisó el volumen entero buscando cualquier nombre inventado que se hubiera colado:
+
+- Se listaron **todas las formas capitalizadas dentro de frase** de las trece piezas (359 formas) y **todas las palabras que nunca aparecen en minúscula** en el volumen (unas 140). Cada una se explica por una de cuatro razones: nombre del canon, nombre original ya autorizado, lugar del mundo real (Guadalajara, Jalisco, México, Okinawa, Naha, Tokio, Osaka, Japón), o simplemente una palabra en arranque de frase o un vocativo.
+- **Nombres del canon usados, todos con la grafía de la obra:** Aqua, Megumin, Darkness, Wiz, Beldia, Eris, Chris, Luna, Kyouya, Mitsurugi, Gram, Alderp, Sena, Belzerg, Axel, Axis, Destructor («Fortaleza Móvil»), Dullahan y los demonios Carmesí. Ninguno tiene variante de acento, de mayúscula ni de romanización en el texto: cada uno aparece en **una sola forma** en las trece piezas.
+- **Cotejo contra la lista de personajes de la wiki en español (69 artículos):** **ninguno** de los nombres originales del proyecto choca con un personaje del canon. Los originales son: María y Kenji (los papás, mundo real), doña **Hilda**, padre **Aldo**, el shīsā **Shimura**, el pueblo de **Tander**, **Estrella** (el caballo de Beldia), **Fermín**, **Tomás**, **Rosa**, **Tino**, **Petra**, **Elvira**, **Baltasar**, **Beatriz** (la col de Aqua) y **«Los que vuelven»** (la cuadrilla). Todos también con grafía única.
+- **Falsas alarmas, revisadas una por una:** «el Cielo» es el sustantivo común (en el canon hay un personaje llamado *Cielo*, pero es del juego y aquí no se nombra a nadie así); **Rin** y **Sayaka** son rutas de novelas visuales del mundo real, no del mundo de Axel; **Gram** y **Kyouya** sí son del canon (la espada y el héroe de Mitsurugi). Y **«Mabel» no aparece** en ninguna de las trece piezas.
+- **Un detalle que salió de la auditoría y se arregló:** el adjetivo del clan estaba escrito de dos maneras («el clan de los demonios carmesí», sin mayúscula, en el capítulo 3, y «clan Carmesí» tres líneas más abajo). Se unificó a **«demonios Carmesí»** para que el clan se escriba igual en todo el volumen. Es un cambio de una sola letra: no mueve palabras ni cifras.
+- Resultado: **no queda ningún nombre tipo «Mabel».** El volumen pasa la revisión con la regla 7 en verde.
+
 ---
 
 ## 2. Lo que se revisó y quedó bien

@@ -133,7 +133,7 @@ Caminó al centro del gremio.
 
 Y ahí, en medio de todos, se puso una mano en el pecho, se paró de puntitas, levantó la otra mano y anunció:
 
-—¡Soy Megumin! ¡Archimaga del clan de los demonios carmesí! ¡La más poderosa hechicera de la Aldea Carmesí! ¡La que domina la magia más destructiva de la historia! ¡La dueña de la Explosión!
+—¡Soy Megumin! ¡Archimaga del clan de los demonios Carmesí! ¡La más poderosa hechicera de la Aldea Carmesí! ¡La que domina la magia más destructiva de la historia! ¡La dueña de la Explosión!
 
 Silencio absoluto en todo el gremio.
 

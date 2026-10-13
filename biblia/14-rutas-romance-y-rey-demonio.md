@@ -49,6 +49,11 @@ Cada beso tiene un significado distinto, un lugar en la estructura y una consecu
 | **Luna** | 2 | El beso sencillo | El más cotidiano: huele a pan, a mostrador y a lunes. Representa la vida normal que Jesús podría tener | Que él entienda que existe un mundo sin explosiones ni diosas; y que Luna sea algo más que la recepcionista del gremio |
 | **Chris** | 2 | El beso robado | Literalmente lo roba, sin avisar, en medio de una misión nocturna. Él nunca sabrá si fue parte del plan | Un secreto compartido más; y la duda permanente de si fue un favor o un robo. **Con la revelación aprobada (Chris = Eris), este beso se relee entero: fue una diosa la que se lo robó** |
 
+> **Estado al cierre del Volumen 1 (13 de octubre de 2026).**
+> - **Aqua — ✅ escrito.** El beso «el que los dos niegan» ocurre en el **clímax del capítulo 10** («El segundo trueno»), donde ella le da aire «por el manual», y en el **epílogo** («Los que vuelven») lo **niega en público**: «¡Y no pasó nada!». La decisión es del autor (13 de octubre); **el capítulo 10 y el epílogo siguen revisados y pendientes de su aprobación**, así que si alguno de los dos cambia, esta fila se ajusta con él.
+> - **Megumin — pendiente.** Su beso «Explosión» **no ocurrió en el Volumen 1**: el volumen cierra con la pierna rota y sin beso de Megumin. La fila dice «1–2», así que el beso queda para el **Volumen 2**; el sitio exacto se confirma al armar la ficha del capítulo 11.
+> - Las demás filas (Darkness, Wiz, Yunyun, Luna, Chris) siguen **en pie para el Volumen 2**, sin cambios.
+
 > **Fuera del reparto aprobado:** Cecily, Claire, Rain y las chicas de la Aldea Carmesí no tienen ruta ni beso. Pueden funcionar como personajes cómicos.
 
 ## El libro de banderas ✅ Aprobado como columna central del arco romántico
