@@ -1,4 +1,4 @@
-﻿# Registro de verificación de la biblia
+# Registro de verificación de la biblia
 
 Última verificación: **11 de octubre de 2026**.
 

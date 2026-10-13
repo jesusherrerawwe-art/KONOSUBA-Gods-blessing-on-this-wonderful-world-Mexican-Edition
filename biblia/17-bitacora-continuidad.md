@@ -596,7 +596,9 @@ Con el informe de la revisión de conjunto sobre la mesa, el autor aprobó las t
 | ¿El Vol. 2 abre con el juicio de Sena? | **Sí** | El capítulo 11 arranca con el asunto de la corona (calabozo, interrogatorio o juicio) |
 | ¿Cómo se trata el habla mexicana en boca de la gente de Axel? | **Estricta (regla 9)** | Se limpiaron los mexicanismos de los personajes del mundo; el narrador y Jesús conservan su voz |
 
-Las seis respuestas quedaron aplicadas en el texto y en la biblia el mismo día. **El siguiente paso es la ficha del capítulo 11**, que abre el Volumen 2 con el juicio.
+Las seis respuestas quedaron aplicadas en el texto y en la biblia el mismo día.
+
+**Carpeta del Volumen 2 abierta** (`novela/volumen-2/`), con su `FICHAS.md` en blanco: trae el marco, el tablero de los capítulos 11 a 20 y el resumen de lo ya decidido, pero **ni una ficha adelantada** (regla de casa). El siguiente paso es **la ficha del capítulo 11**, que abre el Volumen 2 con el juicio de Sena.
 
 ## Promesas abiertas (cosas insinuadas y todavía no pagadas)
 

@@ -1,4 +1,4 @@
-﻿# Revisión de conjunto del Volumen 1 — las doce piezas
+# Revisión de conjunto del Volumen 1 — las doce piezas
 
 Fecha: 13 de octubre de 2026.
 Alcance: **el Volumen 1 completo**, ahora que se puede leer de corrido: prólogo, capítulos 1 a 10 y epílogo.
@@ -37,7 +37,7 @@ Lo que se quedó, a propósito: **el habla mexicana del narrador y de Jesús** �
 
 ### Conteos
 
-Encabezados, fichas y biblia, todos al día: cap. 9 **8,343** · cap. 10 **8,889** · epílogo **3,257**. Narrativa del volumen: **65,035 palabras** (73,772 contando las fichas y documentos de trabajo). Los rótulos de estado quedaron revisados uno por uno; tras la aprobación del autor, los doce dicen «aprobado por el autor».
+Encabezados, fichas y biblia, todos al día: cap. 9 **8,343** · cap. 10 **8,889** · epílogo **3,257**. Narrativa del volumen: **65,035 palabras** (74,281 contando las fichas y documentos de trabajo al abrir la carpeta del Volumen 2). Los rótulos de estado quedaron revisados uno por uno; tras la aprobación del autor, los doce dicen «aprobado por el autor».
 
 ### Nombres
 

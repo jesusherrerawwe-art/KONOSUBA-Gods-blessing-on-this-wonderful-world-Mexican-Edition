@@ -1,4 +1,4 @@
-﻿# Personajes principales — fichas de referencia
+# Personajes principales — fichas de referencia
 
 > **Spoilers:** esta sección cubre las temporadas 1–3, la película *KonoSuba: Legend of Crimson* y el anime derivado *KonoSuba: An Explosion on This Wonderful World!*; el apartado de novelas identifica además material que llega más allá de lo adaptado. Las conclusiones sobre función dramática son lectura editorial, no hechos de continuidad.
 

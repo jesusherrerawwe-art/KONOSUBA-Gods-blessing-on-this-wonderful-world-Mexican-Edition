@@ -1,4 +1,4 @@
-﻿# Revisión completa del Volumen 1 — prólogo y capítulos 1 a 6
+# Revisión completa del Volumen 1 — prólogo y capítulos 1 a 6
 
 Fecha: 12 de octubre de 2026.
 Alcance: las siete piezas escritas del Volumen 1 (prólogo + capítulos 1 a 6), leídas completas, una por una.

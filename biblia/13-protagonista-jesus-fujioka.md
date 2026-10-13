@@ -1,4 +1,4 @@
-﻿# 13. Protagonista original del proyecto: Jesús Fujioka Hernández
+# 13. Protagonista original del proyecto: Jesús Fujioka Hernández
 
 > **Aviso:** esta sección **no documenta canon de *KonoSuba***. Reúne el material creativo original de este proyecto, aportado por el autor, más notas de desarrollo. Se irá actualizando conforme avance el Plan de Acción de los **30 capítulos** (3 volúmenes de 10).
 
