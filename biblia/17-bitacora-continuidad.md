@@ -10,7 +10,7 @@
 
 ## Estado actual
 
-**Piezas escritas:** las **12 de 12** del Volumen 1 (prólogo + 10 capítulos + epílogo): **65,175 palabras** de narrativa. **Nueve aprobadas por el autor** (prólogo y capítulos 1 a 8); el **capítulo 9**, el **capítulo 10** y el **epílogo** están revisados y pendientes de su aprobación.
+**Piezas escritas:** las **12 de 12** del Volumen 1 (prólogo + 10 capítulos + epílogo): **65,036 palabras** de narrativa. **Nueve aprobadas por el autor** (prólogo y capítulos 1 a 8); el **capítulo 9**, el **capítulo 10** y el **epílogo** están revisados y pendientes de su aprobación.
 
 | Pieza | Estado |
 | --- | --- |
@@ -23,9 +23,9 @@
 | Capítulo 6 — «El otro elegido» | 🟩 Aprobado (5,148 palabras) |
 | Capítulo 7 — «La gente que sí va» | 🟩 Aprobado (5,005 palabras) |
 | Capítulo 8 — «No me dolió» | 🟩 Aprobado (5,499 palabras) |
-| Capítulo 9 — «El camino del norte» | 🟨 Revisado; pendiente de aprobación del autor (8,376 palabras) |
-| Capítulo 10 — «El segundo trueno» | 🟨 Revisado; pendiente de aprobación del autor (8,971 palabras) |
-| Epílogo — «Los que vuelven» | 🟨 Revisado; pendiente de aprobación del autor (3,281 palabras) |
+| Capítulo 9 — «El camino del norte» | 🟨 Revisado; pendiente de aprobación del autor (8,343 palabras) |
+| Capítulo 10 — «El segundo trueno» | 🟨 Revisado; pendiente de aprobación del autor (8,889 palabras) |
+| Epílogo — «Los que vuelven» | 🟨 Revisado; pendiente de aprobación del autor (3,257 palabras) |
 
 **El grupo ya está completo** (Jesús, Aqua, Megumin y Darkness), registrado en el gremio como **cuadrilla** y, desde el epílogo, **con nombre: «Los que vuelven»**.
 
@@ -564,6 +564,24 @@
 - **Wiz intenta cargar con la culpa** y Sena se lo prohíbe («No meta las manos»), porque una liche retirada del ejército del Rey Demonio convierte el asunto en otro.
 - **El cierre:** los cuatro se paran detrás de Jesús; Sena pregunta quién responde por él, y Fermín contesta desde la puerta, para toda la plaza: **«Los que vuelven.»** Última línea del volumen: «Yo nada más quería un cuarto con ventana.»
 - **La acusación queda abierta a propósito:** es el arranque del Vol. 2 (en el canon, el juicio abre la temporada 2).
+
+## Revisión de conjunto del Volumen 1 (13 de octubre de 2026)
+
+Primera revisión del volumen **completo** (las doce piezas, del prólogo al epílogo). Informe para el autor: `REVISION-VOLUMEN-1-CIERRE.md`.
+
+**Lo que se corrigió en esta pasada:**
+- **La muletilla «mi hermano» se había disparado** en las tres últimas piezas: 1 vez cada 179 palabras en el capítulo 10 y 1 cada 182 en el epílogo, contra 1 cada ~700 en los capítulos aprobados. Se podaron a **8** en el capítulo 9, **12** en el 10 y **6** en el epílogo, conservando las que cargan emoción (el cierre de escenas, la noche del Destructor, el cuaderno, la despedida). Regla 8 de la sección 16.
+- **«Ya lo saben»** se dejó una vez por pieza, como máximo.
+- **Conteos al día:** capítulo 9, 8,343 · capítulo 10, 8,889 · epílogo, 3,257 · narrativa total del volumen, **65,036 palabras**.
+- **Nombres canónicos nuevos del cierre:** **Alderp** (gobernador, grafía unificada con las secciones 03 y 06) y **Sena** (fiscal de la corona). Los dos verificados y anotados en la sección 12.
+
+**Lo que se revisó y quedó bien (sin cambios):**
+- La línea de tiempo del volumen, de la llegada al día del Destructor, con «un mes y medio» sostenido en el 10 y el epílogo.
+- Los números del cierre: los doscientos del campo, las ciento sesenta y una cosas de Wiz, los cuarenta minutos del reloj de la máquina (que baja a treinta y uno, veintiséis y nueve).
+- La pierna de Megumin: derecha, la de las vendas, entablillada de la rodilla al tobillo en las dos piezas.
+- El beso de Aqua y su negación pública en el epílogo.
+- La playera, la llave, la foto y el libro de banderas, que siguen en su sitio desde el capítulo 1.
+- Ninguna contradicción nueva entre piezas: los tiempos relativos (el aviso de dos días, los dieciséis días del camino roto, los cuatro días de la fiesta) cuadran.
 
 ## Promesas abiertas (cosas insinuadas y todavía no pagadas)
 

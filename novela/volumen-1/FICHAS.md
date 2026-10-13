@@ -295,7 +295,7 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 8,376 palabras (≈ 25 páginas). **No se recortó**: la indicación del autor fue dejar el capítulo largo si se extendía |
+| **Extensión** | 8,343 palabras (≈ 25 páginas). **No se recortó**: la indicación del autor fue dejar el capítulo largo si se extendía |
 | **Estado** | 🟨 Revisado; pendiente de aprobación del autor |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que vuelva a bajar la sal por el camino del norte —y, debajo de eso, ser de los que van cuando alguien no llega |
@@ -341,7 +341,7 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 8,971 palabras (≈ 27 páginas). **No se recortó**: la indicación del autor fue dejar el capítulo largo si se extendía |
+| **Extensión** | 8,889 palabras (≈ 27 páginas). **No se recortó**: la indicación del autor fue dejar el capítulo largo si se extendía |
 | **Estado** | 🟨 Revisado; pendiente de aprobación del autor |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que la ciudad que lo adoptó siga en pie. Y, debajo de eso, estar por fin del lado de los que van |
@@ -376,7 +376,7 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 3,281 palabras (≈ 10 páginas) |
+| **Extensión** | 3,257 palabras (≈ 10 páginas) |
 | **Estado** | 🟨 Revisado; pendiente de aprobación del autor |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que lo que se salvó se celebre y que las cosas vueltas a su lugar queden dichas: la fiesta, el nombre del grupo y el lugar que él ocupa |

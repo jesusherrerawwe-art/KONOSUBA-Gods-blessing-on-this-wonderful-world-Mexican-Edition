@@ -1,7 +1,7 @@
 ﻿# Epílogo. Los que vuelven
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, epílogo. Extensión: 3,281 palabras. Estado: revisado; pendiente de aprobación del autor.
+Volumen 1, epílogo. Extensión: 3,257 palabras. Estado: revisado; pendiente de aprobación del autor.
 
 ---
 
@@ -15,13 +15,13 @@ Empezó a las ocho de la mañana con el señor barbón subido a una carreta, sin
 
 —Es para que se acuerden —me dijo la señora del pan, cuando le pregunté por qué tanto pleito por un remache—. Aquí no tiramos las cosas que nos salvaron la vida. Las colgamos en la pared.
 
-Y yo me quedé con esa frase, mi hermano, porque yo tenía la impresión de que esa frase no era de ella: era de todo este pueblo. Doña Hilda la habría dicho igual, y la vecina del abrigo, y el señor barbón, y yo la había aprendido sin darme cuenta.
+Y yo me quedé con esa frase, porque yo tenía la impresión de que esa frase no era de ella: era de todo este pueblo. Doña Hilda la habría dicho igual, y la vecina del abrigo, y el señor barbón, y yo la había aprendido sin darme cuenta.
 
 ---
 
 A Megumin la bajé yo.
 
-Fue la primera cosa que hice ese día: subir a su cuarto, levantarla de la cama, cargarla, y bajar las escaleras de la posada con ella a la espalda y con una silla en la otra mano, porque doña Hilda dijo que la muchacha no se iba a quedar en un cuarto en un día de fiesta, que eso no se hacía, y doña Hilda, mi hermano, tiene razón en todo.
+Fue la primera cosa que hice ese día: subir a su cuarto, levantarla de la cama, cargarla, y bajar las escaleras de la posada con ella a la espalda y con una silla en la otra mano, porque doña Hilda dijo que la muchacha no se iba a quedar en un cuarto en un día de fiesta, que eso no se hacía, y doña Hilda tiene razón en todo.
 
 —No me lleves como un costal —me dijo Megumin, en el pasillo.
 
@@ -29,7 +29,7 @@ Fue la primera cosa que hice ese día: subir a su cuarto, levantarla de la cama,
 
 —Como una archimaga. Derechita, con la barbilla arriba, y despacio, para que se vea.
 
-Así la llevé, derechita y con la barbilla arriba, y ella iba con el sombrero puesto y con la pierna entablillada de la rodilla al tobillo, saludando a la gente como saluda la gente importante, y la plaza entera se volteó a verla, y hubo un silencio, y luego aplausos, y Megumin, mi hermano, hizo con la mano el gesto de «ya, ya, no es para tanto», que es un gesto que ella practicó toda la vida para ese momento.
+Así la llevé, derechita y con la barbilla arriba, y ella iba con el sombrero puesto y con la pierna entablillada de la rodilla al tobillo, saludando a la gente como saluda la gente importante, y la plaza entera se volteó a verla, y hubo un silencio, y luego aplausos, y Megumin hizo con la mano el gesto de «ya, ya, no es para tanto», que es un gesto que ella practicó toda la vida para ese momento.
 
 —Le arrancó las patas a la fortaleza —le decía la gente a los niños, señalándola—. Esa. Esa misma.
 
@@ -55,7 +55,7 @@ Aqua ya estaba ahí, sentada de un lado como una reina, con el pelo azul recogid
 
 —Eso sí —dijo Megumin, y se quedó callada un momento, y luego dijo, bajito, para mí nada más—: Eso sí fue ella.
 
-Y luego, mi hermano, pasó la cosa que yo sabía que iba a pasar, porque en un pueblo chico nada se queda quieto, y menos lo que uno más quiere que se quede quieto.
+Y luego pasó la cosa que yo sabía que iba a pasar, porque en un pueblo chico nada se queda quieto, y menos lo que uno más quiere que se quede quieto.
 
 Un muchacho del gremio, de los que habían entrado con nosotros al campo, se acercó con un plato en la mano y preguntó, con la boca llena y todo:
 
@@ -71,7 +71,7 @@ Y el gremio entero se volteó.
 
 —Ah —dijo el muchacho, y se fue, y se sentó con sus amigas, y yo sé que en esa mesa se habló del asunto como por una hora.
 
-Y yo me quedé viendo mi vaso, y no dije nada, y Aqua se sentó otra vez, muy derechita, y no me volteó a ver en todo el rato, y los dos nos quedamos callados, mi hermano, y callar es lo primero que uno hace cuando algo sí pasó.
+Y yo me quedé viendo mi vaso, y no dije nada, y Aqua se sentó otra vez, muy derechita, y no me volteó a ver en todo el rato, y los dos nos quedamos callados, y callar es lo primero que uno hace cuando algo sí pasó.
 
 Y ahí nos quedamos, viendo el baile.
 
@@ -111,7 +111,7 @@ Y Wiz se limpió la cara con la manga y se quedó callada, y al rato me dijo:
 
 —Que se me acabe la renta del mes que entra y no tenga qué vender —dijo—. Pero eso es problema del mes que entra.
 
-Y ahí, mi hermano, en la fiesta de la levantada de Axel, con el sol cayéndose detrás del cerro del río, se oyó una voz desde la puerta de la plaza, y era la de Fermín, que venía con su gente y con el perro y con las carretas ya cargadas para subir al norte.
+Y ahí, en la fiesta de la levantada de Axel, con el sol cayéndose detrás del cerro del río, se oyó una voz desde la puerta de la plaza, y era la de Fermín, que venía con su gente y con el perro y con las carretas ya cargadas para subir al norte.
 
 —¡Muchachos! —gritó—. Mañana al amanecer salimos, que el camino está roto y hay que arreglarlo antes de que caiga la otra nieve.
 
@@ -149,7 +149,7 @@ Ya estaba oscuro y el baile ya iba en la parte en que la gente canta y ya no bai
 
 Y se puso a leer. Leyó los encargos del verano. Leyó los sapos, y las coles, y el granero, y el invierno, y leyó las cosas tristes, que son las cosas que se leen con la voz más baja: los que no volvieron, que eran dos, y los que se mudaron, que eran once, y los que se murieron de viejos, que eran cuatro.
 
-Y luego leyó lo del Destructor. Y leyó los nombres de los que salieron esa mañana al campo: y éramos doscientos, y los leyó todos, uno por uno, y cada persona que oía su nombre se levantaba un poquito del banco, y los demás le daban en la espalda, y así, mi hermano, se pasó como una hora, y nadie se aburrió.
+Y luego leyó lo del Destructor. Y leyó los nombres de los que salieron esa mañana al campo: y éramos doscientos, y los leyó todos, uno por uno, y cada persona que oía su nombre se levantaba un poquito del banco, y los demás le daban en la espalda, y así se pasó como una hora, y nadie se aburrió.
 
 Y al final, Luna cerró el libro, y luego abrió la hoja de la cuadrilla, y la puso sobre la mesa, y todos vieron la raya en blanco.
 
@@ -173,7 +173,7 @@ Y ahí, desde la puerta, con el sombrero en la mano y con el perro al lado, habl
 
 —¿Me dejan decir una cosa? —dijo, y todos voltearon—. Nosotros venimos del camino. Y en el camino, a la gente que sale y que no vuelve, no se le dice nada, porque no se le puede decir nada. Y a la gente que sale y que vuelve, allá le decimos así, nada más: los que vuelven.
 
-Y el gremio se quedó callado, mi hermano.
+Y el gremio se quedó callado.
 
 —Este año —siguió Fermín—, a este pueblo se le acabó la sal, y le rompieron el camino, y le llegó un invierno que se llevó gente, y le vino caminando una casa con patas. Y aquí siguen todos. Y estos cuatro fueron y volvieron, y fueron y volvieron, y a la última volvieron con todos nosotros y con la mitad de la máquina encima. —Y levantó el sombrero—. Yo no sé cómo se llamen ustedes, muchachos. Pero en el camino del norte los llamamos los que vuelven.
 
@@ -207,19 +207,19 @@ El gremio se quedó quieto.
 
 —Los asuntos de la corona no tienen fiesta —dijo Sena, y leyó—: Hace cuatro días, durante el ataque del artefacto conocido como la Fortaleza Móvil, una piedra del tamaño de un puño fue teletransportada fuera del artefacto. Esa piedra cayó en el jardín de la mansión del gobernador Alderp, y la mansión se quemó por completo. No hubo muertos. Hubo, eso sí, un gobernador muy enojado.
 
-Y el gremio se quedó callado, mi hermano, y yo sentí que en la mesa, a mi lado, la señora Wiz se ponía blanca.
+Y el gremio se quedó callado, y yo sentí que en la mesa, a mi lado, la señora Wiz se ponía blanca.
 
 —¿Y a quién buscan? —preguntó Luna.
 
 —Al que dio la orden —dijo Sena, y levantó la cara, y me vio, y yo supe, en el instante en que me vio, que esa señora ya sabía mi nombre y mi apellido—. El teletransporte lo hizo una tercera persona, sí. Pero las declaraciones de esta mañana, tomadas a los vecinos de la puerta sur, dicen que fue el aventurero Jesús de Axel el que dio la orden de mandarla.
 
-Y yo, mi hermano, me quedé pensando en la única cosa en la que yo podía pensar en ese momento: que la piedra se había ido al azar, y que el azar, de todas las casas del mundo, de todos los desiertos y de todos los mares, le había pegado a la casa del único señor del reino al que le podía dar por levantar una acusación por eso.
+Y yo me quedé pensando en la única cosa en la que yo podía pensar en ese momento: que la piedra se había ido al azar, y que el azar, de todas las casas del mundo, de todos los desiertos y de todos los mares, le había pegado a la casa del único señor del reino al que le podía dar por levantar una acusación por eso.
 
 —¡Él salvó el pueblo! —gritó el señor barbón, levantándose.
 
 —Y eso no lo discuto —dijo Sena, sin subir la voz—. En la carpeta tengo dos cosas, señores: la lista de las casas que no se quemaron, y la lista de las que sí. En la primera está este pueblo entero. En la segunda está la casa de un gobernador de la corona. —Y me vio otra vez—. La ley de este reino no dice nada de las segundas, señor Jesús. Nada más de las primeras.
 
-Y ahí, mi hermano, se levantó la señora Wiz.
+Y ahí se levantó la señora Wiz.
 
 —Yo lo hice —dijo, con la voz temblando y con las dos manos en el broche del pecho—. Yo teletransporté la piedra. A mí me toca.
 
@@ -229,7 +229,7 @@ Y ahí, mi hermano, se levantó la señora Wiz.
 
 Y me paré.
 
-Me paré de la silla, con la pierna temblando y con el cuerpo todavía vacío, y me paré enfrente de la fiscal del rey, y detrás de mí, mi hermano, se levantó Darkness con la armadura puesta y con las dos manos sobre la mesa, y Megumin se levantó de su silla con la pierna entablillada y se quedó parada en un pie, y Aqua se levantó con la túnica limpia y con la cara del enojo, y los cuatro nos quedamos ahí, en el gremio, enfrente de la carpeta.
+Me paré de la silla, con la pierna temblando y con el cuerpo todavía vacío, y me paré enfrente de la fiscal del rey, y detrás de mí se levantó Darkness con la armadura puesta y con las dos manos sobre la mesa, y Megumin se levantó de su silla con la pierna entablillada y se quedó parada en un pie, y Aqua se levantó con la túnica limpia y con la cara del enojo, y los cuatro nos quedamos ahí, en el gremio, enfrente de la carpeta.
 
 —¿Quién es el acusado? —preguntó Sena.
 

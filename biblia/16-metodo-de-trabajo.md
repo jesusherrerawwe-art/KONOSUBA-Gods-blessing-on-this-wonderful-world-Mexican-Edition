@@ -110,6 +110,12 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
    3. **Pulir detalles y narración con apoyo de la biblia y del internet**, cotejando canon, nombres y continuidad. Puede tomar más tiempo; **se prefiere lento y seguro a rápido con errores** (palabras del autor).
 7. **Ningún nombre propio nuevo entra al texto sin cotejarse contra el canon** (personajes, lugares, títulos). Si el nombre es original, se marca como original en la bitácora, con quién es y de dónde salió. **Regla nacida del error «Mabel» (13 de octubre de 2026):** un nombre inventado se coló en el más allá del capítulo 1 y en dos capítulos más, y hubo que retirarlo. No se repite.
 
+**Regla 8 (nacida de la revisión de conjunto del 13 de octubre de 2026): las muletillas de la voz se auditan.**
+El narrador tiene tics que le dan carácter —«mi hermano», «ya lo saben», «de verdad»—, y esos tics, cuando se repiten seguido, dejan de dar carácter y se vuelven ruido. Al cerrar el Vol. 1 se contaron y se podaron: «mi hermano» pasó de 1 vez cada ~180 palabras (cap. 10) a 1 cada ~700, que es la densidad de los capítulos aprobados. **En cada cierre de volumen se cuentan los tics y se decide cuáles se quedan.** Los que se quedan son los que cargan emoción (la última línea de una escena, el momento en que alguien se muere); los que se van son los de relleno.
+
+**Regla 9 (13 de octubre de 2026): las palabras de México viven en la voz, no en el mundo.**
+Jesús es mexicano-japonés y su narración está llena de casa: «nomás», «mijo», «cancha», «órale», «el pasillo de un cine». Eso es él y se queda. Lo que **no** se hace es poner cosas de la Tierra en la boca de la gente de este mundo: aquí nadie toma tequila, nadie come tacos y nadie escucha radio, porque esos objetos no existen en este mundo. La prueba es simple: **¿lo dice el narrador comparando, o lo dice un personaje como si existiera?** Si es el narrador, adelante; si es un personaje de Axel, se cambia por lo que sí hay (aguardiente, pan, vino de las fiestas).
+
 ## Tablero del Volumen 1 (capítulos 1–10)
 
 | Cap. | Estado | Título | Nota |
@@ -123,9 +129,9 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 | 6 | 🟩 Aprobado | «El otro elegido» | 5,148 palabras · revisado y aprobado · el lago, Mitsurugi y el séptimo día |
 | 7 | 🟩 Aprobado | «La gente que sí va» | 5,005 palabras · revisado y aprobado por el autor · cierra el séptimo día |
 | 8 | 🟩 Aprobado | «No me dolió» | 5,499 palabras · revisado y aprobado por el autor · la muerte y el regreso, como el canon |
-| 9 | 🟨 Revisado | «El camino del norte» | 8,376 palabras · **revisado; pendiente de aprobación del autor** · entra Wiz; se descubre que el Destructor rompió el paso |
-| 10 | 🟨 Revisado | «El segundo trueno» | 8,971 palabras · **revisado; pendiente de aprobación del autor** · el Destructor; la defensa de Axel y el teletransporte del coronatita. **No se recortó** |
-| **Epílogo** | 🟨 Revisado | «Los que vuelven» | 3,281 palabras · **revisado; pendiente de aprobación del autor** · la levantada, el nombre de la cuadrilla y los caballeros del rey |
+| 9 | 🟨 Revisado | «El camino del norte» | 8,343 palabras · **revisado; pendiente de aprobación del autor** · entra Wiz; se descubre que el Destructor rompió el paso |
+| 10 | 🟨 Revisado | «El segundo trueno» | 8,889 palabras · **revisado; pendiente de aprobación del autor** · el Destructor; la defensa de Axel y el teletransporte del coronatita. **No se recortó** |
+| **Epílogo** | 🟨 Revisado | «Los que vuelven» | 3,257 palabras · **revisado; pendiente de aprobación del autor** · la levantada, el nombre de la cuadrilla y los caballeros del rey |
 
 **Leyenda:** ⬜ vacío · 🟨 en diseño · 🟦 en redacción o revisión (pendiente de aprobación) · 🟩 aprobado por el autor, cerrado o fijado
 
@@ -139,7 +145,7 @@ Es la red de seguridad del método. Vive en la sección 17 y se actualiza **desp
 
 **Capítulo 9 (12 de octubre de 2026):** escrito y revisado (ficha y texto entregados juntos, con las cuatro decisiones de diseño ya aprobadas por el autor); **pendiente de aprobación del autor.** **No se recortó:** se dejó largo, según la indicación del autor del 12 de octubre («si el capítulo se extiende de más, no lo recortes, déjalo así»).
 
-**Cierre del Volumen 1 (13 de octubre de 2026):** el autor pidió «terminemos con el Volumen I» y con eso se escribió **el capítulo 10 («El segundo trueno», 8,971 palabras)** y **el epílogo («Los que vuelven», 3,281 palabras)**, los dos con la dinámica de tres pasos (borrador completo, después pulido con biblia e internet) y los dos **revisados; pendientes de aprobación del autor**. Cuatro decisiones se tomaron con el autor ese día: los dos usos de Drenar del canon **más un tercero «de corazón»**; **Megumin se lastima de verdad** (la pierna, cicatriz del volumen y pendiente del Vol. 2); **la acusación de traición cae sobre Jesús**; y el epílogo **«todo junto»** (fiesta, nombre nuevo y caballeros). El nombre de la cuadrilla queda fijado en **«Los que vuelven»**, elegido por el autor. Con esto el volumen queda **completo en el papel**, a la espera de la aprobación del capítulo 9, del 10 y del epílogo.
+**Cierre del Volumen 1 (13 de octubre de 2026):** el autor pidió «terminemos con el Volumen I» y con eso se escribió **el capítulo 10 («El segundo trueno», 8,889 palabras)** y **el epílogo («Los que vuelven», 3,257 palabras)**, los dos con la dinámica de tres pasos (borrador completo, después pulido con biblia e internet) y los dos **revisados; pendientes de aprobación del autor**. Cuatro decisiones se tomaron con el autor ese día: los dos usos de Drenar del canon **más un tercero «de corazón»**; **Megumin se lastima de verdad** (la pierna, cicatriz del volumen y pendiente del Vol. 2); **la acusación de traición cae sobre Jesús**; y el epílogo **«todo junto»** (fiesta, nombre nuevo y caballeros). El nombre de la cuadrilla queda fijado en **«Los que vuelven»**, elegido por el autor. Con esto el volumen queda **completo en el papel**, a la espera de la aprobación del capítulo 9, del 10 y del epílogo.
 
 **Pendiente inmediato al cerrar el volumen:** la **revisión de conjunto del Vol. 1** (paso 5 del ciclo) sobre las doce piezas, ahora que el volumen ya se puede leer completo de corrido. La última se hizo el 12 de octubre sobre siete piezas.
 

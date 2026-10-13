@@ -1,7 +1,7 @@
 ﻿# Capítulo 9. El camino del norte
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 9. Extensión: 8,376 palabras. Estado: revisado; pendiente de aprobación del autor.
+Volumen 1, capítulo 9. Extensión: 8,343 palabras. Estado: revisado; pendiente de aprobación del autor.
 
 ---
 
@@ -104,7 +104,7 @@ Era blanca, de una blancura que no era la del frío, y tenía el pelo castaño, 
 
 —Ah.
 
-Y en eso, mi hermano, Aqua hizo lo que yo ya me temía: se levantó el dobladillo de la falda, agarró aire, y se puso entre la señora Wiz y yo como se pone alguien entre un perro y un niño.
+Y en eso, Aqua hizo lo que yo ya me temía: se levantó el dobladillo de la falda, agarró aire, y se puso entre la señora Wiz y yo como se pone alguien entre un perro y un niño.
 
 —Apártate, Jesús —dijo, con una voz que no le había oído nunca—. Esa cosa está muerta.
 
@@ -132,7 +132,7 @@ Yo la agarré a Aqua por la capa del cuello y la separé como se separa a dos ga
 
 —Nunca. —Y lo dijo con un orgullo chiquito, como se dice una cosa que a una le costó—. De lo que vivo es de lo que no vendo. Y no vendo casi nada. Por eso estoy flaca, ¿ve? —Wiz se levantó, se sacudió la falda, y empezó a acomodar los frascos de la repisa con una mano que le temblaba—. Perdón. Perdón. Perdón por todo.
 
-Y ahí, mi hermano, hizo algo que a mí me desarmó. Sacó tres vasos, los puso en el mostrador, echó agua de una jarra, y le puso azúcar. Azúcar, en invierno, con el azúcar por las nubes. Y nos lo dio.
+Y ahí hizo algo que a mí me desarmó. Sacó tres vasos, los puso en el mostrador, echó agua de una jarra, y le puso azúcar. Azúcar, en invierno, con el azúcar por las nubes. Y nos lo dio.
 
 —Tengo esto —dijo—. Perdón que no tengo otra cosa.
 
@@ -158,7 +158,7 @@ Y la señora Wiz se quedó callada un ratito, y luego dijo:
 
 Yo me quedé con esa frase, y no por bonita. Por otra cosa: porque yo, en dos vidas, nunca había pensado en el frío como una manera de estarse quieto. Para mí el frío siempre había sido una cosa que había que aguantar hasta que se fuera.
 
-Y luego, mi hermano, a Aqua se le ocurrió la pregunta.
+Y luego a Aqua se le ocurrió la pregunta.
 
 —Oye. Tú. Liche.
 
@@ -172,7 +172,7 @@ Silencio.
 
 —¿Y conociste al sin cabeza? Al Dullahan. —Aqua entrecerró los ojos—. Al que corta cabezas. Al que le puso la maldición a mi amiga.
 
-Y mi hermano, la señora Wiz se rio. Toda la tienda se puso tibia de golpe. Se rio bajito, con la mano en la boca, y dijo:
+Y la señora Wiz se rio. Toda la tienda se puso tibia de golpe. Se rio bajito, con la mano en la boca, y dijo:
 
 —¿Beldia? Beldia no le pone maldiciones a nadie, mija. Beldia le pone maldiciones a las cosas que no se cierran. —Y luego—: ¿Ya pasó por aquí, verdad?
 
@@ -232,7 +232,7 @@ Y entonces la señora Wiz agarró y cerró la puerta de la tienda, le puso el pa
 
 Yo quise.
 
-Y ahí, mi hermano, aprendí la única magia que he aprendido en dos vidas.
+Y ahí aprendí la única magia que he aprendido en dos vidas.
 
 Se llama de una manera espantosa. La señora Wiz me lo dijo con todo el cariño con el que un maestro de la primaria te dice que la tarea viene en el cuaderno azul: se llama Drenar, y es, me explicó, la magia de los que están muertos: agarrar la fuerza de alguien, por la mano, y pasársela a otra persona. Ella la usa para curar a la gente: les saca la fiebre y se la pasa a un perro, o a un árbol, o a la nieve; y en el invierno, dijo, va una vez por semana al cementerio a darle de comer a las raíces.
 
@@ -240,7 +240,7 @@ Se llama de una manera espantosa. La señora Wiz me lo dijo con todo el cariño 
 
 Yo estuve tres cuartos de hora agarrado de su mano, como un niño que va cruzando la calle. No pasó nada mágico, por si se están preguntando. Pasó algo peor: se me empezó a sentir el pecho, así como cuando uno va al mar y el mar lo empuja un poquito por dentro. Y luego se me puso tibia la carta de aventurero en el bolsillo, que es donde el gremio guarda, no sé cómo, lo que uno sabe hacer.
 
-Y entonces, mi hermano, para practicar, la señora Wiz nos hizo una cosa que yo todavía no puedo creer: nos puso en fila a los cuatro, ahí en la tienda vacía, y nos hizo agarrarnos de las manos.
+Y entonces, para practicar, la señora Wiz nos hizo una cosa que yo todavía no puedo creer: nos puso en fila a los cuatro, ahí en la tienda vacía, y nos hizo agarrarnos de las manos.
 
 —El cuerpo tiene magia —dijo—. Y la magia del cuerpo quiere moverse. Si se le pones una orilla, se va por ahí. Ahora, niño: aprieta, cierra los ojos, y siente quién tiene más.
 
@@ -280,7 +280,7 @@ Y luego me la pasó a Darkness, porque ahí es donde estaba el problema: cuando 
 
 —Sobre todo el dolor —dijo Wiz—. El dolor se pasa más fácil que nada.
 
-Y mi hermano, a partir de esa frase la señora cruzada no volvió a ser la misma. Porque imagínense: una mujer que lleva toda la vida aguantando golpes por gusto, y de repente le dicen que los golpes se pueden repartir. Se le iluminó la cara como a un niño en la feria. Me agarró la mano, me la apretó, y dijo:
+Y a partir de esa frase la señora cruzada no volvió a ser la misma. Porque imagínense: una mujer que lleva toda la vida aguantando golpes por gusto, y de repente le dicen que los golpes se pueden repartir. Se le iluminó la cara como a un niño en la feria. Me agarró la mano, me la apretó, y dijo:
 
 —Otra vez.
 
@@ -342,7 +342,7 @@ Era la señora del pan. La de los gemelos.
 
 Así que la bolsa de la señora del pan llevaba pan para nosotros y una carta para su hermana, que era, me dijo, la cocinera de la venta del camino, ese mesón que hay a la mitad del paso, el último techo antes de la nieve.
 
-Y con eso, mi hermano, a las dos horas de camino ya teníamos un encargo más y nadie lo había firmado.
+Y con eso, a las dos horas de camino ya teníamos un encargo más y nadie lo había firmado.
 
 Caminamos todo el día. El mundo se hizo blanco y luego se hizo sordo. Ya saben cómo es: uno va caminando, el paisaje no cambia, y de repente ya no sabe uno si lleva una hora o cuatro; el frío se mete por las mangas y el aire sabe a metal. Darkness iba adelante abriendo el paso, con la espada de la costura nueva al hombro, y se le veía tan feliz que Aqua le preguntó si estaba bien, y ella dijo:
 
@@ -396,7 +396,7 @@ Y Megumin, que ya no estaba colgada de mi espalda, se paró junto a mí y me aga
 
 —Está el humo.
 
-Y sí: había humo. Una columna delgadita saliendo de atrás de la pared que quedaba, derechita, del color de la leche, y el humo, ya lo saben, quiere decir que hay alguien.
+Y sí: había humo. Una columna delgadita saliendo de atrás de la pared que quedaba, derechita, del color de la leche, y el humo quiere decir que hay alguien.
 
 Y ahí adentro, en lo que quedaba del mesón, en un cuartito con el techo a medias y una fogata chiquita, estaban los del norte.
 
@@ -428,7 +428,7 @@ Y todos, incluido yo, volteamos a ver a Megumin.
 
 —La del cerro —dijo Elvira—. La del verano. Dicen en el camino que una muchacha de Axel tiró un cerro abajo con un solo trueno, y que se oye desde tres pueblos.
 
-Y yo nunca vi a Megumin ponerse tan derecha, mi hermano. Nunca.
+Y yo nunca vi a Megumin ponerse tan derecha. Nunca.
 
 —Efectivamente —dijo—. Esa soy yo.
 
@@ -462,7 +462,7 @@ Estaba a treinta pasos de la venta, y era un hoyo redondo, hondo, de esos que un
 
 —Pisó aquí —dijo Fermín—. Y aquí. —Y caminó diez pasos y señaló otro—. Y aquí.
 
-Los hoyos subían a la loma. Yo levanté la cara y los seguí con la vista, y la vista, mi hermano, la vista se me fue hasta arriba de la loma y del otro lado, y ahí ya no se veía nada, porque estaba el bosque y estaba la nieve.
+Los hoyos subían a la loma. Yo levanté la cara y los seguí con la vista, y la vista, la vista se me fue hasta arriba de la loma y del otro lado, y ahí ya no se veía nada, porque estaba el bosque y estaba la nieve.
 
 —¿Y qué era? —pregunté.
 
@@ -472,7 +472,7 @@ Los hoyos subían a la loma. Yo levanté la cara y los seguí con la vista, y la
 
 —Porque los animales dejan huella —dijo—. Y esto dejaba huella y también dejaba... —buscó la palabra— ...intención. Caminaba derechito. Los animales no caminan derechito.
 
-Y ahí, mi hermano, la muchacha que se llamaba Elvira se metió en la plática, y dijo la cosa que se me quedó pegada.
+Y ahí, la muchacha que se llamaba Elvira se metió en la plática, y dijo la cosa que se me quedó pegada.
 
 —Yo lo vi.
 
@@ -536,9 +536,9 @@ El camino estaba roto. La zanja tenía el ancho de una carreta y el fondo de dos
 
 La señora Wiz y Aqua se pusieron a trabajar toda la tarde del segundo día y toda la mañana del tercero. Wiz hacía el hielo y Aqua lo purificaba de la nieve mala y lo volvía brillante, y las dos juntas levantaron, de un lado al otro de la zanja, un puente de hielo del ancho de la carreta. Yo no sabía que el hielo se pudiera hacer así: salía del suelo como si el suelo se estuviera helando para adentro y luego creciendo. Darkness acarreó las losas que se podían cargar y las puso de barandal. Megumin no tiró nada, porque una explosión no pega en un puente: lo rompe.
 
-Y los carreteros, mi hermano, los carreteros vieron todo eso y se pusieron a hacer lo suyo, que era su trabajo: amarrar, asegurar, contar. Fermín los puso en fila y empezó a pasar las carretas por el hielo, una por una, con los bueyes, con los niños arriba, con la mujer de Tomás rezando bajito, y con el perro ladrándole al hielo, porque los perros no entienden los puentes.
+Y los carreteros, los carreteros vieron todo eso y se pusieron a hacer lo suyo, que era su trabajo: amarrar, asegurar, contar. Fermín los puso en fila y empezó a pasar las carretas por el hielo, una por una, con los bueyes, con los niños arriba, con la mujer de Tomás rezando bajito, y con el perro ladrándole al hielo, porque los perros no entienden los puentes.
 
-Y a la mitad del paso, mi hermano, yo hice lo que sé hacer.
+Y a la mitad del paso, yo hice lo que sé hacer.
 
 Yo agarré la mano de Tomás, el que se hacía el fuerte con la herida, y le pasé la fiebre, y me la llevé yo, y la traje conmigo un rato como se trae una piedra en el zapato, hasta que la señora Wiz me agarró el brazo y me sacó la mitad y la tiró a la nieve, y la nieve silbó.
 
@@ -564,7 +564,7 @@ Cuando ya venían las carretas por el puente, la muchacha del norte, Elvira, se 
 
 —¿Y cómo le hiciste para tirar un cerro entero?
 
-Y Megumin, mi hermano, la muchacha que no tiene nada en el mundo más que un bastón, un sombrero y una magia que la deja tirada, la vio de arriba abajo, y le dijo, con la voz que usa cuando es feliz:
+Y Megumin, la muchacha que no tiene nada en el mundo más que un bastón, un sombrero y una magia que la deja tirada, la vio de arriba abajo, y le dijo, con la voz que usa cuando es feliz:
 
 —Le pedí permiso.
 
@@ -608,7 +608,7 @@ Después les digo por qué.
 
 ---
 
-Entramos a Axel al atardecer del tercer día, con las carretas de luces prendidas, y mi hermano, cuando la guardia de la muralla vio las carretas, tocó la campana de la puerta.
+Entramos a Axel al atardecer del tercer día, con las carretas de luces prendidas, y cuando la guardia de la muralla vio las carretas, tocó la campana de la puerta.
 
 No era la campana de alarma. Es la campana de las buenas noticias: la campana del gremio, que se toca cuando vuelve alguien que se daba por perdido.
 

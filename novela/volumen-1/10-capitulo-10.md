@@ -1,7 +1,7 @@
 ﻿# Capítulo 10. El segundo trueno
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 10. Extensión: 8,971 palabras. Estado: revisado; pendiente de aprobación del autor.
+Volumen 1, capítulo 10. Extensión: 8,889 palabras. Estado: revisado; pendiente de aprobación del autor.
 
 ---
 
@@ -19,7 +19,7 @@ Cuando yo llegué, con el suéter gris y con el frío metido en los huesos, la p
 
 —Por un grano no, pero por el grano de todos, sí.
 
-Y ahí, en medio del ruido, mi hermano, yo me quedé parado en la puerta, con la mano en el marco, y me di cuenta de que estaba temblando. No de miedo. Bueno, sí, de miedo, pero de otro miedo. Estaba temblando de rabia, y la rabia, ya lo saben, es la cosa que a mí no me sale nunca.
+Y ahí, en medio del ruido, yo me quedé parado en la puerta, con la mano en el marco, y me di cuenta de que estaba temblando. No de miedo. Bueno, sí, de miedo, pero de otro miedo. Estaba temblando de rabia, y la rabia es la cosa que a mí no me sale nunca.
 
 Porque enfrente de mí estaba todo lo que yo había aprendido a querer en un mes y medio: el plano, la lámpara del techo, el banco donde me senté el primer día, la mesa del señor barbón, la silla de la esquina donde Luna se sienta a llenar papeles. Y a la puerta del norte, a dos días de camino, venía caminando una casa con patas que se come los pueblos.
 
@@ -39,7 +39,7 @@ Y ahí me salió, sin que yo lo pensara, lo que traía en el estómago desde el 
 
 —No. Pero es la mitad.
 
-Y ahí, mi hermano, me subí al banco.
+Y ahí me subí al banco.
 
 Yo no sé hablar enfrente de la gente. En mi otra vida le hablaba a una barda y a un gato, y a la barda y al gato les daba igual. Pero esa noche me subí al banco, le pedí a la señora del pan que me prestara el palo de la harina, y golpeé la mesa tres veces, y el gremio se calló, que es algo que yo creía imposible.
 
@@ -55,7 +55,7 @@ Y ahí, desde atrás, alguien gritó:
 
 —Porque yo llegué sin nada —le dije—. Y yo sé lo que es que a uno le quemen lo poquito que tiene.
 
-Y el gremio se quedó callado, mi hermano, y en el silencio se oyó a lo lejos el ruido de molino. Flojo, todavía, como el rezongo de un señor dormido. Y con ese ruido de fondo habló la señora Wiz.
+Y el gremio se quedó callado, y en el silencio se oyó a lo lejos el ruido de molino. Flojo, todavía, como el rezongo de un señor dormido. Y con ese ruido de fondo habló la señora Wiz.
 
 Estaba de pie junto a la mesa del fondo, con la capucha puesta y las manos juntas, y habló con la vocecita que usa para todo, pero habló hasta el último rincón.
 
@@ -71,7 +71,7 @@ Y en el fondo del gremio, arriba de un banco, con la capa al aire y los brazos a
 
 —¡Detalle menor!
 
-Y ahí se rio el gremio entero, y el gremio, mi hermano, cuando se ríe, es porque ya decidió. Yo lo aprendí esa noche: las decisiones de este pueblo no se toman en el momento en que uno propone, ni en el momento en que la gente dice que sí. Se toman cuando la gente se ríe con la panza, y luego cada quien se levanta y se va a hacer su parte.
+Y ahí se rio el gremio entero, y el gremio, cuando se ríe, es porque ya decidió. Yo lo aprendí esa noche: las decisiones de este pueblo no se toman en el momento en que uno propone, ni en el momento en que la gente dice que sí. Se toman cuando la gente se ríe con la panza, y luego cada quien se levanta y se va a hacer su parte.
 
 Y cada quien se levantó y se fue a hacer su parte.
 
@@ -125,7 +125,7 @@ Y el pueblo se vació y no se vació. Se fue la última carreta el segundo día,
 
 —Padre, usted se va con los que se están muriendo. Aquí ya estamos los que nos queremos morir.
 
-Y doña Hilda se quedó. Y el capitán de la guardia se quedó. Y el señor barbón se quedó, con su jarra vacía, diciendo que a él lo único que lo había tumbado en la vida era el tequila y no una casa. Y la señora del pan se quedó, con las manos metidas en la harina. Y la vecina del abrigo se quedó, con las llaves del mostrador colgadas del cinto. Y yo me quedé, mi hermano, con el suéter gris del codo roto y con una cosa en la garganta que no me dejaba ni tragar.
+Y doña Hilda se quedó. Y el capitán de la guardia se quedó. Y el señor barbón se quedó, con su jarra vacía, diciendo que a él lo único que lo había tumbado en la vida era el aguardiente y no una casa. Y la señora del pan se quedó, con las manos metidas en la harina. Y la vecina del abrigo se quedó, con las llaves del mostrador colgadas del cinto. Y yo me quedé, con el suéter gris del codo roto y con una cosa en la garganta que no me dejaba ni tragar.
 
 Y la señora Wiz se quedó.
 
@@ -157,7 +157,7 @@ Y luego dijo:
 
 —Con él. —Y señaló con la barbilla el norte, por encima de las repisas—. Es de la casa. Fue de mi ejército. Va caminando desde antes de que yo naciera y va a caminar después de mí, y hoy viene a pisar mi pueblo, y yo le voy a arrancar una pata. —Y se le puso la voz dura, y se le puso dura de verdad—. Dos.
 
-Yo me quedé viendo a la liche que da azúcar a los desconocidos, parada en medio de sus ciento sesenta y una cosas. Y pensé, mi hermano, que hay gente que uno conoce y que uno cree conocer, y que de repente voltean la cara y uno entiende que esa persona, cuando era joven, era de las que hacían temblar el piso.
+Yo me quedé viendo a la liche que da azúcar a los desconocidos, parada en medio de sus ciento sesenta y una cosas. Y pensé que hay gente que uno conoce y que uno cree conocer, y que de repente voltean la cara y uno entiende que esa persona, cuando era joven, era de las que hacían temblar el piso.
 
 —Wiz.
 
@@ -205,7 +205,7 @@ Y ahí se quedó callada un rato, y luego dijo, sin verme:
 
 —Vamos —dijo, y se fue.
 
-Y ya no me acuerdo de haberme dormido, mi hermano. Me acuerdo de una cosa: de que en el piso se quedaron las dos tazas, y de que la lámpara se quedó prendida, y de que afuera, del lado del norte, el ruido de molino se oía más fuerte que nunca.
+Y ya no me acuerdo de haberme dormido. Me acuerdo de una cosa: de que en el piso se quedaron las dos tazas, y de que la lámpara se quedó prendida, y de que afuera, del lado del norte, el ruido de molino se oía más fuerte que nunca.
 
 ---
 
@@ -213,15 +213,15 @@ Llegó al amanecer.
 
 Yo estaba arriba de la muralla, en la puerta del norte, con el señor barbón a un lado y con el capitán de la guardia al otro, y lo vi venir por el camino real.
 
-Salía del bosque, y por eso tarda uno en entender el tamaño. Primero piensa que es una torre. Luego piensa que son dos. Luego ve las patas, y las patas, mi hermano, las patas son lo peor: son ocho, y son largas, y no son de hueso ni de carne, son de piedra labrada con remaches de hierro, y cada vez que una baja, la tierra hace el ruido ese, el de molino, porque la está moliendo.
+Salía del bosque, y por eso tarda uno en entender el tamaño. Primero piensa que es una torre. Luego piensa que son dos. Luego ve las patas, y las patas, las patas son lo peor: son ocho, y son largas, y no son de hueso ni de carne, son de piedra labrada con remaches de hierro, y cada vez que una baja, la tierra hace el ruido ese, el de molino, porque la está moliendo.
 
-Y arriba de las patas, como a la mitad del cielo, tiene la casa. Es una casa horrible, con torres y con almenas y con parches, y con cosas de hierro que le salen por los costados. Y en la parte de adelante tiene los ojos. Muchos ojos chiquitos, todos quietos, y yo levanté la cara, y juro por mi madre, mi hermano, que sentí que me estaban viendo a mí y a nadie más.
+Y arriba de las patas, como a la mitad del cielo, tiene la casa. Es una casa horrible, con torres y con almenas y con parches, y con cosas de hierro que le salen por los costados. Y en la parte de adelante tiene los ojos. Muchos ojos chiquitos, todos quietos, y yo levanté la cara, y juro por mi madre, que sentí que me estaban viendo a mí y a nadie más.
 
 Y a un lado, en el campo, esperando, estaba toda la gente que se había quedado. Con las ollas y las carretas y las horquillas y las hachas. Y arriba de la muralla, junto a la gente, estaba Aqua, con la capa puesta, y estaba Wiz con la capucha, y abajo, en el campo, con el bastón clavado en la tierra y con el sombrero negro, estaba Megumin.
 
 Yo bajé corriendo las escaleras, porque me tocaba una cosa que nadie había querido y que yo había pedido: yo era la última voz antes de que se empezara. Un paso de cada lado de la puerta, y yo en medio, y las doscientas personas que se quedaron viéndome a mí.
 
-Y yo, mi hermano, les dije lo único que se me ocurrió, que fue lo siguiente:
+Y yo, les dije lo único que se me ocurrió, que fue lo siguiente:
 
 —Si sale mal, salimos corriendo. Correr no es vergüenza. Estar aquí, tampoco.
 
@@ -231,13 +231,13 @@ Y el señor barbón gritó:
 
 —Si sale bien —dije—, hoy en la noche cenamos.
 
-Y el pueblo se rio con la panza, y esa risa, ya lo saben, es la que decide las cosas. Y yo di la señal con la mano, y arriba de la muralla, Aqua se subió a las almenas, y con la capa al aire, apuntando con las dos manos a la fortaleza, se puso a gritar como muy poca gente grita en este mundo.
+Y el pueblo se rio con la panza, y esa risa es la que decide las cosas. Y yo di la señal con la mano, y arriba de la muralla, Aqua se subió a las almenas, y con la capa al aire, apuntando con las dos manos a la fortaleza, se puso a gritar como muy poca gente grita en este mundo.
 
 Y su voz se oyó hasta el otro lado del campo.
 
 —¡Ruptura!
 
-Y pasó una cosa, mi hermano, que no le voy a poder explicar nunca. En el aire, encima de la fortaleza, apareció una cosa como una gota de agua del tamaño de una casa. Y luego se agrietó, como se agrieta el vidrio cuando le da el sol de lleno, y las grietas fueron corriendo hacia los lados, derechitas, y de las grietas salía luz. Y toda la fortaleza se sacudió. Y las grietas siguieron, y siguieron, y siguieron hasta el suelo. Y cuando la última llegó al suelo, la piel de esa cosa se cayó al campo en pedazos de luz que se apagaron antes de tocar la nieve.
+Y pasó una cosa, que no le voy a poder explicar nunca. En el aire, encima de la fortaleza, apareció una cosa como una gota de agua del tamaño de una casa. Y luego se agrietó, como se agrieta el vidrio cuando le da el sol de lleno, y las grietas fueron corriendo hacia los lados, derechitas, y de las grietas salía luz. Y toda la fortaleza se sacudió. Y las grietas siguieron, y siguieron, y siguieron hasta el suelo. Y cuando la última llegó al suelo, la piel de esa cosa se cayó al campo en pedazos de luz que se apagaron antes de tocar la nieve.
 
 Y arriba de la muralla, Aqua se dio la vuelta, con los brazos abiertos, buscando los aplausos. Y cayó de sentón detrás de las almenas.
 
@@ -261,9 +261,9 @@ Y antes de que el trueno se acabara de ir, cuando el humo todavía se estaba lev
 
 Y la otra mitad del campo se puso blanca.
 
-Cuando el humo se fue, mi hermano, la fortaleza ya no estaba caminando. Tenía dos patas de adelante hechas trizas y una en el aire, doblada, y estaba de rodillas en el campo, inclinada hacia el lado del río, con una torre caída y con un chorro de humo negro saliéndole del lomo, como cuando a un animal muy grande le sale el aire por una herida.
+Cuando el humo se fue, la fortaleza ya no estaba caminando. Tenía dos patas de adelante hechas trizas y una en el aire, doblada, y estaba de rodillas en el campo, inclinada hacia el lado del río, con una torre caída y con un chorro de humo negro saliéndole del lomo, como cuando a un animal muy grande le sale el aire por una herida.
 
-Y el pueblo, mi hermano, gritó. Gritó como grita la gente cuando se salva: con las manos arriba, con las gorras al aire, con las mujeres abrazándose y con los hombres agarrando las horquillas por el puro gusto de agarrar algo.
+Y el pueblo gritó. Gritó como grita la gente cuando se salva: con las manos arriba, con las gorras al aire, con las mujeres abrazándose y con los hombres agarrando las horquillas por el puro gusto de agarrar algo.
 
 Y yo bajé corriendo al campo, y llegué adonde estaba Megumin, y la levanté del suelo, porque la explosión la había dejado tirada y todavía no movía las piernas.
 
@@ -275,7 +275,7 @@ Y yo bajé corriendo al campo, y llegué adonde estaba Megumin, y la levanté de
 
 —Te vi, mi amor.
 
-Y ahí, mi hermano, mientras yo la levantaba, la fortaleza habló.
+Y ahí, mientras yo la levantaba, la fortaleza habló.
 
 No con la voz de nadie: con una voz de lata, derechita, tranquila, como la voz de un señor leyendo una lista que no le importa. Una voz que salió de todos los agujeros de la máquina al mismo tiempo, en el idioma de aquí, que es un idioma que la máquina aprendió en algún lado y que decía, en medio del campo, delante de todo el pueblo:
 
@@ -283,9 +283,9 @@ No con la voz de nadie: con una voz de lata, derechita, tranquila, como la voz d
 
 Cuarenta minutos.
 
-Y yo, mi hermano, que en la vida había tenido reloj, entendí nada más una cosa: que esa máquina ya había empezado a contar, y que contaba rápido. Se me hizo un nudo en la panza, y todo el campo se quedó quieto, y arriba de la muralla la gente se empezó a mover de una manera que no me gustó, que es la manera en que se mueve la gente cuando se acuerda de que tiene hijos.
+Y yo, que en la vida había tenido reloj, entendí nada más una cosa: que esa máquina ya había empezado a contar, y que contaba rápido. Se me hizo un nudo en la panza, y todo el campo se quedó quieto, y arriba de la muralla la gente se empezó a mover de una manera que no me gustó, que es la manera en que se mueve la gente cuando se acuerda de que tiene hijos.
 
-Y en medio de todo eso, mi hermano, la fortaleza se volvió a mover.
+Y en medio de todo eso, la fortaleza se volvió a mover.
 
 No caminó. Se arrastró. Con la pata que le quedaba en el aire, y con las otras, se agarró del suelo y se dio un tirón hacia adelante, y todo el campo se sacudió, y el ruido de molino sonó como si el mundo estuviera masticando.
 
@@ -301,7 +301,7 @@ Y la que contestó fue Wiz, que había bajado de la muralla corriendo y venía c
 
 —Se va a caer al río. Y el río es el agua de todos.
 
-Y ahí, mi hermano, en el campo, con el pueblo mirándonos y con la máquina arrastrándose hacia la muralla, se hizo el silencio más largo de mi vida. Silencio de un segundo, pero largo como un día.
+Y ahí, en el campo, con el pueblo mirándonos y con la máquina arrastrándose hacia la muralla, se hizo el silencio más largo de mi vida. Silencio de un segundo, pero largo como un día.
 
 Y en ese silencio, alguien pasó corriendo a mi lado.
 
@@ -313,13 +313,13 @@ Y me volteó a ver un segundo, nada más un segundo, y me gritó, con la cara de
 
 —¡A detenerla!
 
-Y yo, mi hermano, me quedé viendo a la señora cruzada corriendo sola hacia una fortaleza de piedra, y pensé dos cosas al mismo tiempo. La primera fue: esa mujer se va a morir. La segunda fue: esa mujer no se va a morir, porque nunca se muere.
+Y yo me quedé viendo a la señora cruzada corriendo sola hacia una fortaleza de piedra, y pensé dos cosas al mismo tiempo. La primera fue: esa mujer se va a morir. La segunda fue: esa mujer no se va a morir, porque nunca se muere.
 
 Y luego, del otro lado, oí la voz del señor barbón, que ya venía corriendo con dos hachas y con la panza:
 
 —¡Muchachos! ¡La cruzada va a detenerla! ¡Vamos todos!
 
-Y ahí, mi hermano, pasó la cosa más de este pueblo que yo he visto en mi vida. El pueblo entero creyó que Darkness iba a detener la máquina. Y el pueblo entero, que se había quedado a pelear por su casa, que había cavado fosos, que había horneado pan, agarró sus horquillas y sus hachas y sus ollas y salió corriendo detrás de ella, gritando, hacia la fortaleza.
+Y ahí, pasó la cosa más de este pueblo que yo he visto en mi vida. El pueblo entero creyó que Darkness iba a detener la máquina. Y el pueblo entero, que se había quedado a pelear por su casa, que había cavado fosos, que había horneado pan, agarró sus horquillas y sus hachas y sus ollas y salió corriendo detrás de ella, gritando, hacia la fortaleza.
 
 Y yo entendí, en ese mismo instante, que se me había acabado el tiempo de pensar.
 
@@ -351,7 +351,7 @@ La máquina tenía guardias: unas cosas de barro y de piedra, como muñecos del 
 
 —¡Muchacho! —me gritó, cuando me vio pasar—. ¡Estas cosas pesan mucho y no saben pelear! ¡Sigue, sigue, nosotros aguantamos!
 
-Y yo seguí, mi hermano, con mi compañera a la espalda, por los pasillos de la casa con patas.
+Y yo seguí, con mi compañera a la espalda, por los pasillos de la casa con patas.
 
 Y en el pasillo, con la boca pegada a mi oreja, me habló Megumin.
 
@@ -379,7 +379,7 @@ Y en el cuarto de mando estaba él.
 
 Estaba sentado en una silla de ruedas de metal, con los brazos en la mesa, con la cabeza inclinada y con la cara pegada a un cuaderno abierto. Tenía un abrigo blanco, de los de doctor, desteñido, y las gafas todavía puestas, y todo lo que quedaba de él era un señor flaco, chiquito, muerto hace muchísimos años, tan seco que daba la impresión de que si uno le hablaba iba a contestar.
 
-Y en eso, mi hermano, me di cuenta de otra cosa. Me di cuenta de que ese señor, en su otra vida y en otro mundo, había sido japonés.
+Y en eso, me di cuenta de otra cosa. Me di cuenta de que ese señor, en su otra vida y en otro mundo, había sido japonés.
 
 Y no lo supe por la cara. Lo supe por la letra.
 
@@ -399,7 +399,7 @@ Estaba escrito con una letra chiquita y corrida, una letra de alguien a quien ya
 
 «Si alguien está leyendo esto: no sé quién seas. Si eres de allá, escríbeme algo. Nada más para saber que no soy el único.»
 
-Y yo, mi hermano, con la máquina temblando y con el pueblo entero peleando allá abajo, abrí el cajón de la mesa, encontré un lápiz, y en el último renglón, debajo de su letra, escribí la única cosa que se me ocurrió, que fue esta:
+Y yo, con la máquina temblando y con el pueblo entero peleando allá abajo, abrí el cajón de la mesa, encontré un lápiz, y en el último renglón, debajo de su letra, escribí la única cosa que se me ocurrió, que fue esta:
 
 «No eres el único.»
 
@@ -413,7 +413,7 @@ Y ahí, en la puerta del cuarto de mando, con la máquina ardiendo por dentro, A
 
 —Porque estaba avergonzado —dijo Aqua.
 
-Y yo no supe qué decir, mi hermano. Y ella tampoco, porque los dos, cada uno a su manera, sabíamos de qué estaba hablando.
+Y yo no supe qué decir Y ella tampoco, porque los dos, cada uno a su manera, sabíamos de qué estaba hablando.
 
 El cuaderno lo leí completo tres días después, en mi cuarto, con la lámpara prendida. Lo cuento cortito, porque así lo escribió él, y porque hay cosas que no se pueden contar de otra manera.
 
@@ -437,7 +437,7 @@ Lo que buscábamos estaba tres pasillos más adelante, y lo encontramos porque b
 
 Era una piedra.
 
-Una piedra del tamaño de un puño, metida dentro de un aro de hierro, colgada en medio de un cuarto redondo lleno de caños y de cables. Y la piedra, mi hermano, estaba prendida: brillaba como brilla el carbón cuando ya no tiene llama, un anaranjado bajito, y de la piedra salía el calor de toda la máquina, y por eso el cuarto estaba a una temperatura que a mí me empezó a doler la cara.
+Una piedra del tamaño de un puño, metida dentro de un aro de hierro, colgada en medio de un cuarto redondo lleno de caños y de cables. Y la piedra, estaba prendida: brillaba como brilla el carbón cuando ya no tiene llama, un anaranjado bajito, y de la piedra salía el calor de toda la máquina, y por eso el cuarto estaba a una temperatura que a mí me empezó a doler la cara.
 
 Y en eso, arriba, en el techo, la voz de lata dijo:
 
@@ -459,13 +459,13 @@ Y Wiz me vio, y entendió lo que yo estaba diciendo, y se le puso una cara que y
 
 —Al azar. —Y me vio—. Puede caer en el mar. Puede caer en un desierto. Puede caer encima de la casa de alguien.
 
-Y ahí, mi hermano, con el calor pegándome en la cara y con el zumbido metido en los dientes, yo tomé una decisión que me ha costado dormir, y que voy a contar aquí tal como la tomé, sin adornarla:
+Y ahí, con el calor pegándome en la cara y con el zumbido metido en los dientes, yo tomé una decisión que me ha costado dormir, y que voy a contar aquí tal como la tomé, sin adornarla:
 
 —Mándala —dije—. Mándala ya.
 
 —No puedo sola. —Y Wiz levantó las manos, y las manos le temblaban—. Me queda magia para mandarla, pero no me queda magia para el camino. Necesito que alguien me dé.
 
-Y ahí, mi hermano, lo entendí todo. Entendí para qué había ido yo a su tienda. Entendí para qué la señora Wiz, que da azúcar a los desconocidos, me había enseñado, en tres cuartos de hora, la única magia que yo iba a usar en mi vida.
+Y ahí lo entendí todo. Entendí para qué había ido yo a su tienda. Entendí para qué la señora Wiz, que da azúcar a los desconocidos, me había enseñado, en tres cuartos de hora, la única magia que yo iba a usar en mi vida.
 
 Y le puse la mano en la mano.
 
@@ -496,7 +496,7 @@ Salimos con el pueblo.
 
 Yo salí cargando a Megumin otra vez, con las piernas temblando y con la cabeza liviana, y Aqua me agarró del brazo para que no me cayera, y Wiz nos fue abriendo camino con la mano, tirando puertas de hierro que se caían solas del calor. Detrás de nosotros venía el señor barbón con las hachas, y venían los muchachos del gremio, y venía Darkness con dos heridos encima de los hombros, y venía gente que yo no conocía, y todos salimos al campo, a la nieve, al aire, al frío del demonio.
 
-Y el frío, mi hermano, en ese momento fue lo mejor que me ha pasado en la vida.
+Y el frío en ese momento fue lo mejor que me ha pasado en la vida.
 
 El pueblo se estaba alejando de la muralla: las carretas, las mujeres, los que se habían quedado, todos corriendo hacia el sur, y las carretas ya eran puntitos, y arriba de la muralla se veían las lanzas de la guardia, chiquitas.
 
@@ -510,7 +510,7 @@ No como un incendio. Como una cosa que se está calentando por dentro, como una 
 
 —El pueblo no corre más rápido que eso.
 
-Y ahí, mi hermano, se acabaron las ideas de todos.
+Y ahí se acabaron las ideas de todos.
 
 El capitán de la guardia dijo que había que sacar a la gente por la puerta del sur. La señora del pan dijo que había que subirla al cerro. Wiz dijo que no alcanzaba el tiempo. Y en eso, desde la nieve, desde el piso, con la voz cansada de alguien que ya tiró su trueno del día, habló mi archimaga.
 
@@ -520,7 +520,7 @@ El capitán de la guardia dijo que había que sacar a la gente por la puerta del
 
 —Ya sé que no tengo nada. —Se sentó ahí mismo, con las piernas cruzadas, como si estuviéramos en la posada—. Por eso lo digo.
 
-Y entonces, mi hermano, yo me paré.
+Y entonces yo me paré.
 
 Me paré en la nieve, con la mano todavía temblando del drenado de Wiz, y dije la cosa que me había estado dando vueltas en la cabeza desde el pasillo, desde el cuaderno, desde el campo.
 
@@ -530,7 +530,7 @@ Y todos voltearon a verme.
 
 —Yo sé pasar magia —dije—. Me lo enseñó la señora Wiz. Yo agarro lo que una persona tiene y se lo paso a otra. —Y me volteé a ver a Aqua—. Necesito tu río.
 
-Y Aqua, mi hermano, que había estado callada todo el camino, se quedó viendo el suelo, y luego levantó la cara, y tenía la cara de una persona que sabe exactamente qué le están pidiendo.
+Y Aqua, que había estado callada todo el camino, se quedó viendo el suelo, y luego levantó la cara, y tenía la cara de una persona que sabe exactamente qué le están pidiendo.
 
 —Ya me sacaste una vez —dijo.
 
@@ -558,7 +558,7 @@ Yo no sé cómo se cuenta esto, mi hermano. Le saqué el río entero. Le saqué 
 
 Y yo tenía la magia de una diosa en la mano, hirviendo, y me volteé a ver a Megumin.
 
-Y ahí, mi hermano, es donde yo debí haber dicho algo, y no lo dije, porque ella se me adelantó.
+Y ahí es donde yo debí haber dicho algo, y no lo dije, porque ella se me adelantó.
 
 Megumin se levantó sola. No sé de dónde sacó las piernas. Se levantó sola, con el bastón de apoyo, y se me puso enfrente, y me vio, y en la cara se le veía que ya sabía.
 
@@ -580,11 +580,11 @@ Megumin se levantó sola. No sé de dónde sacó las piernas. Se levantó sola, 
 
 —Es mío —dijo—. ¿Me pasas la magia o no?
 
-Y yo, mi hermano, que en mi otra vida nunca decidí nada, y que en esta vida he decidido pocas veces, tomé la mano de la muchacha que me había enseñado a tirar cosas al cielo, y le pasé la magia de la diosa.
+Y yo, que en mi otra vida nunca decidí nada, y que en esta vida he decidido pocas veces, tomé la mano de la muchacha que me había enseñado a tirar cosas al cielo, y le pasé la magia de la diosa.
 
 Yo no voy a olvidar eso. Le pasé el río por la mano, y mientras se lo pasaba, la sentí llenarse: se le enderezó la espalda, se le abrieron los ojos, se le levantaron los pelos del brazo; y en el momento en que se le llenó el pecho, la sentí a ella, adentro, empujar la magia hacia el bastón.
 
-Y sentí, mi hermano, el momentito exacto en que el cuerpo le cobró.
+Y sentí el momentito exacto en que el cuerpo le cobró.
 
 Fue un crujido. Un crujido que yo oí aquí, en la muñeca, como se oye una rama cuando se parte en el patio de una casa. Y Megumin gritó, un grito corto, y se le dobló la pierna derecha, la de las vendas, para adentro, y se le puso la cara blanca, y siguió.
 
@@ -602,7 +602,7 @@ Y arriba, en lo que quedaba del lomo, la voz de lata alcanzó a decir una últim
 
 —Tiempo restante: nueve minu...
 
-Y cuando el mundo se volvió a callar, mi hermano, donde había estado la fortaleza nada más había un campo negro, humeando, con las patas tiradas por el suelo como si fueran los postes de una cerca.
+Y cuando el mundo se volvió a callar, donde había estado la fortaleza nada más había un campo negro, humeando, con las patas tiradas por el suelo como si fueran los postes de una cerca.
 
 Axel se salvó.
 
@@ -618,7 +618,7 @@ Y yo no le contesté, mi hermano, porque yo no sé nada de huesos y de curas, pe
 
 —Ya estuvo —dijo, y cerró los ojos.
 
-Y ahí, mi hermano, se me acabó la noche.
+Y ahí se me acabó la noche.
 
 ---
 
@@ -628,7 +628,7 @@ Estaba vacía, tirada en la nieve, con la cara blanca y con las manos abiertas, 
 
 —No tengo —dijo—. Jesús, no tengo, no tengo, no tengo nada.
 
-Y yo, mi hermano, que hacía dos minutos había pasado el río entero de una diosa, agarré las manos de Aqua con las dos mías, y las apreté, y ahí, en la nieve, con el pueblo mirando y con la máquina humeando, hice lo único que me quedaba por hacer en este mundo.
+Y yo, que hacía dos minutos había pasado el río entero de una diosa, agarré las manos de Aqua con las dos mías, y las apreté, y ahí, en la nieve, con el pueblo mirando y con la máquina humeando, hice lo único que me quedaba por hacer en este mundo.
 
 Empujé.
 
@@ -642,7 +642,7 @@ Y Aqua gritó:
 
 —¡Jesús, no! ¡No, no, no, no!
 
-Y no me soltó las manos, y con lo que yo le pasé prendió la lumbre, mi hermano. La prendió. Vi la luz azul debajo de sus dedos y vi los ojos de Megumin abrirse, y vi el agua de la diosa meterse en esa pierna, y luego ya no vi nada más, nada más oí a Aqua, que gritaba mi nombre, y a Wiz, que decía cosas en otro idioma, y a Darkness, que decía «está aquí, está aquí, todavía está aquí», y sentí la mano de alguien en la cara.
+Y no me soltó las manos, y con lo que yo le pasé prendió la lumbre. La prendió. Vi la luz azul debajo de sus dedos y vi los ojos de Megumin abrirse, y vi el agua de la diosa meterse en esa pierna, y luego ya no vi nada más, nada más oí a Aqua, que gritaba mi nombre, y a Wiz, que decía cosas en otro idioma, y a Darkness, que decía «está aquí, está aquí, todavía está aquí», y sentí la mano de alguien en la cara.
 
 Y en el fondo del pozo, cuando ya se me estaba yendo todo, sentí tres cosas. Las cuento como las sentí, porque esas nadie me las puede quitar.
 
@@ -654,7 +654,7 @@ Y sentí, desde muy lejos, como se oyen las cosas desde el fondo de un pozo, la 
 
 —Esto es por el aire. Cuando alguien se ahoga se le da aire. Es de un manual. Es una cosa médica.
 
-Y yo, mi hermano, que estaba a la mitad del camino entre estar y no estar, y que en dos vidas no le había dado un beso a nadie, me dejé.
+Y yo, que estaba a la mitad del camino entre estar y no estar, y que en dos vidas no le había dado un beso a nadie, me dejé.
 
 Y me apagué, ahora sí, con la boca de mi compañera de cuarto en la mía y con la voz de mi compañera de cuarto diciendo que eso era una cosa médica.
 
