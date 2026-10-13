@@ -222,7 +222,7 @@
 - **El mito del elegido, desarmado.** Jesús descubre que hay mucha gente elegida y que él es uno más. La conclusión lo deja mejor parado: sin destino especial, el trabajo es de uno.
 - **Mitsurugi es de Osaka.** El espejo del canon (dos enviados de Japón) se vuelve íntimo: es la única persona en el mundo que sabe lo que es un tifón, una tienda de conveniencia y un tren. Y le deja un regalo abierto: **hay una playa al noroeste, a dos semanas**. *«Si algún día vas, me avisas.»*
 
-**Pendiente de aprobación del autor:** el nombre del **padre Aldo** (el cura del templo de Axis en Axel), el pueblo de **Tander** (nombre del pueblo del lago) y el apunte de que Mitsurugi es de Osaka. Y la playa al noroeste queda como promesa abierta para el futuro de la novela.
+**Nombres originales de este capítulo (aprobados con él):** el **padre Aldo** (el cura del templo de Axis en Axel), el pueblo de **Tander** (nombre del pueblo del lago) y el apunte de que Mitsurugi es de Osaka. Los tres pasaron la auditoría de nombres del cierre del volumen y quedan fijos. La playa al noroeste sigue como promesa abierta para el futuro de la novela.
 
 ---
 
@@ -231,7 +231,7 @@
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 1 |
-| **Extensión** | 5,005 palabras (≈ 16 páginas) |
+| **Extensión** | 5,004 palabras (≈ 16 páginas) |
 | **Estado** | 🟩 Aprobado por el autor (12 de octubre de 2026) |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que Megumin viva: sacarla del plazo que se vence hoy |
@@ -296,7 +296,7 @@
 | --- | --- |
 | **Volumen** | 1 |
 | **Extensión** | 8,343 palabras (≈ 25 páginas). **No se recortó**: la indicación del autor fue dejar el capítulo largo si se extendía |
-| **Estado** | 🟨 Revisado; pendiente de aprobación del autor |
+| **Estado** | 🟩 Aprobado por el autor |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que vuelva a bajar la sal por el camino del norte —y, debajo de eso, ser de los que van cuando alguien no llega |
 | **Obstáculo** | El camino del norte está roto y la venta del paso está a medias: hace dieciséis días pasó por ahí el Destructor |
@@ -342,7 +342,7 @@
 | --- | --- |
 | **Volumen** | 1 |
 | **Extensión** | 8,889 palabras (≈ 27 páginas). **No se recortó**: la indicación del autor fue dejar el capítulo largo si se extendía |
-| **Estado** | 🟨 Revisado; pendiente de aprobación del autor |
+| **Estado** | 🟩 Aprobado por el autor |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que la ciudad que lo adoptó siga en pie. Y, debajo de eso, estar por fin del lado de los que van |
 | **Obstáculo** | El Destructor no se puede detener: cuando el pueblo le arranca las patas, la máquina contesta con un reloj. Cuarenta minutos antes de reventar |
@@ -377,7 +377,7 @@
 | --- | --- |
 | **Volumen** | 1 |
 | **Extensión** | 3,257 palabras (≈ 10 páginas) |
-| **Estado** | 🟨 Revisado; pendiente de aprobación del autor |
+| **Estado** | 🟩 Aprobado por el autor |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que lo que se salvó se celebre y que las cosas vueltas a su lugar queden dichas: la fiesta, el nombre del grupo y el lugar que él ocupa |
 | **Obstáculo** | En un pueblo chico nada se queda quieto (el beso), y la corona no mide lo que salvaste: mide lo que quemaste |
@@ -395,7 +395,7 @@
 - **El nombre lo pone el camino, no el grupo**: se respeta la ley que Luna explica en el capítulo 4 («los nombres de los grupos no los escogen los grupos»). Los nombres que las chicas proponen son chistes («los del agua sagrada», «la cuadrilla de la diosa», «los señores del trueno escarlata») y el que queda lo trae Fermín, el carretero, del camino del norte. **«Los que vuelven»** viene de las banderas 8 y 9 («Vuelven.», «Cuentan contigo.») y del estribillo de la señora del pan («nosotros aguantamos dos días»).
 - **La fiesta se llama la levantada**, y es del mundo del proyecto: el día en que el pueblo se junta a levantar lo que se cayó. Los despojos de la fortaleza se vuelven objetos de casa (remaches, vidrios de los ojos), que es exactamente lo que la novela hace con la playera: colgar en la pared lo que salvó la vida.
 - **El hilo de los padres se toca y no se cierra.** Jesús piensa en su mamá y en el papel que ella firmó, y quiere mandarle un recado con la única frase que le prometió Aqua desde el capítulo 1: **«que no me dolió»**. No sabe cómo, y el epílogo se queda con las ganas, porque ese es el pago del último volumen y no de este.
-- **El apodo de Jesús sigue pendiente** (decisión 5 del tablero): el pueblo no se pone de acuerdo («el muchacho», «el de la playera», «mijo»). Se deja dicho de manera explícita para que el lector sepa que falta y para que el Vol. 2 lo pueda pagar.
+- **El apodo de Jesús se queda para el Vol. 2, en escena** (decisión del autor, 13 de octubre de 2026): el pueblo no se pone de acuerdo («el muchacho», «el de la playera», y la señora del pan, «hijo»). Se deja dicho de manera explícita para que el lector sepa que falta; el nombre exacto lo propone la ficha del capítulo 11.
 
 **Personajes nuevos de este epílogo:**
 - **Sena** — fiscal de la corona destacada en Axel. Del canon: ver la ficha del capítulo 10.

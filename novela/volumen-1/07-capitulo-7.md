@@ -1,7 +1,7 @@
 ﻿# Capítulo 7. La gente que sí va
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 7. Extensión: 5,005 palabras. Estado: aprobado por el autor.
+Volumen 1, capítulo 7. Extensión: 5,004 palabras. Estado: aprobado por el autor.
 
 ---
 
@@ -15,7 +15,7 @@ Doña Hilda estaba en el marco de la posada, con un candil.
 
 —A ver qué pasa.
 
-—Aquí se ve todo el día, mijo. Nomás hay que esperar.
+—Aquí se ve todo el día, muchacho. Solo hay que esperar.
 
 Nosotros no esperamos.
 
@@ -153,7 +153,7 @@ Cuarenta personas con arcos, ballestas, cuchillos y piedras, y el general del Re
 
 —Con esqueletos.
 
-—Seis —dijo Beldia—. Y ninguno sirve. Nomás no los quise dejar ahí.
+—Seis —dijo Beldia—. Y ninguno sirve. No los quise dejar ahí.
 
 Y luego levantó la mano sin guante, se rascó la nuca, y como no alcanzaba bien se sacó la cabeza, se la puso debajo del brazo, se rascó con las dos manos, se volvió a poner la cabeza y dijo:
 
@@ -203,7 +203,7 @@ Porque él también quería que pasara. Y no lo iba a decir.
 
 Y la muralla entera se volteó a verme.
 
-—¡Yo soy la diosa! —dijo Aqua, y apuntó a Beldia con el dedo, desde la muralla, delante de cuarenta personas—. ¡A ver! ¡Yo bajo y lo arreglo! ¡Yo le rompo la maldición a la niña ahorita mismo y nos ahorramos todo el circo!
+—¡Yo soy la diosa! —dijo Aqua, y apuntó a Beldia con el dedo, desde la muralla, delante de cuarenta personas—. ¡A ver! ¡Yo bajo y lo arreglo! ¡Yo le rompo la maldición a la niña ahora mismo y nos ahorramos todo el circo!
 
 Y la gente empezó a decir que sí.
 
@@ -227,7 +227,7 @@ Aqua se quedó con el dedo en el aire.
 
 Y en eso se oyó, desde el fondo de la muralla, la voz del señor barbón, que dijo la primera cosa que se me pegó de ese día y que se me quedó pegada para siempre:
 
-—¡Y entonces, pa qué carajos abrimos la puerta! ¡Si el único que puede es él, y él ya está aquí, y lo que quiere es que le pidan, pues que le pidan!
+—¡Y entonces, para qué carajos abrimos la puerta! ¡Si el único que puede es él, y él ya está aquí, y lo que quiere es que le pidan, pues que le pidan!
 
 Yo lo volteé a ver.
 
@@ -349,7 +349,7 @@ Y luego se volteó a verme a mí.
 
 Y Beldia se quedó viendo el pan en su mano sin guante, y luego se lo guardó en el pecho de la armadura, y dijo:
 
-—Orita no.
+—Todavía no.
 
 Y se dio la vuelta y se puso la mano en la carreta, y cambió de golpe, otra vez, al señor de los trámites.
 
@@ -363,7 +363,7 @@ Y ahí, en el camino real, con la escarcha y con los seis esqueletos formados at
 
 —¿Por qué? —dije.
 
-—Porque yo ya te dije una vez, chico, cuál es el precio. —Y se subió de un salto al pescante—. ¡Y ahorita tengo una carreta llena y cinco días de camino! ¡Está bien, es mi trabajo! ¡Pero yo también tengo derecho a una cosa! ¡Yo llevo doscientos años pidiendo las cosas por favor y nadie me las da! ¡Ayer salí de mi casa y dejé la silla plegable abierta en el patio porque pensé que iba a regresar, y no voy a regresar! ¡Y a mí lo único que me queda es que me pidan las cosas y dárselas!
+—Porque yo ya te dije una vez, chico, cuál es el precio. —Y se subió de un salto al pescante—. ¡Y ahora tengo una carreta llena y cinco días de camino! ¡Está bien, es mi trabajo! ¡Pero yo también tengo derecho a una cosa! ¡Yo llevo doscientos años pidiendo las cosas por favor y nadie me las da! ¡Ayer salí de mi casa y dejé la silla plegable abierta en el patio porque pensé que iba a regresar, y no voy a regresar! ¡Y a mí lo único que me queda es que me pidan las cosas y dárselas!
 
 Silencio en el camino real.
 

@@ -117,7 +117,7 @@ Porque hacía una semana, después de las coles, yo había empezado a entrenar c
 
 —¿Y eso para qué sirve? —le pregunté la tercera tarde—. El costal no se mueve.
 
-—Por eso —dijo él—. Si le puedes pegar a una cosa que no se mueve, ya nomás falta que le pegues a una que sí.
+—Por eso —dijo él—. Si le puedes pegar a una cosa que no se mueve, ya solo falta que le pegues a una que sí.
 
 Un día me dejó darle al costal, y me dijo que pegaba como una señorita.
 
@@ -299,7 +299,7 @@ Y esta vez no pasó nada.
 
 —¿Cómo que no se deja?
 
-—Es que la tuya ya está adentro. —Y habló sin chiste, que es como habla Aqua cuando de verdad está trabajando—. Cuando una maldición de esas ya está adentro, nomás te la quita el que te la puso.
+—Es que la tuya ya está adentro. —Y habló sin chiste, que es como habla Aqua cuando de verdad está trabajando—. Cuando una maldición de esas ya está adentro, solo te la quita el que te la puso.
 
 Silencio en la explanada.
 

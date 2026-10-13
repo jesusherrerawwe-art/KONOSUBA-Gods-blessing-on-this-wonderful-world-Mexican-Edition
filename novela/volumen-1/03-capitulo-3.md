@@ -39,7 +39,7 @@ Luna levantó una ceja.
 
 —No sé. Por costumbre.
 
-—Mijo, eso ya es un problema.
+—Muchacho, eso ya es un problema.
 
 Y sí, era un problema. Pero también me estaba empezando a dar risa, y ella también se estaba riendo, y eso, a los cuatro días de conocerla, ya era algo parecido a ser amigos.
 
@@ -327,7 +327,7 @@ Cuando íbamos saliendo, Luna me alcanzó.
 
 —Perdón.
 
-—¡Ay, mijo!
+—¡Ay, muchacho!
 
 ---
 
@@ -597,7 +597,7 @@ Y estaba feliz.
 
 Y cuando llegamos al gremio, con la ropa hecha un desastre y con la muchacha dormida en la espalda, el señor barbón se me quedó viendo desde su mesa y levantó la jarra.
 
-—¡Órale! —dijo—. ¡Volvieron!
+—¡Miren! —dijo—. ¡Volvieron!
 
 Y luego, más fuerte, a todo el gremio:
 

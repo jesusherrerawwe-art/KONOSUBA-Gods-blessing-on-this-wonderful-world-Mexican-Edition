@@ -1,7 +1,7 @@
 ﻿# Epílogo. Los que vuelven
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, epílogo. Extensión: 3,257 palabras. Estado: revisado; pendiente de aprobación del autor.
+Volumen 1, epílogo. Extensión: 3,257 palabras. Estado: aprobado por el autor.
 
 ---
 
@@ -191,7 +191,7 @@ Y me dieron ganas de mandarle un recado. Así, cortito, en una hoja, como el se�
 
 Y no supe cómo. Y me quedé con las ganas, que es de las cosas que uno se queda, y me dije que eso también va a tener su día. En este pueblo todo tiene su día, nada más que uno no sabe cuál.
 
-Y en cuanto a cómo me llaman a mí, eso es otra cosa, y sigue pendiente, porque el pueblo, hasta la fecha, no se ha puesto de acuerdo: unos me dicen el muchacho, otros me dicen el de la playera, y la señora del pan me dice mijo, que es lo más bonito que me han dicho en dos vidas. Pero ya se les ocurrirá algo, mi hermano. A este pueblo siempre se le ocurre algo.
+Y en cuanto a cómo me llaman a mí, eso es otra cosa, y sigue pendiente, porque el pueblo, hasta la fecha, no se ha puesto de acuerdo: unos me dicen el muchacho, otros me dicen el de la playera, y la señora del pan me dice hijo, que es lo más bonito que me han dicho en dos vidas. Pero ya se les ocurrirá algo, mi hermano. A este pueblo siempre se le ocurre algo.
 
 ---
 

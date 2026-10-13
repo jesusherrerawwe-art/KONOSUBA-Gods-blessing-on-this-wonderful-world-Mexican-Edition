@@ -1,4 +1,4 @@
-# Personajes principales — fichas de referencia
+﻿# Personajes principales — fichas de referencia
 
 > **Spoilers:** esta sección cubre las temporadas 1–3, la película *KonoSuba: Legend of Crimson* y el anime derivado *KonoSuba: An Explosion on This Wonderful World!*; el apartado de novelas identifica además material que llega más allá de lo adaptado. Las conclusiones sobre función dramática son lectura editorial, no hechos de continuidad.
 
@@ -26,7 +26,7 @@ En la temporada 3 se instala durante unos días en la corte porque Iris se encar
 
 ## Aqua
 
-**Identidad y rol.** Aqua es la diosa que administra el paso al otro mundo. Kazuma la escoge como su acompañante y, en consecuencia, ella acaba viviendo la aventura en vez de permanecer en el puesto de guía. En Axel es una archipresbítera —clase avanzada— y lleva principalmente la recuperación del grupo. La ficha del anime le atribuye gusto por la buena comida y las piedras de formas curiosas, y la destreza de entretenimiento festivo. [1] [2] [3]
+**Identidad y rol.** Aqua es la diosa que administra el paso al otro mundo. Kazuma la escoge como su acompañante y, en consecuencia, ella acaba viviendo la aventura en vez de permanecer en el puesto de guía. En Axel es una archisacerdotisa —clase avanzada— y lleva principalmente la recuperación del grupo. La ficha del anime le atribuye gusto por la buena comida y las piedras de formas curiosas, y la destreza de entretenimiento festivo. [1] [2] [3]
 
 **Personalidad, capacidades y límites.** Es expresiva, orgullosa de su condición divina y sensible a que la adulen o la contradigan. Su torpeza cotidiana no anula su capacidad: se le confía la curación, y ella misma se presenta como indicada para limpiar agua por ser diosa del agua. Las sinopsis muestran, a la vez, que el plan para una misión puede ponerla en una jaula frente a monstruos, y que una ciudad devota puede terminar persiguiéndola cuando intenta purificar su fuente termal. No se debe resumirla como «inútil»: el chiste nace del desacuerdo entre la magnitud real de su naturaleza divina y su conducta vanidosa o desmañada. [2] [5] [11] [12] [28] [32]
 
@@ -55,6 +55,8 @@ En la temporada 1 su unión a la party convierte la magia más espectacular en u
 **Relaciones y evolución.** Suele ser el escudo del equipo y es amiga de Chris. En la temporada 2 pide ayuda a Kazuma para evitar un compromiso arreglado que pondría fin a su vida aventurera; el tratamiento cómico de su carácter no borra que esté defendiendo una elección propia. [1] [9] En la temporada 3 vuelve a insistir en una prueba peligrosa contra una hidra. Luego deja la party y acepta casarse por una razón que Kazuma solo llega a comprender en el episodio final del arco; los otros tres se niegan a aceptar la nota de despedida como respuesta suficiente y van a buscarla. La separación convierte un chiste recurrente —el aguante de Darkness— en una prueba de cuánto la necesita la party. [15] [16] [17] [18]
 
 **Clave narrativa —lectura.** Darkness invierte el rol de la caballera invulnerable: su fortaleza sirve para la defensa, pero su impulsividad y su fantasía dificultan emplearla con eficiencia ofensiva. Su núcleo dramático no es «ser noble», sino ejercer agencia frente a obligaciones familiares sin dejar de elegir a sus compañeros. La serie de TV no formaliza una relación amorosa entre ella y Kazuma.
+
+**Decisión del proyecto (13 de octubre de 2026).** En el anime, Darkness revela su nombre y su identidad de noble en público (episodio 10). En esta novela eso no pasó en el Vol. 1: **lo revela en privado en el Vol. 2** —lo sabe Jesús, y el lector— y **el pueblo de Axel se entera hasta el Vol. 3**, en el arco de la boda, donde el secreto pesa más.
 
 ## Chris
 

@@ -1,4 +1,4 @@
-# 13. Protagonista original del proyecto: Jesús Fujioka Hernández
+﻿# 13. Protagonista original del proyecto: Jesús Fujioka Hernández
 
 > **Aviso:** esta sección **no documenta canon de *KonoSuba***. Reúne el material creativo original de este proyecto, aportado por el autor, más notas de desarrollo. Se irá actualizando conforme avance el Plan de Acción de los **30 capítulos** (3 volúmenes de 10).
 
@@ -82,7 +82,7 @@ La gracia de la mezcla: ninguna de las tres por separado resuelve nada; **juntas
 
 **4. Aqua se gana el puesto a pulso.** Jesús pensaba ir solo; Aqua **insiste hasta convencerlo**. A diferencia del canon —donde Kazuma la elige como si escogiera una maleta—, aquí la diosa es quien se empeña en acompañarlo. Gana por terquedad, no por autoridad, y eso la vuelve más persona desde el capítulo 1.
 
-**5. En Axel no lo llamarán «Jesús».** El gremio le inventa un apodo y ese apodo se convierte en su identidad en la ciudad. *(El apodo exacto sigue pendiente de definir.)*
+**5. En Axel no lo llamarán «Jesús».** El gremio le inventa un apodo y ese apodo se convierte en su identidad en la ciudad. *(Decidido el 13 de octubre de 2026: el apodo **no se define en la biblia**; cae **en escena** en el Vol. 2, y la ficha del capítulo 11 propone el nombre exacto.)*
 
 **6. Lo que cruza con él:** la **playera de las Chivas** y **su celular**, que por alguna razón aún tiene señal. Es un guiño declarado a *In Another World With My Smartphone*. El gag necesita reglas propias para no romperse (batería, cobertura, qué aplicaciones responden y cuáles no, qué pasa con las fotos).
 
@@ -120,7 +120,7 @@ Trece decisiones, tomadas junto con el autor. Doce están cerradas y una quedó 
 | 2 | Ventaja de Jesús | ✅ Tomada | Mezcla: suerte moderada + «método ruta» + carisma |
 | 3 | Dial del ecchi | ✅ Tomada | Elevado, sin contenido explícito, con reglas de casa |
 | 4 | ¿Cómo lo acompaña Aqua? | ✅ Tomada | Ella insiste hasta convencerlo; gana por terquedad |
-| 5 | ¿Cómo lo llaman en Axel? | ✅ Tomada | Un apodo que le inventa el gremio (falta definir cuál) |
+| 5 | ¿Cómo lo llaman en Axel? | ✅ Tomada | Un apodo que le inventa el gremio, **en escena en el Vol. 2** (la ficha del capítulo 11 propone el nombre) |
 | 6 | ¿Qué cruza con él? | ✅ Tomada | La playera de las Chivas y su celular (reglas definidas más abajo) |
 | 7 | Hilo de los padres | ✅ Tomada | Se cierra en el epílogo |
 | 8 | Estructura de la novela | ✅ Tomada | **30 capítulos en 3 volúmenes de 10**, con el ritmo de las tres temporadas del anime |
@@ -137,7 +137,7 @@ Trece decisiones, tomadas junto con el autor. Doce están cerradas y una quedó 
 
 ## Decisiones abiertas
 
-- [ ] **El apodo exacto del gremio.** Definirlo con cuidado: tiene que sonar natural en un mundo de fantasía, ser cálido y funcionar como broma recurrente.
+- [x] **El apodo exacto del gremio.** **Cerrado el 13 de octubre de 2026:** no se decide aquí; cae **en escena en el Vol. 2** con las reglas que ya dejó el texto (los apodos «se pegan solos, cuando uno no está viendo, y casi siempre en el peor momento»). El nombre lo propone la ficha del capítulo 11.
 - [ ] **Detalles del celular por resolver:** ¿aparece su padre en la única foto? (recomendación en el apartado «Reglas del celular») ¿se rompe el secreto de la party en algún momento?
 - [ ] **Los títulos de los tres volúmenes.** 🤫 **Reservado como sorpresa por el autor.** No se proponen ni se definen aquí: se revelarán cuando él lo decida.
 - [ ] **Dónde se traza la frontera temática** entre «la vida que gana» y «la vida que comparte». El orden por temporadas sugiere que cae **al inicio del Vol. 3** (Vols. 1–2 cantan lo ganado, el Vol. 3 canta lo compartido). Pendiente de confirmar.

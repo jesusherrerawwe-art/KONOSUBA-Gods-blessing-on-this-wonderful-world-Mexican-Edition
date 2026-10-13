@@ -116,6 +116,8 @@ El narrador tiene tics que le dan carácter —«mi hermano», «ya lo saben», 
 **Regla 9 (13 de octubre de 2026): las palabras de México viven en la voz, no en el mundo.**
 Jesús es mexicano-japonés y su narración está llena de casa: «nomás», «mijo», «cancha», «órale», «el pasillo de un cine». Eso es él y se queda. Lo que **no** se hace es poner cosas de la Tierra en la boca de la gente de este mundo: aquí nadie toma tequila, nadie come tacos y nadie escucha radio, porque esos objetos no existen en este mundo. La prueba es simple: **¿lo dice el narrador comparando, o lo dice un personaje como si existiera?** Si es el narrador, adelante; si es un personaje de Axel, se cambia por lo que sí hay (aguardiente, pan, vino de las fiestas).
 
+**Aplicación (13 de octubre de 2026, al sellar el Vol. 1):** el autor eligió la versión **estricta** para todo el volumen y la regla se pasó al texto: se limpiaron los mexicanismos en boca de la gente del mundo —Luna («pa' qué», «órale», «mijo»), el señor barbón («órale», «pa qué», «nomás»), Aqua («pa' cuatro», «nomás», «ahorita mismo»), Wiz («mija»), Beldia («nomás», «orita», «ahorita») y el señor de la cola («mijo», «nomás»)— y el habla mexicana se quedó donde debe: en el narrador y en la boca de Jesús, que es de Guadalajara. En el epílogo, «la señora del pan me dice mijo» pasó a «me dice hijo».
+
 ## Tablero del Volumen 1 (capítulos 1–10)
 
 | Cap. | Estado | Título | Nota |
@@ -127,11 +129,11 @@ Jesús es mexicano-japonés y su narración está llena de casa: «nomás», «m
 | 4 | 🟩 Aprobado | «La gente que se pone enfrente» | 5,077 palabras · revisado y aprobado · entra Darkness; cuadrilla completa |
 | 5 | 🟩 Aprobado | «El señor de la casa del cerro» | 5,030 palabras · revisado y aprobado · Beldia y la maldición |
 | 6 | 🟩 Aprobado | «El otro elegido» | 5,148 palabras · revisado y aprobado · el lago, Mitsurugi y el séptimo día |
-| 7 | 🟩 Aprobado | «La gente que sí va» | 5,005 palabras · revisado y aprobado por el autor · cierra el séptimo día |
+| 7 | 🟩 Aprobado | «La gente que sí va» | 5,004 palabras · revisado y aprobado por el autor · cierra el séptimo día |
 | 8 | 🟩 Aprobado | «No me dolió» | 5,499 palabras · revisado y aprobado por el autor · la muerte y el regreso, como el canon |
-| 9 | 🟨 Revisado | «El camino del norte» | 8,343 palabras · **revisado; pendiente de aprobación del autor** · entra Wiz; se descubre que el Destructor rompió el paso |
-| 10 | 🟨 Revisado | «El segundo trueno» | 8,889 palabras · **revisado; pendiente de aprobación del autor** · el Destructor; la defensa de Axel y el teletransporte del coronatita. **No se recortó** |
-| **Epílogo** | 🟨 Revisado | «Los que vuelven» | 3,257 palabras · **revisado; pendiente de aprobación del autor** · la levantada, el nombre de la cuadrilla y los caballeros del rey |
+| 9 | 🟩 Aprobado | «El camino del norte» | 8,343 palabras · **aprobado por el autor el 13 de octubre de 2026** · entra Wiz; se descubre que el Destructor rompió el paso |
+| 10 | 🟩 Aprobado | «El segundo trueno» | 8,889 palabras · **aprobado por el autor el 13 de octubre de 2026** · el Destructor; la defensa de Axel y el teletransporte del coronatita. **No se recortó** |
+| **Epílogo** | 🟩 Aprobado | «Los que vuelven» | 3,257 palabras · **aprobado por el autor el 13 de octubre de 2026** · la levantada, el nombre de la cuadrilla y los caballeros del rey |
 
 **Leyenda:** ⬜ vacío · 🟨 en diseño · 🟦 en redacción o revisión (pendiente de aprobación) · 🟩 aprobado por el autor, cerrado o fijado
 
@@ -143,16 +145,16 @@ Jesús es mexicano-japonés y su narración está llena de casa: «nomás», «m
 
 **Capítulo 8 (12 de octubre de 2026):** escrito, revisado y **aprobado por el autor** (ficha incluida).
 
-**Capítulo 9 (12 de octubre de 2026):** escrito y revisado (ficha y texto entregados juntos, con las cuatro decisiones de diseño ya aprobadas por el autor); **pendiente de aprobación del autor.** **No se recortó:** se dejó largo, según la indicación del autor del 12 de octubre («si el capítulo se extiende de más, no lo recortes, déjalo así»).
+**Capítulo 9 (12 de octubre de 2026):** escrito y revisado (ficha y texto entregados juntos, con las cuatro decisiones de diseño ya aprobadas por el autor); **aprobado por el autor el 13 de octubre de 2026.** **No se recortó:** se dejó largo, según la indicación del autor del 12 de octubre («si el capítulo se extiende de más, no lo recortes, déjalo así»).
 
-**Cierre del Volumen 1 (13 de octubre de 2026):** el autor pidió «terminemos con el Volumen I» y con eso se escribió **el capítulo 10 («El segundo trueno», 8,889 palabras)** y **el epílogo («Los que vuelven», 3,257 palabras)**, los dos con la dinámica de tres pasos (borrador completo, después pulido con biblia e internet) y los dos **revisados; pendientes de aprobación del autor**. Cuatro decisiones se tomaron con el autor ese día: los dos usos de Drenar del canon **más un tercero «de corazón»**; **Megumin se lastima de verdad** (la pierna, cicatriz del volumen y pendiente del Vol. 2); **la acusación de traición cae sobre Jesús**; y el epílogo **«todo junto»** (fiesta, nombre nuevo y caballeros). El nombre de la cuadrilla queda fijado en **«Los que vuelven»**, elegido por el autor. Con esto el volumen queda **completo en el papel**, a la espera de la aprobación del capítulo 9, del 10 y del epílogo.
+**Cierre del Volumen 1 (13 de octubre de 2026):** el autor pidió «terminemos con el Volumen I» y con eso se escribió **el capítulo 10 («El segundo trueno», 8,889 palabras)** y **el epílogo («Los que vuelven», 3,257 palabras)**, los dos con la dinámica de tres pasos (borrador completo, después pulido con biblia e internet) y los dos **revisados y aprobados por el autor el 13 de octubre de 2026**. Cuatro decisiones se tomaron con el autor ese día: los dos usos de Drenar del canon **más un tercero «de corazón»**; **Megumin se lastima de verdad** (la pierna, cicatriz del volumen y pendiente del Vol. 2); **la acusación de traición cae sobre Jesús**; y el epílogo **«todo junto»** (fiesta, nombre nuevo y caballeros). El nombre de la cuadrilla queda fijado en **«Los que vuelven»**, elegido por el autor. Con esto el volumen queda **completo y sellado**: el 13 de octubre el autor aprobó el capítulo 9, el capítulo 10 y el epílogo, así que **las doce piezas están aprobadas**.
 
-**Pendiente inmediato al cerrar el volumen:** la **revisión de conjunto del Vol. 1** (paso 5 del ciclo) sobre las doce piezas, ahora que el volumen ya se puede leer completo de corrido. La última se hizo el 12 de octubre sobre siete piezas.
+**Después de la aprobación (13 de octubre de 2026):** la **revisión de conjunto del Vol. 1** ya se hizo sobre las doce piezas (informe `REVISION-VOLUMEN-1-CIERRE.md`), la auditoría de nombres pasó a limpio y las decisiones que el informe pedía quedaron cerradas con el autor ese mismo día: **Darkness revela su identidad en privado en el Vol. 2**; **el apodo de Jesús cae en escena en el Vol. 2**; el rango de Aqua se escribe **archisacerdotisa**; y **el Vol. 2 abre con el juicio de Sena**. **Pendiente inmediato: la ficha del capítulo 11.**
 
 ## Estado de los volúmenes
 
 | Volumen | Capítulos | Estado |
 | --- | --- | --- |
-| **Vol. 1** | 1–10 | 🔨 En diseño — es el volumen activo |
-| **Vol. 2** | 11–20 | ⏸️ Pendiente — incluirá el capítulo de fútbol ✅ y el clímax de Hans ✅ |
+| **Vol. 1** | 1–10 | ✅ **Terminado y aprobado por el autor** (12 de 12 piezas, 13 de octubre de 2026) |
+| **Vol. 2** | 11–20 | 🔨 En diseño — es el volumen activo: **abre con el juicio de Sena**; incluirá el capítulo de fútbol ✅ y el clímax de Hans ✅ |
 | **Vol. 3** | 21–30 | ⏸️ Pendiente — incluirá la boda de Darkness ✅ y el cierre del hilo de los padres ✅ |

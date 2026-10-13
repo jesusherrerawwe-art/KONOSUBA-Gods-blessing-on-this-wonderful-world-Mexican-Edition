@@ -239,7 +239,7 @@ Fuerza: regular. Vitalidad: regular. Inteligencia: regular. Poder mágico: nada.
 
 —No entiendo nada de eso.
 
-—No tienes que entenderlo. Yo te lo explico. —Y se acomodó—. Mira: aquí, la gente llega y le salen números, y los números dicen para qué sirves. Si tienes fuerza, vas pa' guerrero. Si tienes magia, vas pa' mago. Si eres rápido, pa' ladrón. Los números son como... como la carta de recomendación que nadie te escribió.
+—No tienes que entenderlo. Yo te lo explico. —Y se acomodó—. Mira: aquí, la gente llega y le salen números, y los números dicen para qué sirves. Si tienes fuerza, vas para guerrero. Si tienes magia, vas para mago. Si eres rápido, para ladrón. Los números son como... como la carta de recomendación que nadie te escribió.
 
 —¿Y mis números qué dicen?
 
@@ -265,7 +265,7 @@ Y me empezó a nombrar clases. Guerrero, arquero, ladrón, mago, clérigo, cabal
 
 Luna se recargó en el mostrador y se puso a pensar de verdad. Se le notaba que se ponía a pensar de verdad cuando alguien se lo pedía, y yo creo que eso casi nadie se lo pedía.
 
-—Es que depende —dijo—. ¿Tú pa' qué viniste?
+—Es que depende —dijo—. ¿Tú para qué viniste?
 
 Y esa pregunta, hermano, esa pregunta me dejó seco.
 
@@ -281,7 +281,7 @@ Luna levantó las dos cejas.
 
 —Sí. A probar todo. Quiero ver qué se me da. Quiero cargar cosas, quiero cocinar, quiero barrer, quiero salir a ver qué hay por ahí. —Y luego, porque me dio pena, agregué—: Y quiero aprender a pelear, porque me imagino que aquí eso es útil.
 
-—Ah, órale —dijo Luna, y se enderezó con una sonrisa completa, no la de amortiguar—. Entonces tú no quieres una clase. Tú quieres la clase.
+—Ah, vaya —dijo Luna, y se enderezó con una sonrisa completa, no la de amortiguar—. Entonces tú no quieres una clase. Tú quieres la clase.
 
 —¿La clase?
 
@@ -321,7 +321,7 @@ Luna volteó la carta para el otro lado, como si leyéndola al revés fuera a de
 
 —¿Qué?! —otra vez Aqua.
 
-—Es que... —Luna se rascó la nuca—. Es que aquí dice que eres archipresbítera.
+—Es que... —Luna se rascó la nuca—. Es que aquí dice que eres archisacerdotisa.
 
 —¡Sí! —Aqua se subió a la banca otra vez—. ¡Sí, señores! ¡Archipresbítera! ¿¡Y qué dijeron de los números!?
 
@@ -635,7 +635,7 @@ Aqua se quedó un rato con eso, y luego me dijo:
 
 —Mañana.
 
-—Y hay que buscar gente, porque los encargos buenos son pa' cuatro.
+—Y hay que buscar gente, porque los encargos buenos son para cuatro.
 
 —Mañana.
 

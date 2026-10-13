@@ -91,7 +91,7 @@ En el gremio había que hacer un trámite, y ese trámite me importaba.
 
 —De cuadrilla. —Y sacó una hoja, una hoja grandota, con muchos espacios en blanco y con letras gordas arriba—. Aquí va: los cuatro nombres, las cuatro clases, y el nombre del grupo. Y cada vez que firmen un encargo, y cada vez que lo entreguen, y cada vez que uno de ustedes se muera o se vaya, hay que venir a anotarlo aquí.
 
-Yo me quedé viendo la hoja. Y me dio una cosa rara, algo parecido a lo que me dio cuando escuché «archipresbítera» en boca de Luna: las ganas de que eso existiera de verdad.
+Yo me quedé viendo la hoja. Y me dio una cosa rara, algo parecido a lo que me dio cuando escuché «archisacerdotisa» en boca de Luna: las ganas de que eso existiera de verdad.
 
 —Está bien. ¿Cómo le ponemos?
 

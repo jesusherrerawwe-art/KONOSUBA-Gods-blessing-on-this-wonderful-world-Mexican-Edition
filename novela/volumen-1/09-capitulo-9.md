@@ -1,7 +1,7 @@
 ﻿# Capítulo 9. El camino del norte
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 1, capítulo 9. Extensión: 8,343 palabras. Estado: revisado; pendiente de aprobación del autor.
+Volumen 1, capítulo 9. Extensión: 8,343 palabras. Estado: aprobado por el autor.
 
 ---
 
@@ -174,7 +174,7 @@ Silencio.
 
 Y la señora Wiz se rio. Toda la tienda se puso tibia de golpe. Se rio bajito, con la mano en la boca, y dijo:
 
-—¿Beldia? Beldia no le pone maldiciones a nadie, mija. Beldia le pone maldiciones a las cosas que no se cierran. —Y luego—: ¿Ya pasó por aquí, verdad?
+—¿Beldia? Beldia no le pone maldiciones a nadie, hija. Beldia le pone maldiciones a las cosas que no se cierran. —Y luego—: ¿Ya pasó por aquí, verdad?
 
 —Pasó a mudarse —dije yo—. Se fue al oeste. Con carreta, con caballo y con su silla.
 
@@ -184,7 +184,7 @@ Y la señora Wiz se rio. Toda la tienda se puso tibia de golpe. Se rio bajito, c
 
 Y ahí Wiz hizo la cosa de las personas buenas: contar una verdad grande como si fuera un detalle.
 
-—Es mi compañero de generación —dijo—. Él entró un año después que yo. Nos tocó el mismo castillo, la misma mesa, el mismo invierno. Y antes de eso, cuando yo era aventurera, él me puso una maldición. La mala. —Lo dijo sin bajar la voz ni subirla, como se dice un precio—. Yo me morí de eso, mija. Nada más que me morí a mi manera, y aquí sigo, con mi tienda. De eso no hablamos. Beldia es el tipo de persona que, si te ve corriendo por el patio con la capa al aire, no te dice nada y te corta un leño del montón para que lo lleves. Cada vez que pasaba por aquí, me dejaba leña en la puerta. Le debo una cobija desde hace cien años. —Y luego, con una voz más suave—: Se fue al oeste, dice. ¿Y sabe qué va a hacer?
+—Es mi compañero de generación —dijo—. Él entró un año después que yo. Nos tocó el mismo castillo, la misma mesa, el mismo invierno. Y antes de eso, cuando yo era aventurera, él me puso una maldición. La mala. —Lo dijo sin bajar la voz ni subirla, como se dice un precio—. Yo me morí de eso, hija. Nada más que me morí a mi manera, y aquí sigo, con mi tienda. De eso no hablamos. Beldia es el tipo de persona que, si te ve corriendo por el patio con la capa al aire, no te dice nada y te corta un leño del montón para que lo lleves. Cada vez que pasaba por aquí, me dejaba leña en la puerta. Le debo una cobija desde hace cien años. —Y luego, con una voz más suave—: Se fue al oeste, dice. ¿Y sabe qué va a hacer?
 
 —No nos dijo.
 

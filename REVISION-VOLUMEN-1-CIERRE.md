@@ -1,11 +1,11 @@
-# Revisión de conjunto del Volumen 1 — las doce piezas
+﻿# Revisión de conjunto del Volumen 1 — las doce piezas
 
 Fecha: 13 de octubre de 2026.
 Alcance: **el Volumen 1 completo**, ahora que se puede leer de corrido: prólogo, capítulos 1 a 10 y epílogo.
 Qué se revisó: **coherencia entre piezas** (fechas, objetos, heridas, números, promesas), **voz del narrador** (que el tic no se vuelva ruido), **canon** (nombres, títulos, reglas de magia), **ortografía y lectura en voz alta**, y **lo prometido contra lo pagado**.
 Cómo se hizo: lectura completa del volumen + conteo automático de tics y de números por pieza + cotejo contra la biblia (`12`, `14`, `16`, `17`) y contra el canon verificado en línea + revisor automático (`herramientas/revisar-capitulos.py`).
 
-**Resultado en una línea:** el volumen cierra entero y cuadrado —**65,036 palabras de narrativa**—, con un solo patrón problemático cazado (la muletilla del narrador) y ninguna contradicción de continuidad nueva.
+**Resultado en una línea:** el volumen cierra entero y cuadrado —**65,035 palabras de narrativa**—, con un solo patrón problemático cazado (la muletilla del narrador) y ninguna contradicción de continuidad nueva.
 
 ---
 
@@ -29,9 +29,15 @@ La lección entró a la biblia como **regla 8** (sección 16): en cada cierre de
 
 El señor barbón decía, en el capítulo 10, que a él lo único que lo había tumbado en la vida era **el tequila**. Problema: el tequila no existe en este mundo, y quien lo decía no era el narrador comparando, sino un vecino de Axel hablando de su propia vida. Se cambió por **el aguardiente**, que sí es una palabra de este mundo, y quedó registrado como **regla 9** de la sección 16: lo mexicano vive en la voz de Jesús y en sus recuerdos, nunca en la boca de la gente de Axel.
 
+### La voz del mundo, limpia de México (regla 9, aplicada en estricto)
+
+Al cerrar el volumen, el autor eligió la versión **estricta** de la regla 9, así que la regla se pasó al texto. Estaban en boca de la gente de Axel (y de la diosa) palabras marcadamente mexicanas: **Luna** («pa' qué», «ah, órale», «mijo» dos veces), **el señor barbón** («¡Órale!», «pa qué carajos», «nomás»), **el señor de la cola** («mijo», «nomás»), **Aqua** («pa' cuatro», «nomás», «ahorita mismo»), **Wiz** («mija», dos veces) y **Beldia** («nomás», «orita», «ahorita»). Todas se cambiaron por equivalentes neutros (para, vaya, muchacho, hija, solo, todavía, ahora), sin mover el sentido de ninguna escena. En el epílogo, la línea «la señora del pan me dice mijo» pasó a «me dice hijo».
+
+Lo que se quedó, a propósito: **el habla mexicana del narrador y de Jesús** —«nomás», «tantito», «ni modo», «el Rebaño Sagrado», «atole, que en este mundo no se llama atole pero se parece mucho»—, que es la voz del libro y no se toca.
+
 ### Conteos
 
-Encabezados, fichas y biblia, todos al día: cap. 9 **8,343** · cap. 10 **8,889** · epílogo **3,257**. Narrativa del volumen: **65,036 palabras** (73,749 contando las fichas y documentos de trabajo). Los rótulos de estado quedaron revisados uno por uno.
+Encabezados, fichas y biblia, todos al día: cap. 9 **8,343** · cap. 10 **8,889** · epílogo **3,257**. Narrativa del volumen: **65,035 palabras** (73,772 contando las fichas y documentos de trabajo). Los rótulos de estado quedaron revisados uno por uno; tras la aprobación del autor, los doce dicen «aprobado por el autor».
 
 ### Nombres
 
@@ -68,7 +74,7 @@ Encabezados, fichas y biblia, todos al día: cap. 9 **8,343** · cap. 10 **8,889
 | **La segunda Explosión la carga Jesús**, no un rufián cualquiera | Es su tercera vez usando Drenar, y la que más le cuesta: se apaga y despierta al día siguiente |
 | **Kazuma no existe** en este mundo | Decisión 1 del tablero: Jesús es una bendición paralela |
 | **El juicio no se resuelve en el epílogo** | Se deja abierto igual que el canon abre su segunda temporada: la acusación es la puerta del Vol. 2 |
-| **Darkness no revela aquí su identidad** | En el anime ocurre en el episodio 10; en la novela ligera, hasta el volumen 3. Queda como decisión del autor |
+| **Darkness no revela aquí su identidad** | En el anime ocurre en el episodio 10; en la novela ligera, hasta el volumen 3. **Decisión del autor (13 de octubre): la revela en privado en el Vol. 2** y el pueblo se entera en el Vol. 3 |
 
 ---
 
@@ -80,19 +86,25 @@ Encabezados, fichas y biblia, todos al día: cap. 9 **8,343** · cap. 10 **8,889
 
 ---
 
-## 5. Lo que necesita decisión del autor
+## 5. Decisiones del autor sobre este informe (13 de octubre de 2026)
 
-1. **La aprobación del capítulo 9, del capítulo 10 y del epílogo.** (El prólogo y los capítulos 1 a 8 ya están aprobados y sellados.)
-2. **Darkness: ¿revela su nombre y su identidad de noble en algún punto del Vol. 2?** En el anime pasa en el episodio 10; aquí se dejó fuera para que lo decidas tú.
-3. **El apodo de Jesús** (decisión 5 del tablero): sigue pendiente y el Vol. 2 es su lugar natural. El epílogo ya dejó dicho que el pueblo no se pone de acuerdo.
-4. **«Archipresbítera» contra «archisacerdotisa»** para el rango de Aqua: el texto usa **archipresbítera** en todo el volumen. Si prefieres la otra, es un cambio de una palabra en varios archivos.
-5. **El arranque del Vol. 2.** El epílogo dejó servido el juicio (como en el canon). La alternativa es abrir con otra cosa y llevar el juicio al segundo o tercer capítulo.
+Las cinco preguntas de este apartado se contestaron el mismo día y quedaron aplicadas en el texto y en la biblia (el registro está en la sección 17):
+
+| Pregunta | Respuesta |
+| --- | --- |
+| **La aprobación del capítulo 9, del 10 y del epílogo** | **Aprobados los tres**: el Vol. 1 queda sellado completo |
+| **¿Darkness revela su identidad en el Vol. 2?** | **Sí, pero en privado**: lo sabe Jesús (y el lector); el pueblo se entera en el Vol. 3 |
+| **El apodo de Jesús** | **Que lo bautice el pueblo en escena en el Vol. 2**: la ficha del capítulo 11 propone el nombre |
+| **«Archipresbítera» contra «archisacerdotisa»** | **Archisacerdotisa**: cambiado en los capítulos 1, 2 y 4 |
+| **El arranque del Vol. 2** | **Abre con el juicio de Sena**: el capítulo 11 arranca ahí |
+
+Y una sexta decisión, que salió de la auditoría del mismo día: **la regla 9 se aplica en estricto**, con el habla mexicana solo en el narrador y en Jesús (ver el apartado de la voz del mundo, arriba).
 
 ---
 
 ## 6. Estado técnico
 
 - **Formato:** los trece archivos en **UTF-8-BOM** (ElevenReader) y el revisor automático en **0 faltas**.
-- **Extensión:** 65,036 palabras de narrativa. Las piezas más largas son el capítulo 10 (8,889), el capítulo 9 (8,343) y el capítulo 1 (7,127).
-- **Rótulos:** el prólogo y los capítulos 1–8 dicen «aprobado por el autor»; el 9, el 10 y el epílogo, «revisado; pendiente de aprobación del autor».
+- **Extensión:** 65,035 palabras de narrativa. Las piezas más largas son el capítulo 10 (8,889), el capítulo 9 (8,343) y el capítulo 1 (7,127).
+- **Rótulos:** las **doce** piezas dicen «aprobado por el autor» (el 9, el 10 y el epílogo se aprobaron el 13 de octubre de 2026). El capítulo 7 quedó en **5,004 palabras** al limpiar un mexicanismo de la voz del mundo; el conteo se corrigió en las cuatro copias.
 - **Repositorio:** el volumen completo está en `novela/volumen-1/` (doce piezas + `FICHAS.md`), con la biblia y la bitácora al día.

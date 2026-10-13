@@ -1,4 +1,4 @@
-# Registro de verificación de la biblia
+﻿# Registro de verificación de la biblia
 
 Última verificación: **11 de octubre de 2026**.
 
@@ -106,7 +106,7 @@ Se revisaron el prólogo y los capítulos 1 a 6 (aspecto físico, formas de habl
 | **Aspecto de Chris** | Ficha de personaje (wiki de la serie, TV Tropes) | **Pelo corto plateado-lila erizado, ojos morados, aire de chico**. El capítulo 4 la describía con pelo castaño y ojos café claro: **corregido**; la cicatriz chiquita en la mejilla se conserva |
 | **Arma de Darkness** | Ficha de personaje y equipo canónico | **Espadón** y armadura de cruzada; el escudo no es su equipo. Los capítulos 3 a 5 la hacían pelear con escudo: **corregido**; ahora para los golpes con el cuerpo, como ya hacía en la cosecha de coles |
 | **Aspecto de Megumin** | Ficha de personaje | Pelo castaño oscuro a los hombros, ojos carmesí, sombrero negro con dorado, **capa negra**, túnica roja, botas naranjas, **parche en el ojo y vendas en la pierna derecha**, bastón con gema. El capítulo 3 ya traía parche (justificado como «sello»): **corregido a capa negra con orilla dorada, vestido rojo y botas naranjas**. **Decidido el 12 de octubre: se añadieron las vendas** (una venda gorda enrollada de la rodilla al tobillo, en la pierna derecha) |
-| **Aspecto de Aqua** | Ficha de personaje | Pelo y ojos azul claro, túnica azul, prendedor con tres bolitas, clase **archipresbítera** (Arch Priest). Se añadieron túnica y prendedor en el capítulo 1; la clase ya estaba en el 2 |
+| **Aspecto de Aqua** | Ficha de personaje | Pelo y ojos azul claro, túnica azul, prendedor con tres bolitas, clase **archisacerdotisa** (Arch Priest). Se añadieron túnica y prendedor en el capítulo 1; la clase ya estaba en el 2. **Cambio del 13 de octubre de 2026:** el texto decía «archipresbítera» y el autor eligió **«archisacerdotisa»**; se cambió en los capítulos 1, 2 y 4 |
 | **Aspecto de Mitsurugi** | Ficha de personaje | En la novela ligera se parece a Kazuma (pelo negro); **en el anime, pelo claro y armadura azul con dorado**. Como esta novela sigue el orden y la imagen del anime (decisión 11), se usó **armadura azul de orillas doradas** y se añadió el aro dorado del pelo. Sus dos acompañantes (guerrera y ladrona) aparecen como «las dos muchachas» |
 | **Estatura de Aqua y de Jesús** | Ficha de personaje (Aqua ≈157 cm) y ficha del protagonista (estatura media-baja) | El capítulo 1 decía que Aqua «era más alta que yo»: **corregido** por una mirada cara a cara sin comparación de estatura |
 | **Maldición de la Premonición de Muerte** | Resumen del episodio 4 | En el canon **Darkness intercepta la maldición y Aqua la rompe con una sola palabra**. El capítulo 5 daba por resuelto «el asunto» entero: **corregido** para que Aqua solo alcance la de Darkness y la de Megumin quede adentro (solo Beldia puede quitarla), que es lo que sostiene el cierre del capítulo 6 y el viaje al cerro del capítulo 7 |

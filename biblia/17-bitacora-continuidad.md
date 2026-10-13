@@ -4,13 +4,13 @@
 >
 > **Regla de oro:** si la bitácora y el capítulo se contradicen, manda el capítulo — pero se corrige la bitácora el mismo día.
 
-**Última actualización:** **Volumen 1 completo en el papel** (capítulo 10 y epílogo escritos y revisados, pendientes de aprobación), 13 de octubre de 2026.
+**Última actualización:** **Volumen 1 terminado y aprobado por el autor** (las doce piezas, selladas el 13 de octubre de 2026), 13 de octubre de 2026.
 
 ---
 
 ## Estado actual
 
-**Piezas escritas:** las **12 de 12** del Volumen 1 (prólogo + 10 capítulos + epílogo): **65,036 palabras** de narrativa. **Nueve aprobadas por el autor** (prólogo y capítulos 1 a 8); el **capítulo 9**, el **capítulo 10** y el **epílogo** están revisados y pendientes de su aprobación.
+**Piezas escritas y aprobadas:** las **12 de 12** del Volumen 1 (prólogo + 10 capítulos + epílogo): **65,035 palabras** de narrativa. **Las doce están aprobadas por el autor**: el 13 de octubre de 2026 aprobó el capítulo 9, el capítulo 10 y el epílogo, con lo que el **Volumen 1 queda sellado completo**.
 
 | Pieza | Estado |
 | --- | --- |
@@ -21,11 +21,11 @@
 | Capítulo 4 — «La gente que se pone enfrente» | 🟩 Aprobado (5,077 palabras) |
 | Capítulo 5 — «El señor de la casa del cerro» | 🟩 Aprobado (5,030 palabras) |
 | Capítulo 6 — «El otro elegido» | 🟩 Aprobado (5,148 palabras) |
-| Capítulo 7 — «La gente que sí va» | 🟩 Aprobado (5,005 palabras) |
+| Capítulo 7 — «La gente que sí va» | 🟩 Aprobado (5,004 palabras) |
 | Capítulo 8 — «No me dolió» | 🟩 Aprobado (5,499 palabras) |
-| Capítulo 9 — «El camino del norte» | 🟨 Revisado; pendiente de aprobación del autor (8,343 palabras) |
-| Capítulo 10 — «El segundo trueno» | 🟨 Revisado; pendiente de aprobación del autor (8,889 palabras) |
-| Epílogo — «Los que vuelven» | 🟨 Revisado; pendiente de aprobación del autor (3,257 palabras) |
+| Capítulo 9 — «El camino del norte» | 🟩 Aprobado por el autor (8,343 palabras) |
+| Capítulo 10 — «El segundo trueno» | 🟩 Aprobado por el autor (8,889 palabras) |
+| Epílogo — «Los que vuelven» | 🟩 Aprobado por el autor (3,257 palabras) |
 
 **El grupo ya está completo** (Jesús, Aqua, Megumin y Darkness), registrado en el gremio como **cuadrilla** y, desde el epílogo, **con nombre: «Los que vuelven»**.
 
@@ -44,7 +44,7 @@
 | **Libro de banderas** | App de notas | Ya existe: la lista que empezó en Japón | Cap. 1 |
 | **La bolsa de Aqua** | Con Aqua | Abanico, botella, piedra con forma de corazón y adornos inútiles | Cap. 1 |
 | **La carta de aventurero** | Bolsillo de Jesús | Clase: **aventurero**. Números regulares; suerte un poco arriba del promedio | Cap. 2 |
-| **La carta rota de Aqua** | Archivo del gremio | Dice «archipresbítera» con todos los renglones al tope. Luna la declaró rota; el gremio se rio | Cap. 2 |
+| **La carta rota de Aqua** | Archivo del gremio | Dice «archisacerdotisa» con todos los renglones al tope. Luna la declaró rota; el gremio se rio | Cap. 2 |
 | **El vidrio verde del mar** | En el bolsillo de Jesús | Comprado con su primer dinero «porque es verde»; le recuerda el pedazo de mar de su ventana | Cap. 3 |
 | **Las cuatro monedas guardadas** | Con Jesús | Las primeras que guarda en su vida | Cap. 3 |
 | **La botita de Megumin** | Perdida en la panza de un sapo | Se menciona al escupirla: «muchísimo pasto y una botita» — le falta una | Cap. 3 |
@@ -107,7 +107,7 @@
 - **Su «cosa»:** un cuarto con ventana.
 - **Aqua decide acompañarlo** por terquedad: *«¡Alguien tiene que asegurarse de que ese cuarto tenga ventana!»*
 - Una **luz con voz de oficina** aprueba: *«Solicitud de acompañamiento aprobada. Regrese en cuanto cumpla.»*
-- Aqua es **archipresbítera** y lo presume.
+- Aqua es **archisacerdotisa** y lo presume.
 - Aqua revisó el celular: dice que **«no cuenta como cosa»** y pregunta si ahí está su mamá.
 - Aqua se rio una vez, dos segundos, y luego se puso seria.
 
@@ -551,7 +551,7 @@
 - **Elvira:** le dijo la verdad a su papá («que quiero ser aventurera, y que voy a volver»). Su papá le dijo que no y ella le dijo que ya lo sabía. Queda como promesa del mundo.
 - **La tienda de Wiz:** vendió todo (**158** de las 161 cosas; tres se rompieron) porque el pueblo entero se puso a comprar. Su miedo nuevo: la renta del mes que entra.
 - **Las banderas:** la décima es la que cierra el libro y **«Yo soy de aquí»** queda como última línea anotada del volumen.
-- **El apodo de Jesús:** sigue pendiente y se dice en el texto («el muchacho», «el de la playera», «mijo»). El Vol. 2 lo tiene que pagar.
+- **El apodo de Jesús:** sigue sin nombre y se dice en el texto («el muchacho», «el de la playera», «hijo»). **Decidido el 13 de octubre: cae en escena en el Vol. 2**, con el nombre propuesto en la ficha del capítulo 11.
 
 ### El hilo de los padres: se toca, no se cierra
 - Después de firmar el nombre nuevo, Jesús piensa en su mamá: que allá ella firmó un papel y que esa es la cuenta que él trae y todavía no ha podido pagar.
@@ -572,7 +572,7 @@ Primera revisión del volumen **completo** (las doce piezas, del prólogo al ep�
 **Lo que se corrigió en esta pasada:**
 - **La muletilla «mi hermano» se había disparado** en las tres últimas piezas: 1 vez cada 179 palabras en el capítulo 10 y 1 cada 182 en el epílogo, contra 1 cada ~700 en los capítulos aprobados. Se podaron a **8** en el capítulo 9, **12** en el 10 y **6** en el epílogo, conservando las que cargan emoción (el cierre de escenas, la noche del Destructor, el cuaderno, la despedida). Regla 8 de la sección 16.
 - **«Ya lo saben»** se dejó una vez por pieza, como máximo.
-- **Conteos al día:** capítulo 9, 8,343 · capítulo 10, 8,889 · epílogo, 3,257 · narrativa total del volumen, **65,036 palabras**.
+- **Conteos al día:** capítulo 9, 8,343 · capítulo 10, 8,889 · epílogo, 3,257 · narrativa total del volumen, **65,035 palabras**.
 - **Nombres canónicos nuevos del cierre:** **Alderp** (gobernador, grafía unificada con las secciones 03 y 06) y **Sena** (fiscal de la corona). Los dos verificados y anotados en la sección 12.
 
 **Lo que se revisó y quedó bien (sin cambios):**
@@ -582,6 +582,21 @@ Primera revisión del volumen **completo** (las doce piezas, del prólogo al ep�
 - El beso de Aqua y su negación pública en el epílogo.
 - La playera, la llave, la foto y el libro de banderas, que siguen en su sitio desde el capítulo 1.
 - Ninguna contradicción nueva entre piezas: los tiempos relativos (el aviso de dos días, los dieciséis días del camino roto, los cuatro días de la fiesta) cuadran.
+
+## Decisiones del cierre definitivo del Volumen 1 (13 de octubre de 2026, tercera ronda)
+
+Con el informe de la revisión de conjunto sobre la mesa, el autor aprobó las tres últimas piezas y cerró las decisiones que quedaban abiertas:
+
+| Pregunta | Respuesta del autor | Consecuencia |
+| --- | --- | --- |
+| ¿Se aprueban el capítulo 9, el capítulo 10 y el epílogo? | **Sí, los tres** | Las doce piezas del Vol. 1 quedan aprobadas y selladas |
+| ¿Darkness revela su identidad de noble en el Vol. 2? | **Sí, pero en privado** | En el Vol. 2 lo sabe Jesús (y el lector); el pueblo se entera hasta el Vol. 3 |
+| ¿Cuál es el apodo de Jesús? | **Que lo bautice el pueblo en escena** | No se decide en la biblia: cae en el Vol. 2, con el nombre propuesto en la ficha del capítulo 11 |
+| ¿«Archipresbítera» o «archisacerdotisa»? | **Archisacerdotisa** | Cambiado en los capítulos 1, 2 y 4, y anotado en la sección 12 |
+| ¿El Vol. 2 abre con el juicio de Sena? | **Sí** | El capítulo 11 arranca con el asunto de la corona (calabozo, interrogatorio o juicio) |
+| ¿Cómo se trata el habla mexicana en boca de la gente de Axel? | **Estricta (regla 9)** | Se limpiaron los mexicanismos de los personajes del mundo; el narrador y Jesús conservan su voz |
+
+Las seis respuestas quedaron aplicadas en el texto y en la biblia el mismo día. **El siguiente paso es la ficha del capítulo 11**, que abre el Volumen 2 con el juicio.
 
 ## Promesas abiertas (cosas insinuadas y todavía no pagadas)
 
@@ -599,11 +614,11 @@ Primera revisión del volumen **completo** (las doce piezas, del prólogo al ep�
 - **El mensaje a su mamá** («que no me dolió»): prometido por Aqua desde el capítulo 1. En el epílogo del Vol. 1 **Jesús decide que quiere mandarle un recado y no sabe cómo**. El cierre es del último volumen.
 - **El hilo de los padres:** se toca en el epílogo del Vol. 1 y **se cierra en el epílogo final** (decisión 7 del tablero).
 - **La pared del epílogo** (playera, llave y foto): es del **epílogo final**, cuando exista la casa.
-- **El juicio y la acusación de traición** (nuevo, epílogo del Vol. 1): la fiscal Sena se lleva el asunto a la corona. Es el arranque del Vol. 2, como en el canon.
+- **El juicio y la acusación de traición** (nuevo, epílogo del Vol. 1): la fiscal Sena se lleva el asunto a la corona. **Confirmado por el autor el 13 de octubre de 2026: el Vol. 2 abre aquí**, y con eso se arma la ficha del capítulo 11.
 - **Alderp, el gobernador** (nuevo): el núcleo del Destructor cayó en su mansión. Queda como antagonista sembrado (es el del canon y el que en el canon se aprovecha del juicio).
 - **La pierna de Megumin** (nuevo): hueso partido, semanas de curación y sin tirar nada. **Cicatriz del Vol. 1 y pendiente del Vol. 2.**
 - **El cuaderno del constructor** (nuevo): se queda con Jesús, dentro del suéter. Cuarenta años de la vida de un elegido que se quedó atrapado arriba de su propia máquina y que solo pedía que alguien le contestara.
-- **El apodo de Jesús** sigue pendiente (decisión 5 del tablero): el epílogo lo dice en voz alta para que el lector sepa que falta.
+- **El apodo de Jesús**: el epílogo lo dice en voz alta para que el lector sepa que falta. **Decisión del autor (13 de octubre): cae en escena en el Vol. 2.**
 - **La llave** que nunca usó y la puerta que abre.
 - **El marcador del último partido** que nunca supo.
 - **La puerta que Eris le ofreció y él cerró:** existe, y quedó cerrada por decisión suya.

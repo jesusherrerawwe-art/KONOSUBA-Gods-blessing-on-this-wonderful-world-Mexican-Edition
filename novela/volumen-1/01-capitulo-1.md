@@ -657,7 +657,7 @@ Me dijo que el reino se llama Belzerg, y que el Rey Demonio está allá lejos, e
 
 —¿Y tú qué eres? —le pregunté.
 
-—¿Yo? —se volteó, encantada, listísima, como si le hubieran preguntado su materia favorita—. Yo soy archipresbítera. Es una clase avanzada. Traducción: soy la mejor.
+—¿Yo? —se volteó, encantada, listísima, como si le hubieran preguntado su materia favorita—. Yo soy archisacerdotisa. Es una clase avanzada. Traducción: soy la mejor.
 
 —¿Y qué haces?
 

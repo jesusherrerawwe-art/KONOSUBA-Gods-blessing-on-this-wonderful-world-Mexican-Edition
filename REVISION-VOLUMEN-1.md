@@ -1,4 +1,4 @@
-# Revisión completa del Volumen 1 — prólogo y capítulos 1 a 6
+﻿# Revisión completa del Volumen 1 — prólogo y capítulos 1 a 6
 
 Fecha: 12 de octubre de 2026.
 Alcance: las siete piezas escritas del Volumen 1 (prólogo + capítulos 1 a 6), leídas completas, una por una.
@@ -104,7 +104,7 @@ Todo esto se comprobó contra fichas y resúmenes oficiales y de fans, y quedó 
 
 | Personaje | Lo que dice el canon | Estado en la novela |
 | --- | --- | --- |
-| **Aqua** | Pelo y ojos azul claro, túnica azul de diosa, prendedor con tres bolitas, clase archipresbítera | Corregida y completa (caps. 1–2) |
+| **Aqua** | Pelo y ojos azul claro, túnica azul de diosa, prendedor con tres bolitas, clase archipresbítera (hoy **archisacerdotisa**: cambio del 13 de octubre de 2026) | Corregida y completa (caps. 1–2) |
 | **Luna** | Rubia ondulada, chongo alto con banda, ojos dorados, blusa blanca, shorts, botas café | Corregida (cap. 2) |
 | **Megumin** | Pelo castaño oscuro a los hombros, ojos carmesí, sombrero negro con dorado, capa negra, túnica roja, botas naranjas, parche y vendas, bastón con gema, 14 años | Corregida y completa (parche **y** vendas) |
 | **Darkness** | 18 años, rubia con puntas naranjas en coleta alta, ojos azul claro, armadura, espadón, cruzada, devota de Eris | Corregida; ya no usa escudo |
