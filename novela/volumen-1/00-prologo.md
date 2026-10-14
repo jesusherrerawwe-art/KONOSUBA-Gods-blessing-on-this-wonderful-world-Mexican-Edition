@@ -1,4 +1,4 @@
-﻿# Prólogo. Un lugar sin ventanas
+﻿Prólogo. Un lugar sin ventanas
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Volumen 1, prólogo. Extensión: 954 palabras. Estado: aprobado por el autor.
