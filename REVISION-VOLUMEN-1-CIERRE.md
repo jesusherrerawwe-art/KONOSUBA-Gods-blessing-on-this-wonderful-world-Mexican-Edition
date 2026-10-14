@@ -29,7 +29,7 @@ La lección entró a la biblia como **regla 8** (sección 16): en cada cierre de
 
 El señor barbón decía, en el capítulo 10, que a él lo único que lo había tumbado en la vida era **el tequila**. Problema: el tequila no existe en este mundo, y quien lo decía no era el narrador comparando, sino un vecino de Axel hablando de su propia vida. Se cambió por **el aguardiente**, que sí es una palabra de este mundo, y quedó registrado como **regla 9** de la sección 16: lo mexicano vive en la voz de Jesús y en sus recuerdos, nunca en la boca de la gente de Axel.
 
-### La voz del mundo, limpia de México (regla 9, aplicada en estricto)
+**La voz del mundo, limpia de México (regla 9, aplicada en estricto).**
 
 Al cerrar el volumen, el autor eligió la versión **estricta** de la regla 9, así que la regla se pasó al texto. Estaban en boca de la gente de Axel (y de la diosa) palabras marcadamente mexicanas: **Luna** («pa' qué», «ah, órale», «mijo» dos veces), **el señor barbón** («¡Órale!», «pa qué carajos», «nomás»), **el señor de la cola** («mijo», «nomás»), **Aqua** («pa' cuatro», «nomás», «ahorita mismo»), **Wiz** («mija», dos veces) y **Beldia** («nomás», «orita», «ahorita»). Todas se cambiaron por equivalentes neutros (para, vaya, muchacho, hija, solo, todavía, ahora), sin mover el sentido de ninguna escena. En el epílogo, la línea «la señora del pan me dice mijo» pasó a «me dice hijo».
 

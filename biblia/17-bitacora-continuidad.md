@@ -583,7 +583,7 @@ Primera revisión del volumen **completo** (las doce piezas, del prólogo al ep�
 - La playera, la llave, la foto y el libro de banderas, que siguen en su sitio desde el capítulo 1.
 - Ninguna contradicción nueva entre piezas: los tiempos relativos (el aviso de dos días, los dieciséis días del camino roto, los cuatro días de la fiesta) cuadran.
 
-## Decisiones del cierre definitivo del Volumen 1 (13 de octubre de 2026, tercera ronda)
+**Decisiones del cierre definitivo del Volumen 1 (13 de octubre de 2026, tercera ronda).**
 
 Con el informe de la revisión de conjunto sobre la mesa, el autor aprobó las tres últimas piezas y cerró las decisiones que quedaban abiertas:
 
