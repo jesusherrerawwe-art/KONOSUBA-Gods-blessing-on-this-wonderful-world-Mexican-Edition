@@ -26,7 +26,7 @@ Carpeta abierta el **13 de octubre de 2026**, al sellar el Volumen 1 completo (d
 | Cap. | Estado | Título | Nota |
 | --- | --- | --- | --- |
 | 11 | 🟩 Aprobado por el autor | La verdad en voz alta | 5,560 palabras. Abre el volumen con **el juicio de Sena**: la acusación, la noche en la celda y el interrogatorio con la campana. Corta cuando la fiscal pide la pena máxima; el juicio, en el 12 |
-| 12 | 🟦 Revisado; pendiente de aprobación | La cuenta | 7,237 palabras. El juicio completo: la acusación, las defensas que hunden, la campana, el veredicto que se voltea, la condena a muerte, la conmutación por deuda y la confiscación. Cierra con el guante de Darkness |
+| 12 | 🟩 Aprobado por el autor | La cuenta | 7,237 palabras. El juicio completo: la acusación, las defensas que hunden, la campana, el veredicto que se voltea, la condena a muerte, la conmutación por deuda y la confiscación. Cierra con el guante de Darkness |
 | 13 a 20 | ⬜ En blanco | sin título | Sin diseñar |
 
 **Leyenda:** ⬜ vacío · 🟨 en diseño · 🟦 en redacción o revisión (pendiente de aprobación del autor) · 🟩 aprobado por el autor, cerrado o fijado.
@@ -58,8 +58,8 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 
 - **Capítulos escritos:** 11 y 12.
 - **Aprobado por el autor:** el capítulo 11 «La verdad en voz alta» (5,560 palabras).
-- **Revisado y pendiente de aprobación:** el capítulo 12 «La cuenta» (7,237 palabras).
-- **Siguiente paso:** la lectura del autor y, con su aprobación, la ficha del capítulo 13.
+- **Aprobado por el autor:** el capítulo 12 «La cuenta» (7,237 palabras).
+- **Siguiente paso:** la ficha del capítulo 13.
 
 ---
 
@@ -98,7 +98,7 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 | --- | --- |
 | **Volumen** | 2 |
 | **Extensión** | 7,237 palabras |
-| **Estado** | 🟦 Revisado; pendiente de aprobación del autor |
+| **Estado** | 🟩 Aprobado por el autor |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que el pueblo no pague por lo que él decidió |
 | **Obstáculo** | Un juez que cambia de opinión, un gobernador que sí tiene casa, y una ley que no escribió él |
@@ -119,7 +119,7 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 - **La deuda es el motor del volumen.** Mil doscientos cuarenta millones de eris contra tres mil doscientos que juntan sus bienes: el chiste y el peso, en la misma cuenta.
 - **Rótulo del capítulo:** «La cuenta» tiene doble filo en México: la de pagar y la de darse cuenta. Las dos se usan.
 
-**Notas de canon y de invención del capítulo 12 (para la aprobación del autor):**
+**Notas de canon y de invención del capítulo 12 (aprobadas por el autor el 17 de octubre de 2026):**
 - **Es canon:** la acusación de subversión, la campana, el juez que dicta inocencia y cambia a culpable cuando el demandante protesta, Aqua detectando el poder oscuro y siendo expulsada, la conmutación de la muerte por deuda, la cifra de **mil doscientos cuarenta millones de eris** y la incautación de todos los bienes.
-- **Es invención de esta novela, a aprobación del autor:** (1) que el señor Alderp **reconozca a Darkness sin nombrarla** («Salúdeme a su padre») y que eso explique el cambio de parecer del juez; (2) que Darkness haya ido a verlo la noche anterior **sin armadura** y con un guante de seda; (3) que **Sena venga de un pueblo que no sale en los mapas**. Ninguna de las tres contradice el canon; las tres son material nuevo y se pueden quitar o cambiar sin tocar el resto del juicio.
+- **Es invención de esta novela, aprobada por el autor:** (1) que el señor Alderp **reconozca a Darkness sin nombrarla** («Salúdeme a su padre») y que eso explique el cambio de parecer del juez; (2) que Darkness haya ido a verlo la noche anterior **sin armadura** y con un guante de seda; (3) que **Sena venga de un pueblo que no sale en los mapas**. Ninguna de las tres contradice el canon; las tres son material nuevo y se pueden quitar o cambiar sin tocar el resto del juicio.
 - **Regla 7 respetada:** no hay ningún nombre propio nuevo en el capítulo. El juez, el escribano y el comandante quedan sin nombre a propósito.
