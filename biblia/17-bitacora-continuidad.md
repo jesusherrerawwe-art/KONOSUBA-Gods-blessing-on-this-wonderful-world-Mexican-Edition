@@ -598,7 +598,7 @@ Con el informe de la revisión de conjunto sobre la mesa, el autor aprobó las t
 
 Las seis respuestas quedaron aplicadas en el texto y en la biblia el mismo día.
 
-**Carpeta del Volumen 2 abierta** (`novela/volumen-2/`), con su `FICHAS.md` en blanco: trae el marco, el tablero de los capítulos 11 a 20 y el resumen de lo ya decidido, pero **ni una ficha adelantada** (regla de casa). El siguiente paso es **la ficha del capítulo 11**, que abre el Volumen 2 con el juicio de Sena.
+**Carpeta del Volumen 2 abierta** (`novela/volumen-2/`), con dos documentos: el `FICHAS.md` —marco, tablero de los capítulos 11 a 20 y lo ya decidido, pero **ni una ficha adelantada** (regla de casa)— y el **`00-resumen-volumen-1.md`**, el repaso del volumen anterior (historia, reparto, tiempo, banderas, estado y promesas) para no llegar en blanco al capítulo 11.
 
 ## Promesas abiertas (cosas insinuadas y todavía no pagadas)
 
@@ -651,7 +651,7 @@ Las seis respuestas quedaron aplicadas en el texto y en la biblia el mismo día.
 | Quién | Clase | Qué aporta | Qué le falta |
 | --- | --- | --- | --- |
 | **Jesús** | Aventurero | Organiza, carga, *Robar*, y ahora quiere hacerse fuerte | Fuerza, experiencia, sentido común de este mundo |
-| **Aqua** | Archipresbítera | Cura, purifica, ahuyenta muertos | Nadie le cree que es diosa; le sale caro todo |
+| **Aqua** | Archisacerdotisa | Cura, purifica, ahuyenta muertos | Nadie le cree que es diosa; le sale caro todo |
 | **Megumin** | Archimaga | Una Explosión al día (en el cap. 10 tiró **dos el mismo día**) | Después de lanzarla, no puede moverse; y desde el cap. 10, la pierna derecha entablillada: semanas sin caminar y sin tirar nada |
 | **Darkness** | Cruzada | Muro: aguanta cualquier golpe | No acierta un solo ataque; le encanta el castigo |
 

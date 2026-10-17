@@ -5,6 +5,8 @@ Volumen 2. Título del volumen: **reservado por el autor** (sorpresa, decisión 
 
 Carpeta abierta el **13 de octubre de 2026**, al sellar el Volumen 1 completo (doce piezas aprobadas). Aquí viven las fichas y los capítulos del **Volumen 2**: los capítulos **11 al 20**.
 
+**Antes de escribir el capítulo 11:** el repaso del Volumen 1 está en [`00-resumen-volumen-1.md`](00-resumen-volumen-1.md). Cuenta la historia, quién es quién, la cuenta del tiempo, las diez banderas, cómo queda todo y lo que quedó abierto. Con eso no se llega en blanco.
+
 ---
 
 **Cómo se llena esta carpeta** (el método, sección 16 de la biblia)

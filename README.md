@@ -23,6 +23,7 @@ El texto de la novela vive en la carpeta [`novela/`](novela/), separada de la bi
   - [`00-prologo.md`](novela/volumen-1/00-prologo.md) — «Un lugar sin ventanas».
   - [`FICHAS.md`](novela/volumen-1/FICHAS.md) — fichas de diseño de cada pieza del volumen.
 - [`novela/volumen-2/`](novela/volumen-2/) — Volumen 2: capítulos 11 a 20. Carpeta abierta el 13 de octubre de 2026; se escribe capítulo a capítulo.
+  - [`00-resumen-volumen-1.md`](novela/volumen-2/00-resumen-volumen-1.md) — resumen del Volumen 1: historia, reparto, tiempo, banderas y lo que quedó abierto.
   - [`FICHAS.md`](novela/volumen-2/FICHAS.md) — fichas de diseño del volumen, empezando por el capítulo 11.
 
 Los archivos de la novela se guardan en **UTF-8 con BOM (UTF-8-BOM)**, que es el formato que necesita la aplicación de lectura en voz alta (**ElevenReader**). Si algún archivo pierde el BOM al editarlo, se recupera con `python3 herramientas/utf8-bom.py`; para revisar formato, extensión y reglas de lectura en voz alta está `python3 herramientas/revisar-capitulos.py`.

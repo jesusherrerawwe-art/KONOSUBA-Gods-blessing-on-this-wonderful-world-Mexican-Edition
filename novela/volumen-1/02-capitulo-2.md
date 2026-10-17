@@ -323,7 +323,7 @@ Luna volteó la carta para el otro lado, como si leyéndola al revés fuera a de
 
 —Es que... —Luna se rascó la nuca—. Es que aquí dice que eres archisacerdotisa.
 
-—¡Sí! —Aqua se subió a la banca otra vez—. ¡Sí, señores! ¡Archipresbítera! ¿¡Y qué dijeron de los números!?
+—¡Sí! —Aqua se subió a la banca otra vez—. ¡Sí, señores! ¡Archisacerdotisa! ¿¡Y qué dijeron de los números!?
 
 Y los números, hermano, los números eran un chiste.
 
