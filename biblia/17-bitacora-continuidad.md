@@ -782,3 +782,19 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 **Matriz de secretos, actualización:** **Darkness** — Alderp ya sabe quién es (le dijo «salúdeme a su padre»); Jesús sospecha que fue a verlo y **no pregunta**, porque ella se lo pidió; el pueblo sigue sin saberlo. El nombre (Dustiness, Lalatina) **no se dice en el capítulo 12**.
 
 **Números:** revisor en **17 archivos, 91,109 palabras, 0 faltas**.
+
+---
+
+## Barrido de rayas en el Volumen 1 (17 de octubre de 2026)
+
+**Pedido del autor:** «que nada más uses el renglón largo (—) para los diálogos de los personajes y signos diferentes para el resto del texto de los capítulos». Se aplicó a las **doce piezas del Volumen 1** ya aprobadas, además de dejarlo como regla para todo lo que venga.
+
+**Qué se encontró:** diez líneas de narración con raya para incisos, repartidas en siete piezas: el prólogo, los capítulos 1, 2 (dos líneas), 3 (tres), 4, 6 y 9. Ni una sola estaba en un diálogo.
+
+**Qué se hizo:** los incisos pasaron a **paréntesis** (cinco casos, que es el signo que la voz ya usaba en el capítulo 4 y en el 9), a **comas** (tres), a **dos puntos y punto y seguido** (uno) y a **dos oraciones** (el del capítulo 1, «Mi mamá se llamaba María. Se llama.»). **No se cambió ni una palabra de diálogo** y **los conteos no se movieron**: las doce piezas siguen con las mismas palabras y el total sigue en 91,109.
+
+**Lo que queda igual a propósito:** la raya de las acotaciones dentro del diálogo («—dijo—»), que es parte del diálogo y no de la narración.
+
+**Herramienta:** `herramientas/revisar-capitulos.py` ahora revisa la regla y **marca falta** si aparece una raya fuera de diálogo. Probado con un caso artificial: lo detecta. Las doce piezas del Vol. 1 y los capítulos 11 y 12 dan **0 faltas**.
+
+**Nota:** el `FICHAS.md` del Vol. 1 conserva rayas en sus encabezados y tablas porque es **documento de trabajo**, no texto de la novela, y no se lee en voz alta.

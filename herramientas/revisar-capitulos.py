@@ -16,7 +16,9 @@ Revisa, por archivo:
      conservan. Solo se marca falta si un archivo trae dos BOM pegados.
   2. La extensión en palabras del cuerpo (sin contar el encabezado) contra el
      número que anuncia el propio encabezado.
-  3. Las reglas de texto a voz de biblia/16: sin marcas de formato en el cuerpo,
+  3. Que la raya larga (—) se use solo para los diálogos de los personajes: una
+     raya en una línea de narración se marca como falta (regla 11 de biblia/16).
+  4. Las reglas de texto a voz de biblia/16: sin marcas de formato en el cuerpo,
      puntos suspensivos de tres puntos, sin abreviaturas, sin emojis, sin
      frases largas en mayúsculas, sin dobles espacios ni espacios antes de
      signo de puntuación.
@@ -72,6 +74,12 @@ def revisar(ruta):
 
     if crudo.startswith(BOM + BOM):
         hallazgos.append(("FALTA", "el archivo tiene dos BOM"))
+
+    # Regla 11: la raya larga es de los diálogos, no de la narración.
+    if es_pieza:
+        for n, linea in enumerate(lineas, 1):
+            if "—" in linea and not linea.lstrip().startswith("—"):
+                hallazgos.append(("FALTA", f"línea {n}: raya fuera de diálogo ({linea.strip()[:50]})"))
 
     palabras = len(re.findall("[A-Za-zÁÉÍÓÚÜÑáéíóúüñ0-9]+", cuerpo))
     anunciado = re.search(r"Extensi[oó]n:\s*([\d,]+)", "\n".join(lineas[:5]))

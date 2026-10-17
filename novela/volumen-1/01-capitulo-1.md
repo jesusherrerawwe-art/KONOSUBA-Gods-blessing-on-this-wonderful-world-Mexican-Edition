@@ -43,7 +43,7 @@ No era el mundo que yo hubiera escogido. Pero era un buen mundo.
 
 ---
 
-Mi mamá se llamaba —se llama— María. Es de Guadalajara también, y cuando se enoja se le mete el acento de allá y le salen palabras que no usa nunca, como «chamaco» o «órale pues».
+Mi mamá se llamaba María. Se llama. Es de Guadalajara también, y cuando se enoja se le mete el acento de allá y le salen palabras que no usa nunca, como «chamaco» o «órale pues».
 
 Se levantaba antes que el sol. No exagero: en Okinawa el sol sale tempranísimo y mi mamá se levantaba todavía más temprano, porque le gustaba tener el desayuno listo antes de que yo abriera los ojos. Después de todos esos años, sigue siendo la persona más puntual que he conocido.
 

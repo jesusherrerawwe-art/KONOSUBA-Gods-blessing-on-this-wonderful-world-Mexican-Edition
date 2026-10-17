@@ -195,7 +195,7 @@ Se llamaba Luna. Y ese día, a mí, ese nombre me gustó.
 
 Registrarse en el gremio no era como firmar un papel. Era más raro.
 
-Luna nos llevó a un mostrador largo, sacó dos cartas de un cajón —cartas de cartón grueso, del tamaño de una estampita— y me pidió la mano.
+Luna nos llevó a un mostrador largo, sacó dos cartas de un cajón, cartas de cartón grueso, del tamaño de una estampita, y me pidió la mano.
 
 Antes de eso me había hecho unas preguntas y las había apuntado en su tabla: cuántos años tenía, de qué color traía el pelo, cómo traía los ojos.
 
@@ -645,7 +645,7 @@ Y no discutimos nada más.
 
 Y aquí está la parte de este capítulo que me cuesta escribir.
 
-Porque a esa hora, ya acostado en el catre, con la ventana abierta y con la luna entrando por el vidrio sucio, y con Aqua al otro lado del pasillo acomodándose en su cuarto —que era igual al mío, pero con más adornos—, yo hice lo que hice todas las noches de mi vida.
+Porque a esa hora, ya acostado en el catre, con la ventana abierta y con la luna entrando por el vidrio sucio, y con Aqua al otro lado del pasillo acomodándose en su cuarto, que era igual al mío pero con más adornos, yo hice lo que hice todas las noches de mi vida.
 
 Me puse a decir buenas noches.
 

@@ -23,7 +23,7 @@ El gremio, a media mañana, estaba lleno de gente que no estaba trabajando.
 
 Eso era lo malo del invierno en Axel: que el gremio se llena. En el verano todos andan en el monte y las mesas están vacías; en el invierno todos andan en las mesas, con las manos alrededor del jarro, contando historias y esperando el encargo que no va a caer, porque sin carreteros no hay encargos, porque sin encargos no hay dinero, y porque sin sal no hay nada que se pueda guardar.
 
-El tablero de papel tenía tres cosas pegadas. Dos eran de siempre —una cerca caída del lado del río, un perro perdido del señor Baltasar— y la tercera era una hoja nueva, escrita con la letra derechita de Luna.
+El tablero de papel tenía tres cosas pegadas. Dos eran de siempre: una cerca caída del lado del río y un perro perdido del señor Baltasar. La tercera era una hoja nueva, escrita con la letra derechita de Luna.
 
 «Reconocimiento del camino real del norte. Se pide el favor de llegar hasta el paso, verificar el estado del camino y reportar. Alimentación cubierta. Pago: novecientos eris. No se requiere combate.»
 

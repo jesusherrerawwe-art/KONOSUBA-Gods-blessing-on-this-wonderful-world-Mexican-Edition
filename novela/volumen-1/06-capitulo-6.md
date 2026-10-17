@@ -37,7 +37,7 @@ Yo me enteré de golpe, cuando entré al cuarto y vi mi caja vacía.
 
 Y ahí empezó el festival.
 
-Resulta que el padre Aldo le había dicho que el techo del templo tenía goteras, y que no había fondos, y que la diosa del agua no tenía ni una vela encendida en su altar. Y Aqua, que es una diosa del agua, y que llevaba tres semanas con nadie creyéndole nada, se había sentido —y esto lo dijo con la voz quebrada— «responsable».
+Resulta que el padre Aldo le había dicho que el techo del templo tenía goteras, y que no había fondos, y que la diosa del agua no tenía ni una vela encendida en su altar. Y Aqua, que es una diosa del agua, y que llevaba tres semanas con nadie creyéndole nada, se había sentido (y esto lo dijo con la voz quebrada) «responsable».
 
 —¡Las velas! —me dijo, llorando—. ¡No tenía ni una vela, Jesús! ¡Yo nunca había visto mi altar tan vacío! ¡Mi propio altar!
 

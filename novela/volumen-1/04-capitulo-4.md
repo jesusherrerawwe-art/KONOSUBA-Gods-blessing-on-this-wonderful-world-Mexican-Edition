@@ -301,7 +301,7 @@ Y luego se me quedó viendo con cara de estar revisando una tarea.
 
 —Otra vez. Con la del sombrero.
 
-Así que salimos al pasillo, y despertamos a Megumin, y le explicamos a Megumin que le iban a robar algo de práctica, y Megumin se puso de pie en el pasillo, con su camisón y su sombrero —se puso el sombrero para practicar, eso lo tengo que decir— y se cuadró con el bastón.
+Así que salimos al pasillo, y despertamos a Megumin, y le explicamos a Megumin que le iban a robar algo de práctica, y Megumin se puso de pie en el pasillo, con su camisón y su sombrero (se puso el sombrero para practicar, eso lo tengo que decir) y se cuadró con el bastón.
 
 —¡A ver si te atreves, aventurero de pacotilla!
 

@@ -83,7 +83,7 @@ Y me puse a buscar.
 
 Y ahí, hermano, aprendí otra cosa de este mundo: que buscar compañeros es como buscar lugar en una banca.
 
-Me acerqué a la mesa del señor barbón —el que había dicho que él era un príncipe— y apenas dije «buenos días» cuando ya me estaba diciendo que no. Me acerqué a dos muchachos con arco, y me dijeron que sí, siempre y cuando fuera «sin la del pelo azul». Se lo dije a Aqua y Aqua se puso a llorar de teatrito, y los del arco se fueron.
+Me acerqué a la mesa del señor barbón, el que había dicho que él era un príncipe, y apenas dije «buenos días» cuando ya me estaba diciendo que no. Me acerqué a dos muchachos con arco, y me dijeron que sí, siempre y cuando fuera «sin la del pelo azul». Se lo dije a Aqua y Aqua se puso a llorar de teatrito, y los del arco se fueron.
 
 Me acerqué a un señor enorme, de esos que uno ve y piensa que ahí sí.
 
@@ -343,7 +343,7 @@ Aprendí que cuando algo le importa mucho, se calla, y que a lo mejor por eso se
 
 Y aprendí que el sombrero no es un sombrero: es su casa. Cuando se lo quita y se lo pone en las piernas, uno entiende que la muchacha está descansando.
 
-Cuando llegamos al valle, ella sacó su bastón —un bastón de madera con una piedra azul en la punta—, se plantó en una piedra y nos dijo:
+Cuando llegamos al valle, ella sacó su bastón, un bastón de madera con una piedra azul en la punta, se plantó en una piedra y nos dijo:
 
 —Escúchenme bien. Yo nada más puedo lanzar una vez. Una. Y cuando la lanzo, me quedo sin nada —y levantó una mano antes de que yo dijera nada—. No me digan que la use para defenderme, porque no puedo. No me digan que la lance al principio, porque no puedo. Y no me digan que la lance al final, porque tampoco. Yo la lanzo cuando yo diga.
 
@@ -491,7 +491,7 @@ Corrí.
 
 Nunca había corrido así. Me dolieron las costillas, la garganta, todo, y no me detuve, porque adentro de ese sapo iba una muchacha que pesa nada, que acababa de partir el mundo en dos y a la que nadie le había querido dar la mano en cuatro días.
 
-Alcancé al sapo, le agarré una pata —las patas son gordas y resbalosas y no hay dónde agarrar—, y me subí.
+Alcancé al sapo, le agarré una pata (las patas son gordas y resbalosas y no hay dónde agarrar), y me subí.
 
 Me subí a un sapo. Yo. Un niño que hace una semana no podía caminar tres cuadras.
 

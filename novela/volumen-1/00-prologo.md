@@ -13,7 +13,7 @@ Aquí no hay techo.
 
 Tardé en entenderlo, porque al principio no me pareció lo importante. Lo importante era la ventana. Eso fue lo primero que busqué.
 
-Yo siempre busco la ventana. Cada vez que entraba a un lugar nuevo —un consultorio, una sala de espera, la oficina de algún doctor al que nunca habíamos ido—, lo primero que hacía era encontrarla. No para mirar afuera. Nada más para saber dónde estaba, por si en algún momento me daban ganas de mirar.
+Yo siempre busco la ventana. Cada vez que entraba a un lugar nuevo (un consultorio, una sala de espera, la oficina de algún doctor al que nunca habíamos ido), lo primero que hacía era encontrarla. No para mirar afuera. Nada más para saber dónde estaba, por si en algún momento me daban ganas de mirar.
 
 Aquí no había ninguna.
 
