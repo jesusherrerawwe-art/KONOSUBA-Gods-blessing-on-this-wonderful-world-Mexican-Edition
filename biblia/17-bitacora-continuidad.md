@@ -600,6 +600,26 @@ Las seis respuestas quedaron aplicadas en el texto y en la biblia el mismo día.
 
 **Carpeta del Volumen 2 abierta** (`novela/volumen-2/`), con dos documentos: el `FICHAS.md` —marco, tablero de los capítulos 11 a 20 y lo ya decidido, pero **ni una ficha adelantada** (regla de casa)— y el **`00-resumen-volumen-1.md`**, el repaso del volumen anterior (historia, reparto, tiempo, banderas, estado y promesas) para no llegar en blanco al capítulo 11.
 
+## La matriz de secretos (quién sabe qué)
+
+El mapa más delicado de la novela. Con cuatro protagonistas, dos diosas y un pueblo entero, el error fácil no es de fechas: es poner a alguien sabiendo algo que no le tocaba. Esta tabla manda; si una escena nueva cambia una fila, se actualiza aquí el mismo día.
+
+| Secreto | Lo sabe | Lo sospecha | No lo sabe |
+| --- | --- | --- | --- |
+| **El celular** (que es de otro mundo y que funciona) | Jesús · Aqua (lo cachó con la linterna, cap. 4) · Megumin (vio la foto y escuchó de dónde viene) | — | Darkness · Wiz · el pueblo |
+| **Que Jesús se murió dos veces** y que puede volver | Aqua · Wiz (se lo contó él, cap. 9) · Megumin (cap. 8, con la oferta de Eris y el «no») | — | Darkness · el pueblo |
+| **La foto** (él con su mamá en el hospital) | Jesús · Megumin (la primera y única que la ha visto, cap. 8) · Aqua sabe que existe | — | Darkness · Wiz · el pueblo |
+| **El libro de banderas** | Jesús, y nadie más: nunca se lo han visto abierto | — | los demás |
+| **Wiz fue liche y general del Rey Demonio** | Wiz · Aqua · Jesús · Beldia | — | Megumin · Darkness · el pueblo (para Axel es la tendera rara del callejón) |
+| **Que Aqua es diosa** | La cuadrilla | — | El pueblo entero: no le cree («y yo soy un príncipe») |
+| **Que Darkness es noble** | Darkness · el lector | Jesús: sabe que hay algo y que «no era su asunto» (cap. 4) | Aqua · Megumin · el pueblo. **Decisión: lo revela en privado en el Vol. 2** |
+| **Chris es Eris** | El lector y el diseño de la novela | — | Jesús · Aqua · todos los demás. **Aqua es la última en enterarse** |
+| **El cuaderno del constructor** | Jesús lo leyó completo y les contó la vida del hombre a la cuadrilla (cap. 10) | — | el pueblo |
+| **La llave** y la puerta que nunca abrió | Jesús; Chris la tuvo en la mano una vez (cap. 4) sin saber qué era | — | los demás |
+| **La acusación de traición** | Todo Axel, y ahora la corona | — | nadie: es pública |
+
+**La regla de oro de los secretos:** ninguno se cae por descuido; cada uno se cae cuando la escena lo cobra. Y cuando se cae, se anota en esta tabla y en la sección correspondiente del capítulo.
+
 ## Promesas abiertas (cosas insinuadas y todavía no pagadas)
 
 > **Puesto al día el 13 de octubre de 2026**, al cerrar el Vol. 1. Se separan las que **ya se pagaron** de las que siguen abiertas.

@@ -118,6 +118,9 @@ Jesús es mexicano-japonés y su narración está llena de casa: «nomás», «m
 
 **Aplicación (13 de octubre de 2026, al sellar el Vol. 1):** el autor eligió la versión **estricta** para todo el volumen y la regla se pasó al texto: se limpiaron los mexicanismos en boca de la gente del mundo —Luna («pa' qué», «órale», «mijo»), el señor barbón («órale», «pa qué», «nomás»), Aqua («pa' cuatro», «nomás», «ahorita mismo»), Wiz («mija»), Beldia («nomás», «orita», «ahorita») y el señor de la cola («mijo», «nomás»)— y el habla mexicana se quedó donde debe: en el narrador y en la boca de Jesús, que es de Guadalajara. En el epílogo, «la señora del pan me dice mijo» pasó a «me dice hijo».
 
+**Regla 10 (13 de octubre de 2026): el BOM es de la novela, no de la biblia.**
+El formato UTF-8 con BOM existe por una sola razón: la aplicación de lectura en voz alta (**ElevenReader**) lo pide para los archivos que va a leer. Por eso el BOM va en **`novela/`** y en **ningún otro lado**. Los documentos de trabajo —la biblia, los informes de la raíz y el README— se guardan en **UTF-8 sin BOM**. Al editar con scripts, se abre con `encoding="utf-8-sig"` solo si el archivo es de `novela/` y se vuelve a escribir con el mismo formato que tenía; la manera segura es pasar por `herramientas/utf8-bom.py` al final, que respeta lo que ya estaba. *(Regla nacida de dos descuidos del 13 de octubre, ya corregidos.)*
+
 ## Tablero del Volumen 1 (capítulos 1–10)
 
 | Cap. | Estado | Título | Nota |
