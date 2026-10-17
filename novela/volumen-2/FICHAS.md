@@ -26,7 +26,8 @@ Carpeta abierta el **13 de octubre de 2026**, al sellar el Volumen 1 completo (d
 | Cap. | Estado | Título | Nota |
 | --- | --- | --- | --- |
 | 11 | 🟩 Aprobado por el autor | La verdad en voz alta | 5,560 palabras. Abre el volumen con **el juicio de Sena**: la acusación, la noche en la celda y el interrogatorio con la campana. Corta cuando la fiscal pide la pena máxima; el juicio, en el 12 |
-| 12 a 20 | ⬜ En blanco | sin título | Sin diseñar |
+| 12 | 🟦 Revisado; pendiente de aprobación | La cuenta | 7,224 palabras. El juicio completo: la acusación, las defensas que hunden, la campana, el veredicto que se voltea, la condena a muerte, la conmutación por deuda y la confiscación. Cierra con el guante de Darkness |
+| 13 a 20 | ⬜ En blanco | sin título | Sin diseñar |
 
 **Leyenda:** ⬜ vacío · 🟨 en diseño · 🟦 en redacción o revisión (pendiente de aprobación del autor) · 🟩 aprobado por el autor, cerrado o fijado.
 
@@ -55,9 +56,10 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 
 **Estado del volumen**
 
-- **Capítulos escritos:** 11.
+- **Capítulos escritos:** 11 y 12.
 - **Aprobado por el autor:** el capítulo 11 «La verdad en voz alta» (5,560 palabras).
-- **Siguiente paso:** la ficha del capítulo 12 (el juicio en sí: el juez, Alderp en la sala, los testigos y la resolución).
+- **Revisado y pendiente de aprobación:** el capítulo 12 «La cuenta» (7,224 palabras).
+- **Siguiente paso:** la lectura del autor y, con su aprobación, la ficha del capítulo 13.
 
 ---
 
@@ -87,3 +89,37 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 - **Sena no es villana.** Hace bien su trabajo, viene de un pueblo que no sale en los mapas y no le gusta el aparato que usa. La pena la pide porque la ley la obliga, no porque lo desee.
 - **El apodo, propuesto:** **«El de la ventana»**. Cae en escena al final del capítulo, cuando se lo llevan preso: la calle prueba «el del pan» y «el que volvió», y un niño asomado a un segundo piso grita «¡el de la ventana!», y ese se queda. Nace del deseo que Jesús dijo en voz alta en el prólogo del Volumen 1 (un cuarto con ventana) y es la forma mexicana de apodar (el de la tienda, el de la esquina). Sena lo anota en la carpeta y esa vez no tacha nada. **Aprobado por el autor (17 de octubre de 2026).**
 - **El celular y el cuaderno** quedan en la caja de evidencias. La fiscal no sabe qué son; el cuaderno está en japonés. Es una bomba con el reloj corriendo, no un olvido.
+
+---
+
+**Capítulo 12 — «La cuenta»**
+
+| Campo | Contenido |
+| --- | --- |
+| **Volumen** | 2 |
+| **Extensión** | 7,224 palabras |
+| **Estado** | 🟦 Revisado; pendiente de aprobación del autor |
+| **Foco** | Jesús, primera persona |
+| **Deseo local** | Que el pueblo no pague por lo que él decidió |
+| **Obstáculo** | Un juez que cambia de opinión, un gobernador que sí tiene casa, y una ley que no escribió él |
+| **Forma** | Ocho movimientos: la mañana, la sala, la acusación, la defensa, el vuelco, el precio, la confiscación y la noche |
+| **Referencia del canon** | **Anime, temporada 2, episodio 1, segunda mitad.** El juez declara **inocente** al acusado y cambia el veredicto a **culpable** cuando el demandante protesta; **Aqua detecta poder oscuro** en la sala y la sacan; **Sena y el juez obedecen al demandante**; se **incautan todos los bienes** del acusado para pagar la mansión y queda una **deuda impagable**. La cifra del canon, usada aquí tal cual: **mil doscientos cuarenta millones de eris** |
+| **Cambio al cierre** | De acusado a deudor: gana la vida y pierde todo lo demás |
+| **Gancho** | El guante de Darkness en el piso de la cárcel, y su respuesta: «esa noche no entré con armadura» |
+| **Rutas** | **Aqua**: la única que ve el poder oscuro, y no le sirve de nada. **Megumin**: se para, como prometió, y la sacan. **Darkness**: no dice una palabra en todo el juicio, y esa es su escena. **Wiz**: en la última fila, con el sombrero de la tienda. **Sena**: asienta en el acta la anomalía que la hunde |
+| **Objetos** | El guante de metal con un guante de seda adentro · la campana · la caja de sus cosas · el celular · la cuchara de Aqua |
+| **Continuidad** | Día siguiente al interrogatorio del capítulo 11. Mismo día: juicio al mediodía, confiscación por la tarde, noche en la posada |
+
+**Decisiones de escritura:**
+- **Alderp reconoce a Darkness y no dice su nombre.** Es la adaptación de la revelación del canon sin gastar el secreto: el gobernador ve a la heredera en la última fila, se le cambia la cara, y a partir de ahí sus decisiones dejan de tener sentido para todo el mundo menos para Jesús. En la sala no se dice el nombre: **ni Dustiness, ni Lalatina**. Se dice, en voz baja, al pasar: «Salúdeme a su padre».
+- **Darkness pagó la noche anterior, en privado.** Es la escena que el capítulo no muestra y que el lector arma: se quitó la armadura («esa noche no entré con armadura»), fue a ver a Alderp y volvió con una promesa que todavía no cuenta. Por eso el guante quedó en el piso de la cárcel: adentro hay un guante de seda. **El secreto se conserva**: Jesús sospecha y no pregunta; el nombre se cae más adelante en el volumen.
+- **La misma mano que condena perdona.** El juez, ya comprado, dicta muerte y luego conmuta la pena a dinero cuando Alderp cambia de idea. No hay justicia en ninguno de los dos dictados, y ese es el punto.
+- **Jesús gana exactamente lo que pidió**: la sentencia es solo contra él. El pueblo no debe nada. Ese es su triunfo, y es lo que lo deja en la calle.
+- **Sena no se redime, se queda.** Pide la pena máxima porque es su trabajo, y cuando ve la maniobra pide que conste en el acta. Su rebelión es escribir.
+- **La deuda es el motor del volumen.** Mil doscientos cuarenta millones de eris contra tres mil doscientos que juntan sus bienes: el chiste y el peso, en la misma cuenta.
+- **Rótulo del capítulo:** «La cuenta» tiene doble filo en México: la de pagar y la de darse cuenta. Las dos se usan.
+
+**Notas de canon y de invención del capítulo 12 (para la aprobación del autor):**
+- **Es canon:** la acusación de subversión, la campana, el juez que dicta inocencia y cambia a culpable cuando el demandante protesta, Aqua detectando el poder oscuro y siendo expulsada, la conmutación de la muerte por deuda, la cifra de **mil doscientos cuarenta millones de eris** y la incautación de todos los bienes.
+- **Es invención de esta novela, a aprobación del autor:** (1) que el señor Alderp **reconozca a Darkness sin nombrarla** («Salúdeme a su padre») y que eso explique el cambio de parecer del juez; (2) que Darkness haya ido a verlo la noche anterior **sin armadura** y con un guante de seda; (3) que **Sena venga de un pueblo que no sale en los mapas**. Ninguna de las tres contradice el canon; las tres son material nuevo y se pueden quitar o cambiar sin tocar el resto del juicio.
+- **Regla 7 respetada:** no hay ningún nombre propio nuevo en el capítulo. El juez, el escribano y el comandante quedan sin nombre a propósito.

@@ -612,7 +612,7 @@ El mapa más delicado de la novela. Con cuatro protagonistas, dos diosas y un pu
 | **El libro de banderas** | Jesús, y nadie más: nunca se lo han visto abierto | — | los demás |
 | **Wiz fue liche y general del Rey Demonio** | Wiz · Aqua · Jesús · Beldia | — | Megumin · Darkness · el pueblo (para Axel es la tendera rara del callejón). **Matiz desde el epílogo del Vol. 1:** Sena dijo en voz alta, en el gremio, que es **«una liche retirada del ejército del Rey Demonio»**; el pueblo lo oyó. Lo que sigue sin saberse es **que fue general**, y el volumen no lo repite |
 | **Que Aqua es diosa** | La cuadrilla | — | El pueblo entero: no le cree («y yo soy un príncipe») |
-| **Que Darkness es noble** | Darkness · el lector | Jesús: sabe que hay algo y que «no era su asunto» (cap. 4) | Aqua · Megumin · el pueblo. **Decisión: lo revela en privado en el Vol. 2** |
+| **Que Darkness es noble** | Darkness · el lector · **Alderp** (cap. 12: «Salúdeme a su padre») | Jesús: sabe que hay algo y que «no era su asunto» (cap. 4); desde el cap. 12 sabe además que **fue a ver a Alderp sin armadura**, y no pregunta porque ella se lo pidió | Aqua · Megumin · el pueblo. **Decisión: lo revela en privado en el Vol. 2** |
 | **Chris es Eris** | El lector y el diseño de la novela | — | Jesús · Aqua · todos los demás. **Aqua es la última en enterarse** |
 | **El cuaderno del constructor** | Jesús lo leyó completo y les contó la vida del hombre a la cuadrilla (cap. 10) | — | el pueblo |
 | **La llave** y la puerta que nunca abrió | Jesús; Chris la tuvo en la mano una vez (cap. 4) sin saber qué era | — | los demás |
@@ -762,3 +762,23 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 **Gancho del capítulo 12:** el banco de afuera está vacío, la guardia se lleva el guante y esa noche no se oyen pasos de armadura en el pasillo.
 
 **Números:** revisor en **16 archivos, 83,044 palabras, 0 faltas**; único aviso, los puntos suspensivos de un solo carácter en `volumen-1/FICHAS.md` (documento de trabajo).
+
+---
+
+## Volumen 2, capítulo 12 (17 de octubre de 2026)
+
+**Título:** «La cuenta». **7,224 palabras.** Estado: **revisado; pendiente de aprobación del autor**.
+
+**Qué pasa, en orden:** la última mañana en la celda (el pan del carcelero, la ventana de carbón que dibujó el hijo de la panadera, el guante que se le quedó a Darkness la noche anterior) · el juicio en el tribunal del pueblo, con la sala llena, el juez, el escribano y la mesa de la defensa · la acusación de Sena con la lista de las **cuarenta y dos casas en pie** y una sola quemada · los cuatro testigos que lo defienden y Sena convirtiendo cada defensa en prueba del mando · Aqua («objeción» y sus fechorías), Megumin (se para sola, por primera vez desde la pierna, y la sacan por la lista de daños) y **Darkness, que abre la boca y no puede decir nada** · la declaración de Jesús y la campana, que suena cuando dice que no le tiene miedo a nadie · el veredicto: **inocente**, y luego **culpable** cuando Alderp se pone de pie sin decir nada · la pena de muerte · Aqua detectando el poder oscuro y siendo expulsada · Sena exigiendo que conste en el acta · el llanto de Jesús · Alderp conmutando la muerte por **mil doscientos cuarenta millones de eris** · la confiscación (740 eris, la playera, la llave, el celular, el cuaderno) · el patio lleno de gente y el apodo «el de la ventana» · la visita de Sena y su confesión · y Darkness en el pasillo, sin armadura, con el segundo guante y el guante de seda adentro.
+
+**Canon usado:** anime, temporada 2, episodio 1, segunda mitad. La campana, el poder oscuro de Aqua, el juez comprado, la deuda de 1,240,000,000 eris y la incautación total son del canon.
+
+**Invención de la novela (a aprobación):** el reconocimiento de Darkness por parte de Alderp sin nombrarla; la noche que Darkness pasó con Alderp sin armadura; y el origen de Sena («un pueblo que no sale en los mapas»). **Ningún nombre propio nuevo en el capítulo.**
+
+**Objetos nuevos que quedan cargando:** el guante de metal con el guante de seda adentro (el secreto de Darkness, sin nombre todavía) · el calcetín de lana de la señora del cuarto cuatro · la ventana de carbón de la celda · la cuchara de Aqua · el acta que Sena firmó y mandó a la capital.
+
+**Estado del dinero:** la deuda es de **1,240,000,000 eris**; le quedaban **740** y se los llevaron. El cuarto de la posada está pagado hasta marzo y doña Hilda le da techo y comida a cambio de trabajo.
+
+**Matriz de secretos, actualización:** **Darkness** — Alderp ya sabe quién es (le dijo «salúdeme a su padre»); Jesús sospecha que fue a verlo y **no pregunta**, porque ella se lo pidió; el pueblo sigue sin saberlo. El nombre (Dustiness, Lalatina) **no se dice en el capítulo 12**.
+
+**Números:** revisor en **17 archivos, 91,102 palabras, 0 faltas**.
