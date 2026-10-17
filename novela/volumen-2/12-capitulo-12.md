@@ -1,7 +1,7 @@
 Capítulo 12. La cuenta
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 2, capítulo 12. Extensión: 7,224 palabras. Estado: revisado; pendiente de aprobación del autor.
+Volumen 2, capítulo 12. Extensión: 7,237 palabras. Estado: revisado; pendiente de aprobación del autor.
 
 ---
 
@@ -27,7 +27,7 @@ Era un pan.
 
 —No puedo pagárselo —dije.
 
-—No se lo estoy vendiendo. —Y luego metió la mano en el bolsillo del mandil y sacó una cosa de metal—. Y esto se le quedó anoche a la señorita de la armadura. Lo recogí yo, antes de que entrara el de la limpieza.
+—No se lo estoy vendiendo. —Y luego metió la mano en el bolsillo del mandil y sacó una cosa de metal—. Y esto lo recogió la guardia anoche, delante de su puerta. Me lo dejaron a mí para que se lo devolviera.
 
 Era un guante. Un guante de metal, de esos que se abrochan con correa, con los dedos huecos y con la muñeca abollada de un golpe viejo.
 
@@ -73,7 +73,7 @@ Porque en la mesa de la defensa, con una carpeta, con tres sillas y con un carte
 
 Aqua traía una túnica limpia y el pelo recogido, y estaba leyendo un libro gordo con el ceño fruncido, como si estuviera estudiando. Megumin traía el sombrero puesto y una pila de papeles, y estaba sentada bien derecha con la pierna entablillada estirada en una silla, y no había muletas: se había parado y se había sentado sola, y le había costado, y se le notaba en la cara.
 
-Y Darkness estaba sentada entre las dos, con la armadura puesta, con las manos en las rodillas y con la cara de alguien que no había dormido.
+Y Darkness estaba sentada entre las dos, con la armadura puesta, con las manos en las rodillas y con los ojos de alguien que no había dormido.
 
 Se voltearon a verme los tres al mismo tiempo.
 
@@ -85,7 +85,7 @@ Y Aqua, en vez de decirme algo bonito, levantó el libro y me lo enseñó, y en 
 
 —¡Trae dibujos!
 
-Y el juez, que era un señor mayor con una toga que le quedaba grande y con la cara de alguien a quien acababan de despertar de una siesta muy buena, dio tres golpes con un martillo de madera en la mesa.
+Y el juez, que era un señor mayor con una toga que le quedaba grande y con la cara de quien acaba de despertar de una siesta muy buena, dio tres golpes con un martillo de madera en la mesa.
 
 —Silencio —dijo—. Se abre la sesión.
 
@@ -113,7 +113,7 @@ Y luego leyó la lista.
 
 —Casa número tres: la casa de la panadería, en la calle del mercado. En pie.
 
-Y siguió. Una por una. Cuarenta y dos casas de Axel, en pie, con el nombre del dueño y con la palabra «en pie» escrita al final, y en la última hoja, sola, con la letra más grande, la palabra «quemada».
+Y siguió. Una por una. Treinta y ocho casas de Axel, en pie, con el nombre del dueño y con la palabra «en pie» escrita al final, y en la última hoja, sola, con la letra más grande, la palabra «quemada».
 
 —Señoría —dijo Sena, y cerró la carpeta—. Esa es la acusación. Yo no vengo a decir que este muchacho sea un mal hombre. Vengo a decir que dio una orden, que la orden se cumplió, y que la ley no pregunta por las intenciones. Pregunta por los hechos. —Y se quedó quieta—. Y los hechos están escritos.
 
@@ -263,7 +263,7 @@ Y ella abrió la boca.
 
 Y no le salió nada.
 
-Se quedó ahí, con la boca abierta, delante de todo el pueblo, sin poder decir una palabra, y yo vi que le temblaba la mandíbula y vi que apretaba la mesa hasta que se le pusieron blancos los nudillos.
+Se quedó ahí, con la boca abierta, delante de la sala entera, sin poder decir una palabra, y yo vi que le temblaba la mandíbula y vi que apretaba la mesa hasta que se le pusieron blancos los nudillos.
 
 Y luego dijo, muy bajito:
 
@@ -457,7 +457,7 @@ Y pensé que no le había mandado el recado.
 
 Y me puse a llorar.
 
-Ahí, delante de todo el pueblo, con las muñecas amarradas y con la sentencia de muerte encima, me puse a llorar como un niño, y no me daba vergüenza, y el pueblo entero me vio, y nadie dijo nada.
+Ahí, delante de todos, con las muñecas amarradas y con la sentencia de muerte encima, me puse a llorar como un niño, y no me daba vergüenza, y el pueblo entero me vio, y nadie dijo nada.
 
 Y en eso, el señor Alderp se levantó.
 
@@ -527,11 +527,11 @@ Todos se voltearon.
 
 —¿Qué pueblo? —dijo el juez.
 
-—El pueblo. —Y me paré, con las manos amarradas—. La señora Sena dijo que había cuarenta y dos casas. Yo quiero saber si alguna de esas cuarenta y dos casas va a pagar algo.
+—El pueblo. —Y me paré, con las manos amarradas—. La señora Sena dijo que había treinta y ocho casas. Yo quiero saber si alguna de esas treinta y ocho casas va a pagar algo.
 
 Y el juez, con sus ojos de vidrio y con su cara de no estar ahí, dijo:
 
-—Las cuarenta y dos casas están en pie.
+—Las treinta y ocho casas están en pie.
 
 —Eso no es lo que pregunté.
 
@@ -541,7 +541,7 @@ Y ahí, mi hermano, me pasó una cosa que no les voy a poder explicar.
 
 Me sentí bien.
 
-En serio. Con la sentencia de muerte conmutada por una deuda imposible, con las muñecas amarradas y con la cara llena de lágrimas, sentí una cosa caliente en el pecho, y era alivio, y era orgullo, y era la cosa más tonta del mundo.
+En serio. Con la sentencia de muerte conmutada por una deuda imposible, con el cordón de vaca en las muñecas y con la cara llena de lágrimas, sentí una cosa caliente en el pecho, y era alivio, y era orgullo, y era la cosa más tonta del mundo.
 
 Porque yo había pedido una sola cosa: que el pueblo no pagara.
 
@@ -625,7 +625,7 @@ Llegaron dos caballeros con la insignia del rey y con una carreta, y doña Hilda
 
 Y se pararon en medio del cuarto y se quedaron viendo.
 
-Una cama. Una silla. Una ventana. Una caja de madera con una playera de las Chivas, un cordón con una llave, un celular apagado, un suéter gris y un cuaderno. Un bastón de maga en el rincón. Un sombrero. Un abrigo de plumas azul. Un frasco de agua bendita. Una armadura abollada que estaba en el cuarto de al lado pero que era de la señorita de la armadura, y que el comandante, después de mirarla un rato, dejó donde estaba porque no era del muchacho.
+Una cama. Una silla. Una ventana. Y la caja de madera que los caballeros habían subido del carro de la corona después del juicio, con una playera de las Chivas, un cordón con una llave, un celular apagado, un suéter gris y un cuaderno. Un bastón de maga en el rincón. Un sombrero. Un abrigo de plumas azul. Un frasco de agua bendita. Una armadura abollada que estaba en el cuarto de al lado pero que era de la señorita de la armadura, y que el comandante, después de mirarla un rato, dejó donde estaba porque no era del muchacho.
 
 Eso era todo.
 
@@ -721,7 +721,7 @@ Y yo me quedé viendo la pantalla negra.
 
 —Una caja de recuerdos —dije.
 
-Y la señora Sena me vio un rato largo, con sus gafas triangulares y con la cara de la gente que no duerme.
+Y la señora Sena me vio un rato largo, con sus gafas triangulares y con los párpados de la gente que no duerme.
 
 —No traje la campana —dijo.
 
@@ -761,7 +761,7 @@ Y vi que en el pasillo, delante de la puerta de mi cuarto, había una mujer.
 
 Sin armadura.
 
-Traía una túnica oscura y un chal prestado, y el pelo suelto, y las manos desnudas, y estaba de pie con los brazos a los lados y con la cara de alguien que había ensayado una cosa durante tres horas y que se le había olvidado al subir las escaleras.
+Traía una túnica oscura y un chal prestado, y el pelo suelto, y las manos desnudas, y estaba de pie con los brazos a los lados, como una persona que había ensayado una cosa durante tres horas y que se le había olvidado al subir las escaleras.
 
 —Hola —dijo.
 
@@ -837,11 +837,11 @@ Y esa señorita había ido a ver al señor Alderp anoche, sin decírselo a nadie
 
 ---
 
-Yo me senté en el escalón y me quedé con el guante en las manos un rato largo.
+Yo me senté en el piso del pasillo y me quedé con el guante en las manos un rato largo.
 
 Un guante de metal, con un guante de seda adentro.
 
-Y pensé en la noche anterior, en la mujer que se había sentado del otro lado de mi puerta con la armadura puesta y que se había ido sin decirme a dónde. Y pensé en la cosa que le había dicho el señor Alderp en la sala, con la voz de alguien que saluda a un vecino: «Salúdeme a su padre».
+Y pensé en la noche antes del juicio, en la mujer que se había sentado del otro lado de mi puerta con la armadura puesta y que se había ido sin decirme a dónde. Y pensé en la cosa que le había dicho el señor Alderp en la sala, con la voz de alguien que saluda a un vecino: «Salúdeme a su padre».
 
 Y pensé en la señora Sena, que había pedido mi muerte y que se había quedado a firmar el acta.
 

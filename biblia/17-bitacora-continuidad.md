@@ -767,7 +767,7 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 
 ## Volumen 2, capítulo 12 (17 de octubre de 2026)
 
-**Título:** «La cuenta». **7,224 palabras.** Estado: **revisado; pendiente de aprobación del autor**.
+**Título:** «La cuenta». **7,237 palabras.** Estado: **revisado; pendiente de aprobación del autor**.
 
 **Qué pasa, en orden:** la última mañana en la celda (el pan del carcelero, la ventana de carbón que dibujó el hijo de la panadera, el guante que se le quedó a Darkness la noche anterior) · el juicio en el tribunal del pueblo, con la sala llena, el juez, el escribano y la mesa de la defensa · la acusación de Sena con la lista de las **cuarenta y dos casas en pie** y una sola quemada · los cuatro testigos que lo defienden y Sena convirtiendo cada defensa en prueba del mando · Aqua («objeción» y sus fechorías), Megumin (se para sola, por primera vez desde la pierna, y la sacan por la lista de daños) y **Darkness, que abre la boca y no puede decir nada** · la declaración de Jesús y la campana, que suena cuando dice que no le tiene miedo a nadie · el veredicto: **inocente**, y luego **culpable** cuando Alderp se pone de pie sin decir nada · la pena de muerte · Aqua detectando el poder oscuro y siendo expulsada · Sena exigiendo que conste en el acta · el llanto de Jesús · Alderp conmutando la muerte por **mil doscientos cuarenta millones de eris** · la confiscación (740 eris, la playera, la llave, el celular, el cuaderno) · el patio lleno de gente y el apodo «el de la ventana» · la visita de Sena y su confesión · y Darkness en el pasillo, sin armadura, con el segundo guante y el guante de seda adentro.
 
@@ -781,4 +781,4 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 
 **Matriz de secretos, actualización:** **Darkness** — Alderp ya sabe quién es (le dijo «salúdeme a su padre»); Jesús sospecha que fue a verlo y **no pregunta**, porque ella se lo pidió; el pueblo sigue sin saberlo. El nombre (Dustiness, Lalatina) **no se dice en el capítulo 12**.
 
-**Números:** revisor en **17 archivos, 91,102 palabras, 0 faltas**.
+**Números:** revisor en **17 archivos, 91,115 palabras, 0 faltas**.
