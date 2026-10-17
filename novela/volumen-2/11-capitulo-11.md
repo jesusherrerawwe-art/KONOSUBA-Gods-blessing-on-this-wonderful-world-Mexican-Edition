@@ -1,7 +1,7 @@
 Capítulo 11. La verdad en voz alta
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 2, capítulo 11. Extensión: 5,549 palabras. Estado: revisado; pendiente de aprobación del autor.
+Volumen 2, capítulo 11. Extensión: 5,560 palabras. Estado: revisado; pendiente de aprobación del autor.
 
 ---
 
@@ -199,7 +199,7 @@ Y yo me quedé viendo el piso de piedra un rato.
 
 —No.
 
-—Quiero que vayas a la posada, que duermas, y que mañana te pongas tu mejor túnica y vengas y te sientes adelante.
+—Quiero que vayas a la posada, que duermas, y que el día del juicio te pongas tu mejor túnica y vengas y te sientes adelante.
 
 —¿Para qué?
 
@@ -241,7 +241,7 @@ Y Megumin se quedó con la boca abierta.
 
 —Megumin.
 
-—Puedo caminar con muletas. Puedo caminar con muletas hasta el cerro del río y puedo tirar una Explosión con muletas. —Y dio un golpe en el piso con la muleta, y se le torció la cara del dolor, y no se quejó—. ¡Yo tiré la Explosión del camino! ¡Yo abrí ese paso! ¡Con esta pierna!
+—Puedo caminar con muletas. Puedo caminar con muletas hasta la colina del norte y puedo tirar una Explosión con muletas. —Y dio un golpe en el piso con la muleta, y se le torció la cara del dolor, y no se quejó—. ¡Yo tiré la Explosión del camino! ¡Yo abrí ese paso! ¡Con esta pierna!
 
 —Sí.
 
@@ -265,7 +265,7 @@ Y yo me acuerdo de que en ese momento pensé una cosa muy rara, que fue: «esto 
 
 —¿Qué?
 
-—Mañana, cuando me defiendan, yo quiero que estés de pie. No quiero que estés sentada con la pierna en una silla. Quiero que la señora Sena voltee a verme y vea que la gente que responde por mí es gente que se para.
+—El día del juicio, cuando me defiendan, yo quiero que estés de pie. No quiero que estés sentada con la pierna en una silla. Quiero que la señora Sena voltee a verme y vea que la gente que responde por mí es gente que se para.
 
 Megumin se quedó viendo el piso un rato largo.
 
@@ -323,11 +323,11 @@ Y ahí se me puso la piel de gallina, y no por lo que dijo, sino por cómo lo di
 
 —Todo el mundo llora.
 
-—Yo no. —Y se puso la mano en el pecho de la armadura, y se apretó—. Yo me río. Y estas tres semanas me he estado riendo mucho, y ahora ya no me sale.
+—Yo no. —Y se puso la mano en el pecho de la armadura, y se apretó—. Yo me río. Y en todo este mes y medio me he estado riendo mucho, y ahora ya no me sale.
 
 Y se fue.
 
-Y yo me quedé con la sensación de que se me había escapado algo importante, y con la cuchara en la mano, y con la luna de invierno entrando por los once barrotes.
+Y yo me quedé con la sensación de que se me había escapado algo importante, y con la cuchara en la mano, y con la luna entrando por los once barrotes.
 
 ---
 
@@ -341,7 +341,7 @@ Traía la cobija de su tienda, la misma que me prestó la primera noche que me q
 
 —Señora Wiz.
 
-—Vine a decirte una cosa y me voy a ir rápido, porque si me quedo me pongo a llorar y ya lloré todo el camino. —Y se agarró de los barrotes con las dos manos, como Aqua—. Yo voy a decir mañana que fui yo.
+—Vine a decirte una cosa y me voy a ir rápido, porque si me quedo me pongo a llorar y ya lloré todo el camino. —Y se agarró de los barrotes con las dos manos, como Aqua—. Yo voy a decir en el juicio que fui yo.
 
 —No.
 
@@ -365,7 +365,7 @@ Y yo me levanté del piso y me acerqué a la puerta, y le dije lo que había est
 
 —Sí.
 
-—Usted me enseñó en tres cuartos de hora, un martes, porque yo le caí bien, y me dio azúcar en el agua y no me cobró nada. —Y le puse la mano en la mano, por entre los barrotes—. Y si mañana usted entra a esa sala y dice que fue usted, yo voy a decir que fui yo, y vamos a ser dos, y a dos los queman más rápido.
+—Usted me enseñó en tres cuartos de hora, un martes, porque yo le caí bien, y me dio azúcar en el agua y no me cobró nada. —Y le puse la mano en la mano, por entre los barrotes—. Y si usted entra a esa sala y dice que fue usted, yo voy a decir que fui yo, y vamos a ser dos, y a dos los queman más rápido.
 
 Wiz se quedó viendo mi mano.
 
@@ -697,7 +697,7 @@ Mientras la señora Sena hablaba, mientras leía las hojas de la panadera y del 
 
 Estaba pensando en el señor barbón, que se levantó hasta la mitad y se volvió a sentar.
 
-Yo no sé qué va a pasar mañana. Sé que hay un juez, sé que hay un gobernador, sé que hay una ley que no escribí yo y un pueblo que tiene que comer. Sé que la mujer que se sentó anoche en el banco de afuera sabe algo que no me dijo, y que mañana lo va a tener que decir.
+Yo no sé qué va a pasar mañana. Sé que hay un juez, sé que hay un gobernador, sé que hay una ley que no escribí yo y un pueblo que tiene que comer. Sé que la mujer que se sentó anoche en el banco de afuera sabe algo que no me dijo, y que el día del juicio lo va a tener que decir.
 
 Lo único que sé es que el pueblo no se calló porque fuera malo.
 

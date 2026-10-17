@@ -745,7 +745,7 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 
 ## Volumen 2, capítulo 11 (17 de octubre de 2026)
 
-**Título:** «La verdad en voz alta». **5,549 palabras.** Estado: **revisado; pendiente de aprobación del autor**.
+**Título:** «La verdad en voz alta». **5,560 palabras.** Estado: **revisado; pendiente de aprobación del autor**.
 
 **Estructura (opción 3 del autor): el juicio en dos tiempos.** El capítulo 11 lleva la acusación, la noche en la celda y el interrogatorio, y **corta cuando la fiscal pide la pena máxima**. El juicio con el juez, Alderp y los testigos es el capítulo 12.
 
@@ -761,4 +761,4 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 
 **Gancho del capítulo 12:** el banco de afuera está vacío, la guardia se lleva el guante y esa noche no se oyen pasos de armadura en el pasillo.
 
-**Números:** revisor en **16 archivos, 83,033 palabras, 0 faltas**; único aviso, los puntos suspensivos de un solo carácter en `volumen-1/FICHAS.md` (documento de trabajo).
+**Números:** revisor en **16 archivos, 83,044 palabras, 0 faltas**; único aviso, los puntos suspensivos de un solo carácter en `volumen-1/FICHAS.md` (documento de trabajo).

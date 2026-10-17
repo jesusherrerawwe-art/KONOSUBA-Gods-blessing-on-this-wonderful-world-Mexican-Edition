@@ -25,7 +25,7 @@ Carpeta abierta el **13 de octubre de 2026**, al sellar el Volumen 1 completo (d
 
 | Cap. | Estado | Título | Nota |
 | --- | --- | --- | --- |
-| 11 | 🟨 Revisado; pendiente de aprobación | La verdad en voz alta | 5,549 palabras. Abre el volumen con **el juicio de Sena**: la acusación, la noche en la celda y el interrogatorio con la campana. Corta cuando la fiscal pide la pena máxima; el juicio, en el 12 |
+| 11 | 🟦 Revisado; pendiente de aprobación | La verdad en voz alta | 5,560 palabras. Abre el volumen con **el juicio de Sena**: la acusación, la noche en la celda y el interrogatorio con la campana. Corta cuando la fiscal pide la pena máxima; el juicio, en el 12 |
 | 12 a 20 | ⬜ En blanco | sin título | Sin diseñar |
 
 **Leyenda:** ⬜ vacío · 🟨 en diseño · 🟦 en redacción o revisión (pendiente de aprobación del autor) · 🟩 aprobado por el autor, cerrado o fijado.
@@ -56,7 +56,7 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 **Estado del volumen**
 
 - **Capítulos escritos:** 11.
-- **Revisado y pendiente de aprobación:** el capítulo 11 (5,549 palabras).
+- **Revisado y pendiente de aprobación:** el capítulo 11 (5,560 palabras).
 - **Siguiente paso:** la lectura del autor y, con su aprobación, la ficha del capítulo 12 (el juicio).
 
 ---
@@ -66,8 +66,8 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 | Campo | Contenido |
 | --- | --- |
 | **Volumen** | 2 |
-| **Extensión** | 5,549 palabras |
-| **Estado** | 🟨 Revisado; pendiente de aprobación del autor |
+| **Extensión** | 5,560 palabras |
+| **Estado** | 🟦 Revisado; pendiente de aprobación del autor |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que el pueblo no pague por lo que él decidió |
 | **Obstáculo** | La ley del reino, una fiscal que hace bien su trabajo y una campana que no deja mentir |
