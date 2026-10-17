@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Revisa los capítulos de la novela: formato UTF-8-BOM, extensión y reglas de texto a voz.
+"""Revisa los capítulos de la novela: formato, extensión y reglas de texto a voz.
 
 Uso:
     python3 herramientas/revisar-capitulos.py            # todos los .md de novela/
@@ -11,7 +11,9 @@ de trabajo, como FICHAS.md, solo se revisan de formato y extensión. Se reconoce
 como pieza narrativa la que lleva el bloque de encabezado con la línea «Estado:».
 
 Revisa, por archivo:
-  1. Que tenga BOM de UTF-8 (lo que pide la aplicación de lectura en voz alta).
+  1. El formato del texto. Desde el 17 de octubre de 2026 el autor revocó el
+     requisito de UTF-8-BOM: los archivos nuevos van sin BOM y los viejos lo
+     conservan. Solo se marca falta si un archivo trae dos BOM pegados.
   2. La extensión en palabras del cuerpo (sin contar el encabezado) contra el
      número que anuncia el propio encabezado.
   3. Las reglas de texto a voz de biblia/16: sin marcas de formato en el cuerpo,
@@ -68,8 +70,6 @@ def revisar(ruta):
 
     hallazgos = []
 
-    if not crudo.startswith(BOM):
-        hallazgos.append(("FALTA", "el archivo no tiene BOM de UTF-8 (corre herramientas/utf8-bom.py)"))
     if crudo.startswith(BOM + BOM):
         hallazgos.append(("FALTA", "el archivo tiene dos BOM"))
 

@@ -238,7 +238,7 @@
 ### La cuadrilla y el apodo (decisiones pendientes, ahora con reglas en el texto)
 - En el gremio **ya son cuadrilla registrada**: firmaron la hoja con los cuatro nombres y las cuatro clases, **sin nombre de grupo**.
 - **Luna dejó la ley del pueblo:** *«Los nombres de los grupos no los escogen los grupos»*, y los apodos **«se pegan solos, cuando uno no está viendo, y casi siempre en el peor momento»**. El pueblo ya los apuntó como **«los de los sapos»**.
-- **El apodo de Jesús (decisión 5) sigue sin resolverse y ahora tiene su mecanismo narrativo listo para caer cuando el autor quiera.**
+- **El apodo de Jesús (decisión 5) ya tiene nombre propuesto y escena escrita** (capítulo 11, 17 de octubre de 2026): **«El de la ventana»**. Cae cuando se lo llevan preso: la calle prueba «el del pan» y «el que volvió», y un niño asomado a un segundo piso grita «¡el de la ventana!», y ese se queda. Nace del deseo que él dijo en voz alta en el prólogo del Vol. 1 y es la forma mexicana de apodar. **Pendiente de la aprobación del autor.**
 
 ### La temporada de las coles voladoras
 - Es otoño. Las coles de las montañas crecen tanto que **se sueltan y vuelan**, y llegan a Axel en enjambre el mismo día. Son **la comida del invierno** de la ciudad.
@@ -610,7 +610,7 @@ El mapa más delicado de la novela. Con cuatro protagonistas, dos diosas y un pu
 | **Que Jesús se murió dos veces** y que puede volver | Aqua · Wiz (se lo contó él, cap. 9) · Megumin (cap. 8, con la oferta de Eris y el «no») | — | Darkness · el pueblo |
 | **La foto** (él con su mamá en el hospital) | Jesús · Megumin (la primera y única que la ha visto, cap. 8) · Aqua sabe que existe | — | Darkness · Wiz · el pueblo |
 | **El libro de banderas** | Jesús, y nadie más: nunca se lo han visto abierto | — | los demás |
-| **Wiz fue liche y general del Rey Demonio** | Wiz · Aqua · Jesús · Beldia | — | Megumin · Darkness · el pueblo (para Axel es la tendera rara del callejón) |
+| **Wiz fue liche y general del Rey Demonio** | Wiz · Aqua · Jesús · Beldia | — | Megumin · Darkness · el pueblo (para Axel es la tendera rara del callejón). **Matiz desde el epílogo del Vol. 1:** Sena dijo en voz alta, en el gremio, que es **«una liche retirada del ejército del Rey Demonio»**; el pueblo lo oyó. Lo que sigue sin saberse es **que fue general**, y el volumen no lo repite |
 | **Que Aqua es diosa** | La cuadrilla | — | El pueblo entero: no le cree («y yo soy un príncipe») |
 | **Que Darkness es noble** | Darkness · el lector | Jesús: sabe que hay algo y que «no era su asunto» (cap. 4) | Aqua · Megumin · el pueblo. **Decisión: lo revela en privado en el Vol. 2** |
 | **Chris es Eris** | El lector y el diseño de la novela | — | Jesús · Aqua · todos los demás. **Aqua es la última en enterarse** |
@@ -740,3 +740,25 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 **Conteo:** el capítulo 1 pasa de **7,123 a 7,127 palabras**, y el encabezado, la ficha, el tablero y el informe de revisión ya quedaron actualizados. Su estado **no cambia**: sigue **aprobado por el autor** (la corrección la pidió él).
 
 **De paso (coherencia):** en el capítulo 9, «el señor de la bodega» ahora es **don Baltasar**, el dueño de la bodega desde el capítulo 8.
+
+---
+
+## Volumen 2, capítulo 11 (17 de octubre de 2026)
+
+**Título:** «La verdad en voz alta». **5,549 palabras.** Estado: **revisado; pendiente de aprobación del autor**.
+
+**Estructura (opción 3 del autor): el juicio en dos tiempos.** El capítulo 11 lleva la acusación, la noche en la celda y el interrogatorio, y **corta cuando la fiscal pide la pena máxima**. El juicio con el juez, Alderp y los testigos es el capítulo 12.
+
+**El canon que se usó** (anime, temporada 2, episodio 1): la acusación de **subversión a la nación** por el coronatita que cayó en la mansión de **Alderp**; **Sena**, fiscal del rey; la **campana detectora de mentiras**; la amenaza de procesar como cómplices a los que defiendan al acusado; y el peso de que el acusado tenga trato con generales del Rey Demonio.
+
+**La campana, tal como funciona en el canon y como quedó escrita:** **suena cuando alguien miente**, no cuando dice una falsedad. Detecta la cosa chiquita y oscura que suelta la gente al mentir; si uno cree lo que dice, aunque sea falso, no suena. Sena lo explica en voz alta y dice que no le gusta el aparato. **En todo el capítulo la campana suena una sola vez:** cuando Jesús responde «No» a si tiene familia en este mundo (lo dice para protegerse), y luego corrige: «Sí. Tengo familia» (Aqua, Megumin, Darkness, Wiz). El remate usa el silencio al revés: al dictar la pena, la campana no suena **porque una pena no es una verdad ni una mentira, es una decisión**.
+
+**Adaptación respecto del canon:** se sustituyen los «crímenes pervertidos» de Kazuma por los hechos propios del Vol. 1 (las coles, los sapos, el lago, el Destructor). **Darkness no revela su identidad aquí** (decisión del autor: lo hace en privado, más adelante en el Vol. 2); en su lugar, Sena le pregunta si es de la casa de algún noble y ella contesta «No», y esa es la semilla que el capítulo 12 cobra.
+
+**El hallazgo del capítulo:** las declaraciones de los vecinos no son acusaciones, son defensas («el muchacho nos dijo a dónde ir»). Leídas en fila por la fiscal, suenan a confesión. El pueblo se echa atrás cuando Sena amenaza con procesar a los cómplices, y **Jesús no lo culpa**.
+
+**Objetos nuevos que quedan cargando:** la caja de madera con sus cosas en la repisa de la cárcel (playera de las Chivas, cordón con la llave, celular apagado, suéter gris con el cuaderno del constructor, carta de aventurero) — **semilla de la caja de evidencias**; la cuchara que le deja Aqua; el guante de metal de Darkness en el piso, delante de la puerta, al final.
+
+**Gancho del capítulo 12:** el banco de afuera está vacío, la guardia se lleva el guante y esa noche no se oyen pasos de armadura en el pasillo.
+
+**Números:** revisor en **16 archivos, 83,033 palabras, 0 faltas**; único aviso, los puntos suspensivos de un solo carácter en `volumen-1/FICHAS.md` (documento de trabajo).

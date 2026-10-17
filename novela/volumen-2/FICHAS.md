@@ -25,7 +25,7 @@ Carpeta abierta el **13 de octubre de 2026**, al sellar el Volumen 1 completo (d
 
 | Cap. | Estado | Título | Nota |
 | --- | --- | --- | --- |
-| 11 | ⬜ En blanco | sin título | Abre el volumen con **el juicio de Sena** (decisión del autor, 13 de octubre de 2026) |
+| 11 | 🟨 Revisado; pendiente de aprobación | La verdad en voz alta | 5,549 palabras. Abre el volumen con **el juicio de Sena**: la acusación, la noche en la celda y el interrogatorio con la campana. Corta cuando la fiscal pide la pena máxima; el juicio, en el 12 |
 | 12 a 20 | ⬜ En blanco | sin título | Sin diseñar |
 
 **Leyenda:** ⬜ vacío · 🟨 en diseño · 🟦 en redacción o revisión (pendiente de aprobación del autor) · 🟩 aprobado por el autor, cerrado o fijado.
@@ -55,5 +55,35 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 
 **Estado del volumen**
 
-- **Capítulos escritos:** ninguno.
-- **Siguiente paso:** la ficha del capítulo 11.
+- **Capítulos escritos:** 11.
+- **Revisado y pendiente de aprobación:** el capítulo 11 (5,549 palabras).
+- **Siguiente paso:** la lectura del autor y, con su aprobación, la ficha del capítulo 12 (el juicio).
+
+---
+
+**Capítulo 11 — «La verdad en voz alta»**
+
+| Campo | Contenido |
+| --- | --- |
+| **Volumen** | 2 |
+| **Extensión** | 5,549 palabras |
+| **Estado** | 🟨 Revisado; pendiente de aprobación del autor |
+| **Foco** | Jesús, primera persona |
+| **Deseo local** | Que el pueblo no pague por lo que él decidió |
+| **Obstáculo** | La ley del reino, una fiscal que hace bien su trabajo y una campana que no deja mentir |
+| **Forma** | Cuatro movimientos: la celda, la plaza (el arresto), las visitas, y el interrogatorio con la campana |
+| **Referencia del canon** | **Anime, temporada 2, episodio 1** («¡Líbrenme de esta injusticia judicial!»): la acusación de **subversión a la nación** por el coronatita que destruyó la mansión de **Alderp**; la **campana mágica detectora de mentiras**; la fiscal **Sena**; la amenaza de procesar como cómplices a quienes defiendan al acusado; y el peso de que el acusado tenga trato con generales del Rey Demonio (en el canon, Wiz). En esta novela el acusado es **Jesús**, la orden fue suya («Mándala», capítulo 10) y quien la ejecutó fue **Wiz** |
+| **Cambio al cierre** | Jesús deja de ser el muchacho al que el pueblo protege y se vuelve el hombre al que el pueblo, por miedo, suelta |
+| **Gancho** | Sena pide la pena máxima. El juicio queda para el día siguiente, y Darkness no está en su cuarto |
+| **Rutas** | **Darkness**: su escena más rara del volumen —no disfruta nada, tiembla, y dice que hay cosas de ella que él no sabe. **Aqua**: intenta sacarlo y fracasa; su diosa no sirve para esto. **Megumin**: quiere volarlo todo y él le pide que aprenda a caminar. **Wiz**: se ofrece a confesar y él la calla |
+| **Objetos** | La celda con ventana y once barrotes · la caja de sus cosas (playera, llave, celular muerto, el suéter con el cuaderno dentro) · la campana de latón · la carpeta de Sena |
+| **Continuidad** | Arranca la misma noche del epílogo del Vol. 1 (la fiesta, el gremio, la hoja de la cuadrilla aún mojada). El interrogatorio es a la mañana siguiente y el juicio, al otro día, al mediodía (capítulo 12) |
+
+**Decisiones de escritura:**
+- **El juicio en dos tiempos** (elección del autor): el capítulo 11 llega hasta la petición de pena y **corta ahí**. El juicio se ve en el 12.
+- **La verdad como prueba en contra.** Las declaraciones de la mañana no son acusaciones: son los vecinos defendiéndolo («el muchacho nos dijo a dónde ir»). Leídas en fila por la fiscal, suenan a confesión. Ese es el hallazgo del capítulo.
+- **El pueblo se echa para atrás** cuando Sena amenaza con procesar a los cómplices, como en el canon. No por cobardía: por pan. Y Jesús no los culpa, que es lo que hace que el capítulo 12 duela y funcione.
+- **La campana** no es un chiste: es el espejo del protagonista. Jesús no puede mentir ni para salvarse, y eso es exactamente lo que lo hunde.
+- **Sena no es villana.** Hace bien su trabajo, viene de un pueblo que no sale en los mapas y no le gusta el aparato que usa. La pena la pide porque la ley la obliga, no porque lo desee.
+- **El apodo, propuesto:** **«El de la ventana»**. Cae en escena al final del capítulo, cuando se lo llevan preso: la calle prueba «el del pan» y «el que volvió», y un niño asomado a un segundo piso grita «¡el de la ventana!», y ese se queda. Nace del deseo que Jesús dijo en voz alta en el prólogo del Volumen 1 (un cuarto con ventana) y es la forma mexicana de apodar (el de la tienda, el de la esquina). Sena lo anota en la carpeta y esa vez no tacha nada. **Queda a aprobación del autor.**
+- **El celular y el cuaderno** quedan en la caja de evidencias. La fiscal no sabe qué son; el cuaderno está en japonés. Es una bomba con el reloj corriendo, no un olvido.
