@@ -123,8 +123,22 @@ El formato UTF-8 con BOM existe por una sola razón: la aplicación de lectura e
 
 **Actualización del 17 de octubre de 2026 (palabras del autor: «olvídate del Formato UTF-8-BOM»):** el requisito del BOM queda **revocado**. Las piezas nuevas se escriben **sin BOM** (así nacieron los capítulos 11 y 12) y las viejas **conservan el que ya tienen**; no se convierte nada por gusto. `herramientas/utf8-bom.py` sigue existiendo para el día en que haga falta, pero **no se corre a ciegas**: su modo por defecto convierte todo lo que no tenga BOM, y eso ya no es lo que se quiere. `herramientas/revisar-capitulos.py` ya no marca falta por BOM ausente.
 
-**Regla 11 (17 de octubre de 2026): la raya larga es de los diálogos.**
+**Regla 11 (17 de octubre de 2026, REVOCADA el mismo día): la raya larga es de los diálogos.**
 La raya (—) se usa **únicamente** para el diálogo de los personajes: al abrir una intervención y en las acotaciones del narrador dentro de ella («—dijo—»). En la narración **no se usa**: los incisos van con paréntesis, comas, dos puntos, punto y coma, o se parten en dos oraciones. El autor lo pidió al abrir el Vol. 2 y el 17 de octubre se aplicó también al Vol. 1: se corrigieron **diez líneas de narración** repartidas en siete piezas (prólogo, capítulos 1, 2, 3, 4, 6 y 9), sin tocar ni un diálogo y sin mover los conteos de palabras. `revisar-capitulos.py` lo revisa y **marca falta** si encuentra una raya fuera de diálogo.
+
+**Regla 12 (17 de octubre de 2026, segundo pedido del día): ninguna raya; el diálogo va entre comillas.** La regla 11 quedó **revocada** la misma tarde. Palabras del autor: «Elimina todos los renglones largos que aparezcan en todos los capítulos y reemplázalos por comillas. Comillas inglesas ( " " ) para los diálogos, y signos diferentes que tú sientas más convenientes para el resto del texto». El motivo es de lectura: **el celular del autor no le muestra la raya** y el texto le aparece con huecos.
+
+Cómo se escribe desde ahora, en todo capítulo nuevo y en toda corrección:
+
+- **Diálogo:** comillas inglesas rectas, `"así"`. La intervención abre y cierra con comillas; no se usan comillas angulares «» para el diálogo (se reservan para citas dentro de una cita o para títulos y apodos ya fijados).
+- **Acotación de habla** (dijo, preguntó, repitió…), en minúscula y pegada al discurso: `"No", dijo.` / `"Es que...", empezó.` El discurso cierra con **coma** antes de la comilla si la frase sigue; con **punto** si la acotación cierra la intervención.
+- **Acotación que no es de habla** (una acción, un gesto): va como oración aparte, en mayúscula, y el discurso cierra con **punto**: `"¿Qué?!" Se alarmó. "¡¿Qué hice?!"`.
+- **Dos puntos** cuando la acotación anuncia lo que sigue: `Y luego: "¿Por qué lloras tanto?"`.
+- **Narración:** incisos con **paréntesis**, **comas**, **dos puntos**, **punto y coma** o partidos en dos oraciones. Nunca con raya.
+- **Nada de rayas** en el cuerpo del texto: ni para el diálogo, ni para los incisos, ni como separador. Tampoco el guion corto suelto entre espacios.
+- **Comillas balanceadas:** cada línea deja un número par de comillas, y no se abre una sin cerrar la anterior.
+
+**Aplicación (17 de octubre de 2026):** se convirtieron las **doce piezas del Vol. 1** y los **capítulos 11 y 12** con un conversor revisado a mano. Resultado: **0 rayas**, comillas pares, y **las mismas palabras** que antes (los conteos no se movieron: 91,109 en total). El resumen `volumen-2/00-resumen-volumen-1.md` también se limpió. Los `FICHAS.md` **conservan rayas** porque son documentos de trabajo. `revisar-capitulos.py` ahora **marca falta** por cualquier raya en una pieza narrativa y por comillas impares.
 
 ## Tablero del Volumen 1 (capítulos 1–10)
 

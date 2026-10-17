@@ -9,11 +9,11 @@ La casa de Beldia estaba a hora y media de Axel, en un cerro pelón, y yo la con
 
 Fue una semana después de las coles. Megumin me despertó a las seis de la mañana dando golpes en la puerta, como todos los días, y me dijo:
 
-—Hoy sí vas a venir.
+"Hoy sí vas a venir."
 
-—¿A dónde?
+"¿A dónde?"
 
-—A ver.
+"A ver."
 
 Y me llevó.
 
@@ -31,35 +31,35 @@ No era una ruina. Eso es lo que quiero decir primero, porque es la parte que me 
 
 Un caballo negro, grandote, parado en el patio, con la cabeza baja.
 
-—¿Ya viste el caballo? —le pregunté a Megumin.
+"¿Ya viste el caballo?" le pregunté a Megumin.
 
-—Sí. Es un caballo que se quedó. Se queda ahí todo el tiempo.
+"Sí. Es un caballo que se quedó. Se queda ahí todo el tiempo."
 
-—¿Y no le das de comer?
+"¿Y no le das de comer?"
 
-—¡No es mi caballo!
+"¡No es mi caballo!"
 
-—¿De quién es?
+"¿De quién es?"
 
-—De nadie. —Y levantó el bastón—. ¡Escúchame bien! Este cerro lo escogí porque no hay nadie a menos de seiscientos metros, y porque la piedra de esa torre aguanta la onda de choque, y porque desde aquí se ve la ciudad para calcular la altura del humo. Es la mejor zona de práctica del mundo, y es mía.
+"De nadie." Y levantó el bastón. "¡Escúchame bien! Este cerro lo escogí porque no hay nadie a menos de seiscientos metros, y porque la piedra de esa torre aguanta la onda de choque, y porque desde aquí se ve la ciudad para calcular la altura del humo. Es la mejor zona de práctica del mundo, y es mía."
 
-—Ajá.
+"Ajá."
 
-—¡Es mía!
+"¡Es mía!"
 
-—Oye —le dije—. ¿Y por qué practicas contra una casa y no contra monstruos?
+"Oye", le dije. "¿Y por qué practicas contra una casa y no contra monstruos?"
 
 Megumin me vio como si le hubiera preguntado por qué respira.
 
-—Porque no hay —dijo.
+"Porque no hay", dijo.
 
-—¿Cómo que no hay?
+"¿Cómo que no hay?"
 
-—No hay. Desde hace como un mes. Los monstruos chicos se fueron. —Se encogió de hombros—. Todos. Los del valle, los del río, los del bosque de allá abajo. Se fueron y no han vuelto. Y por eso el gremio está vacío, y por eso todo el mundo anda de malas, y por eso la señora del puesto me regaló dos tomates.
+"No hay. Desde hace como un mes. Los monstruos chicos se fueron." Se encogió de hombros. "Todos. Los del valle, los del río, los del bosque de allá abajo. Se fueron y no han vuelto. Y por eso el gremio está vacío, y por eso todo el mundo anda de malas, y por eso la señora del puesto me regaló dos tomates."
 
-—¿Y a dónde se fueron?
+"¿Y a dónde se fueron?"
 
-—No sé. —Y con el bastón apuntó al cerro de junto—. Pero yo practico aquí porque desde aquí se ve la ciudad y el humo sube derechito.
+"No sé." Y con el bastón apuntó al cerro de junto. "Pero yo practico aquí porque desde aquí se ve la ciudad y el humo sube derechito."
 
 Yo me quedé viendo el cerro de junto, con su construcción de piedra, y no pensé nada, porque todavía no servía para pensar esas cosas.
 
@@ -75,15 +75,15 @@ Y después viene la parte que nadie cuenta: que la maga se cae, y no puede camin
 
 Le di la espalda, se subió, y me puse a caminar con ella por el cerro abajo.
 
-—¿Viste la torre? —me preguntó al oído—. Le pegó en la torre.
+"¿Viste la torre?" me preguntó al oído. "Le pegó en la torre."
 
-—Sí.
+"Sí."
 
-—¡Y hoy fue más alto que ayer!
+"¡Y hoy fue más alto que ayer!"
 
-—Felicidades.
+"Felicidades."
 
-—¡Gracias!
+"¡Gracias!"
 
 Y así, cargando a una archimaga, pasamos por enfrente de una cosa que yo no entendí en ese momento.
 
@@ -99,11 +99,11 @@ Eso es lo que quiero que se entienda. No es que fuera malo. Es que yo no servía
 
 Cinco días después, el gremio nos mandó llamar a la puerta de la ciudad.
 
-—Todos —dijo Luna—. Todos los aventureros, al mediodía. Es orden del capitán de la guardia.
+"Todos", dijo Luna. "Todos los aventureros, al mediodía. Es orden del capitán de la guardia."
 
-—¿Qué pasó?
+"¿Qué pasó?"
 
-—No sé. Pero sé que están sacando a los niños de la calle del mercado, y eso no lo hacen desde el incendio.
+"No sé. Pero sé que están sacando a los niños de la calle del mercado, y eso no lo hacen desde el incendio."
 
 Fuimos.
 
@@ -115,9 +115,9 @@ Sí, entrenando. Eso lo tengo que contar aparte.
 
 Porque hacía una semana, después de las coles, yo había empezado a entrenar como un loco. Le pedí permiso a doña Hilda y me puse a cargar agua del pozo todas las mañanas: veinte viajes, con dos cubetas. Luego cuarenta. Luego aprendí a sentarme bien y a levantarme bien, que es una cosa que uno no sabe que no sabe. Y le pedí al señor barbón que me dejara verlo pelear, y él me dijo que sí, y me pasé tres tardes viendo a un señor gordo darle a un costal.
 
-—¿Y eso para qué sirve? —le pregunté la tercera tarde—. El costal no se mueve.
+"¿Y eso para qué sirve?" le pregunté la tercera tarde. "El costal no se mueve."
 
-—Por eso —dijo él—. Si le puedes pegar a una cosa que no se mueve, ya solo falta que le pegues a una que sí.
+"Por eso", dijo él. "Si le puedes pegar a una cosa que no se mueve, ya solo falta que le pegues a una que sí."
 
 Un día me dejó darle al costal, y me dijo que pegaba como una señorita.
 
@@ -127,7 +127,7 @@ Después me explicó lo que yo estaba haciendo mal, que era todo, y me puso a ha
 
 Ese último consejo me tomó tres días entenderlo.
 
-—No le estás pidiendo permiso —me decía—, le estás pegando. Y luego le pides perdón. ¿Así cómo?
+"No le estás pidiendo permiso", me decía. "Le estás pegando. Y luego le pides perdón. ¿Así cómo?"
 
 Yo le decía «perdón» y me daba risa, y él me decía que a él le daba risa también, pero que eso era un problema mío, no una cosa cómica.
 
@@ -151,27 +151,27 @@ El caballo llegó a la puerta, se paró, y el cuerpo se bajó de un salto, y lue
 
 Y luego habló, y la voz le salió del pecho, no de la boca.
 
-—¿Dónde está el mago?
+"¿Dónde está el mago?"
 
 Silencio.
 
 Sesenta aventureros, y la guardia, y los del mercado, y nadie dijo nada.
 
-—Pregunté que dónde está el mago —dijo el caballero—. El que viene a tirar explosiones a mi casa. Todos los días. Desde hace diecisiete días.
+"Pregunté que dónde está el mago", dijo el caballero. "El que viene a tirar explosiones a mi casa. Todos los días. Desde hace diecisiete días."
 
 Y yo volví a ver a Megumin.
 
 Megumin estaba parada en la primera fila, con el sombrero puesto, y la manita levantada, y la cara roja.
 
-—¡Soy yo! —dijo—. ¡Y no es «tu casa», es un castillo abandonado!
+"¡Soy yo!" dijo. "¡Y no es «tu casa», es un castillo abandonado!"
 
 Y el caballero se volteó a verla, y se quedó como cinco segundos sin decir nada.
 
-—¿En qué momento —dijo al fin— un castillo con dueño se convierte en un castillo abandonado?
+"¿En qué momento", dijo al fin. "Un castillo con dueño se convierte en un castillo abandonado?"
 
-—¡Está cayéndose!
+"¡Está cayéndose!"
 
-—¡Está cayéndose porque tú le tiras todos los días! —Y con la mano señaló el cerro—. La torre del ala este tiene tres siglos de estar de pie. Tiene tres siglos. Y hace diecisiete mañanas que la estoy apuntalando con tablas mientras ustedes me la siguen partiendo.
+"¡Está cayéndose porque tú le tiras todos los días!" Y con la mano señaló el cerro. "La torre del ala este tiene tres siglos de estar de pie. Tiene tres siglos. Y hace diecisiete mañanas que la estoy apuntalando con tablas mientras ustedes me la siguen partiendo."
 
 Y yo, subido en la barda, me acordé del hoyo.
 
@@ -179,21 +179,21 @@ Del hoyo en forma de persona, junto al caballo, en el patio de la piedra.
 
 Y me empecé a poner frío.
 
-—¡Pues aguanta! —dijo Megumin—. ¡Los caballeros aguantan! ¡Yo me paro en este cerro todo el día y aguanto lo que sea!
+"¡Pues aguanta!" dijo Megumin. "¡Los caballeros aguantan! ¡Yo me paro en este cerro todo el día y aguanto lo que sea!"
 
-—Niña.
+"Niña."
 
-—¡No soy niña!
+"¡No soy niña!"
 
-—Niña —repitió el caballero, y su voz no se levantó ni un poquito—. Yo no soy un caballero.
+"Niña", repitió el caballero, y su voz no se levantó ni un poquito. "Yo no soy un caballero."
 
 Y se sacó la cabeza, y se la puso debajo del brazo, para que se viera bien.
 
-—Yo era un caballero —dijo—. Hace mucho. Y ahora soy lo que queda de un caballero, y lo que queda de un caballero tiene un nombre, y ese nombre es Beldia, y Beldia es general del Rey Demonio.
+"Yo era un caballero", dijo. "Hace mucho. Y ahora soy lo que queda de un caballero, y lo que queda de un caballero tiene un nombre, y ese nombre es Beldia, y Beldia es general del Rey Demonio."
 
 Y el gremio, sesenta personas, se movió un paso para atrás.
 
-—Y Beldia —siguió, y se volvió a poner la cabeza— tiene dos cosas que hacer aquí. La primera es un trabajo muy aburrido que no les importa. La segunda es dormir por las tardes. Y llevo diecisiete tardes sin dormir, señorita, porque el señor de la casa del cerro no puede dormir cuando le están partiendo el ala este de su casa.
+"Y Beldia", siguió, y se volvió a poner la cabeza. "Tiene dos cosas que hacer aquí. La primera es un trabajo muy aburrido que no les importa. La segunda es dormir por las tardes. Y llevo diecisiete tardes sin dormir, señorita, porque el señor de la casa del cerro no puede dormir cuando le están partiendo el ala este de su casa."
 
 Ahí, en ese momento, en la explanada de la puerta, a mí se me ocurrió una cosa y me dio mucha pena.
 
@@ -203,11 +203,11 @@ No digo que tuviera razón en todo. Digo que a mí, que pasé quince años metid
 
 Y entonces hizo lo otro.
 
-—Ya que estamos —dijo Beldia—, y para que se entienda el mensaje.
+"Ya que estamos", dijo Beldia. "Y para que se entienda el mensaje."
 
 Y levantó la mano sin guante, y la mano tenía humo.
 
-—¡Megumin, apártate! —gritó Aqua.
+"¡Megumin, apártate!" gritó Aqua.
 
 Y no le dio tiempo.
 
@@ -215,13 +215,13 @@ Lo que salió de la mano de Beldia no fue un rayo ni una bola de fuego. Fue una 
 
 Megumin se tambaleó y se agarró el pecho con las dos manos y se puso pálida.
 
-—Se llama Premonición de Muerte —dijo Beldia, sin ningún gusto—. Te quedan siete días. El séptimo día te mueres, y te mueres con dolor. Si quieres que te lo quite, ven a mi casa a pedírmelo. Hay caminito.
+"Se llama Premonición de Muerte", dijo Beldia, sin ningún gusto. "Te quedan siete días. El séptimo día te mueres, y te mueres con dolor. Si quieres que te lo quite, ven a mi casa a pedírmelo. Hay caminito."
 
 Y en eso, entre Megumin y Beldia, se metió una armadura.
 
 Se metió Darkness, caminando derecho, y se puso enfrente de Megumin, tapándola completa.
 
-—¡No! —dijo—. ¡A ella no!
+"¡No!" dijo. "¡A ella no!"
 
 Y Beldia levantó la mano otra vez, y soltó otra nube, y la nube se fue al pecho de Darkness y se le metió entre las placas, y Darkness hizo un ruido raro.
 
@@ -229,53 +229,53 @@ Y luego sonrió.
 
 Sonrió con la cara completa, una sonrisa lenta, y se le pusieron las mejillas rojas.
 
-—Ah —dijo.
+"Ah", dijo.
 
 Y Beldia, el general del Rey Demonio, dio un paso atrás.
 
-—¿Qué es eso? —preguntó.
+"¿Qué es eso?" preguntó.
 
-—Siete días —dijo Darkness, y se le empezó a salir la voz como cuando alguien habla dormido—. Siete días. Y usted dice que el séptimo día me muero con dolor. ¿Con cuánto dolor? ¿Mucho? ¿Puede ser mucho? ¿Puede ser de esos dolores que a uno le dan ganas de llorar y le piden por favor al que le pega?
+"Siete días", dijo Darkness, y se le empezó a salir la voz como cuando alguien habla dormido. "Siete días. Y usted dice que el séptimo día me muero con dolor. ¿Con cuánto dolor? ¿Mucho? ¿Puede ser mucho? ¿Puede ser de esos dolores que a uno le dan ganas de llorar y le piden por favor al que le pega?"
 
 Silencio en la explanada.
 
-—¿Cuántos días me quedan para sentir eso? —siguió Darkness—. ¿O me va a empezar poco a poco? ¿O me va a empezar de golpe? Y cuando me empiece, ¿usted va a estar ahí viendo? ¿O me va a dejar sola? Porque si me va a dejar sola, entonces...
+"¿Cuántos días me quedan para sentir eso?" siguió Darkness. "¿O me va a empezar poco a poco? ¿O me va a empezar de golpe? Y cuando me empiece, ¿usted va a estar ahí viendo? ¿O me va a dejar sola? Porque si me va a dejar sola, entonces..."
 
-—Ya —dijo Beldia.
+"Ya", dijo Beldia.
 
-—Es que necesito saber la logística.
+"Es que necesito saber la logística."
 
-—Ya.
+"Ya."
 
-—Porque si van a ser siete días de castigo, tengo que organizar...
+"Porque si van a ser siete días de castigo, tengo que organizar..."
 
-—Señora, ya.
+"Señora, ya."
 
 Y Beldia se rascó la nuca con la mano sin guante, y se volteó a ver a sus propios soldados, que eran unos esqueletos con espada que había traído en la retaguardia, y los esqueletos no le dijeron nada porque eran esqueletos.
 
-—Miren —dijo, y esa parte se la dijo a Megumin, pero también se la dijo a todos—. Yo vine a que dejaran de partirme la casa. Nada más eso. Esa cabeza se me va a caer en siete días, y si en siete días ustedes no han venido a buscarme, entonces yo voy a saber que no vienen.
+"Miren", dijo, y esa parte se la dijo a Megumin, pero también se la dijo a todos. "Yo vine a que dejaran de partirme la casa. Nada más eso. Esa cabeza se me va a caer en siete días, y si en siete días ustedes no han venido a buscarme, entonces yo voy a saber que no vienen."
 
-—¡Sí vamos a ir! —dijo Megumin, con las dos manos apretadas en la panza y la voz temblando, pero fuerte—. ¡Aunque no puedo caminar! ¡Aunque me tenga que llevar alguien! ¡Yo voy!
+"¡Sí vamos a ir!" dijo Megumin, con las dos manos apretadas en la panza y la voz temblando, pero fuerte. "¡Aunque no puedo caminar! ¡Aunque me tenga que llevar alguien! ¡Yo voy!"
 
-—Bueno. —Y Beldia se subió al caballo—. Pues los espero. Y de una vez les aviso: yo voy a estar en mi casa. A trescientos metros de un hoyo de veintidós metros de ancho que ustedes hicieron. Con la torre apuntalada. Con tablas.
+"Bueno." Y Beldia se subió al caballo. "Pues los espero. Y de una vez les aviso: yo voy a estar en mi casa. A trescientos metros de un hoyo de veintidós metros de ancho que ustedes hicieron. Con la torre apuntalada. Con tablas."
 
 Se puso los estribos, agarró las riendas, y antes de irse se volteó a ver a Darkness una última vez.
 
-—¿Sabe qué? —le dijo—. Usted va a ser la primera persona que me ha dado miedo en doscientos años.
+"¿Sabe qué?" le dijo. "Usted va a ser la primera persona que me ha dado miedo en doscientos años."
 
-—¡Gracias!
+"¡Gracias!"
 
-—No era un cumplido.
+"No era un cumplido."
 
 Y se fue, y el galope se oyó hasta muy lejos, y el polvo del camino se quedó un rato en el aire, y nadie en la explanada se movió hasta que la muralla avisó que ya no se veía.
 
 Y entonces Aqua se sacudió las manos, como quien se quita el polvo de encima.
 
-—Ya —dijo—. A ver. Trae acá.
+"Ya", dijo. "A ver. Trae acá."
 
-—¿Qué? —dijo Darkness.
+"¿Qué?" dijo Darkness.
 
-—Que traigas acá el pecho.
+"Que traigas acá el pecho."
 
 Y Darkness se quedó parada, y Aqua se le acercó, le puso la mano encima de la armadura, cerró los ojos y dijo una palabra.
 
@@ -283,11 +283,11 @@ Una palabra cortita. Como de tres sílabas.
 
 Y Darkness se tambaleó, se llevó la mano al pecho y se quedó con la boca abierta.
 
-—Se fue —dijo.
+"Se fue", dijo.
 
-—¡Claro que se fue! —dijo Aqua, y se puso las manos en la cintura—. ¿O qué creías? ¡Soy una diosa! ¡La alcancé a atrapar en la armadura, antes de que se le metiera! ¡Las maldiciones de muerte son de nivel medio!
+"¡Claro que se fue!" dijo Aqua, y se puso las manos en la cintura. "¿O qué creías? ¡Soy una diosa! ¡La alcancé a atrapar en la armadura, antes de que se le metiera! ¡Las maldiciones de muerte son de nivel medio!"
 
-—¿Y la mía? —dijo Megumin.
+"¿Y la mía?" dijo Megumin.
 
 Y Aqua se le acercó, y le puso la mano en el pecho, y cerró los ojos.
 
@@ -295,11 +295,11 @@ Y esta vez tardó.
 
 Y esta vez no pasó nada.
 
-—No se deja —dijo, y se le borró la sonrisa.
+"No se deja", dijo, y se le borró la sonrisa.
 
-—¿Cómo que no se deja?
+"¿Cómo que no se deja?"
 
-—Es que la tuya ya está adentro. —Y habló sin chiste, que es como habla Aqua cuando de verdad está trabajando—. Cuando una maldición de esas ya está adentro, solo te la quita el que te la puso.
+"Es que la tuya ya está adentro." Y habló sin chiste, que es como habla Aqua cuando de verdad está trabajando. "Cuando una maldición de esas ya está adentro, solo te la quita el que te la puso."
 
 Silencio en la explanada.
 
@@ -307,11 +307,11 @@ Y Megumin se quedó viendo el cerro del otro lado del valle, con el sombrero en 
 
 Y el gremio entero, sesenta aventureros, se quedó viendo a la muchacha del pelo azul con una cara que yo todavía no había visto en este mundo.
 
-—¿Qué? —dijo Aqua—. ¿Por qué me ven así?
+"¿Qué?" dijo Aqua. "¿Por qué me ven así?"
 
 Y entonces el señor barbón, el de la jarra, el mismo que le había dicho «y yo soy un príncipe» el primer día, se levantó de su silla, se le acercó, se hincó en una rodilla en el suelo, y le dijo:
 
-—Señora.
+"Señora."
 
 Y Aqua se puso a llorar.
 
@@ -369,29 +369,29 @@ La puerta no tenía puerta. Nomás el marco, y adentro el patio, y en el patio e
 
 Y a la orilla del hoyo, sentado en una silla plegable, con el cuerpo puesto, sin cabeza, y con la cabeza sobre una piedra al lado, estaba Beldia.
 
-—Buenas tardes —dije.
+"Buenas tardes", dije.
 
 Y la cabeza, desde la piedra, abrió los ojos.
 
-—¿Qué haces aquí?
+"¿Qué haces aquí?"
 
-—Vine a disculparme.
+"Vine a disculparme."
 
 Se quedó callado un buen rato.
 
-—¿A qué?
+"¿A qué?"
 
-—A disculparme.
+"A disculparme."
 
-—Por ti no es.
+"Por ti no es."
 
-—No. Por ella.
+"No. Por ella."
 
 Y me quedé ahí parado, en el marco sin puerta, con el morral en la mano, a diez metros de un general del Rey Demonio.
 
 Y Beldia hizo una cosa que a nadie se le ocurre en las historias: se levantó, agarró la silla plegable, la acomodó a cinco metros de la piedra, la abrió, y me señaló la piedra del lado.
 
-—Siéntate —dijo.
+"Siéntate", dijo.
 
 Y yo me senté.
 
@@ -411,63 +411,63 @@ Me contó que esa casa era de un noble tacaño que se murió sin hijos hace dosc
 
 Me contó que lo que más le molesta de su trabajo no es el trabajo: es que lo manden a lugares donde la gente ve pasar a una persona como él y se persigne.
 
-—Me llaman «el sin cabeza» —dijo.
+"Me llaman «el sin cabeza»", dijo.
 
-—Yo también tengo tres nombres —le dije.
+"Yo también tengo tres nombres", le dije.
 
-—¿Y eso qué?
+"¿Y eso qué?"
 
-—Que la gente me llama por el primero y nunca sabe los otros dos. Y los otros dos son la mitad de mí.
+"Que la gente me llama por el primero y nunca sabe los otros dos. Y los otros dos son la mitad de mí."
 
 Y Beldia se quedó callado, y luego dijo:
 
-—Tú eres raro.
+"Tú eres raro."
 
-—Ya me lo han dicho.
+"Ya me lo han dicho."
 
-—¿Quiere ver lo que le digo? —dijo de repente, y se levantó y entró a la casa.
+"¿Quiere ver lo que le digo?" dijo de repente, y se levantó y entró a la casa.
 
 Yo lo seguí.
 
 Adentro había un salón grande, con el techo partido por el lado de la sombra, y debajo del techo partido había una mesa, y encima de la mesa había tablas. Tablas nuevas, cortadas derechito, apiladas con cuidado, y al lado un martillo y un bote de clavos.
 
-—Las corto yo —dijo—. Todos los días, después de que truena el cerro. Y todos los días, al otro día, hay otra parte del techo en el piso.
+"Las corto yo", dijo. "Todos los días, después de que truena el cerro. Y todos los días, al otro día, hay otra parte del techo en el piso."
 
 Se quedó viendo las tablas.
 
-—¿Sabe qué es lo que más me molesta? Que las corto bien. Yo corto muy bien la madera. Da lo mismo, pero las corto bien.
+"¿Sabe qué es lo que más me molesta? Que las corto bien. Yo corto muy bien la madera. Da lo mismo, pero las corto bien."
 
-—¿Y tú de dónde eres? —le pregunté, porque a mí me sale preguntar cosas.
+"¿Y tú de dónde eres?" le pregunté, porque a mí me sale preguntar cosas.
 
-—De un lugar que ya no existe. —Y luego, con la mano en el marco de la ventana—: ¿Y tú?
+"De un lugar que ya no existe." Y luego, con la mano en el marco de la ventana: "¿Y tú?"
 
-—De una isla. —Y luego, porque me salió solo—: De una isla con una casa chiquita en un cerro.
+"De una isla." Y luego, porque me salió solo: "De una isla con una casa chiquita en un cerro."
 
-—¿Como cuál?
+"¿Como cuál?"
 
-—Como la suya —le dije—. Nomás que la mía no la estaban partiendo.
+"Como la suya", le dije. "Nomás que la mía no la estaban partiendo."
 
 Y Beldia se rio. Se rio con el pecho, porque la cabeza la tenía puesta, y ese fue el ruido más raro que he oído en mi vida: un señor riéndose desde un lugar y con la cara en otro.
 
-—¿Tenía ventana? —preguntó.
+"¿Tenía ventana?" preguntó.
 
-—Una. Chiquita.
+"Una. Chiquita."
 
-—Eso es lo único que hace falta —dijo—. Una ventana y una puerta. Lo demás es lujo.
+"Eso es lo único que hace falta", dijo. "Una ventana y una puerta. Lo demás es lujo."
 
 Y yo me quedé pensando en eso un buen rato, porque el general del Rey Demonio y yo acabábamos de hablar de la misma cosa, y esa cosa no era la guerra.
 
 Cuando ya me iba, se me ocurrió preguntar, porque en mi mundo la gente dice cosas así nada más para ver qué pasa:
 
-—¿Y por qué no le quitaste la maldición a la niña cuando te lo pedimos?
+"¿Y por qué no le quitaste la maldición a la niña cuando te lo pedimos?"
 
 Y él me dijo la verdad. Y la verdad era la respuesta más aburrida del mundo, y por eso me la he pasado pensando en ella todo este tiempo.
 
-—Porque no me la pidieron —dijo—. Nadie me la pidió.
+"Porque no me la pidieron", dijo. "Nadie me la pidió."
 
-—Ella dijo que sí iba a venir.
+"Ella dijo que sí iba a venir."
 
-—Dijo. —Beldia se puso la cabeza, se la acomodó, y me vio desde las dos cuencas—. Y a los siete días no vino. ¿Sabes cuántas veces me han dicho «sí, voy»? Mil. Es la cosa que más se dice en este mundo. Yo lo único que hago es esperar a que alguien venga, chico. Yo no estoy enojado. Yo estoy esperando.
+"Dijo." Beldia se puso la cabeza, se la acomodó, y me vio desde las dos cuencas. "Y a los siete días no vino. ¿Sabes cuántas veces me han dicho «sí, voy»? Mil. Es la cosa que más se dice en este mundo. Yo lo único que hago es esperar a que alguien venga, chico. Yo no estoy enojado. Yo estoy esperando."
 
 Y eso me partió en dos, y no se lo dije.
 
@@ -475,45 +475,45 @@ Después le conté que a la maldición ya se la habían quitado a Darkness, porq
 
 Y Beldia se levantó de la silla, y por primera vez en la hora se le movió la voz.
 
-—¿Se la quitaron? ¿Desde cuándo?
+"¿Se la quitaron? ¿Desde cuándo?"
 
-—Desde el mismo día. La que se la quitó es la del pelo azul. Es diosa.
+"Desde el mismo día. La que se la quitó es la del pelo azul. Es diosa."
 
-—¿Es qué?
+"¿Es qué?"
 
-—Es diosa. Del agua.
+"Es diosa. Del agua."
 
 Y Beldia se pasó las manos por la cara, y se sentó otra vez, y se quedó viendo el hoyo del patio un buen rato.
 
-—Diecisiete días —dijo—. Diecisiete días y nadie me dijo que el asunto estaba cerrado. Ni un papel. Ni un mensajero. Nada. —Se rascó la barba mal recortada—. Yo llevo diecisiete días sin dormir por un problema que ya se había resuelto y a nadie se le ocurrió avisarme.
+"Diecisiete días", dijo. "Diecisiete días y nadie me dijo que el asunto estaba cerrado. Ni un papel. Ni un mensajero. Nada." Se rascó la barba mal recortada. "Yo llevo diecisiete días sin dormir por un problema que ya se había resuelto y a nadie se le ocurrió avisarme."
 
-—Perdón.
+"Perdón."
 
-—No te disculpes, no fue tu culpa.
+"No te disculpes, no fue tu culpa."
 
-—Perdón.
+"Perdón."
 
-—...Ya.
+"...Ya."
 
 Y luego me preguntó, y me lo preguntó sin ninguna maldad, nada más con curiosidad, y por eso se me quedó grabado:
 
-—Oye. ¿Y tú por qué te disculpas tanto?
+"Oye. ¿Y tú por qué te disculpas tanto?"
 
 Yo me quedé viendo la piedra del patio.
 
-—Perdón —dije.
+"Perdón", dije.
 
-—Ya te dije que no.
+"Ya te dije que no."
 
-—Es que no me sale de otra manera.
+"Es que no me sale de otra manera."
 
 Y él me dijo:
 
-—A ver. Practica. Di «lo siento».
+"A ver. Practica. Di «lo siento»."
 
-—Lo siento.
+"Lo siento."
 
-—Ahí está. —Y se volvió a acostar. Bueno, se recargó—. Eso está bien dicho. «Perdón» es cuando uno está en falta. «Lo siento» es cuando a uno le duele algo. Y a ti te duele todo, chico, todo el tiempo. Se te ve.
+"Ahí está." Y se volvió a acostar. Bueno, se recargó. "Eso está bien dicho. «Perdón» es cuando uno está en falta. «Lo siento» es cuando a uno le duele algo. Y a ti te duele todo, chico, todo el tiempo. Se te ve."
 
 Y yo me fui de ese castillo con el cántaro vacío, el morral sin pan, y una sensación rarísima, que era la sensación de haber pasado una tarde con un enemigo del mundo y haber platicado de cosas de la vida.
 
@@ -523,11 +523,11 @@ Y saqué el celular, con la linterna puesta para que no me viera nadie, y abrí 
 
 Y ahí, abajo de las cinco banderas, escribí la sexta:
 
-—Bandera seis. Piden las cosas por favor y no se las dan. Revisar siempre.
+"Bandera seis. Piden las cosas por favor y no se las dan. Revisar siempre."
 
 Y luego, abajo, escribí otra cosa, y esa la escribí despacio, porque no estaba seguro de querer escribirla:
 
-—Seis días.
+"Seis días."
 
 Y apagué el aparato y me bajé del cerro.
 

@@ -37,7 +37,7 @@ Lo que se quedó, a propósito: **el habla mexicana del narrador y de Jesús** �
 
 ### Conteos
 
-Encabezados, fichas y biblia, todos al día: cap. 9 **8,343** · cap. 10 **8,889** · epílogo **3,257**. Narrativa del volumen: **65,035 palabras** (74,281 contando las fichas y documentos de trabajo al abrir la carpeta del Volumen 2). Los rótulos de estado quedaron revisados uno por uno; tras la aprobación del autor, los doce dicen «aprobado por el autor».
+Encabezados, fichas y biblia, todos al día: cap. 9 **8,343** · cap. 10 **8,889** · epílogo **3,257**. Narrativa del volumen: **65,035 palabras**. *(Al abrir la carpeta del Volumen 2, el total con fichas y documentos era de 74,281; hoy el revisor cuenta **91,109** en toda la carpeta, ya con los capítulos 11 y 12.)* Los rótulos de estado quedaron revisados uno por uno; tras la aprobación del autor, los doce dicen «aprobado por el autor».
 
 ### Nombres
 

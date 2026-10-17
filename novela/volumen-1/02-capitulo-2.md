@@ -9,23 +9,23 @@ La puerta de Axel era grandísima y tenía dos guardias.
 
 Los dos guardias iban armados. Uno traía lanza y el otro traía lanza y además una cara de aburrimiento de ocho horas.
 
-—Nombre y oficio —me dijo el de la cara.
+"Nombre y oficio", me dijo el de la cara.
 
-—Jesús Fujioka Hernández —le dije—. Y todavía no tengo oficio.
+"Jesús Fujioka Hernández", le dije. "Y todavía no tengo oficio."
 
 El guardia levantó la vista.
 
-—¿Cómo que todavía no?
+"¿Cómo que todavía no?"
 
-—Es que acabo de llegar.
+"Es que acabo de llegar."
 
-—Todos los que llegan acaban de llegar.
+"Todos los que llegan acaban de llegar."
 
-—Ah. —Y luego, porque no se me ocurrió nada mejor—: Perdón.
+"Ah." Y luego, porque no se me ocurrió nada mejor: "Perdón."
 
 El guardia me miró un rato largo. Yo creo que estaba esperando a que yo dijera algo más, algo como «soy un héroe» o «vengo a matar al Rey Demonio» o cualquier cosa que le hiciera la noche más interesante. Pero yo no traía nada de eso.
 
-—Pasa —me dijo al final—. Y no te metas en problemas. Aquí los problemas muerden.
+"Pasa", me dijo al final. "Y no te metas en problemas. Aquí los problemas muerden."
 
 Pasé.
 
@@ -37,13 +37,13 @@ No un castillo, no una sala del trono, no un campo de batalla. Un pueblo. Con ca
 
 Caminé como veinte pasos y me tuve que detener.
 
-—¿Y ahora qué? —preguntó Aqua.
+"¿Y ahora qué?" preguntó Aqua.
 
-—Nada. Es que huele.
+"Nada. Es que huele."
 
-—Claro que huele. Es una ciudad. Las ciudades huelen.
+"Claro que huele. Es una ciudad. Las ciudades huelen."
 
-—Sí, pero huele a cebolla.
+"Sí, pero huele a cebolla."
 
 Aqua se me quedó viendo como si le hubiera dicho algo ofensivo.
 
@@ -55,23 +55,23 @@ Aquí no.
 
 Aquí la gente olía a trabajo.
 
-—Ya, apúrate —dijo Aqua—. Tenemos que ir al gremio.
+"Ya, apúrate", dijo Aqua. "Tenemos que ir al gremio."
 
-—¿Tú sabes dónde está?
+"¿Tú sabes dónde está?"
 
-—¡Claro que sé dónde está! ¡Yo mandé gente aquí durante siglos! ¡Conozco esta ciudad mejor que nadie!
+"¡Claro que sé dónde está! ¡Yo mandé gente aquí durante siglos! ¡Conozco esta ciudad mejor que nadie!"
 
 Caminamos. Aqua iba adelante, con la bolsa al hombro, muy segura de sí misma.
 
 Caminamos como tres cuadras y llegamos a una plaza con una fuente y con una estatua de alguien a caballo.
 
-—¿Y ahora? —le pregunté.
+"¿Y ahora?" le pregunté.
 
-—Estoy pensando.
+"Estoy pensando."
 
-—¿No que conocías esta ciudad mejor que nadie?
+"¿No que conocías esta ciudad mejor que nadie?"
 
-—¡La conozco de arriba! —dijo, ofendidísima—. ¡Desde arriba se ve distinto!
+"¡La conozco de arriba!" dijo, ofendidísima. "¡Desde arriba se ve distinto!"
 
 Yo me acerqué a un señor que estaba vendiendo algo en un puesto, le dije buenas tardes, le pregunté si me podía decir dónde estaba el gremio, le di las gracias y le di las gracias otra vez, y el señor me dijo que estaba a dos cuadras, que si iba con esa muchacha del pelo azul más me valía tener cuidado, y que si buscaba trabajo no me preocupara, que en el gremio siempre hay.
 
@@ -79,15 +79,15 @@ Le di las gracias por tercera vez y nos fuimos.
 
 Cuando volteé, Aqua me estaba viendo raro.
 
-—¿Qué?
+"¿Qué?"
 
-—¿Por qué le dijiste gracias tres veces?
+"¿Por qué le dijiste gracias tres veces?"
 
-—Porque me ayudó.
+"Porque me ayudó."
 
-—¡Una vez es suficiente!
+"¡Una vez es suficiente!"
 
-—Es que se me sale.
+"Es que se me sale."
 
 Ella resopló y siguió caminando, y yo creo que iba pensando en eso un buen rato, porque se quedó callada como dos cuadras, lo cual, para Aqua, es prácticamente un récord.
 
@@ -99,13 +99,13 @@ Me dio hambre de verdad, con el estómago, con ese ruido que hacen los estómago
 
 Y me tuve que detener otra vez, y me tuve que agarrar de un poste, y esta vez sí me puse a llorar como un tonto en medio de la calle.
 
-—¡¿Otra vez?! —chilló Aqua.
+"¡¿Otra vez?!" chilló Aqua.
 
-—Es que tengo hambre.
+"Es que tengo hambre."
 
-—¡Pues come!
+"¡Pues come!"
 
-—No, no entiendes. Es que tengo hambre de verdad. Es hambre de tener hambre. ¿Sabes cuántos años llevo sin tener hambre? Años. Años comiendo porque me tocaba, porque había que comer, porque mi mamá se sentaba conmigo y se quedaba hasta que yo terminaba el plato.
+"No, no entiendes. Es que tengo hambre de verdad. Es hambre de tener hambre. ¿Sabes cuántos años llevo sin tener hambre? Años. Años comiendo porque me tocaba, porque había que comer, porque mi mamá se sentaba conmigo y se quedaba hasta que yo terminaba el plato."
 
 Y Aqua se cruzó de brazos y me dijo que estaba loco, y que por qué lloraba por algo tan fácil de arreglar, y que si quería llorar llorara por el precio de la comida, que ya iba a ver.
 
@@ -131,13 +131,13 @@ Sentí que el mundo era más grande que yo.
 
 Y me gustó. Me gustó como a otra gente le gusta un buen chiste.
 
-—¡Buenas noches! —gritó Aqua.
+"¡Buenas noches!" gritó Aqua.
 
 El gremio entero volteó a verla.
 
 Y ella se subió a una banca.
 
-—¡Atención! —dijo, con las dos manos en la cintura y la barbilla levantada—. ¡Atención, habitantes de este mundo! ¡Están en presencia de una diosa!
+"¡Atención!" dijo, con las dos manos en la cintura y la barbilla levantada. "¡Atención, habitantes de este mundo! ¡Están en presencia de una diosa!"
 
 Silencio.
 
@@ -147,17 +147,17 @@ Y luego el gremio entero volvió a lo suyo. Todos, al mismo tiempo, como si les 
 
 Nadie aplaudió. Nadie se rio. Nadie la corrió. Nomás dejaron de verla.
 
-—¡¿Qué hacen?! —gritó Aqua—. ¡Soy una diosa! ¡De verdad!
+"¡¿Qué hacen?!" gritó Aqua. "¡Soy una diosa! ¡De verdad!"
 
-—Sí, mi amor —le dijo un señor grandote con barba, desde una mesa—. Y yo soy un príncipe.
+"Sí, mi amor", le dijo un señor grandote con barba, desde una mesa. "Y yo soy un príncipe."
 
-—¡Usted es un borracho!
+"¡Usted es un borracho!"
 
-—Eso también.
+"Eso también."
 
 Aqua bajó de la banca con la cara roja y se sentó en una mesa a hacer berrinche, y yo me quedé ahí parado, sin saber qué hacer, hasta que una muchacha se me acercó por el lado.
 
-—Buenas noches —me dijo—. Tú eres nuevo, ¿verdad?
+"Buenas noches", me dijo. "Tú eres nuevo, ¿verdad?"
 
 Y yo la vi.
 
@@ -169,23 +169,23 @@ Aqua me hablaba como si yo fuera una mascota grande que había que cuidar. Los g
 
 Y esa muchacha me habló como se le habla a la gente.
 
-—Sí —le dije—. Llegué hoy. Perdón.
+"Sí", le dije. "Llegué hoy. Perdón."
 
 Y ella me hizo una cara.
 
-—¿Por qué te disculpas?
+"¿Por qué te disculpas?"
 
 Me quedé sin respuesta.
 
 De verdad. Me quedé sin respuesta. Abrí la boca y no me salió nada, porque en quince años nadie me había preguntado eso, y porque la respuesta honesta era «porque existo», y uno no puede decir eso en un gremio con cuarenta personas.
 
-—Es que... —dije— ...no sé.
+"Es que...", dije. "...no sé."
 
-—Bueno, pues no te disculpes —dijo ella—. Aquí la gente llega y nadie se disculpa por llegar. Me llamo Luna. Soy la recepcionista. ¿Vienen a registrarse?
+"Bueno, pues no te disculpes", dijo ella. "Aquí la gente llega y nadie se disculpa por llegar. Me llamo Luna. Soy la recepcionista. ¿Vienen a registrarse?"
 
-—Sí.
+"Sí."
 
-—Entonces primero el trámite y ya después te disculpas, si quieres.
+"Entonces primero el trámite y ya después te disculpas, si quieres."
 
 Lo dijo con una sonrisa, y yo creo que era la primera broma que alguien me hacía en este mundo, y me la creí toda, y me reí, y me tapé la boca con la mano, y ella abrió los ojos como diciendo «ay, este niño».
 
@@ -199,11 +199,11 @@ Luna nos llevó a un mostrador largo, sacó dos cartas de un cajón, cartas de c
 
 Antes de eso me había hecho unas preguntas y las había apuntado en su tabla: cuántos años tenía, de qué color traía el pelo, cómo traía los ojos.
 
-—Quince —le dije—. Pelo claro. Ojos castaños.
+"Quince", le dije. "Pelo claro. Ojos castaños."
 
 Y me miró de arriba abajo, y apuntó algo más que no me dijo, y yo supuse que era la estatura, porque la estatura es la cosa que la gente apunta sin decírtela.
 
-—Ponla encima. Así, abierta. Y no te muevas, que se te queda pegada y eso es un lío.
+"Ponla encima. Así, abierta. Y no te muevas, que se te queda pegada y eso es un lío."
 
 Puse la mano encima de la carta.
 
@@ -219,53 +219,53 @@ Mi nombre. Mi clase. Y un montón de números.
 
 Nunca me voy a acordar de los números, porque los números son aburridos, pero me acuerdo de una cosa: cuando Luna la agarró para leerla, puso una cara rara.
 
-—A ver... —dijo, y se ajustó la cinta—. Jesús Fujioka Hernández. —Y leyó mi nombre completo, con las tres partes, en voz alta, y a mí se me puso la piel de gallina y no supe por qué—. ¿De dónde eres? Por el nombre, digo.
+"A ver...", dijo, y se ajustó la cinta. "Jesús Fujioka Hernández." Y leyó mi nombre completo, con las tres partes, en voz alta, y a mí se me puso la piel de gallina y no supe por qué. "¿De dónde eres? Por el nombre, digo."
 
-—De Guadalajara —le dije—. De México.
+"De Guadalajara", le dije. "De México."
 
-—No conozco —dijo—. Pero qué bonito nombre tienes. Suena a que le pides cosas a la gente.
+"No conozco", dijo. "Pero qué bonito nombre tienes. Suena a que le pides cosas a la gente."
 
 Sentí como si me hubieran dado un vaso de agua fría.
 
-—...Gracias —le dije—. Es que mi...
+"...Gracias", le dije. "Es que mi..."
 
-—¡Y los números! —me interrumpió, muy contenta—. Vamos a ver los números.
+"¡Y los números!" me interrumpió, muy contenta. "Vamos a ver los números."
 
 Y yo también los vi, porque alcancé a leerlos antes de que ella los tapara con el dedo.
 
 Fuerza: regular. Vitalidad: regular. Inteligencia: regular. Poder mágico: nada. Destreza: regular. Agilidad: regular. Suerte: un poquito arriba de lo normal, nada más un poquito.
 
-—Bueno —dijo Luna, con una sonrisa de esas que se ponen para amortiguar—. Es... un buen punto de partida.
+"Bueno", dijo Luna, con una sonrisa de esas que se ponen para amortiguar. "Es... un buen punto de partida."
 
-—No entiendo nada de eso.
+"No entiendo nada de eso."
 
-—No tienes que entenderlo. Yo te lo explico. —Y se acomodó—. Mira: aquí, la gente llega y le salen números, y los números dicen para qué sirves. Si tienes fuerza, vas para guerrero. Si tienes magia, vas para mago. Si eres rápido, para ladrón. Los números son como... como la carta de recomendación que nadie te escribió.
+"No tienes que entenderlo. Yo te lo explico." Y se acomodó. "Mira: aquí, la gente llega y le salen números, y los números dicen para qué sirves. Si tienes fuerza, vas para guerrero. Si tienes magia, vas para mago. Si eres rápido, para ladrón. Los números son como... como la carta de recomendación que nadie te escribió."
 
-—¿Y mis números qué dicen?
+"¿Y mis números qué dicen?"
 
 Luna se quedó viendo la carta un segundo de más.
 
-—Dicen que puedes ser cualquier cosa —dijo—. Y que todavía no eres ninguna.
+"Dicen que puedes ser cualquier cosa", dijo. "Y que todavía no eres ninguna."
 
 Y yo pensé que esa frase era la cosa más linda que me habían dicho en el otro mundo, y ella lo dijo como si fuera un problema.
 
-—¿Y la suerte?
+"¿Y la suerte?"
 
-—Ah, la suerte. —Y ahí sí se le abrió la cara—. Está arriba del promedio. Eso no se ve mucho, ¿eh? La suerte no sirve para pelear ni para curar ni para nada que se vea. Pero hay gente que jura que sirve, y esa gente vive mejor que la otra.
+"Ah, la suerte." Y ahí sí se le abrió la cara. "Está arriba del promedio. Eso no se ve mucho, ¿eh? La suerte no sirve para pelear ni para curar ni para nada que se vea. Pero hay gente que jura que sirve, y esa gente vive mejor que la otra."
 
-—¿Y a mí qué me toca?
+"¿Y a mí qué me toca?"
 
-—A ti te toca lo que pidas. Todavía no tienes clase. Esa es la parte del trámite que la gente se salta: hay que escoger.
+"A ti te toca lo que pidas. Todavía no tienes clase. Esa es la parte del trámite que la gente se salta: hay que escoger."
 
-—¿Y qué hay?
+"¿Y qué hay?"
 
 Y me empezó a nombrar clases. Guerrero, arquero, ladrón, mago, clérigo, caballero, monje, bardo, herrero, cazador, y un montón más que se me fueron olvidando mientras los decía, y todas sonaban como algo que uno ya sabe hacer, y yo no sabía hacer nada.
 
-—¿Y cuál me recomiendas? —le pregunté.
+"¿Y cuál me recomiendas?" le pregunté.
 
 Luna se recargó en el mostrador y se puso a pensar de verdad. Se le notaba que se ponía a pensar de verdad cuando alguien se lo pedía, y yo creo que eso casi nadie se lo pedía.
 
-—Es que depende —dijo—. ¿Tú para qué viniste?
+"Es que depende", dijo. "¿Tú para qué viniste?"
 
 Y esa pregunta, hermano, esa pregunta me dejó seco.
 
@@ -273,37 +273,37 @@ Pa' qué vine. Nadie me había preguntado eso tampoco. Aqua me había preguntado
 
 No vine a matar al Rey Demonio. No vine a ser héroe. No vine a nada.
 
-—Vine a probar —le dije.
+"Vine a probar", le dije.
 
 Luna levantó las dos cejas.
 
-—¿A probar?
+"¿A probar?"
 
-—Sí. A probar todo. Quiero ver qué se me da. Quiero cargar cosas, quiero cocinar, quiero barrer, quiero salir a ver qué hay por ahí. —Y luego, porque me dio pena, agregué—: Y quiero aprender a pelear, porque me imagino que aquí eso es útil.
+"Sí. A probar todo. Quiero ver qué se me da. Quiero cargar cosas, quiero cocinar, quiero barrer, quiero salir a ver qué hay por ahí." Y luego, porque me dio pena, agregué: "Y quiero aprender a pelear, porque me imagino que aquí eso es útil."
 
-—Ah, vaya —dijo Luna, y se enderezó con una sonrisa completa, no la de amortiguar—. Entonces tú no quieres una clase. Tú quieres la clase.
+"Ah, vaya", dijo Luna, y se enderezó con una sonrisa completa, no la de amortiguar. "Entonces tú no quieres una clase. Tú quieres la clase."
 
-—¿La clase?
+"¿La clase?"
 
-—Aventurero.
+"Aventurero."
 
 Y me explicó. Me explicó que «aventurero» es la clase de los que no son nada todavía. Que un aventurero no tiene fuerza extra ni poderes extra ni nada extra. Que puede aprender cositas de todas las otras clases, pero despacio y más caro, y que nunca llega a hacer nada tan bien como los que sí escogieron.
 
-—Es la clase de los principiantes —dijo—. Y mucha gente la deja en cuanto puede.
+"Es la clase de los principiantes", dijo. "Y mucha gente la deja en cuanto puede."
 
-—¿Y a ti qué te parece?
+"¿Y a ti qué te parece?"
 
-—A mí me parece —dijo Luna, y bajó la voz como si me estuviera contando un secreto de oficina— que es la mejor clase para alguien que tiene toda la vida por delante.
+"A mí me parece", dijo Luna, y bajó la voz como si me estuviera contando un secreto de oficina. "Que es la mejor clase para alguien que tiene toda la vida por delante."
 
-—Pues esa —le dije.
+"Pues esa", le dije.
 
-—¡¿Qué?! —chilló Aqua, que se había acercado a escondidas—. ¡¿Aventurero?! ¡Yo te puedo conseguir una clase buena! ¡Yo conozco al...! ¡Yo le hablo a quien sea!
+"¡¿Qué?!" chilló Aqua, que se había acercado a escondidas. "¡¿Aventurero?! ¡Yo te puedo conseguir una clase buena! ¡Yo conozco al...! ¡Yo le hablo a quien sea!"
 
-—Es la que quiero.
+"Es la que quiero."
 
-—¡Es la peor!
+"¡Es la peor!"
 
-—Es la que quiero —repetí, y me tapé la boca con la mano porque me estaba dando risa, porque decir que no dos veces seguidas es una cosa que yo nunca había hecho y me estaba empezando a gustar.
+"Es la que quiero", repetí, y me tapé la boca con la mano porque me estaba dando risa, porque decir que no dos veces seguidas es una cosa que yo nunca había hecho y me estaba empezando a gustar.
 
 Y pasó lo de siempre: Luna escribió en su tabla, la carta se volvió a calentar, y cuando la leyó otra vez, la palabra «aventurero» ya estaba ahí, junto a mi nombre, en una letra que se había escrito sola.
 
@@ -315,31 +315,31 @@ Y ahí, mi hermano, ahí pasó un desastre.
 
 Le puso la mano a la carta, la carta se calentó, y cuando Luna la leyó, se le cayó la cara.
 
-—¿Qué? —dijo Aqua.
+"¿Qué?" dijo Aqua.
 
 Luna volteó la carta para el otro lado, como si leyéndola al revés fuera a decir otra cosa.
 
-—¿Qué?! —otra vez Aqua.
+"¿Qué?!" otra vez Aqua.
 
-—Es que... —Luna se rascó la nuca—. Es que aquí dice que eres archisacerdotisa.
+"Es que..." Luna se rascó la nuca. "Es que aquí dice que eres archisacerdotisa."
 
-—¡Sí! —Aqua se subió a la banca otra vez—. ¡Sí, señores! ¡Archisacerdotisa! ¿¡Y qué dijeron de los números!?
+"¡Sí!" Aqua se subió a la banca otra vez. "¡Sí, señores! ¡Archisacerdotisa! ¿¡Y qué dijeron de los números!?"
 
 Y los números, hermano, los números eran un chiste.
 
 Estaban todos los renglones hasta arriba. Todos. Fuerza, vitalidad, inteligencia, poder mágico, destreza, agilidad, suerte. Todos hasta el tope, hasta donde llegaba la columna, y en algunos renglones la tinta se había hecho una mancha, como cuando uno escribe tan fuerte que rompe el papel.
 
-—Está rota —dijo Luna.
+"Está rota", dijo Luna.
 
-—¡No está rota!
+"¡No está rota!"
 
-—Es que no puede estar así.
+"Es que no puede estar así."
 
-—¡Soy una diosa!
+"¡Soy una diosa!"
 
-—Y yo soy la recepcionista y te estoy diciendo que esta carta está rota.
+"Y yo soy la recepcionista y te estoy diciendo que esta carta está rota."
 
-—¡Pon a la otra!
+"¡Pon a la otra!"
 
 Volvió a poner la mano, y la carta volvió a salir igual, y a la tercera vez igual, y a la cuarta vez Luna dijo «no», y Aqua se sentó en la banca y se puso a llorar.
 
@@ -353,23 +353,23 @@ Y yo me levanté, me acerqué, me senté en la banca a su lado, y no dije nada, 
 
 Nomás me senté al lado y esperé.
 
-—¿Tú también te estás riendo? —me preguntó, sin sacarse el brazo de la cara.
+"¿Tú también te estás riendo?" me preguntó, sin sacarse el brazo de la cara.
 
-—No.
+"No."
 
-—¿Por qué no?
+"¿Por qué no?"
 
-—Porque yo tampoco tengo nada que enseñar de la mía.
+"Porque yo tampoco tengo nada que enseñar de la mía."
 
 Y ella se sacó el brazo de la cara y me vio, y luego se limpió con la manga, y luego se sonó la nariz, y luego dijo:
 
-—Está bien. Pero yo no soy de las que se rinden.
+"Está bien. Pero yo no soy de las que se rinden."
 
-—Ya sé.
+"Ya sé."
 
-—¡¿Y tú cómo sabes?!
+"¡¿Y tú cómo sabes?!"
 
-—Porque viniste conmigo.
+"Porque viniste conmigo."
 
 Y esa fue la primera vez que la vi quedarse callada sin estar enojada.
 
@@ -377,77 +377,77 @@ Y esa fue la primera vez que la vi quedarse callada sin estar enojada.
 
 Lo que no nos había dicho Luna era la parte del dinero.
 
-—Bueno —dijo, cuando ya estaba todo—. Ya están registrados. Cero de inscripción.
+"Bueno", dijo, cuando ya estaba todo. "Ya están registrados. Cero de inscripción."
 
-—¡Perfecto! —dijo Aqua—. ¡Tráiganos dos cervezas!
+"¡Perfecto!" dijo Aqua. "¡Tráiganos dos cervezas!"
 
-—¿Con qué dinero?
+"¿Con qué dinero?"
 
 Silencio.
 
 Aqua y yo nos vimos.
 
-—...No traemos —dije.
+"...No traemos", dije.
 
-—Me lo imaginé. —Luna se recargó en el mostrador—. A ver, les explico rápido, porque esto lo explicamos veinte veces al mes. Aquí nada es gratis. Dormir cuesta. Comer cuesta. Las armas cuestan y las armaduras cuestan y curarse cuesta, y hay que pagar la sanación, porque las sanadoras también comen.
+"Me lo imaginé." Luna se recargó en el mostrador. "A ver, les explico rápido, porque esto lo explicamos veinte veces al mes. Aquí nada es gratis. Dormir cuesta. Comer cuesta. Las armas cuestan y las armaduras cuestan y curarse cuesta, y hay que pagar la sanación, porque las sanadoras también comen."
 
-—¿Y dónde duerme la gente que llega sin nada?
+"¿Y dónde duerme la gente que llega sin nada?"
 
-—Detrás del gremio hay un establo —dijo—. Es gratis. Y es un establo.
+"Detrás del gremio hay un establo", dijo. "Es gratis. Y es un establo."
 
 Aqua se puso la mano en el pecho como si le hubieran dicho una blasfemia.
 
-—¡Yo no duermo en un establo!
+"¡Yo no duermo en un establo!"
 
-—Yo tampoco —dije.
+"Yo tampoco", dije.
 
-—¿Ves, Luna? El niño tiene dignidad.
+"¿Ves, Luna? El niño tiene dignidad."
 
-—No es por dignidad —le dije a Luna—. Es porque... —y me dio un poquito de vergüenza decirlo— ...me gustaría un cuarto con ventana.
+"No es por dignidad", le dije a Luna. "Es porque..." Y me dio un poquito de vergüenza decirlo. "...me gustaría un cuarto con ventana."
 
 Y Luna me vio como un rato largo.
 
-—¿Un cuarto con ventana?
+"¿Un cuarto con ventana?"
 
-—Sí.
+"Sí."
 
-—¿Y por qué?
+"¿Y por qué?"
 
 Y yo no le dije la verdad, porque la verdad era muy larga y no venía al caso. Nomás le dije:
 
-—Por costumbre.
+"Por costumbre."
 
 Y ella movió la cabeza, como diciendo «muchachos raros hay en todos lados», y luego se quedó pensando y se le iluminó la cara.
 
-—Oye —dijo—. ¿Tú sabes hacer algo?
+"Oye", dijo. "¿Tú sabes hacer algo?"
 
-—Sí. Cargar cosas.
+"Sí. Cargar cosas."
 
-—Ajá.
+"Ajá."
 
-—Y sé barrer. Y sé tallar platos. Y sé lavar ropa, más o menos. Y sé no molestar.
+"Y sé barrer. Y sé tallar platos. Y sé lavar ropa, más o menos. Y sé no molestar."
 
-—...¿Qué?
+"...¿Qué?"
 
-—Que sé no molestar. Que puedo estar en un cuarto sin que se oiga.
+"Que sé no molestar. Que puedo estar en un cuarto sin que se oiga."
 
 Luna se quedó viéndome un segundo de más. Después agarró un papelito de su mostrador, escribió algo y me lo dio.
 
-—Doña Hilda —me dijo—. Tiene una posada en la plaza, la del farol con la luz roja. Es señora grande, vive sola, y siempre busca manos. No paga, pero da cama y comida. A lo mejor te da el cuarto de arriba. Es chiquito y tiene la escalera más fea de Axel.
+"Doña Hilda", me dijo. "Tiene una posada en la plaza, la del farol con la luz roja. Es señora grande, vive sola, y siempre busca manos. No paga, pero da cama y comida. A lo mejor te da el cuarto de arriba. Es chiquito y tiene la escalera más fea de Axel."
 
-—Gracias.
+"Gracias."
 
-—Y no me des más gracias, que ya llevas como quince.
+"Y no me des más gracias, que ya llevas como quince."
 
-—Perdón.
+"Perdón."
 
-—¡Peor!
+"¡Peor!"
 
 Y los dos nos reímos, y ella me dijo que si necesitaba algo, viniera a ella, que para eso estaba, y que los aventureros nuevos llegan todos apurados a matar cosas y que ella ya había visto morir a muchos apurados.
 
-—¿Y los que llegan a cargar cosas? —le pregunté.
+"¿Y los que llegan a cargar cosas?" le pregunté.
 
-—Esos duran más —dijo Luna—. Esos duran más.
+"Esos duran más", dijo Luna. "Esos duran más."
 
 Antes de irnos, me acerqué al tablero de la pared.
 
@@ -467,11 +467,11 @@ Y luego, en un papel más grande que los otros, con la letra de alguien que quer
 
 Me quedé viendo ese papel un buen rato.
 
-—Ese es el clásico —me dijo Luna, desde su mostrador—. Todos los nuevos quieren ese.
+"Ese es el clásico", me dijo Luna, desde su mostrador. "Todos los nuevos quieren ese."
 
-—¿Y por qué?
+"¿Y por qué?"
 
-—Porque paga bien. Y porque un sapo es un sapo, uno piensa que es fácil. —Se encogió de hombros—. Por eso les pongo el aviso grande.
+"Porque paga bien. Y porque un sapo es un sapo, uno piensa que es fácil." Se encogió de hombros. "Por eso les pongo el aviso grande."
 
 Y salimos a la noche, y el pueblo estaba encendiendo faroles.
 
@@ -489,17 +489,17 @@ Los guardias siguieron en su puerta. El de la carretilla siguió empujando. Las 
 
 Y a los como diez segundos, «bum», otra vez.
 
-—Aqua —le dije—. ¿Qué fue eso?
+"Aqua", le dije. "¿Qué fue eso?"
 
-—¿Eso? —dijo ella, sin darle ninguna importancia—. ¡Ah! ¡Si aquí siempre hacen eso! Hay una muchacha que va a los cerros a hacer explosiones. Yo creo que está mal de la cabeza.
+"¿Eso?" dijo ella, sin darle ninguna importancia. "¡Ah! ¡Si aquí siempre hacen eso! Hay una muchacha que va a los cerros a hacer explosiones. Yo creo que está mal de la cabeza."
 
-—...¿Explosiones?
+"...¿Explosiones?"
 
-—Sí, explosiones. Un estruendo. Todos los días.
+"Sí, explosiones. Un estruendo. Todos los días."
 
-—¿Y a nadie le importa?
+"¿Y a nadie le importa?"
 
-—A nadie. —Y luego, con mucho orgullo—: Yo, en cambio, hacía cosas buenas. Yo era una diosa de las de arriba.
+"A nadie." Y luego, con mucho orgullo: "Yo, en cambio, hacía cosas buenas. Yo era una diosa de las de arriba."
 
 Pero yo ya no la estaba oyendo, porque me había quedado viendo los cerros.
 
@@ -517,31 +517,31 @@ La posada del farol con la luz roja estaba en una esquina de la plaza, y era chi
 
 Doña Hilda era una señora bajita, con el pelo blanco recogido y con los brazos más fuertes que yo he visto en mi vida.
 
-—¿Y tú quién eres? —me dijo.
+"¿Y tú quién eres?" me dijo.
 
-—Jesús.
+"Jesús."
 
-—¿Eso qué es, nombre o apellido?
+"¿Eso qué es, nombre o apellido?"
 
-—Las dos.
+"Las dos."
 
-—Ajá. ¿Y qué quieres?
+"Ajá. ¿Y qué quieres?"
 
-—Sabía que busca manos.
+"Sabía que busca manos."
 
 Doña Hilda me vio de arriba abajo igual que el guardia de la puerta, o sea, con la esperanza de que yo fuera otra cosa.
 
-—¿Sabes lavar?
+"¿Sabes lavar?"
 
-—Sí.
+"Sí."
 
-—¿Sabes tallar platos?
+"¿Sabes tallar platos?"
 
-—Sí.
+"Sí."
 
-—¿Sabes cargar un barril de vino?
+"¿Sabes cargar un barril de vino?"
 
-—No. Pero si me lo pones en el hombro, aprendo.
+"No. Pero si me lo pones en el hombro, aprendo."
 
 Y la señora soltó una risa corta, de una sola sílaba, y me dijo que pasara y que no me iba a pagar.
 
@@ -555,25 +555,25 @@ Me dio el plato más grande de pan y queso que he comido en mi vida, y no me sen
 
 Otra vez llorando, sí. Ya me estaba dando cuenta de que en este mundo iba a llorar mucho más de lo que lloré en el otro. Como que aquí el agua estaba más suelta.
 
-—¿Y ahora? —dijo doña Hilda.
+"¿Y ahora?" dijo doña Hilda.
 
-—Es que el pan está caliente.
+"Es que el pan está caliente."
 
-—Claro que está caliente, si lo acabo de hacer.
+"Claro que está caliente, si lo acabo de hacer."
 
-—Nunca había comido pan caliente.
+"Nunca había comido pan caliente."
 
 Y ella no dijo nada, y se sentó enfrente de mí con una taza, y se quedó ahí sentada mientras yo terminaba, y eso, a lo mejor, fue lo mejor de todo el día.
 
 Aqua, mientras tanto, se puso a ayudar a su manera, que era purificar el agua de la cocina porque dijo que el agua de Axel tenía «algo». Y el agua se puso a brillar. Y doña Hilda salió corriendo con la cuchara, y probó el agua, y se le puso la cara blanca, y nos preguntó qué clase de brujería era esa.
 
-—No es brujería —dijo Aqua, muy digna—. Es que soy una diosa del agua.
+"No es brujería", dijo Aqua, muy digna. "Es que soy una diosa del agua."
 
-—Uh, la diosa —dijo doña Hilda.
+"Uh, la diosa", dijo doña Hilda.
 
-—Sí.
+"Sí."
 
-—Bueno, pues la diosa me va a lavar el fondo de la olla de mañana —dijo, y le dio la llave del cuarto de arriba—. Y si es diosa, que no se queje.
+"Bueno, pues la diosa me va a lavar el fondo de la olla de mañana", dijo, y le dio la llave del cuarto de arriba. "Y si es diosa, que no se queje."
 
 Ahí me cayó bien, doña Hilda.
 
@@ -615,29 +615,29 @@ Eso es lo que quiero que se entienda. Ella no dijo nada. No me preguntó qué me
 
 Después de un rato me limpié con la manga.
 
-—Ya —le dije.
+"Ya", le dije.
 
-—Ya —dijo ella.
+"Ya", dijo ella.
 
-—El gato se llama Shimura, por cierto.
+"El gato se llama Shimura, por cierto."
 
-—¿El gato tuyo o el gato de aquí?
+"¿El gato tuyo o el gato de aquí?"
 
-—Ese. El de la barda.
+"Ese. El de la barda."
 
-—Ajá.
+"Ajá."
 
-—Y no es mío.
+"Y no es mío."
 
 Aqua se quedó un rato con eso, y luego me dijo:
 
-—Mañana hay que ver lo de la comida.
+"Mañana hay que ver lo de la comida."
 
-—Mañana.
+"Mañana."
 
-—Y hay que buscar gente, porque los encargos buenos son para cuatro.
+"Y hay que buscar gente, porque los encargos buenos son para cuatro."
 
-—Mañana.
+"Mañana."
 
 Y no discutimos nada más.
 
@@ -665,7 +665,7 @@ Me quedé callado un rato, con la boca abierta, esperando.
 
 Y en el cuarto de al lado, del otro lado de la pared, se oyó la voz de Aqua, que tenía el oído de una diosa y también el oído de una metiche.
 
-—Buenas noches.
+"Buenas noches."
 
 Se lo digo en serio: yo no le contesté, porque no podía.
 

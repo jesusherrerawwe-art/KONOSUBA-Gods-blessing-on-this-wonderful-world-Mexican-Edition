@@ -9,13 +9,13 @@ La cruzada se llamaba Darkness.
 
 Eso fue lo que me dijo cuando le pregunté su nombre. Nada más eso. Una palabra, en voz de teatro, como si estuviera anunciando el título de una ópera.
 
-—¿Y tu apellido? —le pregunté.
+"¿Y tu apellido?" le pregunté.
 
-—Darkness.
+"Darkness."
 
-—Sí, pero... ¿el otro?
+"Sí, pero... ¿el otro?"
 
-—Darkness —repitió, y se puso colorada, y se quedó viendo el techo, y yo entendí que ahí había algo y que no era mi asunto.
+"Darkness", repitió, y se puso colorada, y se quedó viendo el techo, y yo entendí que ahí había algo y que no era mi asunto.
 
 Y como yo también cargaba tres nombres, y como los tres nombres míos eran una casa con dos puertas, decidí no preguntarle más.
 
@@ -27,33 +27,33 @@ Estaba lloviendo. No fuerte, nomás esa lluvia tonta que cae de lado.
 
 Y Darkness estaba parada en medio del patio, con la armadura puesta, empapándose, con los brazos abiertos.
 
-—¿Qué haces? —le pregunté.
+"¿Qué haces?" le pregunté.
 
-—Acostumbrarme —dijo.
+"Acostumbrarme", dijo.
 
-—¿A qué?
+"¿A qué?"
 
-—A la incomodidad. —Y luego, muy digna—: Un caballero debe endurecerse. Dormí en el establo, me mojé tres veces y no probé bocado desde ayer. Soy un desastre. ¡Y estoy muy contenta!
+"A la incomodidad." Y luego, muy digna: "Un caballero debe endurecerse. Dormí en el establo, me mojé tres veces y no probé bocado desde ayer. Soy un desastre. ¡Y estoy muy contenta!"
 
 Yo me quedé ahí, en la puerta, con la lluvia de lado, sin saber qué decirle a eso.
 
 Y doña Hilda salió como salen las señoras de las posadas, con la cuchara en la mano.
 
-—¡¿Y tú qué haces ahí parada?! ¡Se me va a resfriar! ¡Métase!
+"¡¿Y tú qué haces ahí parada?! ¡Se me va a resfriar! ¡Métase!"
 
 Y Darkness se estremeció.
 
 Se estremeció completa, de los pies a la cabeza, y puso una cara que yo no le había visto a nadie en la vida.
 
-—...¿Me está regañando? —preguntó, con una vocecita.
+"...¿Me está regañando?" preguntó, con una vocecita.
 
-—¡Pues claro que la estoy regañando!
+"¡Pues claro que la estoy regañando!"
 
-—...¿En serio?
+"...¿En serio?"
 
-—¡Métase!
+"¡Métase!"
 
-—Gracias —dijo Darkness, con los ojos brillantes—. Gracias de verdad.
+"Gracias", dijo Darkness, con los ojos brillantes. "Gracias de verdad."
 
 Y doña Hilda me volteó a ver, con la cuchara levantada, como preguntándome qué clase de gente yo traía a su casa.
 
@@ -65,11 +65,11 @@ Después de eso, doña Hilda le puso los barriles.
 
 Yo había tardado media hora en bajar dos, por partes, con mucha técnica y muy poco resultado. Darkness bajó cuatro, cargados en los dos hombros, subiendo la escalera, y no se le movió ni el fleco.
 
-—¡Gracias! ¡Gracias! —le decía a doña Hilda—. ¡Si necesitas que haga algo más, dime, y gritándome!
+"¡Gracias! ¡Gracias!" le decía a doña Hilda. "¡Si necesitas que haga algo más, dime, y gritándome!"
 
-—¡Estás loca!
+"¡Estás loca!"
 
-—¡Sí!
+"¡Sí!"
 
 Y así fue toda la mañana, y a las once yo ya tenía una idea bastante clara de lo que traía mi grupo: una diosa que no me creía nadie, una archimaga que podía hacer una explosión al día, y una cruzada que servía para todo y que disfrutaba que la regañaran.
 
@@ -79,79 +79,79 @@ Y la verdad, la verdad de verdad: yo estaba empezando a sospechar que ese era ju
 
 En el gremio había que hacer un trámite, y ese trámite me importaba.
 
-—Ya son cuatro —le dije a Luna—, y queremos estar registrados como grupo.
+"Ya son cuatro", le dije a Luna. "Y queremos estar registrados como grupo."
 
-—¿Grupo o cuadrilla?
+"¿Grupo o cuadrilla?"
 
-—¿Cuál es la diferencia?
+"¿Cuál es la diferencia?"
 
-—Que el grupo se deshace cuando se le acaba el dinero y la cuadrilla tiene papeles. —Se rascó la nariz—. Con cuatro ya pueden agarrar los encargos grandes. Eso sí: a partir de ahora van a tener que escoger un nombre.
+"Que el grupo se deshace cuando se le acaba el dinero y la cuadrilla tiene papeles." Se rascó la nariz. "Con cuatro ya pueden agarrar los encargos grandes. Eso sí: a partir de ahora van a tener que escoger un nombre."
 
-—¿Un nombre de qué?
+"¿Un nombre de qué?"
 
-—De cuadrilla. —Y sacó una hoja, una hoja grandota, con muchos espacios en blanco y con letras gordas arriba—. Aquí va: los cuatro nombres, las cuatro clases, y el nombre del grupo. Y cada vez que firmen un encargo, y cada vez que lo entreguen, y cada vez que uno de ustedes se muera o se vaya, hay que venir a anotarlo aquí.
+"De cuadrilla." Y sacó una hoja, una hoja grandota, con muchos espacios en blanco y con letras gordas arriba. "Aquí va: los cuatro nombres, las cuatro clases, y el nombre del grupo. Y cada vez que firmen un encargo, y cada vez que lo entreguen, y cada vez que uno de ustedes se muera o se vaya, hay que venir a anotarlo aquí."
 
 Yo me quedé viendo la hoja. Y me dio una cosa rara, algo parecido a lo que me dio cuando escuché «archisacerdotisa» en boca de Luna: las ganas de que eso existiera de verdad.
 
-—Está bien. ¿Cómo le ponemos?
+"Está bien. ¿Cómo le ponemos?"
 
 Y ahí, mi hermano, ahí empezó una discusión que duró como cuarenta minutos.
 
-—¡Los Heraldos del Agua! —dijo Aqua.
+"¡Los Heraldos del Agua!" dijo Aqua.
 
-—No.
+"No."
 
-—¡Yo te curé cuando eras un sapo!
+"¡Yo te curé cuando eras un sapo!"
 
-—Nunca fui un sapo, yo estaba afuera.
+"Nunca fui un sapo, yo estaba afuera."
 
-—¡Estabas cerca!
+"¡Estabas cerca!"
 
-—¡La Explosión! —dijo Megumin, subiéndose a la banca—. ¡Le ponemos «La Explosión»!
+"¡La Explosión!" dijo Megumin, subiéndose a la banca. "¡Le ponemos «La Explosión»!"
 
-—Eso no es un grupo, es una magia.
+"Eso no es un grupo, es una magia."
 
-—¡Es un concepto!
+"¡Es un concepto!"
 
-—¡Yo propongo la Orden de la Luz! —dijo Darkness, con la mano en el pecho—. ¡Es un nombre noble, honrado y con historia!
+"¡Yo propongo la Orden de la Luz!" dijo Darkness, con la mano en el pecho. "¡Es un nombre noble, honrado y con historia!"
 
-—Suena a iglesia.
+"Suena a iglesia."
 
-—¡Gracias!
+"¡Gracias!"
 
-—No era un cumplido.
+"No era un cumplido."
 
 Y yo ahí, sentado, escuchándolas, y de repente me di cuenta de que no estaba escuchando el pleito. Estaba escuchando que había alguien con quien pleitear. Que en mi cuarto yo nunca había tenido con quién discutir una cosa de nada, porque enfrente de mí había una pared, y la pared nunca quiso ponerle nombre a nada.
 
-—¡A ver! —dijo Luna, y nos callamos los cuatro—. Les voy a decir algo, y les voy a decir algo de gratis, porque me cae bien el niño nuevo.
+"¡A ver!" dijo Luna, y nos callamos los cuatro. "Les voy a decir algo, y les voy a decir algo de gratis, porque me cae bien el niño nuevo."
 
-—¿Qué nombre le pondrías tú? —le pregunté.
+"¿Qué nombre le pondrías tú?" le pregunté.
 
-—Yo no le pongo nombres a los grupos. —Y luego, bajito—: Se los pongo con la pluma nada más cuando alguien se muere.
+"Yo no le pongo nombres a los grupos." Y luego, bajito: "Se los pongo con la pluma nada más cuando alguien se muere."
 
 Se nos quedó viendo a los cuatro.
 
-—Pero ya que preguntas, te voy a decir lo que de verdad importa —dijo, y se recargó en el mostrador—. Los nombres de los grupos no los escogen los grupos. La gente les va diciendo «los del bastón», «los del sombrero», «los del perro», y a los tres meses el nombre ya está puesto y así se quedan y así se escriben en el pizarrón de los encargos.
+"Pero ya que preguntas, te voy a decir lo que de verdad importa", dijo, y se recargó en el mostrador. "Los nombres de los grupos no los escogen los grupos. La gente les va diciendo «los del bastón», «los del sombrero», «los del perro», y a los tres meses el nombre ya está puesto y así se quedan y así se escriben en el pizarrón de los encargos."
 
-—Eso no es cierto —dije yo.
+"Eso no es cierto", dije yo.
 
-—«Los de los sapos» —dijo Luna.
+"«Los de los sapos»", dijo Luna.
 
 Me quedé callado.
 
-—«Los de los sapos» —repitió—. Así los apuntó el señor Baltasar cuando volvieron con las tres cabezas. Ya está apuntado. Ya no se puede desapuntar.
+"«Los de los sapos»", repitió. "Así los apuntó el señor Baltasar cuando volvieron con las tres cabezas. Ya está apuntado. Ya no se puede desapuntar."
 
-—...¿Y nosotros cómo nos vamos a llamar?
+"...¿Y nosotros cómo nos vamos a llamar?"
 
-—Todavía no. —Y sonrió con una sonrisa de mucho cariño—. Los apodos se pegan solos, cuando uno no está viendo, y casi siempre en el peor momento.
+"Todavía no." Y sonrió con una sonrisa de mucho cariño. "Los apodos se pegan solos, cuando uno no está viendo, y casi siempre en el peor momento."
 
-—¡Yo quiero un apodo! —dijo Aqua—. ¡«La Diosa»!
+"¡Yo quiero un apodo!" dijo Aqua. "¡«La Diosa»!"
 
-—Perdón, pero los apodos de aquí son como «el Cojo», «el Chico», «el de la Jarra» —dijo Luna—. La gente de este pueblo no es muy poética.
+"Perdón, pero los apodos de aquí son como «el Cojo», «el Chico», «el de la Jarra»", dijo Luna. "La gente de este pueblo no es muy poética."
 
-—¡«La de la Jarra»!
+"¡«La de la Jarra»!"
 
-—Ustedes déjenlo. —Y me señaló con la pluma—. Cuando menos lo esperen.
+"Ustedes déjenlo." Y me señaló con la pluma. "Cuando menos lo esperen."
 
 Salí del gremio con la hoja firmada y sin nombre. Y con una cosa nueva en la cabeza: que en este mundo yo iba a tener un apodo, y que ese apodo lo iba a escoger la gente, y que no me iban a preguntar.
 
@@ -177,7 +177,7 @@ Aviso de temporada. Cabezas voladoras.
 
 «El gremio repartirá redes y canastos. El que no entregue redes al final de la temporada pagará las redes.»
 
-—¿Qué es esto? —pregunté.
+"¿Qué es esto?" pregunté.
 
 Y me explicaron, entre los tres, y me tomó un rato entender.
 
@@ -185,21 +185,21 @@ Resulta que en otoño, en las montañas, las coles crecen, y cuando crecen mucho
 
 Así nomás. Vuelan. Millares. Se vienen en nube sobre el valle y se desploman sobre Axel como una tormenta de verdura.
 
-—Y la gente sale a agarrarlas —dijo Luna—. Porque son la comida del invierno, y porque pagan por cada una. La ciudad se lleva las buenas y el gremio se lleva las de encargo.
+"Y la gente sale a agarrarlas", dijo Luna. "Porque son la comida del invierno, y porque pagan por cada una. La ciudad se lleva las buenas y el gremio se lleva las de encargo."
 
-—¿Y por qué no las dejan caer y ya?
+"¿Y por qué no las dejan caer y ya?"
 
-—Porque caen como piedras —dijo Luna—. Una cabeza de esas te parte la cabeza de aquí arriba. Todos los años se muere alguien.
+"Porque caen como piedras", dijo Luna. "Una cabeza de esas te parte la cabeza de aquí arriba. Todos los años se muere alguien."
 
 Ese pueblo, me estaba dando cuenta, tenía tres maneras de morirse y todas venían con un papel que lo avisaba.
 
-—¿Y cuánto se saca?
+"¿Y cuánto se saca?"
 
-—Con suerte, un aventurero bueno saca cuarenta o cincuenta cabezas en todo el día. Mil quinientas monedas.
+"Con suerte, un aventurero bueno saca cuarenta o cincuenta cabezas en todo el día. Mil quinientas monedas."
 
-—¿Mil quinientas? —Me quedé seco—. ¿Por atrapar verduras?
+"¿Mil quinientas?" Me quedé seco. "¿Por atrapar verduras?"
 
-—Por atrapar verduras.
+"Por atrapar verduras."
 
 Y ahí me cayó el veinte de todo. Ahí, en medio del gremio, con el aviso amarillo en la pared y Aqua quejándose de que ella no le iba a hacer el trabajo a un repollo, me cayó el veinte:
 
@@ -207,9 +207,9 @@ Un sapo del tamaño de una casa nos había pagado cien monedas a cada uno.
 
 Y las coles nos iban a pagar diez veces eso.
 
-—Es un mundo injusto —dije.
+"Es un mundo injusto", dije.
 
-—Bienvenido —dijo Luna.
+"Bienvenido", dijo Luna.
 
 ---
 
@@ -223,41 +223,41 @@ Pero un día eso no iba a bastar. Un día iba a pasar algo y yo iba a estar ahí
 
 Entonces se oyó un golpecito en el vidrio.
 
-—Buenas noches.
+"Buenas noches."
 
 Había una muchacha sentada en el marco de mi ventana, como si fuera una repisa.
 
 Pelo plateado corto y despeinado, una cicatriz chiquita en la mejilla, sonrisa grande, y la agilidad de alguien que no había hecho ruido al subir por la pared de la posada.
 
-—¿Quién eres?
+"¿Quién eres?"
 
-—Chris. Ladrona. —Y me estiró la mano—. Tú eres el nuevo que eligió la peor clase del mundo.
+"Chris. Ladrona." Y me estiró la mano. "Tú eres el nuevo que eligió la peor clase del mundo."
 
-—Jesús.
+"Jesús."
 
-—Ya sé. —Sonrió más—. Todo el gremio sabe.
+"Ya sé." Sonrió más. "Todo el gremio sabe."
 
-—...¿Qué cosa?
+"...¿Qué cosa?"
 
-—Que eres el que ayuda a doña Hilda y le dice gracias a todo el mundo y se disculpa tres veces.
+"Que eres el que ayuda a doña Hilda y le dice gracias a todo el mundo y se disculpa tres veces."
 
 Y luego se metió a mi cuarto por la ventana como si fuera la puerta de su casa.
 
 Se sentó en la silla, se puso a darle vueltas al cuchillo que traía, y me dijo, sin más:
 
-—Mañana vas a necesitar manos, y tú no tienes. ¿Qué sabes hacer?
+"Mañana vas a necesitar manos, y tú no tienes. ¿Qué sabes hacer?"
 
-—Cargar cosas.
+"Cargar cosas."
 
-—Para las coles, no.
+"Para las coles, no."
 
-—Barrer.
+"Barrer."
 
-—Menos.
+"Menos."
 
-—...No sé nada.
+"...No sé nada."
 
-—Bien. —Y se levantó—. Los que dicen que saben no aprenden. Y aquí hay una cosa que se enseña rapidito y que sirve mucho con las manos vacías.
+"Bien." Y se levantó. "Los que dicen que saben no aprenden. Y aquí hay una cosa que se enseña rapidito y que sirve mucho con las manos vacías."
 
 Y me enseñó.
 
@@ -265,23 +265,23 @@ Se llamaba Robar.
 
 Y no era lo que yo pensaba. No era agarrar cosas ajenas y correr. Era una habilidad, una habilidad de verdad, de las que se aprenden y se guardan y se apuntan en la carta, y funcionaba así: uno estira la mano, dice la palabra, y la mano se mete donde nadie la ve y saca algo. Algo. Lo que sea. Nunca se sabe qué, hasta que ya lo tiene uno en la mano.
 
-—Es aleatoria —dijo Chris—. Por eso sirve. Si te tocó una piedra, te tocó una piedra. A la siguiente te toca otra cosa.
+"Es aleatoria", dijo Chris. "Por eso sirve. Si te tocó una piedra, te tocó una piedra. A la siguiente te toca otra cosa."
 
-—¿Y qué cosas salen?
+"¿Y qué cosas salen?"
 
-—De todo. —Se encogió de hombros—. Cosas. Las cosas que la gente trae.
+"De todo." Se encogió de hombros. "Cosas. Las cosas que la gente trae."
 
-—¿Y por qué es útil eso?
+"¿Y por qué es útil eso?"
 
-—Porque tú no sirves para pegar, chico. —Y me clavó los ojos, que eran morados y brillaban un poco de más—. Cuando no puedes ganar la pelea, ganas por otro lado.
+"Porque tú no sirves para pegar, chico." Y me clavó los ojos, que eran morados y brillaban un poco de más. "Cuando no puedes ganar la pelea, ganas por otro lado."
 
 Y me puso la mano en el hombro.
 
-—A ver. Práctica.
+"A ver. Práctica."
 
-—¿Con quién?
+"¿Con quién?"
 
-—Conmigo.
+"Conmigo."
 
 Y estiré la mano, dije la palabra, y sentí una cosa rarísima, como cuando uno mete la mano en agua tibia sin ver el fondo.
 
@@ -291,19 +291,19 @@ Un dije de plata, chiquito, con una forma que yo no conocía: una espada o una p
 
 Chris se quedó muy quieta.
 
-—...Eso no —dijo, y me lo quitó, y me lo quitó rápido, y se lo colgó.
+"...Eso no", dijo, y me lo quitó, y me lo quitó rápido, y se lo colgó.
 
-—Perdón.
+"Perdón."
 
-—No te disculpes. —Y se rio, aunque la risa le salió corta—. Es que a mí también me toca lo que no debo.
+"No te disculpes." Y se rio, aunque la risa le salió corta. "Es que a mí también me toca lo que no debo."
 
 Y luego se me quedó viendo con cara de estar revisando una tarea.
 
-—Otra vez. Con la del sombrero.
+"Otra vez. Con la del sombrero."
 
 Así que salimos al pasillo, y despertamos a Megumin, y le explicamos a Megumin que le iban a robar algo de práctica, y Megumin se puso de pie en el pasillo, con su camisón y su sombrero (se puso el sombrero para practicar, eso lo tengo que decir) y se cuadró con el bastón.
 
-—¡A ver si te atreves, aventurero de pacotilla!
+"¡A ver si te atreves, aventurero de pacotilla!"
 
 Y le dije la palabra, y estiré la mano, y cuando la abrí, tenía una piedra.
 
@@ -313,17 +313,17 @@ Y el pasillo entero se quedó en silencio.
 
 Megumin no se movió.
 
-—Dame eso.
+"Dame eso."
 
 Le di la piedra. La agarró con las dos manos, se la apretó contra el pecho, y se quedó viendo el piso. Y yo me quedé ahí, con la mano abierta y con una sensación horrible en el estómago.
 
-—Perdón —le dije.
+"Perdón", le dije.
 
-—No es tu culpa. Es la habilidad.
+"No es tu culpa. Es la habilidad."
 
-—Pero te la quité.
+"Pero te la quité."
 
-—Sí. —Y levantó la cara, y me miró con los ojos rojos, rojos y brillantes—. Es la primera vez que alguien me quita la piedra.
+"Sí." Y levantó la cara, y me miró con los ojos rojos, rojos y brillantes. "Es la primera vez que alguien me quita la piedra."
 
 Y se metió a su cuarto y cerró la puerta, y yo me quedé en el pasillo, con la mano abierta, hasta que Aqua me gritó desde abajo que se fueran todos a dormir.
 
@@ -347,7 +347,7 @@ Y luego el cielo, en el horizonte, se movió.
 
 No se oscureció. Se movió. Como cuando uno ve la lluvia venir de lejos, nada más que la lluvia era verde.
 
-—¡Ahí vienen! —gritó alguien.
+"¡Ahí vienen!" gritó alguien.
 
 Y yo quería decir que exagera la gente. Como me pasó con los sapos, que uno oye «sapo gigante» y piensa en un sapo grandote.
 
@@ -355,11 +355,11 @@ Y luego se te viene encima una cabeza de col del tamaño de un perro.
 
 Y te das cuenta de que la palabra «col» no te estaba contando nada.
 
-—¡Agárrala! —me gritó Aqua.
+"¡Agárrala!" me gritó Aqua.
 
-—¡¿Cómo?!
+"¡¿Cómo?!"
 
-—¡Con la red!
+"¡Con la red!"
 
 Y la primera col que intenté atrapar me pegó en el pecho y me tiró de nalgas al pasto.
 
@@ -381,11 +381,11 @@ Y luego una col grande.
 
 Y luego un zapato.
 
-—¡Ese zapato es mío! —me dijo un señor.
+"¡Ese zapato es mío!" me dijo un señor.
 
-—Perdón.
+"Perdón."
 
-—¡¿Dónde te lo sacaste?!... ¡Ay, no, no me digas!
+"¡¿Dónde te lo sacaste?!... ¡Ay, no, no me digas!"
 
 Y con eso pasé la mañana: golpeado, lleno de tierra, con un zapato ajeno en el morral, y con más coles en la red que en toda mi vida.
 
@@ -421,7 +421,7 @@ Le pegó en el pecho con un ruido que se oyó en tres cuadras, y Darkness... se 
 
 Se rio, con una risa larga, y se agarró el pecho, y dijo:
 
-—¡Otra vez! ¡Otra vez! ¡Échame otra!
+"¡Otra vez! ¡Otra vez! ¡Échame otra!"
 
 Y la niña, la niña chiquita, corrió a los brazos de su mamá, y la mamá le pegó a la niña en la cabeza de puro susto, llorando.
 
@@ -439,35 +439,35 @@ Y a la que le tuve miedo de verdad, la que se me metió en el pecho y me calent�
 
 La encontré a la media hora, ayudando a levantar un carro volcado, con la armadura abollada en dos lados.
 
-—¡Oye! —le grité.
+"¡Oye!" le grité.
 
 Se volteó, felicísima.
 
-—¡Jesús! ¿Viste? ¡Aguanté tres de esas! ¡La última pesaba como una vaca!
+"¡Jesús! ¿Viste? ¡Aguanté tres de esas! ¡La última pesaba como una vaca!"
 
-—No vuelvas a hacer eso.
+"No vuelvas a hacer eso."
 
-—¡Gracias!
+"¡Gracias!"
 
-—No te estoy... —y me atoré, y volví a empezar—: No te estoy agradeciendo. Te estoy diciendo que no lo hagas.
+"No te estoy...", y me atoré, y volví a empezar: "No te estoy agradeciendo. Te estoy diciendo que no lo hagas."
 
 Darkness bajó el carro, se lo pasó a los señores, y me miró como si yo acabara de hablar en otro idioma.
 
-—¿Cómo que no lo haga?
+"¿Cómo que no lo haga?"
 
-—Que no te pongas enfrente.
+"Que no te pongas enfrente."
 
-—...¿Pero esa es mi función?
+"...¿Pero esa es mi función?"
 
-—¡Es que había una niña! —dije, y me di cuenta de que estaba gritando, y de que yo nunca grito, y de que no pude parar—. ¡Ibas a...! ¡Te pegó en el pecho! ¡Con todo! ¡Y te reíste!
+"¡Es que había una niña!" dije, y me di cuenta de que estaba gritando, y de que yo nunca grito, y de que no pude parar. "¡Ibas a...! ¡Te pegó en el pecho! ¡Con todo! ¡Y te reíste!"
 
 Darkness se quedó muy quieta.
 
 Y ahí, en medio del camino, con la gente pasando con sus canastos de coles y las ollas humeando al lado, ella hizo una cosa rarísima: se puso seria, de verdad seria, y me preguntó, con una voz completamente distinta:
 
-—¿Estás enojado por mí?
+"¿Estás enojado por mí?"
 
-—¡Sí!
+"¡Sí!"
 
 Yo esperaba cualquier cosa. Esperaba que se riera. Esperaba que me dijera «yo soy la defensa del grupo». Esperaba, la verdad, que se pusiera contenta, porque todo el día se había puesto contenta con cada cosa mala que le pasaba.
 
@@ -475,19 +475,19 @@ Y no hizo nada de eso.
 
 Se quedó ahí, parada, con la armadura abollada y la cola de caballo deshecha, y se le puso la cara de una persona que está intentando entender un idioma.
 
-—Nadie —dijo, muy despacio—. Nadie me ha dicho eso nunca.
+"Nadie", dijo, muy despacio. "Nadie me ha dicho eso nunca."
 
 Y yo me quedé sin aire.
 
-—¿Cómo que nadie?
+"¿Cómo que nadie?"
 
-—Yo tengo... —empezó, y se corrigió— ...yo vengo de un lugar donde la gente cuida su nombre. Y donde uno se hace caballero y ya está: uno se pone delante y eso es bueno. Y siempre, siempre, siempre, todo el mundo me ha dicho que aguanto bien.
+"Yo tengo...", empezó, y se corrigió. "...yo vengo de un lugar donde la gente cuida su nombre. Y donde uno se hace caballero y ya está: uno se pone delante y eso es bueno. Y siempre, siempre, siempre, todo el mundo me ha dicho que aguanto bien."
 
 Se le movió la boca.
 
-—Tú me preguntaste si iba a... —y no terminó la frase—. Y te enojaste.
+"Tú me preguntaste si iba a...", y no terminó la frase. "Y te enojaste."
 
-—Es que yo...
+"Es que yo..."
 
 Y ahí me atoré, porque la frase que me venía en la boca era una frase que yo no le contaba a nadie.
 
@@ -495,29 +495,29 @@ Y la dije.
 
 No sé por qué la dije ahí, en la calle, con la gente y las coles y las ollas, con la panza vacía y los zapatos llenos de pasto, con la playera sucia y la llave colgada.
 
-—Es que yo crecí con dos personas que se ponían enfrente de mí todos los días —dije—. Y me dijeron toda la vida que eso era amor, y era amor, y todavía sueño con eso. Y no quiero... no quiero que alguien más se ponga ahí. No quiero que se me pongan enfrente.
+"Es que yo crecí con dos personas que se ponían enfrente de mí todos los días", dije. "Y me dijeron toda la vida que eso era amor, y era amor, y todavía sueño con eso. Y no quiero... no quiero que alguien más se ponga ahí. No quiero que se me pongan enfrente."
 
 Darkness no dijo nada.
 
-—No quiero que a nadie le pase lo que les pasó a ellos por mí —terminé. Y me limpié con la manga, porque me estaba llorando, y me dio mucha vergüenza, y ella me vio la cara y no dijo nada, y por eso le agradecí en la cabeza.
+"No quiero que a nadie le pase lo que les pasó a ellos por mí", terminé. Y me limpié con la manga, porque me estaba llorando, y me dio mucha vergüenza, y ella me vio la cara y no dijo nada, y por eso le agradecí en la cabeza.
 
 Y luego, para no quedarnos ahí parados, dije la única cosa que se me ocurrió, que era la verdad:
 
-—Así que voy a tener que hacerme fuerte.
+"Así que voy a tener que hacerme fuerte."
 
 Y Darkness me vio.
 
 Y luego hizo una cosa que no esperaba: asintió. Asintió con la cara seria y dijo:
 
-—Eso me sirve.
+"Eso me sirve."
 
-—¿Qué cosa?
+"¿Qué cosa?"
 
-—Que quieras ser fuerte. —Y se acomodó la espada—. Porque si tú te haces fuerte, yo puedo pararme enfrente sin que me dé culpa.
+"Que quieras ser fuerte." Y se acomodó la espada. "Porque si tú te haces fuerte, yo puedo pararme enfrente sin que me dé culpa."
 
-—¡No es lo mismo!
+"¡No es lo mismo!"
 
-—¡Es lo mismo al revés! ¡Y el revés también cuenta, Jesús!
+"¡Es lo mismo al revés! ¡Y el revés también cuenta, Jesús!"
 
 Y yo abrí la boca y la cerré, y no supe qué decirle, porque no hay nada que decirle a una persona que te acaba de apuntar que está dispuesta a negociar todo, menos lo único que le pediste.
 
@@ -529,25 +529,25 @@ Y el cielo, en una parte muy chiquita del cielo, se puso naranja.
 
 Y yo me volteé, y en una colina a doscientos metros había una nube de polvo del tamaño de una casa, y en la orilla de esa nube había una silueta con un sombrero.
 
-—¡Megumin! —grité.
+"¡Megumin!" grité.
 
 Y Aqua, que venía corriendo desde el otro lado con una col en la cabeza y el pelo hecho un desastre, me dijo, sin aire:
 
-—¡Es que no la dejaban! ¡Y la cola... la cola era la reina!
+"¡Es que no la dejaban! ¡Y la cola... la cola era la reina!"
 
 Y yo corrí.
 
 Llegué y ya estaba tirada en el pasto, con el sombrero de lado y el bastón a dos metros, y con la cara más feliz que le he visto a una persona.
 
-—¿Viste el humo? —me preguntó.
+"¿Viste el humo?" me preguntó.
 
-—Te dije que la guardaras.
+"Te dije que la guardaras."
 
-—¡Era la reina, Jesús! —Y me agarró la manga—. ¡Era la más grande! ¡Le dije a todo el mundo que me apartaran! ¡Le puse nombre! ¡Se llamaba Beatriz!
+"¡Era la reina, Jesús!" Y me agarró la manga. "¡Era la más grande! ¡Le dije a todo el mundo que me apartaran! ¡Le puse nombre! ¡Se llamaba Beatriz!"
 
-—... ¿Le pusiste nombre a una col?
+"... ¿Le pusiste nombre a una col?"
 
-—¡Ya no existe, no hay problema!
+"¡Ya no existe, no hay problema!"
 
 Y yo me agaché, y le di la espalda, y ella se subió, y yo la cargué por todo el valle hasta el camino real, con la gente viendo, con las ollas humeando, y con el olor más rico del mundo.
 
@@ -561,11 +561,11 @@ Nos pagaron mil seiscientas sesenta monedas.
 
 Ahí, en el mostrador, con Luna contando de a montoncitos, con las cuatro cartas extendidas y los nombres apuntados.
 
-—Cuarenta y dos cabezas —dijo Luna—. Entrega limpia. Y como el señor Baltasar me acaba de decir que ese carro del camino real salvó la carga del día, les voy a agregar un extra por el servicio.
+"Cuarenta y dos cabezas", dijo Luna. "Entrega limpia. Y como el señor Baltasar me acaba de decir que ese carro del camino real salvó la carga del día, les voy a agregar un extra por el servicio."
 
-—¡Un extra! —dijo Aqua—. ¡Un extra!
+"¡Un extra!" dijo Aqua. "¡Un extra!"
 
-—Cuatrocientas. Y no me lo agradezca, que le veo la cara.
+"Cuatrocientas. Y no me lo agradezca, que le veo la cara."
 
 Y me pagó mi parte, y me la puso en la mano, y me quedé viendo el montón de monedas, más grande que mis dos puños.
 
@@ -575,19 +575,19 @@ Porque yo tenía cuatrocientas quince monedas en la mano, y la vida nueva, y el 
 
 Así que hice lo que hice siempre que no supe qué hacer: preguntar.
 
-—Luna.
+"Luna."
 
-—¿Mm?
+"¿Mm?"
 
-—¿Cuánto cuesta una cama en la posada de doña Hilda?
+"¿Cuánto cuesta una cama en la posada de doña Hilda?"
 
-—¿Una noche? Ocho.
+"¿Una noche? Ocho."
 
-—¿Y cuánto cuesta una cama al mes?
+"¿Y cuánto cuesta una cama al mes?"
 
 Luna levantó una ceja.
 
-—Doscientas. Y eso porque eres el que le barre —dijo—. Si pagas el mes, sales ganando, porque el mes tiene más de veinticinco noches.
+"Doscientas. Y eso porque eres el que le barre", dijo. "Si pagas el mes, sales ganando, porque el mes tiene más de veinticinco noches."
 
 Yo conté las monedas dos veces, y conté las de Megumin con el rabo del ojo, y conté las de Darkness, y me di cuenta de que las de las dos eran muy poquitas, y que una de ellas había estado durmiendo en un establo cuatro días.
 
@@ -599,31 +599,31 @@ Dos camas. Un mes.
 
 Y cuando doña Hilda me dijo «¿y esta muchacha?», señalando a Darkness, le dije:
 
-—Ella también.
+"Ella también."
 
-—Yo no he pedido nada —dijo Darkness.
+"Yo no he pedido nada", dijo Darkness.
 
-—Ya sé.
+"Ya sé."
 
-—Yo puedo dormir afuera.
+"Yo puedo dormir afuera."
 
-—Ya sé. —Y luego le dije la única razón que tenía—: Y yo puedo dormir con la ventana abierta. Los dos podemos hacer cosas que no hacen falta.
+"Ya sé." Y luego le dije la única razón que tenía: "Y yo puedo dormir con la ventana abierta. Los dos podemos hacer cosas que no hacen falta."
 
 Y Darkness se quedó callada, y doña Hilda me agarró la cara con las dos manos, me volteó para un lado y para el otro, y me dijo:
 
-—Muchacho, tú traes algo raro.
+"Muchacho, tú traes algo raro."
 
-—¿Raro?
+"¿Raro?"
 
-—Raro bueno. —Y me soltó, agarró la llave de la escalera, y me dijo lo que yo ya me esperaba—: Y las tuyas y las de la diosa ya están pagadas con el trabajo. No me las cobres tú a mí.
+"Raro bueno." Y me soltó, agarró la llave de la escalera, y me dijo lo que yo ya me esperaba: "Y las tuyas y las de la diosa ya están pagadas con el trabajo. No me las cobres tú a mí."
 
-—Gracias.
+"Gracias."
 
-—No me des las gracias, que se me pega.
+"No me des las gracias, que se me pega."
 
-—Perdón.
+"Perdón."
 
-—¡Peor!
+"¡Peor!"
 
 Y subimos los tres, por la escalera más fea de Axel.
 
@@ -665,23 +665,23 @@ Y apagué la pantalla.
 
 En el cuarto de al lado, Aqua se acomodó en su cama, que rechinaba, y después de un rato se le oyó gritar:
 
-—¡Jesús!
+"¡Jesús!"
 
-—¿Qué?
+"¿Qué?"
 
-—¡Ya duérmete!
+"¡Ya duérmete!"
 
-—¡Ya!
+"¡Ya!"
 
-—¡Y se te ve la luz azul por debajo de la puerta!
+"¡Y se te ve la luz azul por debajo de la puerta!"
 
-—¡Es la linterna!
+"¡Es la linterna!"
 
-—¡¿Cuál linterna?!
+"¡¿Cuál linterna?!"
 
-—¡Buenas noches, Aqua!
+"¡Buenas noches, Aqua!"
 
-—¡Buenas noches...!
+"¡Buenas noches...!"
 
 Y yo me quedé ahí, con el celular apagado en el pecho y con la ventana abierta, y por primera vez desde que había llegado a este mundo, me di cuenta de una cosa que me llenó la panza de algo calientito.
 

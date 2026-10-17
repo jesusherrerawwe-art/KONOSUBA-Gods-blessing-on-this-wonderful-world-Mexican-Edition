@@ -15,25 +15,25 @@ En la pared, a la altura de mis ojos, alguien había dibujado una ventana con un
 
 Me quedé viéndola un rato largo.
 
-—La hizo el hijo de la panadera —dijo el carcelero, desde afuera—. Se metió aquí a la fuerza. Dice que las ventanas de verdad cuestan dinero.
+"La hizo el hijo de la panadera", dijo el carcelero, desde afuera. "Se metió aquí a la fuerza. Dice que las ventanas de verdad cuestan dinero."
 
-—Dígale que le quedó muy bien.
+"Dígale que le quedó muy bien."
 
-—Se lo voy a decir.
+"Se lo voy a decir."
 
 Y luego, porque era un buen hombre y no sabía qué hacer con eso, me pasó por debajo de la puerta una cosa envuelta en un trapo.
 
 Era un pan.
 
-—No puedo pagárselo —dije.
+"No puedo pagárselo", dije.
 
-—No se lo estoy vendiendo. —Y luego metió la mano en el bolsillo del mandil y sacó una cosa de metal—. Y esto lo recogió la guardia anoche, delante de su puerta. Me lo dejaron a mí para que se lo devolviera.
+"No se lo estoy vendiendo." Y luego metió la mano en el bolsillo del mandil y sacó una cosa de metal. "Y esto lo recogió la guardia anoche, delante de su puerta. Me lo dejaron a mí para que se lo devolviera."
 
 Era un guante. Un guante de metal, de esos que se abrochan con correa, con los dedos huecos y con la muñeca abollada de un golpe viejo.
 
-—¿Se lo devuelvo? —preguntó.
+"¿Se lo devuelvo?" preguntó.
 
-—Démelo —dije—. Yo se lo doy.
+"Démelo", dije. "Yo se lo doy."
 
 Y me lo metí en el bolsillo del pantalón, y me pesó todo el día, y no lo abrí, porque no era mío.
 
@@ -43,9 +43,9 @@ Y a las once y media me pusieron las cadenas.
 
 No eran cadenas de verdad. Era un cordón de cuero con dos argollas, de esos que se usan para las vacas, y el carcelero me lo puso en las muñecas con una cara de vergüenza que me dio más risa que miedo.
 
-—Es el que hay —dijo.
+"Es el que hay", dijo.
 
-—Es el que hay —dije yo.
+"Es el que hay", dije yo.
 
 Y salimos al sol.
 
@@ -63,7 +63,7 @@ Estaba el señor barbón con su camisa nueva. Estaba doña Hilda con el delantal
 
 Y en la última fila, con el sombrero de fieltro de su tienda y con las manos en el regazo, estaba la señora Wiz.
 
-—Acusado —dijo una voz desde el fondo—. Al frente.
+"Acusado", dijo una voz desde el fondo. "Al frente."
 
 Y ahí, mi hermano, me pasó una cosa que no me esperaba: me temblaron las piernas.
 
@@ -79,19 +79,19 @@ Se voltearon a verme los tres al mismo tiempo.
 
 Y Aqua, en vez de decirme algo bonito, levantó el libro y me lo enseñó, y en el lomo decía: «El juicio en tres días, para gente con prisa».
 
-—Lo compré en el gremio —dijo, muy seria—. Trae dibujos.
+"Lo compré en el gremio", dijo, muy seria. "Trae dibujos."
 
-—Aqua, ese libro es de cocina.
+"Aqua, ese libro es de cocina."
 
-—¡Trae dibujos!
+"¡Trae dibujos!"
 
 Y el juez, que era un señor mayor con una toga que le quedaba grande y con la cara de quien acaba de despertar de una siesta muy buena, dio tres golpes con un martillo de madera en la mesa.
 
-—Silencio —dijo—. Se abre la sesión.
+"Silencio", dijo. "Se abre la sesión."
 
 Y luego se inclinó hacia el de al lado, que era un escribano flaco con una pluma enorme, y le preguntó, con la mano delante de la boca y con una voz que se oyó en todo el tribunal:
 
-—¿Y este de qué es?
+"¿Y este de qué es?"
 
 ---
 
@@ -99,7 +99,7 @@ La señora Sena se paró.
 
 Traía el abrigo azul, el birrete con la orla dorada y la carpeta. La misma carpeta. La puso en el atril, la abrió, y se acomodó las gafas triangulares con un dedo.
 
-—Señoría —dijo—. La fiscalía acusa a Jesús Fujioka Hernández, aventurero de clase inicial, vecino de este pueblo, del delito de subversión a la nación, previsto en la ley de la corona para quien dirija, ordene o provoque la destrucción de bienes de un servidor del reino.
+"Señoría", dijo. "La fiscalía acusa a Jesús Fujioka Hernández, aventurero de clase inicial, vecino de este pueblo, del delito de subversión a la nación, previsto en la ley de la corona para quien dirija, ordene o provoque la destrucción de bienes de un servidor del reino."
 
 Y leyó.
 
@@ -107,63 +107,63 @@ Leyó la fecha. Leyó la hora. Leyó el nombre del artefacto, la Fortaleza Móvi
 
 Y luego leyó la lista.
 
-—Casa número uno: la casa de la señora Hilda, en la plaza. En pie.
+"Casa número uno: la casa de la señora Hilda, en la plaza. En pie."
 
-—Casa número dos: la casa del señor Fermín, en el camino del norte. En pie.
+"Casa número dos: la casa del señor Fermín, en el camino del norte. En pie."
 
-—Casa número tres: la casa de la panadería, en la calle del mercado. En pie.
+"Casa número tres: la casa de la panadería, en la calle del mercado. En pie."
 
 Y siguió. Una por una. Treinta y ocho casas de Axel, en pie, con el nombre del dueño y con la palabra «en pie» escrita al final, y en la última hoja, sola, con la letra más grande, la palabra «quemada».
 
-—Señoría —dijo Sena, y cerró la carpeta—. Esa es la acusación. Yo no vengo a decir que este muchacho sea un mal hombre. Vengo a decir que dio una orden, que la orden se cumplió, y que la ley no pregunta por las intenciones. Pregunta por los hechos. —Y se quedó quieta—. Y los hechos están escritos.
+"Señoría", dijo Sena, y cerró la carpeta. "Esa es la acusación. Yo no vengo a decir que este muchacho sea un mal hombre. Vengo a decir que dio una orden, que la orden se cumplió, y que la ley no pregunta por las intenciones. Pregunta por los hechos." Y se quedó quieta. "Y los hechos están escritos."
 
 El juez se rascó la barbilla.
 
-—¿Y el pueblo no tiene nada que decir?
+"¿Y el pueblo no tiene nada que decir?"
 
 Y ahí el pueblo habló.
 
-—¡Él salvó la ciudad! —gritó el señor barbón, y se paró, y la mitad de la sala se paró con él.
+"¡Él salvó la ciudad!" gritó el señor barbón, y se paró, y la mitad de la sala se paró con él.
 
 El martillo dio tres golpes.
 
-—¡Un nombre a la vez!
+"¡Un nombre a la vez!"
 
 Se paró Fermín, con el sombrero apretado contra el pecho.
 
-—Señoría, yo andaba en el camino real cuando se cayó la fortaleza. Y a mí me avisó el muchacho. Me dijo: «agárrese la carreta y no corra». Y yo no corrí, señoría. Y aquí estoy.
+"Señoría, yo andaba en el camino real cuando se cayó la fortaleza. Y a mí me avisó el muchacho. Me dijo: «agárrese la carreta y no corra». Y yo no corrí, señoría. Y aquí estoy."
 
 Se paró doña Hilda.
 
-—Él me sacó a mis huéspedes del cuarto de arriba. Uno por uno, señoría. Y después volvió por la señora del cuarto cuatro, que no camina.
+"Él me sacó a mis huéspedes del cuarto de arriba. Uno por uno, señoría. Y después volvió por la señora del cuarto cuatro, que no camina."
 
 Se paró la panadera.
 
-—Él cargó a mi niño cinco cuadras.
+"Él cargó a mi niño cinco cuadras."
 
 Se paró el capitán de la guardia.
 
-—Él organizó la salida, señoría. La puerta norte, la carreta grande, los del río por el callejón. Si ese muchacho no hubiera estado ahí, a estas horas este pueblo estaría contando muertos.
+"Él organizó la salida, señoría. La puerta norte, la carreta grande, los del río por el callejón. Si ese muchacho no hubiera estado ahí, a estas horas este pueblo estaría contando muertos."
 
 Y yo, sentado en una silla de madera con un cordón de vaca en las muñecas, sentí una cosa que no les voy a poder explicar. Sentí calor. En la cara, en las manos, en el pecho. Sentí que se me llenaban los ojos y pensé «no llores, no llores, no llores», y no lloré, pero me tembló la boca y creo que se me vio.
 
 Y luego la señora Sena dijo:
 
-—Señoría, ¿me permite?
+"Señoría, ¿me permite?"
 
 Y el juez dijo que sí.
 
 Y la señora Sena abrió otra carpeta.
 
-—Capitán, usted declara que el acusado organizó la salida. —Y leyó—: «Él nos dijo a dónde ir. Él nos dijo la hora. Él nos dijo qué carreta, en qué orden, con qué carga.» —Levantó la cara—. Eso, señoría, no es una defensa. Eso es la prueba de que el acusado tenía el mando. Y quien tiene el mando, tiene la responsabilidad.
+"Capitán, usted declara que el acusado organizó la salida." Y leyó: "«Él nos dijo a dónde ir. Él nos dijo la hora. Él nos dijo qué carreta, en qué orden, con qué carga.»". Levantó la cara. "Eso, señoría, no es una defensa. Eso es la prueba de que el acusado tenía el mando. Y quien tiene el mando, tiene la responsabilidad."
 
 El capitán se quedó con la boca abierta.
 
-—Doña Hilda, usted declara que él le dijo que subiera a los huéspedes. —Y leyó—: «Él me dijo que no era seguro el cuarto de arriba.» —Y otra vez levantó la cara—. Es decir, que el acusado sabía lo que iba a pasar y cuándo, y no lo dijo hasta el último momento.
+"Doña Hilda, usted declara que él le dijo que subiera a los huéspedes." Y leyó: "«Él me dijo que no era seguro el cuarto de arriba.»". Y otra vez levantó la cara. "Es decir, que el acusado sabía lo que iba a pasar y cuándo, y no lo dijo hasta el último momento."
 
-—¡Es que no lo sabía! —grité yo, y me salió más fuerte de lo que quería, y el tribunal entero se volteó—. ¡Si lo hubiera sabido, lo hubiera dicho antes!
+"¡Es que no lo sabía!" grité yo, y me salió más fuerte de lo que quería, y el tribunal entero se volteó. "¡Si lo hubiera sabido, lo hubiera dicho antes!"
 
-—Señoría —dijo Sena, sin voltear a verme—. El acusado acaba de declarar, delante de todos, que no informó a las autoridades. —Y escribió—. Anotado.
+"Señoría", dijo Sena, sin voltear a verme. "El acusado acaba de declarar, delante de todos, que no informó a las autoridades." Y escribió. "Anotado."
 
 Y así funcionó la cosa.
 
@@ -177,47 +177,47 @@ Y la señora Sena los escuchó a todos, uno por uno, y convirtió cada abrazo en
 
 Cuando terminó, la sala estaba callada, y el juez tenía la cara de alguien que ya se había perdido dos veces en el mismo camino.
 
-—¿La defensa? —dijo.
+"¿La defensa?" dijo.
 
 Y Aqua se paró.
 
-—¡Objeción!
+"¡Objeción!"
 
-—¿A qué?
+"¿A qué?"
 
-—¡A todo! —Y levantó el libro de cocina—. ¡Esto es una injusticia!
+"¡A todo!" Y levantó el libro de cocina. "¡Esto es una injusticia!"
 
 El juez se rascó la barbilla otra vez.
 
-—Eso no es una objeción, señorita. Eso es una opinión.
+"Eso no es una objeción, señorita. Eso es una opinión."
 
-—¡Pues opino que es una injusticia!
+"¡Pues opino que es una injusticia!"
 
-—Anotado.
+"Anotado."
 
 Y Aqua, en vez de sentarse, hizo lo que yo me temía desde que la vi con el libro: se puso a contar la verdad.
 
-—Señoría, este pueblo no se salvó porque él lo organizara. Este pueblo se salvó porque yo tiré una Ruptura Sagrada en la barrera, y porque la archimaga tiró dos Explosiones, y porque la cruzada aguantó las patas de la fortaleza con la cara. —Y se puso la mano en el pecho—. Yo soy Aqua, archisacerdotisa de la Iglesia Axis, y le puedo decir que este muchacho no es ningún...
+"Señoría, este pueblo no se salvó porque él lo organizara. Este pueblo se salvó porque yo tiré una Ruptura Sagrada en la barrera, y porque la archimaga tiró dos Explosiones, y porque la cruzada aguantó las patas de la fortaleza con la cara." Y se puso la mano en el pecho. "Yo soy Aqua, archisacerdotisa de la Iglesia Axis, y le puedo decir que este muchacho no es ningún..."
 
-—Señorita Aqua —dijo la señora Sena, y su voz se puso muy tranquila—. ¿Usted es la que se dejó tragar por un sapo gigante en su primer trabajo?
+"Señorita Aqua", dijo la señora Sena, y su voz se puso muy tranquila. "¿Usted es la que se dejó tragar por un sapo gigante en su primer trabajo?"
 
 Aqua se quedó con la boca abierta.
 
-—¿Yo?
+"¿Yo?"
 
-—La que purificó un sapo en lugar de matarlo, y le dijo al cliente que un sapo limpio era un sapo muerto.
+"La que purificó un sapo en lugar de matarlo, y le dijo al cliente que un sapo limpio era un sapo muerto."
 
-—¡Estaba sucio!
+"¡Estaba sucio!"
 
-—¿Y la que se metió al lago de Tander sin permiso de la corona, con monstruos adentro, a cantar?
+"¿Y la que se metió al lago de Tander sin permiso de la corona, con monstruos adentro, a cantar?"
 
-—¡Había que purificarlo!
+"¡Había que purificarlo!"
 
-—¿Y la que se cayó de las almenas de la muralla delante de todo el pueblo?
+"¿Y la que se cayó de las almenas de la muralla delante de todo el pueblo?"
 
-—¡Eso salvó el pueblo!
+"¡Eso salvó el pueblo!"
 
-—Anotado.
+"Anotado."
 
 Y el tribunal se rio. Se rio de verdad, con ganas, y yo vi cómo a Aqua se le ponía la cara roja y se le cerraba la boca, y vi cómo se sentaba, despacio, con el libro de cocina apretado contra el pecho como se aprieta un juguete.
 
@@ -227,27 +227,27 @@ Y luego se paró Megumin.
 
 Se paró con las dos manos en la mesa y con la pierna mala estirada y con la cara roja, y toda la sala la vio pararse, y a mí se me hizo un nudo en la garganta porque yo sabía lo que le había costado.
 
-—Señoría —dijo—. Yo soy Megumin, archimaga de los Demonios Carmesí, y voy a decir una sola cosa.
+"Señoría", dijo. "Yo soy Megumin, archimaga de los Demonios Carmesí, y voy a decir una sola cosa."
 
-—Diga.
+"Diga."
 
-—Yo tiré la segunda Explosión. Yo tiré la del camino. —Y levantó la cara—. Y si alguien tiene que pagar por lo que se rompió en ese camino, pago yo, porque la magia salió de mis manos y no de las suyas.
+"Yo tiré la segunda Explosión. Yo tiré la del camino." Y levantó la cara. "Y si alguien tiene que pagar por lo que se rompió en ese camino, pago yo, porque la magia salió de mis manos y no de las suyas."
 
 La señora Sena la vio un rato.
 
-—Señorita Megumin —dijo—. ¿Usted puede pagar el camino?
+"Señorita Megumin", dijo. "¿Usted puede pagar el camino?"
 
-—No.
+"No."
 
-—¿Puede pagar una casa?
+"¿Puede pagar una casa?"
 
-—No.
+"No."
 
-—¿Puede pagar un pan?
+"¿Puede pagar un pan?"
 
 Y Megumin, que nunca se queda callada, se quedó callada.
 
-—Entonces siéntese —dijo Sena, y no lo dijo con burla. Lo dijo con cansancio—, que usted también está en la lista.
+"Entonces siéntese", dijo Sena, y no lo dijo con burla. Lo dijo con cansancio. "Que usted también está en la lista."
 
 Y en la lista estaba. Porque la señora Sena tenía una tercera hoja, y en esa hoja estaban los daños del camino, y los del lago de Tander, y los de la col gigante a la que la archimaga le había puesto nombre antes de volarla, y los del campo donde cayeron los sapos, y todo estaba sumado con la letra apretada de la gente que escribe mucho.
 
@@ -257,7 +257,7 @@ Y entonces se paró Darkness.
 
 No dijo nada. Se paró nada más, con las manos en la mesa, con la armadura puesta y con la cara blanca, y miró al juez.
 
-—Señorita —dijo el juez—. ¿La defensa tiene algo que decir?
+"Señorita", dijo el juez. "¿La defensa tiene algo que decir?"
 
 Y ella abrió la boca.
 
@@ -267,13 +267,13 @@ Se quedó ahí, con la boca abierta, delante de la sala entera, sin poder decir 
 
 Y luego dijo, muy bajito:
 
-—No, señoría.
+"No, señoría."
 
 Y se sentó.
 
 Y el juez dio tres golpes con el martillo.
 
-—¿El acusado quiere decir algo antes de que me retire a deliberar?
+"¿El acusado quiere decir algo antes de que me retire a deliberar?"
 
 Y ahí me paré yo.
 
@@ -281,21 +281,21 @@ Y ahí me paré yo.
 
 Me paré con el cordón de vaca en las muñecas y con la cuchara de Aqua en el bolsillo y con la boca seca.
 
-—Señoría —dije—. Yo nada más quiero decir una cosa.
+"Señoría", dije. "Yo nada más quiero decir una cosa."
 
-—Diga.
+"Diga."
 
-—Que no soy terrorista. —Y respiré—. Y que no sirvo al Rey Demonio.
+"Que no soy terrorista." Y respiré. "Y que no sirvo al Rey Demonio."
 
 Y el juez, que ya se estaba levantando, se quedó a media mitad.
 
-—¿Eso es todo?
+"¿Eso es todo?"
 
-—Eso es todo.
+"Eso es todo."
 
 Y la señora Sena se levantó de golpe.
 
-—Señoría —dijo—. La fiscalía pide que se traiga la campana.
+"Señoría", dijo. "La fiscalía pide que se traiga la campana."
 
 ---
 
@@ -303,31 +303,31 @@ La trajeron en una caja de madera, con dos hombres, y la pusieron en el centro d
 
 Y la señora Sena dijo, para que se oyera en todo el tribunal:
 
-—Esta campana suena cuando una persona miente. No cuando dice una falsedad: cuando dice, sabiendo que es falsedad, una cosa para engañar. —Y se acomodó las gafas—. Señor acusado: repita su declaración delante de la campana.
+"Esta campana suena cuando una persona miente. No cuando dice una falsedad: cuando dice, sabiendo que es falsedad, una cosa para engañar." Y se acomodó las gafas. "Señor acusado: repita su declaración delante de la campana."
 
 Y yo, con todo el pueblo mirándome y con las muñecas amarradas y con el corazón en la garganta, dije:
 
-—No soy terrorista.
+"No soy terrorista."
 
 Y la campana no sonó.
 
-—No sirvo al Rey Demonio.
+"No sirvo al Rey Demonio."
 
 Y la campana no sonó.
 
-—Y no le tengo miedo a nadie de esta sala.
+"Y no le tengo miedo a nadie de esta sala."
 
 Y la campana sonó.
 
 Una sola vez. Un sonido chiquito y claro, como cuando uno le da con la uña a un vaso, y yo me quedé helado, y la señora Sena levantó la cara, y la sala entera contuvo el aire.
 
-—¿Le tiene miedo a alguien? —preguntó Sena.
+"¿Le tiene miedo a alguien?" preguntó Sena.
 
 Y yo, que acababa de decir la única mentira que había dicho en mi vida delante de esa campana, contesté la verdad:
 
-—Sí.
+"Sí."
 
-—¿A quién?
+"¿A quién?"
 
 Y volteé a ver al señor Alderp.
 
@@ -343,15 +343,15 @@ Se había reído cuando el capitán dijo que yo había organizado la salida. Se 
 
 Y cuando levanté la barbilla y lo miré, dejó de reírse.
 
-—Señoría —dijo la señora Sena, y su voz sonó rara—. El acusado tiene derecho a no contestar.
+"Señoría", dijo la señora Sena, y su voz sonó rara. "El acusado tiene derecho a no contestar."
 
-—No hace falta —dijo Alderp, y se paró—. Yo soy el demandante. Es natural que el muchacho me tenga miedo. —Y se acomodó la cadena—. Un muchacho que le tiene miedo a un gobernador no es un terrorista, señoría. Es un muchacho con sentido común.
+"No hace falta", dijo Alderp, y se paró. "Yo soy el demandante. Es natural que el muchacho me tenga miedo." Y se acomodó la cadena. "Un muchacho que le tiene miedo a un gobernador no es un terrorista, señoría. Es un muchacho con sentido común."
 
 Y el tribunal se rio.
 
 Y el juez dio tres golpes con el martillo y dijo:
 
-—Visto lo anterior, y a falta de prueba en contrario, este tribunal declara al acusado inocente del cargo de subversión a la nación, y ordena que se le suelten las...
+"Visto lo anterior, y a falta de prueba en contrario, este tribunal declara al acusado inocente del cargo de subversión a la nación, y ordena que se le suelten las..."
 
 Y ahí se detuvo.
 
@@ -369,31 +369,31 @@ Yo lo vi. Estaba a diez pasos y lo vi. Se le empañaron los ojos como se empaña
 
 Y dijo:
 
-—... y este tribunal lo declara culpable.
+"... y este tribunal lo declara culpable."
 
 El tribunal se vino abajo.
 
-—¡Qué!
+"¡Qué!"
 
-—¡No!
+"¡No!"
 
-—¡Señoría, eso no es lo que dijo!
+"¡Señoría, eso no es lo que dijo!"
 
 El martillo empezó a dar golpes, uno detrás de otro, y el escribano se levantó y se le cayó la pluma, y la señora Sena se puso de pie y dijo:
 
-—¡Señoría, la corte acaba de declarar la inocencia del acusado!
+"¡Señoría, la corte acaba de declarar la inocencia del acusado!"
 
 Y el juez, con los ojos opacos y con la cara tranquila, dijo:
 
-—La corte rectifica. —Y se acomodó la toga—. Culpable. Pena: la que la ley fija para la subversión a la nación.
+"La corte rectifica." Y se acomodó la toga. "Culpable. Pena: la que la ley fija para la subversión a la nación."
 
 Y el escribano, con la voz temblando, preguntó:
 
-—¿Y cuál es esa pena, señoría?
+"¿Y cuál es esa pena, señoría?"
 
 Y el juez dijo:
 
-—La muerte.
+"La muerte."
 
 ---
 
@@ -401,49 +401,49 @@ Voy a contar lo que pasó después tal como pasó, porque es la parte que me dej
 
 Aqua se paró de un salto y empezó a gritar.
 
-—¡Hay poder oscuro en esta sala! —Y señaló al fondo, a la primera fila del lado derecho, con el dedo tieso—. ¡Hay algo detrás de ese hombre! ¡Yo lo veo! ¡Se le está metiendo al juez por la cabeza como el humo!
+"¡Hay poder oscuro en esta sala!" Y señaló al fondo, a la primera fila del lado derecho, con el dedo tieso. "¡Hay algo detrás de ese hombre! ¡Yo lo veo! ¡Se le está metiendo al juez por la cabeza como el humo!"
 
 Y el juez dijo:
 
-—Que se siente la señorita.
+"Que se siente la señorita."
 
-—¡Señoría, yo soy una diosa, y le estoy diciendo que hay un demonio en su...
+"¡Señoría, yo soy una diosa, y le estoy diciendo que hay un demonio en su..."
 
-—Que se siente.
+"Que se siente."
 
-—¡No me voy a sentar! ¡Esto es una farsa! ¡Esto es una...!
+"¡No me voy a sentar! ¡Esto es una farsa! ¡Esto es una...!"
 
 Y dos guardias la levantaron de los brazos y se la llevaron, y ella siguió gritando por el pasillo, y la última cosa que se oyó antes de que se cerrara la puerta fue:
 
-—¡Debajo de la cadena! ¡Mírele la sombra! ¡Mírele la sombra, señoría!
+"¡Debajo de la cadena! ¡Mírele la sombra! ¡Mírele la sombra, señoría!"
 
 Megumin se paró.
 
-—Señoría —dijo, con una voz que daba miedo—. En los archivos de los Demonios Carmesí hay un caso, el de un juez que dictó cuarenta sentencias en una noche, y todas...
+"Señoría", dijo, con una voz que daba miedo. "En los archivos de los Demonios Carmesí hay un caso, el de un juez que dictó cuarenta sentencias en una noche, y todas..."
 
-—Que se siente la señorita.
+"Que se siente la señorita."
 
-—... y todas con el mismo reo, señoría. ¡El mismo reo cuarenta veces!
+"... y todas con el mismo reo, señoría. ¡El mismo reo cuarenta veces!"
 
-—Que se la lleven también.
+"Que se la lleven también."
 
-—¡Es el mismo patrón! ¡Es exactamente el mismo...!
+"¡Es el mismo patrón! ¡Es exactamente el mismo...!"
 
 Y se la llevaron, cojeando y gritando, y la puerta se cerró, y el tribunal se quedó en silencio.
 
 Y la señora Sena, con la carpeta abierta y con las manos temblando, dijo:
 
-—Señoría. —Y esperó—. Señoría, que conste en el acta.
+"Señoría." Y esperó. "Señoría, que conste en el acta."
 
 El juez la miró con sus ojos de vidrio.
 
-—¿Qué cosa?
+"¿Qué cosa?"
 
-—Que la corte dictó la inocencia. —Y su voz no tembló—. Que la dictó en voz alta, delante de cuarenta testigos. Que después de que el demandante se levantara, la corte cambió el dictado sin que se presentara prueba nueva, sin que se llamara a un testigo nuevo y sin que se explicara el motivo. —Y levantó la cara—. Eso es lo que voy a poner en el acta, señoría, porque es mi trabajo. Y lo voy a firmar.
+"Que la corte dictó la inocencia." Y su voz no tembló. "Que la dictó en voz alta, delante de cuarenta testigos. Que después de que el demandante se levantara, la corte cambió el dictado sin que se presentara prueba nueva, sin que se llamara a un testigo nuevo y sin que se explicara el motivo." Y levantó la cara. "Eso es lo que voy a poner en el acta, señoría, porque es mi trabajo. Y lo voy a firmar."
 
 El juez se quedó viéndola un rato largo.
 
-—Ponga lo que quiera —dijo—. Total, nadie lee las actas.
+"Ponga lo que quiera", dijo. "Total, nadie lee las actas."
 
 Y la señora Sena escribió. Escribió con la pluma apretada, con la letra apretada, y cuando terminó cerró la carpeta y se quedó de pie, con la carpeta contra el pecho, mirando al frente.
 
@@ -463,35 +463,35 @@ Y en eso, el señor Alderp se levantó.
 
 ---
 
-—Señoría.
+"Señoría."
 
 El juez se volteó.
 
-—Señor gobernador.
+"Señor gobernador."
 
-—Un hombre muerto no me paga —dijo Alderp.
+"Un hombre muerto no me paga", dijo Alderp.
 
 Y el tribunal se quedó callado.
 
-—Yo perdí una casa —dijo, y se paseó por delante de la mesa con las manos en la espalda, como se pasea uno por su propia sala—. Una casa grande. Con un jardín que llevaba cuarenta años. Con unos árboles que plantó mi padre. —Se paró—. Y a mí, señoría, no me interesa la vida de este muchacho. Me interesa mi casa.
+"Yo perdí una casa", dijo, y se paseó por delante de la mesa con las manos en la espalda, como se pasea uno por su propia sala. "Una casa grande. Con un jardín que llevaba cuarenta años. Con unos árboles que plantó mi padre." Se paró. "Y a mí, señoría, no me interesa la vida de este muchacho. Me interesa mi casa."
 
-—Señor gobernador, la pena ya está dictada.
+"Señor gobernador, la pena ya está dictada."
 
-—Pues cámbiela. —Y se encogió de hombros—. La cambió una vez. Puede cambiarla otra.
+"Pues cámbiela." Y se encogió de hombros. "La cambió una vez. Puede cambiarla otra."
 
 El juez se quedó viendo el martillo.
 
 Y luego dijo, con una voz que no era la suya:
 
-—La corte reevalúa. —Y levantó la cara—. La pena de muerte queda conmutada por la obligación de pagar los daños causados a la propiedad del señor gobernador Alderp Alexei Barnes, más los daños causados a los caminos y a los bienes de la corona, en la cantidad que resulte de la tasación.
+"La corte reevalúa." Y levantó la cara. "La pena de muerte queda conmutada por la obligación de pagar los daños causados a la propiedad del señor gobernador Alderp Alexei Barnes, más los daños causados a los caminos y a los bienes de la corona, en la cantidad que resulte de la tasación."
 
 Y el escribano, que llevaba media hora escribiendo como un loco, dijo:
 
-—¿Y cuál es la cantidad, señoría?
+"¿Y cuál es la cantidad, señoría?"
 
 Y el señor Alderp contestó por él.
 
-—Mil doscientos cuarenta millones de eris.
+"Mil doscientos cuarenta millones de eris."
 
 Y el tribunal se quedó mudo.
 
@@ -499,43 +499,43 @@ Yo no sé si ustedes, mi hermano, sepan cuánto es eso en este mundo, así que l
 
 Mil doscientos cuarenta millones de eris era una cosa que no existía. Era como pedirle a un hombre que pagara con su vida y que además trajera el cambio.
 
-—Señoría —dijo la señora Sena—. Eso es imposible. Con esa cantidad se compra este pueblo, y el de al lado, y sobra para el camino.
+"Señoría", dijo la señora Sena. "Eso es imposible. Con esa cantidad se compra este pueblo, y el de al lado, y sobra para el camino."
 
-—Es la tasación —dijo el juez—. La hizo un perito de la corona.
+"Es la tasación", dijo el juez. "La hizo un perito de la corona."
 
-—Eso no es una tasación, señoría. —Y su voz se oyó hasta en la calle—. Eso es una condena con otro nombre.
+"Eso no es una tasación, señoría." Y su voz se oyó hasta en la calle. "Eso es una condena con otro nombre."
 
-—¿Y el perito está en esta sala?
+"¿Y el perito está en esta sala?"
 
-—No.
+"No."
 
-—¿Y su firma está en el acta?
+"¿Y su firma está en el acta?"
 
-—No.
+"No."
 
-—¿Y el señor gobernador puede presentar el documento de la tasación?
+"¿Y el señor gobernador puede presentar el documento de la tasación?"
 
 Y Alderp, muy tranquilo, dijo:
 
-—Se lo mando mañana.
+"Se lo mando mañana."
 
 Y la señora Sena abrió la boca, y la cerró, y no dijo nada, porque en ese momento se dio cuenta, igual que yo, de que estaba sola en una sala llena de gente y de que la ley que ella defendía no era de ella.
 
-—¿Y el pueblo? —dije yo.
+"¿Y el pueblo?" dije yo.
 
 Todos se voltearon.
 
-—¿Qué pueblo? —dijo el juez.
+"¿Qué pueblo?" dijo el juez.
 
-—El pueblo. —Y me paré, con las manos amarradas—. La señora Sena dijo que había treinta y ocho casas. Yo quiero saber si alguna de esas treinta y ocho casas va a pagar algo.
+"El pueblo." Y me paré, con las manos amarradas. "La señora Sena dijo que había treinta y ocho casas. Yo quiero saber si alguna de esas treinta y ocho casas va a pagar algo."
 
 Y el juez, con sus ojos de vidrio y con su cara de no estar ahí, dijo:
 
-—Las treinta y ocho casas están en pie.
+"Las treinta y ocho casas están en pie."
 
-—Eso no es lo que pregunté.
+"Eso no es lo que pregunté."
 
-—El pueblo no debe nada —dijo el juez—. La deuda es suya, señor Fujioka. Nada más suya.
+"El pueblo no debe nada", dijo el juez. "La deuda es suya, señor Fujioka. Nada más suya."
 
 Y ahí, mi hermano, me pasó una cosa que no les voy a poder explicar.
 
@@ -547,11 +547,11 @@ Porque yo había pedido una sola cosa: que el pueblo no pagara.
 
 Y el pueblo no iba a pagar.
 
-—Gracias —dije.
+"Gracias", dije.
 
 Y el tribunal me vio como se ve a un loco.
 
-—Gracias —repetí—. En serio. Gracias.
+"Gracias", repetí. "En serio. Gracias."
 
 ---
 
@@ -563,7 +563,7 @@ Se detuvo lo suficiente para que yo viera la cadena de gobernador y el anillo qu
 
 Y le dijo, muy bajito, con una voz que era casi cariñosa:
 
-—Salúdeme a su padre.
+"Salúdeme a su padre."
 
 Y siguió caminando.
 
@@ -585,37 +585,37 @@ A las cuatro de la tarde me pasaron de la sala a un cuarto chiquito del fondo de
 
 Y los papeles decían cosas que yo no entendía, con sellos y con fechas, y en el último estaba escrito, con una letra apretada que no era de este mundo, que yo, Jesús Fujioka Hernández, me comprometía a pagar la cantidad de mil doscientos cuarenta millones de eris en un plazo de... y ahí había un espacio en blanco, y el escribano puso «a la brevedad».
 
-—¿Qué quiere decir a la brevedad? —pregunté.
+"¿Qué quiere decir a la brevedad?" pregunté.
 
-—Que pronto.
+"Que pronto."
 
-—¿Cuánto de pronto?
+"¿Cuánto de pronto?"
 
-—Lo que se pueda.
+"Lo que se pueda."
 
 Y firmé.
 
 Y luego firmé otra cosa, y otra, y otra, y a la última el escribano me dijo, sin levantar la cara:
 
-—Esta es la de los bienes.
+"Esta es la de los bienes."
 
-—¿Qué bienes?
+"¿Qué bienes?"
 
-—Los suyos.
+"Los suyos."
 
 Y me explicó, con la misma voz con la que se lee una lista del mercado, que la corona se quedaba con todo lo que yo tuviera, y que si no alcanzaba, se quedaba con lo que tuvieran los de mi casa, y que si no alcanzaba, se quedaba con lo que yo ganara, y que todo lo que yo ganara, hasta que se pagara la cuenta, era de la corona.
 
-—¿Y si me muero? —pregunté.
+"¿Y si me muero?" pregunté.
 
-—Entonces la deuda pasa a sus herederos.
+"Entonces la deuda pasa a sus herederos."
 
-—No tengo herederos.
+"No tengo herederos."
 
-—Entonces se cancela. —Y levantó la cara—. ¿Quiere que se muera?
+"Entonces se cancela." Y levantó la cara. "¿Quiere que se muera?"
 
 Y yo me quedé viendo la pluma.
 
-—No —dije—. Creo que no.
+"No", dije. "Creo que no."
 
 ---
 
@@ -631,51 +631,51 @@ Eso era todo.
 
 Uno de los caballeros, el más joven, se rascó la nuca.
 
-—¿Y el oro? —dijo.
+"¿Y el oro?" dijo.
 
-—No tenemos oro.
+"No tenemos oro."
 
-—¿Y las joyas?
+"¿Y las joyas?"
 
-—No tenemos joyas.
+"No tenemos joyas."
 
-—¿Y el dinero?
+"¿Y el dinero?"
 
 Y yo abrí la caja y les enseñé el dinero: una bolsa de monedas de plata y de cobre, setecientos cuarenta eris en total, que era lo que había quedado después de pagar la posada, la herrería de la pierna de Megumin y todo lo que nos habíamos comido en el invierno.
 
 El caballero joven se volteó a ver a su compañero.
 
-—Comandante, esto no alcanza ni para el jardín.
+"Comandante, esto no alcanza ni para el jardín."
 
 Y el comandante, que era un señor con canas y con una cara que había visto cosas peores, dijo:
 
-—Anótalo todo.
+"Anótalo todo."
 
 Y anotaron todo.
 
 Anotaron la playera. Anotaron la llave. Anotaron el celular, con la descripción «piedra negra, lisa, sin uso conocido». Anotaron el suéter, y cuando el caballero joven lo levantó, el cuaderno del constructor se cayó al piso y se abrió en la última hoja, y yo me quedé viendo la firma que había puesto ahí, la que decía «No eres el único», y sentí una cosa en el pecho como cuando a uno se le rompe una costilla.
 
-—¿Y esto? —dijo el joven, con el cuaderno en la mano.
+"¿Y esto?" dijo el joven, con el cuaderno en la mano.
 
-—Un cuaderno.
+"Un cuaderno."
 
-—¿Qué dice?
+"¿Qué dice?"
 
-—No sé —dije—. Está en otro idioma.
+"No sé", dije. "Está en otro idioma."
 
 Y el comandante lo hojeó, y lo vio, y dijo:
 
-—No sirve. —Y se lo metió en el saco de la ropa—. Va en el lote.
+"No sirve." Y se lo metió en el saco de la ropa. "Va en el lote."
 
 Y luego bajaron la caja y la subieron a la carreta, y la carreta se fue, y en el cuarto quedó una cama, una silla y una ventana.
 
 Y doña Hilda, desde la puerta, dijo:
 
-—Muchacho.
+"Muchacho."
 
-—¿Sí?
+"¿Sí?"
 
-—El cuarto está pagado hasta el mes de marzo. —Y se limpió las manos en el delantal—. Y si no alcanza, lavas platos. Y si no alcanza para los platos, barres. Y si no alcanza para barrer, te sientas en la cocina y no estorbas.
+"El cuarto está pagado hasta el mes de marzo." Y se limpió las manos en el delantal. "Y si no alcanza, lavas platos. Y si no alcanza para los platos, barres. Y si no alcanza para barrer, te sientas en la cocina y no estorbas."
 
 Y yo me reí, y me salió una risa fea, con lágrimas y todo, y le dije que sí, y ella me agarró la cara con las dos manos y me la apretó como se aprieta la cara de un hijo.
 
@@ -683,15 +683,15 @@ Y cuando salí al patio, el patio estaba lleno.
 
 Estaba Fermín con una canasta de pan. Estaba la panadera con su niño y con dos hogazas. Estaba el señor barbón con una jarra y con una cara de no haber dormido. Estaba el capitán de la guardia, que se cuadró y me dio un saludo, y la señora del cuarto cuatro, que me dio un calcetín.
 
-—Es uno —dijo—. Nada más tengo uno. Pero es de lana.
+"Es uno", dijo. "Nada más tengo uno. Pero es de lana."
 
 Y alguien, desde la calle, gritó:
 
-—¡El de la ventana!
+"¡El de la ventana!"
 
 Y el patio entero contestó:
 
-—¡El de la ventana!
+"¡El de la ventana!"
 
 Y yo me quedé ahí, en medio de la gente, con un calcetín de lana en la mano, y pensé que en mi otra vida yo tenía un cuarto con ventana y con aire acondicionado y con un ventilador que rezongaba, y que no lo cambiaba por esto.
 
@@ -705,51 +705,51 @@ Venía sin birrete.
 
 Traía la caja de madera.
 
-—Se la devuelvo —dijo, y la puso en el escalón de abajo—. La corona se quedó con el dinero y con los objetos de valor. Esto no es ni una cosa ni la otra.
+"Se la devuelvo", dijo, y la puso en el escalón de abajo. "La corona se quedó con el dinero y con los objetos de valor. Esto no es ni una cosa ni la otra."
 
 Y yo abrí la caja.
 
 La playera de las Chivas, doblada. El cordón con la llave. El suéter gris. El cuaderno, con la última hoja abierta. Y el celular, apagado, con la pantalla negra.
 
-—La piedra negra también se la devuelvo —dijo Sena—. La anoté como «objeto no catalogado», y el comandante me dijo que si no sé qué es, no es un bien.
+"La piedra negra también se la devuelvo", dijo Sena. "La anoté como «objeto no catalogado», y el comandante me dijo que si no sé qué es, no es un bien."
 
-—Gracias.
+"Gracias."
 
-—No me dé las gracias. —Y se quedó parada enfrente de mí, con los brazos cruzados—. ¿Qué es?
+"No me dé las gracias." Y se quedó parada enfrente de mí, con los brazos cruzados. "¿Qué es?"
 
 Y yo me quedé viendo la pantalla negra.
 
-—Una caja de recuerdos —dije.
+"Una caja de recuerdos", dije.
 
 Y la señora Sena me vio un rato largo, con sus gafas triangulares y con los párpados de la gente que no duerme.
 
-—No traje la campana —dijo.
+"No traje la campana", dijo.
 
-—Ya sé.
+"Ya sé."
 
-—La traje en la cabeza. —Y se tocó la sien—. Y no sonó. —Y luego se sentó en el escalón, a mi lado, con la carpeta en las rodillas—. Señor Fujioka, yo pedí para usted la pena máxima. No me arrepiento.
+"La traje en la cabeza." Y se tocó la sien. "Y no sonó." Y luego se sentó en el escalón, a mi lado, con la carpeta en las rodillas. "Señor Fujioka, yo pedí para usted la pena máxima. No me arrepiento."
 
-—No le estoy pidiendo que se arrepienta.
+"No le estoy pidiendo que se arrepienta."
 
-—Ya sé. —Y se quedó viendo la calle—. Yo vengo de un pueblo que no sale en los mapas. No es un decir. Yo nací en un pueblo que está en un valle, y el valle está en los mapas, y el pueblo no. Cuando llegué a la escuela de la capital, la maestra preguntó de dónde era, y yo dije el nombre de mi pueblo, y ella dijo que eso no existía. —Se acomodó las gafas—. Y yo me pasé la vida entera aprendiendo las leyes de este reino para que un día alguien como yo pudiera decirle a alguien como ella: «sí existe, y está escrito».
+"Ya sé." Y se quedó viendo la calle. "Yo vengo de un pueblo que no sale en los mapas. No es un decir. Yo nací en un pueblo que está en un valle, y el valle está en los mapas, y el pueblo no. Cuando llegué a la escuela de la capital, la maestra preguntó de dónde era, y yo dije el nombre de mi pueblo, y ella dijo que eso no existía." Se acomodó las gafas. "Y yo me pasé la vida entera aprendiendo las leyes de este reino para que un día alguien como yo pudiera decirle a alguien como ella: «sí existe, y está escrito»."
 
-—¿Y sirvió?
+"¿Y sirvió?"
 
-—Sirvió para que hoy un juez me dijera que nadie lee las actas. —Y se levantó, y se sacudió el abrigo—. Voy a mandar una copia del acta a la capital. Con sello y con fecha. Y voy a pedir que se abra una revisión.
+"Sirvió para que hoy un juez me dijera que nadie lee las actas." Y se levantó, y se sacudió el abrigo. "Voy a mandar una copia del acta a la capital. Con sello y con fecha. Y voy a pedir que se abra una revisión."
 
-—¿Y eso va a servir?
+"¿Y eso va a servir?"
 
-—No lo sé. —Y me vio—. Pero va a estar escrito.
+"No lo sé." Y me vio. "Pero va a estar escrito."
 
 Y se fue.
 
 Y a los tres pasos se volteó.
 
-—Señor Fujioka.
+"Señor Fujioka."
 
-—¿Sí?
+"¿Sí?"
 
-—La cuenta no está cerrada —dijo—. Y la voy a cerrar yo.
+"La cuenta no está cerrada", dijo. "Y la voy a cerrar yo."
 
 Y se fue, y yo me quedé con la caja en las rodillas y con el pan en la mano, y me di cuenta de que la señora Sena, que me había pedido la pena de muerte esa misma mañana, era la única persona de todo el reino que había hecho su trabajo.
 
@@ -763,51 +763,51 @@ Sin armadura.
 
 Traía una túnica oscura y un chal prestado, y el pelo suelto, y las manos desnudas, y estaba de pie con los brazos a los lados, como una persona que había ensayado una cosa durante tres horas y que se le había olvidado al subir las escaleras.
 
-—Hola —dijo.
+"Hola", dijo.
 
-—Hola.
+"Hola."
 
-—No traje la armadura.
+"No traje la armadura."
 
-—Ya vi.
+"Ya vi."
 
-—Me la quité cuando oscureció. —Y se vio las manos—. Y no me la pienso volver a poner esta noche.
+"Me la quité cuando oscureció." Y se vio las manos. "Y no me la pienso volver a poner esta noche."
 
 Y no dijo nada más. Se quedó ahí, en el pasillo, con la luz de la vela dándole en la cara y con las uñas mordidas, y yo me di cuenta de que en un mes y medio nunca le había visto las manos.
 
-—¿Entras? —dije.
+"¿Entras?" dije.
 
-—No.
+"No."
 
-—¿Estás bien?
+"¿Estás bien?"
 
 Y ella se rio. Fue una risa corta, fea, sin nada adentro.
 
-—Siempre me preguntas eso.
+"Siempre me preguntas eso."
 
-—Porque siempre pareces estar mal.
+"Porque siempre pareces estar mal."
 
 Y ahí, mi hermano, en el pasillo de una posada, con el pan en el bolsillo y con una caja de madera en los brazos, Darkness se me quedó viendo y me dijo la única cosa que yo no me esperaba:
 
-—Jesús.
+"Jesús."
 
-—¿Sí?
+"¿Sí?"
 
-—No me preguntes hoy.
+"No me preguntes hoy."
 
 Y yo me quedé callado.
 
-—No me preguntes hoy —repitió—, ni mañana, ni pasado. Te lo voy a decir yo. Te lo voy a decir yo, y te lo voy a decir completo, y va a ser peor que si lo averiguas. —Y se le quebró la voz—. Pero todavía no puedo. ¿Me entiendes?
+"No me preguntes hoy", repitió. "Ni mañana, ni pasado. Te lo voy a decir yo. Te lo voy a decir yo, y te lo voy a decir completo, y va a ser peor que si lo averiguas." Y se le quebró la voz. "Pero todavía no puedo. ¿Me entiendes?"
 
 Y yo, que había pasado el día entero en una sala donde todos decían la verdad y todos la usaban como cuchillo, entendí.
 
-—No te voy a preguntar —dije.
+"No te voy a preguntar", dije.
 
-—Sí me vas a preguntar.
+"Sí me vas a preguntar."
 
-—No.
+"No."
 
-—Sí. —Y sonrió, y fue la primera sonrisa de verdad que le vi en tres días—. Porque eres tú.
+"Sí." Y sonrió, y fue la primera sonrisa de verdad que le vi en tres días. "Porque eres tú."
 
 Y yo me reí.
 

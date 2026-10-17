@@ -30,6 +30,8 @@ El texto de la novela vive en la carpeta [`novela/`](novela/), separada de la bi
 
 Los archivos de la novela llevan **UTF-8 con BOM (UTF-8-BOM)**, el formato que usaba la aplicación de lectura en voz alta (**ElevenReader**). **El requisito quedó revocado por el autor el 17 de octubre de 2026:** las piezas nuevas se escriben **sin BOM** y las viejas conservan el que ya tienen. `python3 herramientas/utf8-bom.py` sirve para convertir si alguna vez hace falta, y `python3 herramientas/revisar-capitulos.py` revisa formato, extensión y reglas de lectura en voz alta (sin exigir el BOM).
 
+**Cómo se escriben los diálogos (decisión del autor, 17 de octubre de 2026):** **sin rayas**. El autor lee en el celular y la raya larga (—) no se le muestra, así que el texto usa **comillas inglesas rectas** para el diálogo (`"así"`), **comas y puntos** en las acotaciones de habla, y **paréntesis, comas o dos puntos** para los incisos del narrador. Los `FICHAS.md` conservan rayas porque son documentos de trabajo. El revisor marca falta si aparece una raya o si una línea queda con comillas impares, y `python3 herramientas/convertir-rayas-a-comillas.py` sirve para reconvertir texto viejo.
+
 ## Biblia de referencia
 
 Consulta la [biblia de referencia](biblia/README.md), organizada en 18 secciones: las 11 primeras documentan el universo de referencia; de la 12 a la 15 está el diseño del proyecto (protagonista, romance y rutas); y de la 16 a la 18, el método de trabajo, la bitácora de continuidad y los estándares de extensión de una novela ligera.

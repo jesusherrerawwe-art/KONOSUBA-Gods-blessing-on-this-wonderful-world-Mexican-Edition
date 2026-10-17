@@ -798,3 +798,29 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 **Herramienta:** `herramientas/revisar-capitulos.py` ahora revisa la regla y **marca falta** si aparece una raya fuera de diálogo. Probado con un caso artificial: lo detecta. Las doce piezas del Vol. 1 y los capítulos 11 y 12 dan **0 faltas**.
 
 **Nota:** el `FICHAS.md` del Vol. 1 conserva rayas en sus encabezados y tablas porque es **documento de trabajo**, no texto de la novela, y no se lee en voz alta.
+
+## Barrido de comillas: fuera las rayas (17 de octubre de 2026, segundo pedido del día)
+
+**Pedido del autor:** «Elimina todos los renglones largos que aparezcan en todos los capítulos y reemplázalos por comillas. Comillas inglesas ( " " ) para los diálogos, y signos diferentes que tú sientas más convenientes para el resto del texto». La razón no es de estilo: **su celular no dibuja la raya** y el texto le llega con huecos.
+
+**Qué cambió:** se convirtieron **catorce piezas** —las doce del Vol. 1 y los capítulos 11 y 12 del Vol. 2— más el resumen `volumen-2/00-resumen-volumen-1.md`. Se tocaron **1,999 líneas de diálogo**.
+
+- **Diálogo:** `—¿Quién es el acusado? —preguntó Sena.` pasó a `"¿Quién es el acusado?" preguntó Sena.`
+- **Diálogo con acotación de habla:** `—Son las Chivas —le dije a mi papá—. El Rebaño Sagrado.` pasó a `"Son las Chivas", le dije a mi papá. "El Rebaño Sagrado."`
+- **Acotación que no es de habla:** `—¡Pues sí! —Se alarmó—. ¡¿Qué hice?!` pasó a `"¡Pues sí!" Se alarmó. "¡¿Qué hice?!"`
+- **Incisos del narrador:** `—la enfermedad nunca se nombra—` pasó a `(la enfermedad nunca se nombra)`.
+
+**Lo que no se movió:** ni una palabra. La validación comparó palabra por palabra contra la copia previa al barrido: **idénticas**. Los conteos siguen igual: Vol. 1, 65,035; capítulo 11, 5,560; capítulo 12, 7,237; total del revisor, **91,109**.
+
+**Validación automática de las catorce piezas:** 0 rayas · comillas dobles pares en todas las líneas · ningún párrafo empieza en minúscula · sin doble espacio · sin espacio antes de signo · BOM conservado en el Vol. 1 y ausente en los capítulos 11 y 12.
+
+**Casos que se revisaron a mano (y por qué):**
+
+- **«Y leyó mi nombre.»** La acotación no es de habla aunque esté pegada al diálogo: va como oración aparte, en mayúscula.
+- **`...` de suspensión:** se conserva tal cual. Si la frase se corta y sigue una acotación, cierra con `", ` (`"Es que...", empezó.`); si sigue una continuación entre comillas, no se capitaliza (`"...aburrido. Bien aburrido."`).
+- **Comillas angulares internas:** `«El muchacho nos dijo a dónde ir»` se conserva dentro del diálogo, y la línea cierra con `"«…»", leyó Sena.` (comilla recta de cierre después de la angular).
+- **Elisiones del tipo «otra vez Aqua»** (`"¿Qué?!" otra vez Aqua.`): se dejan como acotación pegada, sin coma, porque el original ya era elíptico.
+
+**Herramientas:** `herramientas/convertir-rayas-a-comillas.py` (conversor, con modo de prueba y `--aplicar`, conserva el BOM de cada archivo) y `herramientas/revisar-capitulos.py` (ahora marca **falta** por cualquier raya en una pieza narrativa y por comillas impares). Probado con casos artificiales.
+
+**Lo que queda igual a propósito:** los `FICHAS.md` conservan rayas porque son documentos de trabajo y no se leen en voz alta.

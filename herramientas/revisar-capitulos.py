@@ -16,8 +16,9 @@ Revisa, por archivo:
      conservan. Solo se marca falta si un archivo trae dos BOM pegados.
   2. La extensión en palabras del cuerpo (sin contar el encabezado) contra el
      número que anuncia el propio encabezado.
-  3. Que la raya larga (—) se use solo para los diálogos de los personajes: una
-     raya en una línea de narración se marca como falta (regla 11 de biblia/16).
+  3. Las reglas del diálogo (regla 12 de biblia/16): ninguna raya larga (—) en
+     el texto, el diálogo entre comillas inglesas rectas y las comillas
+     balanceadas (número par en cada línea).
   4. Las reglas de texto a voz de biblia/16: sin marcas de formato en el cuerpo,
      puntos suspensivos de tres puntos, sin abreviaturas, sin emojis, sin
      frases largas en mayúsculas, sin dobles espacios ni espacios antes de
@@ -48,17 +49,8 @@ SUSP_U = "\u2026"
 
 
 def espacio_antes_de_punto(linea):
-    """Avisos de espacio antes de signo, sin el falso positivo de la convención
-    española de diálogo «—dijo— ...», donde el espacio va antes de los puntos
-    suspensivos a propósito."""
-    avisos = []
-    for m in ESPACIO_SIGNO.finditer(linea):
-        antes = linea[m.start() - 1] if m.start() > 0 else ""
-        sigue = linea[m.end():m.end() + 2]
-        if antes == "\u2014" and sigue == "..":
-            continue  # «—dijo— ...»: es correcto
-        avisos.append(m)
-    return avisos
+    """Avisos de espacio antes de signo de puntuación."""
+    return list(ESPACIO_SIGNO.finditer(linea))
 
 
 def revisar(ruta):
@@ -75,11 +67,15 @@ def revisar(ruta):
     if crudo.startswith(BOM + BOM):
         hallazgos.append(("FALTA", "el archivo tiene dos BOM"))
 
-    # Regla 11: la raya larga es de los diálogos, no de la narración.
+    # Regla 12: ninguna raya; el diálogo va entre comillas inglesas.
     if es_pieza:
         for n, linea in enumerate(lineas, 1):
-            if "—" in linea and not linea.lstrip().startswith("—"):
-                hallazgos.append(("FALTA", f"línea {n}: raya fuera de diálogo ({linea.strip()[:50]})"))
+            if "\u2014" in linea:
+                hallazgos.append(("FALTA", f"línea {n}: raya prohibida en el texto ({linea.strip()[:50]})"))
+            if linea.count('"') % 2:
+                hallazgos.append(("FALTA", f"línea {n}: comillas impares ({linea.strip()[:50]})"))
+            if '""' in linea:
+                hallazgos.append(("AVISO", f"línea {n}: dos comillas pegadas"))
 
     palabras = len(re.findall("[A-Za-zÁÉÍÓÚÜÑáéíóúüñ0-9]+", cuerpo))
     anunciado = re.search(r"Extensi[oó]n:\s*([\d,]+)", "\n".join(lineas[:5]))

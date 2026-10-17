@@ -11,11 +11,11 @@ Eran las tres y algo de la mañana, y delante de las casas había gente en bata,
 
 Doña Hilda estaba en el marco de la posada, con un candil.
 
-—¿Y ustedes a dónde van? —nos dijo, cuando pasamos.
+"¿Y ustedes a dónde van?" nos dijo, cuando pasamos.
 
-—A ver qué pasa.
+"A ver qué pasa."
 
-—Aquí se ve todo el día, muchacho. Solo hay que esperar.
+"Aquí se ve todo el día, muchacho. Solo hay que esperar."
 
 Nosotros no esperamos.
 
@@ -25,19 +25,19 @@ Eso es lo que hace un pueblo cuando ya sabe lo que va a ver.
 
 En la explanada de la puerta estaba el capitán de la guardia, repartiendo a los aventureros entre las almenas.
 
-—¿Cuántos son? —preguntó alguien.
+"¿Cuántos son?" preguntó alguien.
 
-—No sabemos. —Y el capitán escupió al suelo—. Uno que viene por el camino real con un caballo, una carreta y no sé cuántas cosas detrás.
+"No sabemos." Y el capitán escupió al suelo. "Uno que viene por el camino real con un caballo, una carreta y no sé cuántas cosas detrás."
 
 Y ahí lo oí. No a él. Al nombre.
 
 Porque yo llevaba todo el camino pensando que lo de la campana era por el sin cabeza, y mi cabeza lo sabía, y aun así, cuando el capitán lo dijo, se me puso todo el cuerpo en un solo lugar: en la fecha.
 
-—¿Qué día es hoy? —pregunté, en voz baja, a nadie.
+"¿Qué día es hoy?" pregunté, en voz baja, a nadie.
 
 Y Aqua, a mi lado, con la cara que pone cuando entiende algo al mismo tiempo que yo, lo dijo:
 
-—Hoy es el séptimo día.
+"Hoy es el séptimo día."
 
 Y ahí, en la explanada, con cuarenta personas alrededor, se me cayó encima el mapa completo.
 
@@ -57,55 +57,55 @@ En la puerta de la ciudad estaba.
 
 Estaba sentada en el suelo, con la espalda en la piedra, con el sombrero puesto y el bastón cruzado en las piernas, discutiendo con los dos guardias de la puerta chica como quien discute en el mercado por el precio de las cebollas.
 
-—Te digo que es una orden —decía el guardia.
+"Te digo que es una orden", decía el guardia.
 
-—¿De quién?
+"¿De quién?"
 
-—Del capitán.
+"Del capitán."
 
-—¿Y él es dueño de la puerta?
+"¿Y él es dueño de la puerta?"
 
-—La puerta es del rey, y el capitán es del rey, y yo también, y tú no.
+"La puerta es del rey, y el capitán es del rey, y yo también, y tú no."
 
-—Yo soy archimaga.
+"Yo soy archimaga."
 
-—Ya me dijiste.
+"Ya me dijiste."
 
-—¡Archimaga!
+"¡Archimaga!"
 
 Me le paré al lado.
 
-—¿Qué haces aquí? —le dije.
+"¿Qué haces aquí?" le dije.
 
-—Nada.
+"Nada."
 
-—Megumin.
+"Megumin."
 
-—Nada. Vine a ver la puerta.
+"Nada. Vine a ver la puerta."
 
-—La puerta ya la viste.
+"La puerta ya la viste."
 
-—Pues le estoy viendo más.
+"Pues le estoy viendo más."
 
 Y yo hice lo único que se me ocurrió, que era la verdad:
 
-—Voy contigo.
+"Voy contigo."
 
-—No.
+"No."
 
-—Voy contigo.
+"Voy contigo."
 
-—¡No! —Y ahí sí me volteó a ver, y tenía los ojos rojos, y no de llorar: de eso otro, de las cosas que no se dicen—. ¡Yo voy sola! ¡Yo ya lo decidí ayer! ¡Yo se lo dije a ellos en el lago! ¡Yo soy la que tiene que...!
+"¡No!" Y ahí sí me volteó a ver, y tenía los ojos rojos, y no de llorar: de eso otro, de las cosas que no se dicen. "¡Yo voy sola! ¡Yo ya lo decidí ayer! ¡Yo se lo dije a ellos en el lago! ¡Yo soy la que tiene que...!"
 
 Y se le acabó la voz, igual que se le acaba a una persona cuando llega a la parte de la frase que no tiene palabras.
 
-—No tengo nada que ponerme —dijo al final, con una voz chiquita—. Nada más tengo este sombrero, y este sombrero es el de mi mamá, y si voy a ir, voy a ir con él.
+"No tengo nada que ponerme", dijo al final, con una voz chiquita. "Nada más tengo este sombrero, y este sombrero es el de mi mamá, y si voy a ir, voy a ir con él."
 
-—Vas a ir —le dije—. Nada más no vas a ir sola.
+"Vas a ir", le dije. "Nada más no vas a ir sola."
 
 Y en eso, arriba, en la muralla, alguien gritó:
 
-—¡Ya se ve algo!
+"¡Ya se ve algo!"
 
 ---
 
@@ -119,13 +119,13 @@ Y luego, atrás, ordenaditos, uno por uno, los esqueletos. Seis, con espada, cam
 
 Y yo oí cómo, en la muralla, cuarenta personas dejaban de respirar al mismo tiempo.
 
-—Ahí va —dijo el capitán, con el catalejo—. Arriba del pescante.
+"Ahí va", dijo el capitán, con el catalejo. "Arriba del pescante."
 
 Y donde todos veían un general del Rey Demonio entrando a la ciudad, yo vi otra cosa: el señor que venía a conquistar el pueblo venía con una carreta, y debajo de la lona se le veían las patas a una silla plegable.
 
-—Capitán —dijo el señor barbón, que había llegado arriba con la jarra en la mano—. ¿Y si mejor nos van abriendo la puerta de atrás?
+"Capitán", dijo el señor barbón, que había llegado arriba con la jarra en la mano. "¿Y si mejor nos van abriendo la puerta de atrás?"
 
-—Nadie abre nada.
+"Nadie abre nada."
 
 La carreta llegó a la altura del portón y se paró.
 
@@ -135,53 +135,53 @@ Se le veía el pelo negro y la barba mal recortada.
 
 Y el señor se puso la cabeza sobre los hombros, se la acomodó con las dos manos, como se acomoda un sombrero, y habló, y la voz le salió del pecho y no de la boca, que es la cosa con la que yo no me voy a acostumbrar nunca:
 
-—Buenos días.
+"Buenos días."
 
 Silencio en la muralla.
 
 Cuarenta personas con arcos, ballestas, cuchillos y piedras, y el general del Rey Demonio abajo, en el camino, diciendo «buenos días» como un señor que va a preguntar por una dirección.
 
-—¿Por qué están todos en la muralla? —dijo Beldia.
+"¿Por qué están todos en la muralla?" dijo Beldia.
 
-—Es que usted es un general del Rey Demonio —dijo el capitán.
+"Es que usted es un general del Rey Demonio", dijo el capitán.
 
-—Sí.
+"Sí."
 
-—Y viene por el camino real.
+"Y viene por el camino real."
 
-—También.
+"También."
 
-—Con esqueletos.
+"Con esqueletos."
 
-—Seis —dijo Beldia—. Y ninguno sirve. No los quise dejar ahí.
+"Seis", dijo Beldia. "Y ninguno sirve. No los quise dejar ahí."
 
 Y luego levantó la mano sin guante, se rascó la nuca, y como no alcanzaba bien se sacó la cabeza, se la puso debajo del brazo, se rascó con las dos manos, se volvió a poner la cabeza y dijo:
 
-—Oigan. Yo no vengo a nada con ustedes. Vengo de mudanza.
+"Oigan. Yo no vengo a nada con ustedes. Vengo de mudanza."
 
-—¿De mudanza? —dijo el señor barbón.
+"¿De mudanza?" dijo el señor barbón.
 
-—Sí. —Y Beldia señaló el oeste con el pulgar—. Me mandan al oeste. Ya encontraron lo que buscábamos, y ahora me toca ir a sacarlo. —Y se acomodó el guante, y agregó, sin ninguna importancia—. Es grande. Grande de verdad.
+"Sí." Y Beldia señaló el oeste con el pulgar. "Me mandan al oeste. Ya encontraron lo que buscábamos, y ahora me toca ir a sacarlo." Y se acomodó el guante, y agregó, sin ninguna importancia. "Es grande. Grande de verdad."
 
 Y esa palabra me la guardé: grande.
 
-—Entonces, ¿por qué viene a Axel? —preguntó el capitán.
+"Entonces, ¿por qué viene a Axel?" preguntó el capitán.
 
 Y Beldia se quedó callado un rato. El tiempo suficiente para que yo me acordara de la última cosa que me había dicho ese señor, una tarde, sentado: que él no estaba enojado; que él estaba esperando.
 
-—Vengo por la niña —dijo Beldia.
+"Vengo por la niña", dijo Beldia.
 
 ---
 
 Cuarenta personas volteando la cara al mismo tiempo, y todas buscando a la muchacha del sombrero, y la muchacha del sombrero parada en la orilla de la piedra, con el bastón en las dos manos, blanca.
 
-—¿Por qué la niña? —dijo el capitán.
+"¿Por qué la niña?" dijo el capitán.
 
-—Porque me firmó.
+"Porque me firmó."
 
-—¿Cómo que le firmó?
+"¿Cómo que le firmó?"
 
-—La maldición. —Y Beldia levantó la mano sin guante—. Esta cosa que le eché hace siete días es mi firma. Y yo no puedo dejar mi firma puesta en un pueblo y luego irme al oeste a sacar cosas grandes. Si me voy, esto tiene que quedar cerrado. Soy un general del Rey Demonio. No soy un señor que deja cabos sueltos.
+"La maldición." Y Beldia levantó la mano sin guante. "Esta cosa que le eché hace siete días es mi firma. Y yo no puedo dejar mi firma puesta en un pueblo y luego irme al oeste a sacar cosas grandes. Si me voy, esto tiene que quedar cerrado. Soy un general del Rey Demonio. No soy un señor que deja cabos sueltos."
 
 Y yo me puse a leer.
 
@@ -195,39 +195,39 @@ Y yo, que había pasado una tarde entera en la casa de ese señor, supe, con ese
 
 Porque él también quería que pasara. Y no lo iba a decir.
 
-—Capitán —dije—. Hay que abrir la puerta.
+"Capitán", dije. "Hay que abrir la puerta."
 
-—¿Estás loco?
+"¿Estás loco?"
 
-—No. Yo lo conozco. Fui a su casa el otro día. Solo.
+"No. Yo lo conozco. Fui a su casa el otro día. Solo."
 
 Y la muralla entera se volteó a verme.
 
-—¡Yo soy la diosa! —dijo Aqua, y apuntó a Beldia con el dedo, desde la muralla, delante de cuarenta personas—. ¡A ver! ¡Yo bajo y lo arreglo! ¡Yo le rompo la maldición a la niña ahora mismo y nos ahorramos todo el circo!
+"¡Yo soy la diosa!" dijo Aqua, y apuntó a Beldia con el dedo, desde la muralla, delante de cuarenta personas. "¡A ver! ¡Yo bajo y lo arreglo! ¡Yo le rompo la maldición a la niña ahora mismo y nos ahorramos todo el circo!"
 
 Y la gente empezó a decir que sí.
 
-—¡Que baje!
+"¡Que baje!"
 
-—¡Déjenla bajar!
+"¡Déjenla bajar!"
 
 Y esa era mi gente. Y yo sabía lo que estaba a punto de decirles, y por eso me costó.
 
-—No —dije—. Si le pasa algo a él, se queda la maldición.
+"No", dije. "Si le pasa algo a él, se queda la maldición."
 
 Silencio.
 
-—Ya lo dijiste tú —seguí—. Las maldiciones de muerte, cuando ya están adentro, nomás las quita el que las puso. Y ahorita él es el único que puede quitar la de ella. Si lo purificas, o si le entierran una flecha, o si se cae del pescante, Megumin se muere hoy a la medianoche. Es el único.
+"Ya lo dijiste tú", seguí. "Las maldiciones de muerte, cuando ya están adentro, nomás las quita el que las puso. Y ahorita él es el único que puede quitar la de ella. Si lo purificas, o si le entierran una flecha, o si se cae del pescante, Megumin se muere hoy a la medianoche. Es el único."
 
 Aqua se quedó con el dedo en el aire.
 
-—Es el único —repitió, y se le puso una cara que yo no le había visto nunca, y que era la cara de una diosa a la que le acaban de explicar una regla de su propio trabajo.
+"Es el único", repitió, y se le puso una cara que yo no le había visto nunca, y que era la cara de una diosa a la que le acaban de explicar una regla de su propio trabajo.
 
-—La lógica es la lógica —dijo Beldia, desde el camino, con esa voz de pecho que nunca se sabe si está bromeando.
+"La lógica es la lógica", dijo Beldia, desde el camino, con esa voz de pecho que nunca se sabe si está bromeando.
 
 Y en eso se oyó, desde el fondo de la muralla, la voz del señor barbón, que dijo la primera cosa que se me pegó de ese día y que se me quedó pegada para siempre:
 
-—¡Y entonces, para qué carajos abrimos la puerta! ¡Si el único que puede es él, y él ya está aquí, y lo que quiere es que le pidan, pues que le pidan!
+"¡Y entonces, para qué carajos abrimos la puerta! ¡Si el único que puede es él, y él ya está aquí, y lo que quiere es que le pidan, pues que le pidan!"
 
 Yo lo volteé a ver.
 
@@ -251,19 +251,19 @@ Y el capitán se quedó callado un rato largo, y luego gritó una orden que no e
 
 Mientras eso pasaba, Darkness se me acercó.
 
-—Jesús. ¿Verdad que él quiere que se la pidan?
+"Jesús. ¿Verdad que él quiere que se la pidan?"
 
-—Sí.
+"Sí."
 
-—Entonces yo puedo ir. Yo me pongo enfrente, y si el general se arrepiente, me pongo más enfrente, y si me quiere castigar, que me castigue. —Y se le puso una sonrisa lenta, esa que se le pone cuando habla de estas cosas—. Yo aguanto cualquier cosa. Es lo que yo sé hacer.
+"Entonces yo puedo ir. Yo me pongo enfrente, y si el general se arrepiente, me pongo más enfrente, y si me quiere castigar, que me castigue." Y se le puso una sonrisa lenta, esa que se le pone cuando habla de estas cosas. "Yo aguanto cualquier cosa. Es lo que yo sé hacer."
 
-—No vas a ir por eso. Porque no es lo tuyo.
+"No vas a ir por eso. Porque no es lo tuyo."
 
 Y se le borró la sonrisa, y se quedó callada, como se queda la gente a la que le acaban de decir una verdad que no se le había ocurrido.
 
-—¿Y entonces yo qué puedo hacer?
+"¿Y entonces yo qué puedo hacer?"
 
-—Cuidas la puerta. Por si la necesitamos de pura salida.
+"Cuidas la puerta. Por si la necesitamos de pura salida."
 
 Y se fue a la puerta chica, y se quedó ahí, con la mano en la empuñadura, cuidando la puerta más fea de la ciudad como si fuera la puerta del castillo del rey.
 
@@ -271,35 +271,35 @@ Y yo me fui a hablar con Megumin.
 
 Estaba donde mismo, con la espalda en la piedra, y el cielo se estaba poniendo de ese color que se pone en el invierno antes de salir el sol.
 
-—Megumin.
+"Megumin."
 
-—No.
+"No."
 
-—No te he dicho nada.
+"No te he dicho nada."
 
-—Ya sé lo que me vas a decir. —Y se puso el sombrero más abajo—. Que baje. Que se lo pida. Que le diga por favor. —Y levantó la cara, y me dijo la cosa más dura que me ha dicho nadie en este mundo—. Yo no le pido nada a nadie. Yo soy la que se queda parada en el cerro todos los días, con el viento, sola, y hace la cosa más grande del mundo, y no le pido nada al mundo. Eso es lo que yo soy. Y eso se me va a acabar hoy. Y si él me lo quiere quitar, que me lo quite por lo que soy, que es archimaga, y no porque me vean la cara de pedir.
+"Ya sé lo que me vas a decir." Y se puso el sombrero más abajo. "Que baje. Que se lo pida. Que le diga por favor." Y levantó la cara, y me dijo la cosa más dura que me ha dicho nadie en este mundo. "Yo no le pido nada a nadie. Yo soy la que se queda parada en el cerro todos los días, con el viento, sola, y hace la cosa más grande del mundo, y no le pido nada al mundo. Eso es lo que yo soy. Y eso se me va a acabar hoy. Y si él me lo quiere quitar, que me lo quite por lo que soy, que es archimaga, y no porque me vean la cara de pedir."
 
 Y yo no le dije nada, porque en esos momentos lo único que te sale decir es algo bien bonito, y lo bonito no le sirve a nadie.
 
 Saqué del morral lo que traía desde la madrugada, sin haberlo pensado, porque mi mamá lo hacía así, y partí un pan de doña Hilda en dos, le di una mitad, y me puse a comer la otra en la piedra, al lado de ella.
 
-—¿Y eso? —dijo.
+"¿Y eso?" dijo.
 
-—Pan. Es desayuno. —Y mordí—. Si vas a ir sola al cerro, lleva pan. Mi mamá siempre decía eso.
+"Pan. Es desayuno." Y mordí. "Si vas a ir sola al cerro, lleva pan. Mi mamá siempre decía eso."
 
 Y se quedó con el pan en las dos manos, y luego hizo la única pregunta que hacía falta:
 
-—¿Vas a venir?
+"¿Vas a venir?"
 
-—Yo ya te dije.
+"Yo ya te dije."
 
-—¿Aunque no me lo pidas?
+"¿Aunque no me lo pidas?"
 
-—Aunque no me lo pidas.
+"Aunque no me lo pidas."
 
 Y Luna venía caminando hacia nosotros, y nos dijo la única cosa que iba a decir en todo el día:
 
-—Yo no abrí nada. —Y se dio la vuelta—. Y si alguien pregunta, yo estoy en el archivo.
+"Yo no abrí nada." Y se dio la vuelta. "Y si alguien pregunta, yo estoy en el archivo."
 
 ---
 
@@ -311,121 +311,121 @@ El camino real estaba vacío, con la escarcha encima, y del lado de la muralla s
 
 Beldia nos estaba esperando al lado de la carreta, con las riendas en la mano.
 
-—Cuatro —dijo—. Vinieron cuatro.
+"Cuatro", dijo. "Vinieron cuatro."
 
-—Vinimos todos —dijo Aqua.
+"Vinimos todos", dijo Aqua.
 
-—Cinco, con el caballo. —Y le dio una palmada a Estrella en el cuello, y luego nos vio a los cuatro, uno por uno, y se quedó viendo a Megumin—. Tú eres la de las explosiones.
+"Cinco, con el caballo." Y le dio una palmada a Estrella en el cuello, y luego nos vio a los cuatro, uno por uno, y se quedó viendo a Megumin. "Tú eres la de las explosiones."
 
-—Sí.
+"Sí."
 
-—Y tú eres la que se va a morir hoy.
+"Y tú eres la que se va a morir hoy."
 
-—Sí.
+"Sí."
 
-—Y no ibas a venir.
+"Y no ibas a venir."
 
-—Iba a venir sola.
+"Iba a venir sola."
 
-—Ah. —Y Beldia se rascó la barba—. Eso también cuenta.
+"Ah." Y Beldia se rascó la barba. "Eso también cuenta."
 
 Y luego se volteó a verme a mí.
 
-—Tú. El de las disculpas.
+"Tú. El de las disculpas."
 
-—Buenos días.
+"Buenos días."
 
-—¿Y el pan?
+"¿Y el pan?"
 
-—¿Cómo?
+"¿Cómo?"
 
-—La otra vez traías pan.
+"La otra vez traías pan."
 
-—Ah. —Y saqué la última mitad que me quedaba, y se la puse en la mano—. Es de doña Hilda, la señora de la posada.
+"Ah." Y saqué la última mitad que me quedaba, y se la puse en la mano. "Es de doña Hilda, la señora de la posada."
 
-—¿Y por qué me traes pan, chico?
+"¿Y por qué me traes pan, chico?"
 
-—Es de mi casa —le dije—. Cuando uno llega a una casa ajena, lleva pan. Es lo único que sé hacer.
+"Es de mi casa", le dije. "Cuando uno llega a una casa ajena, lleva pan. Es lo único que sé hacer."
 
 Y Beldia se quedó viendo el pan en su mano sin guante, y luego se lo guardó en el pecho de la armadura, y dijo:
 
-—Todavía no.
+"Todavía no."
 
 Y se dio la vuelta y se puso la mano en la carreta, y cambió de golpe, otra vez, al señor de los trámites.
 
-—Bueno. La cosa es así. —Y levantó un dedo—. Yo tengo hasta que el sol llegue a aquella piedra. —Y señaló una piedra del camino, a unos metros—. Después de eso, me voy. Traigo cinco días de camino y una cosa grande que sacar. ¿Entendido?
+"Bueno. La cosa es así." Y levantó un dedo. "Yo tengo hasta que el sol llegue a aquella piedra." Y señaló una piedra del camino, a unos metros. "Después de eso, me voy. Traigo cinco días de camino y una cosa grande que sacar. ¿Entendido?"
 
-—Sí —dijo Megumin.
+"Sí", dijo Megumin.
 
-—Y la maldición no te la voy a quitar.
+"Y la maldición no te la voy a quitar."
 
 Y ahí, en el camino real, con la escarcha y con los seis esqueletos formados atrás, sentí cómo a mis tres amigos, y a la muchacha del sombrero, y a la ciudad entera, que estaba viendo desde la muralla, se les iba la sangre a los pies.
 
-—¿Por qué? —dije.
+"¿Por qué?" dije.
 
-—Porque yo ya te dije una vez, chico, cuál es el precio. —Y se subió de un salto al pescante—. ¡Y ahora tengo una carreta llena y cinco días de camino! ¡Está bien, es mi trabajo! ¡Pero yo también tengo derecho a una cosa! ¡Yo llevo doscientos años pidiendo las cosas por favor y nadie me las da! ¡Ayer salí de mi casa y dejé la silla plegable abierta en el patio porque pensé que iba a regresar, y no voy a regresar! ¡Y a mí lo único que me queda es que me pidan las cosas y dárselas!
+"Porque yo ya te dije una vez, chico, cuál es el precio." Y se subió de un salto al pescante. "¡Y ahora tengo una carreta llena y cinco días de camino! ¡Está bien, es mi trabajo! ¡Pero yo también tengo derecho a una cosa! ¡Yo llevo doscientos años pidiendo las cosas por favor y nadie me las da! ¡Ayer salí de mi casa y dejé la silla plegable abierta en el patio porque pensé que iba a regresar, y no voy a regresar! ¡Y a mí lo único que me queda es que me pidan las cosas y dárselas!"
 
 Silencio en el camino real.
 
 Los esqueletos, atrás de la carreta, en formación, sin mover un solo hueso.
 
-—Perdón —dije yo.
+"Perdón", dije yo.
 
-—¡No me pidas perdón!
+"¡No me pidas perdón!"
 
-—Perdón.
+"Perdón."
 
-—¡Ya!
+"¡Ya!"
 
 Y Megumin se rio. Se rio, con las dos manos en el bastón, y a mí se me heló la sangre, porque pensé que se le había roto algo. Y no. Estaba riéndose de la cosa que la estaba matando.
 
-—Ya —dijo—. Está bien.
+"Ya", dijo. "Está bien."
 
 Y se hizo para adelante.
 
-—Muchacha —dijo Beldia, desde el pescante—. Ya te dije que no.
+"Muchacha", dijo Beldia, desde el pescante. "Ya te dije que no."
 
 Y Megumin hizo la cosa que yo no me voy a olvidar en la vida, y que si me muero otra vez, me la quiero llevar: se quitó el sombrero.
 
 Se lo quitó con las dos manos, se lo puso en el pecho, como se agarra un plato, y levantó la cara, y el pelo castaño se le movió con el viento, y dijo, con la voz quebrada, con la voz de una niña de catorce años, con la voz de un general:
 
-—Yo. Me. Lo. Pido.
+"Yo. Me. Lo. Pido."
 
 Y Beldia, arriba del pescante, se quedó quieto.
 
-—Yo no quiero morirme.
+"Yo no quiero morirme."
 
 Y se le quebró la voz, y la apretó, y le salió derechito:
 
-—Yo no quiero morirme hoy, ni a la medianoche, ni nunca. Yo quiero ser archimaga cien años. Yo quiero quedarme sin magia todos los días. Yo quiero que me carguen todas las noches y quiero que sean ellos. Yo quiero volver al cerro con el viento y tirar la cosa más grande del mundo hasta que se me acaben los días, y quiero saber cuántas me faltan. Y quiero que el humo. —Y ahí se le rompió—. Quiero que el humo suba derechito.
+"Yo no quiero morirme hoy, ni a la medianoche, ni nunca. Yo quiero ser archimaga cien años. Yo quiero quedarme sin magia todos los días. Yo quiero que me carguen todas las noches y quiero que sean ellos. Yo quiero volver al cerro con el viento y tirar la cosa más grande del mundo hasta que se me acaben los días, y quiero saber cuántas me faltan. Y quiero que el humo." Y ahí se le rompió. "Quiero que el humo suba derechito."
 
 Y Beldia bajó del pescante.
 
 Se puso enfrente de ella, y se agachó, y le puso la mano sin guante en el pecho, arriba del corazón, y le dijo, con la voz que no es de este mundo:
 
-—Yo veo cómo se muere la gente. Es mi trabajo.
+"Yo veo cómo se muere la gente. Es mi trabajo."
 
 Y yo sentí, en la nuca, el frío de la mañana.
 
-—Y a ti te veía la tuya desde hace siete días —siguió Beldia—. Una señora grande, con un manto, sentada en tu pecho. Bien quieta. Dormida. Esperando. —Y cerró la mano, y la apretó, y luego la abrió, y en la mano no había nada, y a Megumin se le movió todo el cuerpo como cuando alguien se quita un abrigo, y ella se tambaleó, y yo me acerqué, y no la toqué, porque me di cuenta de que no le hacía falta—. Y ahora no te veo nada.
+"Y a ti te veía la tuya desde hace siete días", siguió Beldia. "Una señora grande, con un manto, sentada en tu pecho. Bien quieta. Dormida. Esperando." Y cerró la mano, y la apretó, y luego la abrió, y en la mano no había nada, y a Megumin se le movió todo el cuerpo como cuando alguien se quita un abrigo, y ella se tambaleó, y yo me acerqué, y no la toqué, porque me di cuenta de que no le hacía falta. "Y ahora no te veo nada."
 
 Silencio en el camino real.
 
-—¿Nada? —dijo Megumin, con una voz chiquita.
+"¿Nada?" dijo Megumin, con una voz chiquita.
 
-—Nada. —Y Beldia se levantó, se sacudió las manos, y se puso los guantes—. Y eso, niña, es lo más bonito que uno puede ver.
+"Nada." Y Beldia se levantó, se sacudió las manos, y se puso los guantes. "Y eso, niña, es lo más bonito que uno puede ver."
 
 Y entonces, desde la muralla de Axel, se oyó un solo grito, uno nada más, y después cuarenta, y después la campana, que llevaba toda la mañana tocando para avisar, y que de repente ya nada más tocaba.
 
-—¡Se la quitó! ¡Se la quitó!
+"¡Se la quitó! ¡Se la quitó!"
 
 Y la primera persona que se me echó encima no fue Megumin. Fue Aqua, que me agarró de los hombros con la cara roja y los ojos llenos de agua:
 
-—¡Tú lo sabías! ¡Tú lo sabías desde el principio, y yo soy la diosa, y él es un general del Rey Demonio, y él lo hizo mejor!
+"¡Tú lo sabías! ¡Tú lo sabías desde el principio, y yo soy la diosa, y él es un general del Rey Demonio, y él lo hizo mejor!"
 
-—No es un concurso.
+"No es un concurso."
 
-—¡Sí es un concurso! —Y se soltó a llorar—. ¡Y yo perdí!
+"¡Sí es un concurso!" Y se soltó a llorar. "¡Y yo perdí!"
 
 Y vi a Darkness, que seguía cuidando la puerta chica desde el otro lado de la muralla, sin moverse del sitio donde la había puesto.
 
@@ -441,83 +441,83 @@ Los vi en el camino real, atrás de la carreta, seis huesos con espada, formados
 
 Y Aqua, con los ojos rojos de llorar y la vara de purificar en la mano, hizo lo que hace: se puso las manos en la cintura.
 
-—¿Qué ves?
+"¿Qué ves?"
 
 Y el esqueleto tiró la espada al suelo con las dos manos, levantó los dos brazos, y se empezó a caminar hacia ella.
 
 Y los otros cinco, al mismo tiempo, sin hablar, tiraron las espadas y alzaron las manos y se pusieron a caminar hacia Aqua, ordenaditos, uno por uno, en silencio, con los brazos arriba, como van los que ya no saben a dónde ir.
 
-—¡Vienen por mí! —chilló Aqua.
+"¡Vienen por mí!" chilló Aqua.
 
-—¡Vienen por la diosa! —gritó el señor barbón desde la muralla.
+"¡Vienen por la diosa!" gritó el señor barbón desde la muralla.
 
-—¡Espérense! —gritó Beldia, que se bajó del pescante de un salto—. ¡Regresen! ¡Son míos!
+"¡Espérense!" gritó Beldia, que se bajó del pescante de un salto. "¡Regresen! ¡Son míos!"
 
 Y los esqueletos siguieron caminando hacia Aqua, despacio, con las manos arriba, sin armas.
 
-—¡¿Qué quieren?! —dijo Aqua, echándose para atrás—. ¡Jesús!
+"¡¿Qué quieren?!" dijo Aqua, echándose para atrás. "¡Jesús!"
 
-—Vienen por ti. Vienen a que los salves.
+"Vienen por ti. Vienen a que los salves."
 
-—¿¡A que yo los...!? —Y se le cambió toda la cara, de miedo a otra cosa, y se puso a llorar, y abrió los brazos—. ¡Vengan! ¡Vengan, pero no me jalen!
+"¿¡A que yo los...!?" Y se le cambió toda la cara, de miedo a otra cosa, y se puso a llorar, y abrió los brazos. "¡Vengan! ¡Vengan, pero no me jalen!"
 
-—¡No me los salve! —gritó Beldia, y se metió entre los esqueletos y Aqua—. ¡No me los salve, señora! ¡Estos son del ejército! ¡Si me los echa a perder, me los descuentan de la paga!
+"¡No me los salve!" gritó Beldia, y se metió entre los esqueletos y Aqua. "¡No me los salve, señora! ¡Estos son del ejército! ¡Si me los echa a perder, me los descuentan de la paga!"
 
-—¡Ellos vinieron!
+"¡Ellos vinieron!"
 
-—¡Son huesos, no piensan!
+"¡Son huesos, no piensan!"
 
-—¡Vienen a que los salve!
+"¡Vienen a que los salve!"
 
-—¡Vienen a que los purifique, que es distinto!
+"¡Vienen a que los purifique, que es distinto!"
 
 Y ahí, el general del Rey Demonio se pasó los siguientes cinco minutos corriendo detrás de sus propios esqueletos, agarrándolos del cráneo como se agarra a los pollos, y los metió a la carreta uno encima de otro, y les puso la lona encima, y se sentó en la silla plegable, y se pasó el brazo por la frente, y dijo:
 
-—Por eso no los dejo salir.
+"Por eso no los dejo salir."
 
 Y la muralla de Axel, cuarenta personas con arcos y ballestas, se quedó sin ninguna pelea que pelear, en un camino real con escarcha, con un pueblo chiquito y un general apuntalando una lona.
 
 Y yo, con la risa atorada en la garganta, le hice una pregunta:
 
-—Beldia. ¿Y tu casa?
+"Beldia. ¿Y tu casa?"
 
 Y él me vio, y luego vio el cerro, al otro lado del valle, donde el sol ya le pegaba a la torre partida, y dijo la cosa que se me va a quedar de ese día:
 
-—Niña.
+"Niña."
 
-—¿Qué?
+"¿Qué?"
 
-—¿Tú le tiraste a mi casa todos los días?
+"¿Tú le tiraste a mi casa todos los días?"
 
-—Le tiré todos los días.
+"Le tiré todos los días."
 
-—¿Y te gusta?
+"¿Y te gusta?"
 
 Y Megumin lo pensó de verdad, con el sombrero en las manos, y luego dijo:
 
-—Es lo que mejor sé hacer.
+"Es lo que mejor sé hacer."
 
-—Bueno. —Y Beldia se acomodó en la silla plegable, arriba de la lona, arriba de los esqueletos—. Mi casa se queda sola. Yo ya no vivo ahí. Así que el que la tumbe, que seas tú. Nada más tú. —Y levantó un dedo—. Y de día. Que quiero ver el humo desde el camino.
+"Bueno." Y Beldia se acomodó en la silla plegable, arriba de la lona, arriba de los esqueletos. "Mi casa se queda sola. Yo ya no vivo ahí. Así que el que la tumbe, que seas tú. Nada más tú." Y levantó un dedo. "Y de día. Que quiero ver el humo desde el camino."
 
 Y Megumin se quedó con la boca abierta.
 
-—¿Puedo?
+"¿Puedo?"
 
-—Puedes.
+"Puedes."
 
-—¿Todos los días?
+"¿Todos los días?"
 
-—Hasta que se caiga. —Y Beldia tomó las riendas—. Y una cosa más, chico.
+"Hasta que se caiga." Y Beldia tomó las riendas. "Y una cosa más, chico."
 
-—¿Qué?
+"¿Qué?"
 
-—Yo también tuve una casa. —Y se quedó viendo la torre partida, allá en el cerro, con el sol pegándole—. Me la quitaron a la mala, hace doscientos años, con todo y cabeza. Y desde entonces me molesta ver una casa que se cae sola. Por eso le ponía tablas.
+"Yo también tuve una casa." Y se quedó viendo la torre partida, allá en el cerro, con el sol pegándole. "Me la quitaron a la mala, hace doscientos años, con todo y cabeza. Y desde entonces me molesta ver una casa que se cae sola. Por eso le ponía tablas."
 
 Y le dio la vuelta a la carreta.
 
-—¿Y ahora qué sigue? —le pregunté.
+"¿Y ahora qué sigue?" le pregunté.
 
-—Ahora yo me voy al oeste —dijo, sin voltear—, y ustedes se quedan con su pueblo, y con su torre, y con su diosa. —Y luego, ya con la carreta andando, agregó lo único que me dejó pensando ese día—. Y si un día andan por las ruinas, pregunten por el sin cabeza. Ahí voy a estar. Cargando la cosa grande.
+"Ahora yo me voy al oeste", dijo, sin voltear. "Y ustedes se quedan con su pueblo, y con su torre, y con su diosa." Y luego, ya con la carreta andando, agregó lo único que me dejó pensando ese día. "Y si un día andan por las ruinas, pregunten por el sin cabeza. Ahí voy a estar. Cargando la cosa grande."
 
 Y la carreta se fue por el camino real, con el caballo negro, con los seis esqueletos debajo de la lona, y con el general del Rey Demonio arriba, de espaldas.
 
@@ -529,17 +529,17 @@ Esa tarde subimos al cerro los cuatro, despacio, y en el caminito de cabras nos 
 
 El sol se estaba yendo cuando Megumin se puso en el pasto, en el mismo lugar de siempre, con el sombrero y con el bastón, y antes de abrir los brazos me volteó a ver.
 
-—¿Estás seguro?
+"¿Estás seguro?"
 
-—De qué.
+"De qué."
 
-—De que puedo.
+"De que puedo."
 
-—Puedes.
+"Puedes."
 
-—Es su casa.
+"Es su casa."
 
-—Ya no. Te la regaló.
+"Ya no. Te la regaló."
 
 Y ella abrió los brazos.
 
@@ -553,7 +553,7 @@ Y en la curva del camino real, abajo, se veía una cosa chiquita: una carreta, u
 
 Viendo el humo.
 
-—Se acuerda del humo —dijo Aqua, y se le salió una risa que era más bien un hipido.
+"Se acuerda del humo", dijo Aqua, y se le salió una risa que era más bien un hipido.
 
 Y luego Megumin se cayó de nalgas en el pasto, y yo me la eché al hombro, como todos los días, y bajamos el cerro los cuatro, en el frío, con el humo atrás, y yo iba pensando en una cosa que no le dije a nadie: que ya no iba muerta la muchacha. Que iba nada más sin magia.
 
@@ -575,11 +575,11 @@ Lo apunto por Beldia, que esperó siete días, y por mí, que casi no voy.
 
 Y al otro día, en el gremio, Luna nos hizo una seña con la pluma y nos puso un papel en la mano.
 
-—Tres encargos —dijo.
+"Tres encargos", dijo.
 
-—¿Tres?
+"¿Tres?"
 
-—Se acabaron las vacaciones. —Y se rascó la oreja, y sonrió—. Anoche volvieron los sapos al valle, y el jefe del puesto dice que ya se ven cosas chicas otra vez en el bosque. Beldia se va, y ya se puede venir el mundo chiquito de regreso, muchachos.
+"Se acabaron las vacaciones." Y se rascó la oreja, y sonrió. "Anoche volvieron los sapos al valle, y el jefe del puesto dice que ya se ven cosas chicas otra vez en el bosque. Beldia se va, y ya se puede venir el mundo chiquito de regreso, muchachos."
 
 Y era cierto.
 

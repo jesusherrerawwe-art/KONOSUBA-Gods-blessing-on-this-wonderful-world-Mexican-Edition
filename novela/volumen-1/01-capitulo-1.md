@@ -57,13 +57,13 @@ Me leía en voz alta antes de dormir. Novelas de fantasía, casi siempre. Mundos
 
 Cuando terminaba un capítulo, me decía:
 
-—Ya. A dormir.
+"Ya. A dormir."
 
 Y yo le decía que faltaba poquito, y ella me leía otro capítulo. Siempre.
 
 Antes de apagar la luz, me decía:
 
-—Cualquier chica sería afortunada de tenerlo a su lado.
+"Cualquier chica sería afortunada de tenerlo a su lado."
 
 Y ahí los dos nos quedábamos callados.
 
@@ -85,11 +85,11 @@ Regresaba con los ojos rojos y con la misma cara de siempre, y se sentaba junto 
 
 Y yo, que era un niño, le preguntaba:
 
-—¿Y ya?
+"¿Y ya?"
 
 Y él me decía:
 
-—Todavía no.
+"Todavía no."
 
 Todavía no. Esas dos palabras me las sé de memoria, en su voz, con su acento, con ese tono que no era triste y no era optimista, era nada más la verdad dicha con calma.
 
@@ -97,7 +97,7 @@ Una vez llegó con una bolsa de plástico arrugada y me sacó una camiseta blanc
 
 La camiseta traía el escudo bordado en el pecho, y letras azules, y olía a algo que no era de Japón.
 
-—Pasé por Guadalajara —me dijo, como si fuera la cosa más normal del mundo pasar por Guadalajara.
+"Pasé por Guadalajara", me dijo, como si fuera la cosa más normal del mundo pasar por Guadalajara.
 
 Y luego me contó la verdad, porque mi papá siempre me contaba la verdad, nomás que a veces le tomaba unos días.
 
@@ -107,19 +107,19 @@ No me la trajo porque fuera un regalo pensado. Me la trajo porque en esa ciudad 
 
 Me la puse y no me la quité durante tres días. Mi mamá me la lavaba de noche para que la tuviera de día.
 
-—Son las Chivas —le dije a mi papá—. El Rebaño Sagrado.
+"Son las Chivas", le dije a mi papá. "El Rebaño Sagrado."
 
-—¿Por qué sagrado? —me preguntó él, aunque ya sabía.
+"¿Por qué sagrado?" me preguntó él, aunque ya sabía.
 
 Y yo le expliqué lo que me había explicado un señor en un video: que las Chivas son de la ciudad, y que la ciudad es de la gente, así que las Chivas también son de la gente. Que «rebaño» quiere decir eso: mucha gente que decide ser de lo mismo.
 
 Mi papá se quedó callado un rato, pensando, porque él piensa todo, hasta las cosas que no hace falta pensar. Y luego dijo:
 
-—Entonces yo también soy del rebaño.
+"Entonces yo también soy del rebaño."
 
-—Tú no sabes ni cuántos jugadores son.
+"Tú no sabes ni cuántos jugadores son."
 
-—Son once —dijo él, sin pestañear.
+"Son once", dijo él, sin pestañear.
 
 Y esa fue la única vez que lo vi presumir de algo.
 
@@ -177,17 +177,17 @@ Y me gané el sueño antes del medio tiempo, como a los cuarenta minutos, con el
 
 Cuando desperté ya era de noche y ya no había partido.
 
-—¿Cómo quedó? —le pregunté.
+"¿Cómo quedó?" le pregunté.
 
 Mi mamá me dijo que habían ganado.
 
 Y yo le pregunté quién había metido el gol, y ella se quedó callada un momentito, y después me dijo:
 
-—El de las trenzas.
+"El de las trenzas."
 
-—Mamá, nadie trae trenzas.
+"Mamá, nadie trae trenzas."
 
-—Pues el que corre mucho.
+"Pues el que corre mucho."
 
 Y nos empezamos a reír los dos, ella con la risa grande que tiene y yo con la mía, que era chiquita y me salía con silbidos, y nos reímos tanto que mi mamá tuvo que dejar el plato en el buró, y esa fue la última vez que me reí.
 
@@ -213,7 +213,7 @@ Me dio miedo que se quedara sola en esa cabaña, esperando a que alguien abriera
 
 Le apreté la mano.
 
-—Buenas noches, mamá —le dije.
+"Buenas noches, mamá", le dije.
 
 Y ella me contestó algo, y ya no le entendí las palabras, pero le entendí el tono. Es un tono universal.
 
@@ -241,101 +241,101 @@ Ya sé que dije que no había puertas. Es que en un lugar así las cosas pasan d
 
 Lo que entró fue una muchacha con el pelo azul larguísimo y los ojos del mismo azul, empapada de arriba abajo, con una túnica azul de diosa que le chorreaba y un prendedor en el pelo con tres bolitas, dos doradas y una azul. Y con una cara de enojo que le cabía todo.
 
-—¡No es justo! —gritó, al aire—. ¡No es justo, no es justo, no es justo! ¡Iba ganando!
+"¡No es justo!" gritó, al aire. "¡No es justo, no es justo, no es justo! ¡Iba ganando!"
 
 Se sacudió el agua del pelo como un perro y me vio.
 
 Y ahí, mi hermano, pasó una cosa hermosa: se enderezó completo, se arregló la ropa, se pasó las dos manos por la cara para quitarse el enojo, y se puso una sonrisa de doctora.
 
-—Bienvenido —dijo, con una voz completamente distinta, grave y tranquila—. Soy Aqua, diosa del agua, y estoy aquí para guiarte en el momento más importante de tu...
+"Bienvenido", dijo, con una voz completamente distinta, grave y tranquila. "Soy Aqua, diosa del agua, y estoy aquí para guiarte en el momento más importante de tu..."
 
 Se le resbaló un pie, o algo se le resbaló, o se le mojó algo. El caso es que se calló de nalgas en medio del lugar blanco, y el lugar blanco, que no tenía piso, hizo un ruido de piso cuando le pegó.
 
 Se quedó ahí tirada un segundo.
 
-—...de tu existencia —terminó, desde el suelo.
+"...de tu existencia", terminó, desde el suelo.
 
 Y yo hice lo único que se me ocurrió hacer, que fue lo mismo que hacía mi mamá cuando yo me caía de la cama: me tapé la boca con la mano para no reírme, porque mi mamá me enseñó modales.
 
 Ella lo notó.
 
-—¡No te estás riendo! —dijo, levantándose de un brinco.
+"¡No te estás riendo!" dijo, levantándose de un brinco.
 
-—No.
+"No."
 
-—¡Te vi la cara!
+"¡Te vi la cara!"
 
-—Perdón.
+"Perdón."
 
-—¿Y por qué estás de pie?
+"¿Y por qué estás de pie?"
 
 Yo parpadeé.
 
-—¿Perdón?
+"¿Perdón?"
 
-—Estás de pie —dijo, señalándome con el dedo, con los ojos muy abiertos—. Nadie está de pie. Están ahí acostaditos, o sentaditos, y yo llego y les explico lo que sigue. Nadie se levanta. Tú estás de pie.
+"Estás de pie", dijo, señalándome con el dedo, con los ojos muy abiertos. "Nadie está de pie. Están ahí acostaditos, o sentaditos, y yo llego y les explico lo que sigue. Nadie se levanta. Tú estás de pie."
 
 Le tuve que pensar la respuesta, porque la respuesta era rara.
 
-—Es que puedo —le dije.
+"Es que puedo", le dije.
 
 Y ella me miró como si le hubiera dicho algo muy grosero.
 
 Luego se le pasó. Se le pasó rapidísimo, como se le pasan a la gente las cosas que no le importan. Chasqueó los dedos y apareció un escritorio, de la nada, con papeles encima y un sillón de oficina, y se sentó como si acabara de llegar a trabajar.
 
-—Muy bien —dijo, acomodando los papeles que no tenían nada escrito—. Vamos a empezar de nuevo, en orden. Tú falleciste.
+"Muy bien", dijo, acomodando los papeles que no tenían nada escrito. "Vamos a empezar de nuevo, en orden. Tú falleciste."
 
-—Ajá.
+"Ajá."
 
-—¿Y por qué lo dices así, tan tranquilo?
+"¿Y por qué lo dices así, tan tranquilo?"
 
-—Porque ya me había dado cuenta.
+"Porque ya me había dado cuenta."
 
-—...Ah. —Se quedó un segundo sin saber qué hacer con eso, y después siguió—. Bueno. Tienes dos opciones. La primera es el Cielo.
+"...Ah." Se quedó un segundo sin saber qué hacer con eso, y después siguió. "Bueno. Tienes dos opciones. La primera es el Cielo."
 
-—¿Y qué se hace en el Cielo?
+"¿Y qué se hace en el Cielo?"
 
-—Nada.
+"Nada."
 
-—¿Cómo que nada?
+"¿Cómo que nada?"
 
-—Nada —dijo, con un desprecio profundo, como si el Cielo fuera una sala de espera—. Es limpio, es tranquilo, es bonito, y no pasa absolutamente nada. No hay comida rica, no hay fiestas, no hay nada de eso. Es como... —buscó la palabra— ...aburrido. Bien aburrido. Espantosamente aburrido.
+"Nada", dijo, con un desprecio profundo, como si el Cielo fuera una sala de espera. "Es limpio, es tranquilo, es bonito, y no pasa absolutamente nada. No hay comida rica, no hay fiestas, no hay nada de eso. Es como...", buscó la palabra. "...aburrido. Bien aburrido. Espantosamente aburrido."
 
-—¿Y la segunda?
+"¿Y la segunda?"
 
-—La segunda es que vuelvas a nacer.
+"La segunda es que vuelvas a nacer."
 
-—¿Y de eso me acuerdo?
+"¿Y de eso me acuerdo?"
 
-—De nada.
+"De nada."
 
 Me quedé pensando.
 
 Nacer otra vez, sin recordar nada, sin la ventana, sin el gato de la barda, sin mi mamá, sin saber que una vez hubo un niño con veinticinco losetas en el techo.
 
-—No —dije.
+"No", dije.
 
-—¿No?
+"¿No?"
 
-—No, gracias.
+"No, gracias."
 
-—¡¿Cómo que no, gracias?!
+"¡¿Cómo que no, gracias?!"
 
-—Es que no quiero olvidar —le dije—. Es lo único que tengo.
+"Es que no quiero olvidar", le dije. "Es lo único que tengo."
 
 Y ella se quedó callada, con la boca abierta, como si le hubieran hecho una jugada que no venía en el manual.
 
-—Está bien —dijo al fin, y por primera vez habló más despacio—. Porque hay una tercera.
+"Está bien", dijo al fin, y por primera vez habló más despacio. "Porque hay una tercera."
 
 Y me contó lo tercero.
 
 Me contó que hay otro mundo. Uno con magia y con monstruos y con gremios, con espadas que brillan y con novelas de fantasía escritas en idiomas que yo no conozco. Me contó que hay un Rey Demonio, que lleva años en guerra y que está ganándola, y que su ejército anda asustando a la gente, y que por eso hace falta gente nueva. Me contó que los que se mueren y escogen ese mundo reciben una cosa. Una sola. Un objeto, un arma, una habilidad. Lo que quieran.
 
-—Lo que quieran —repitió, y se recargó en el sillón, y la silla chirrió, y me di cuenta de que ella también hacía ruidos de mueble, aunque no hubiera muebles.
+"Lo que quieran", repitió, y se recargó en el sillón, y la silla chirrió, y me di cuenta de que ella también hacía ruidos de mueble, aunque no hubiera muebles.
 
-—¿Y vivo?
+"¿Y vivo?"
 
-—Vives. O te mueres. Eso ya depende de ti, más que nada.
+"Vives. O te mueres. Eso ya depende de ti, más que nada."
 
 Me quedé callado un rato. Y voy a confesar algo: en mi cabeza no pasaron imágenes épicas. No pensé en dragones ni en batallas ni en nada de eso.
 
@@ -343,27 +343,27 @@ Pensé en que iba a poder caminar.
 
 Pensé en que iba a ver la luz del sol directo, sin ventana de por medio, y que me iba a poder mojar cuando lloviera.
 
-—Ya —dije—. Esa.
+"Ya", dije. "Esa."
 
-—¡Bien! —y se puso feliz, se puso de verdad feliz, y sacó un sello de la nada y lo estampó en un papel que no tenía nada escrito—. ¡Muy bien! Llegaste más rápido que todos. A ver, ahora lo importante: escoge tu cosa.
+"¡Bien!" Y se puso feliz, se puso de verdad feliz, y sacó un sello de la nada y lo estampó en un papel que no tenía nada escrito. "¡Muy bien! Llegaste más rápido que todos. A ver, ahora lo importante: escoge tu cosa."
 
-—¿Mi cosa?
+"¿Mi cosa?"
 
-—Tu cosa. Tu poder, tu arma, tu habilidad, lo que quieras. Todo el mundo pide algo. Uno pidió una espada mágica que corta todo. Una señora pidió una armadura. Un señor pidió... —hizo una mueca— ...una dulcería. No quiero hablar de eso.
+"Tu cosa. Tu poder, tu arma, tu habilidad, lo que quieras. Todo el mundo pide algo. Uno pidió una espada mágica que corta todo. Una señora pidió una armadura. Un señor pidió..." Hizo una mueca. "...una dulcería. No quiero hablar de eso."
 
-—¿Y yo puedo pedir lo que sea?
+"¿Y yo puedo pedir lo que sea?"
 
-—Lo que sea.
+"Lo que sea."
 
-—¿Y no se le quita a nadie?
+"¿Y no se le quita a nadie?"
 
-—No se le quita a nadie.
+"No se le quita a nadie."
 
-—Entonces quiero pedir una cosa —le dije—, pero no es para mí.
+"Entonces quiero pedir una cosa", le dije. "Pero no es para mí."
 
 Aqua levantó las dos cejas.
 
-—¿Cómo?
+"¿Cómo?"
 
 Y yo le dije lo que quería pedir.
 
@@ -373,27 +373,27 @@ Se quedó quieta un montón de tiempo, con el sello en la mano, sin sonreír y s
 
 Después dejó el sello sobre el escritorio, muy despacio, y me preguntó:
 
-—¿Nada más eso?
+"¿Nada más eso?"
 
-—Nada más eso.
+"Nada más eso."
 
-—Es que... —empezó, y se le atoró la voz—. Es que a mí me llegan todos. Me llegan todos, ¿eh? Los buenos, los malos, los que se murieron de viejitos y los que se murieron de tontos. Y todos piden algo. Todos. Unos piden un poder, otros piden dinero, otros me piden que les diga si los van a extrañar. Y yo les digo que sí, aunque a veces no.
+"Es que...", empezó, y se le atoró la voz. "Es que a mí me llegan todos. Me llegan todos, ¿eh? Los buenos, los malos, los que se murieron de viejitos y los que se murieron de tontos. Y todos piden algo. Todos. Unos piden un poder, otros piden dinero, otros me piden que les diga si los van a extrañar. Y yo les digo que sí, aunque a veces no."
 
 Se rascó la nariz.
 
-—Nadie me había pedido eso.
+"Nadie me había pedido eso."
 
-—¿Entonces no se puede?
+"¿Entonces no se puede?"
 
-—Sí se puede —dijo.
+"Sí se puede", dijo.
 
 Y me dijo:
 
-—Sí se puede. Yo soy una diosa, ¿eh? No estoy de adorno.
+"Sí se puede. Yo soy una diosa, ¿eh? No estoy de adorno."
 
 Y no lo dijo como lo decía siempre, presumiendo. Lo dijo como se dicen las promesas.
 
-—Yo te prometo que se lo voy a decir.
+"Yo te prometo que se lo voy a decir."
 
 Y ahí hice algo que no había hecho en todo el rato.
 
@@ -401,39 +401,39 @@ Me puse a llorar.
 
 Nunca he sido bueno para llorar. Me daba pena ocupar espacio, y llorar es un ruido que ocupa espacio, y por eso no lloré casi nunca en mi cuarto, y por eso mi mamá nunca se enteró de cuántas veces quise llorar. Pero ahí, en medio del lugar blanco, con una muchacha de pelo azul empapada de agua mirándome con los ojos saltones, me puse a llorar y no me dio pena.
 
-—¡¿Y ahora?! —se alarmó—. ¡¿Qué hice?!
+"¡¿Y ahora?!" se alarmó. "¡¿Qué hice?!"
 
-—Nada —le dije—. Es que sí se puede.
+"Nada", le dije. "Es que sí se puede."
 
-—¡Pues sí! —Y luego—: ¿Por qué lloras tanto?
+"¡Pues sí!" Y luego: "¿Por qué lloras tanto?"
 
-—Porque no me dolió —le dije—. Y quiero que ella lo sepa. Nada más eso. Que no me dolió.
+"Porque no me dolió", le dije. "Y quiero que ella lo sepa. Nada más eso. Que no me dolió."
 
 Aqua se pasó el brazo por la cara. Ella también estaba llorando y yo creo que no se dio cuenta.
 
-—Está bien —dijo—. Ya. Seco. Falta lo de tu cosa.
+"Está bien", dijo. "Ya. Seco. Falta lo de tu cosa."
 
-—Ya te dije.
+"Ya te dije."
 
-—No, no, no. —Levantó un dedo—. Eso es una promesa. Eso no es tu cosa. La cosa es aparte. Todos traen una cosa, y si tú no traes nada, se me descuadra el papeleo, y si se me descuadra el papeleo, se le descuadra el papeleo a la de la ventanilla de al lado, y la de la ventanilla me hace llenar un formulario. Y yo no voy a llenar un formulario.
+"No, no, no." Levantó un dedo. "Eso es una promesa. Eso no es tu cosa. La cosa es aparte. Todos traen una cosa, y si tú no traes nada, se me descuadra el papeleo, y si se me descuadra el papeleo, se le descuadra el papeleo a la de la ventanilla de al lado, y la de la ventanilla me hace llenar un formulario. Y yo no voy a llenar un formulario."
 
-—¿Entonces?
+"¿Entonces?"
 
-—Entonces pide algo. Lo que sea.
+"Entonces pide algo. Lo que sea."
 
 Me quedé pensando. Y pensé en lo que me estaba esperando del otro lado, y pensé en mi cuarto, y pensé en la única cosa que me faltaba de mi cuarto.
 
-—Un cuarto con ventana —dije.
+"Un cuarto con ventana", dije.
 
 Aqua se quedó con el dedo en el aire.
 
-—¿Un cuarto?
+"¿Un cuarto?"
 
-—Un cuarto con ventana.
+"Un cuarto con ventana."
 
-—¿¡Tienes el poder de la creación en la mano y pides un cuarto?!
+"¿¡Tienes el poder de la creación en la mano y pides un cuarto?!"
 
-—Con ventana —aclaré.
+"Con ventana", aclaré.
 
 Y ella me miró muchísimo tiempo. De verdad muchísimo tiempo. Tanto que me empecé a preguntar si le había dicho algo malo.
 
@@ -441,129 +441,129 @@ Después se levantó del sillón, le dio la vuelta al escritorio y se paró enfr
 
 Y dijo:
 
-—Voy contigo.
+"Voy contigo."
 
-—¿Perdón?
+"¿Perdón?"
 
-—¡Que voy contigo! —y levantó los brazos como si acabara de ganar algo—. ¡Alguien tiene que asegurarse de que ese cuarto tenga ventana!
+"¡Que voy contigo!" Y levantó los brazos como si acabara de ganar algo. "¡Alguien tiene que asegurarse de que ese cuarto tenga ventana!"
 
-—No, no hace falta...
+"No, no hace falta..."
 
-—¡Sí hace falta! ¡Tú no sabes ni por dónde empezar! ¿Sabes cuánto cuesta una noche de posada? ¿Sabes lo que es un slime? ¿Sabes pelear?
+"¡Sí hace falta! ¡Tú no sabes ni por dónde empezar! ¿Sabes cuánto cuesta una noche de posada? ¿Sabes lo que es un slime? ¿Sabes pelear?"
 
-—No.
+"No."
 
-—¡Exacto!
+"¡Exacto!"
 
-—Pero eso es mucho trabajo para ti —le dije—. Y tú tienes lo tuyo aquí.
+"Pero eso es mucho trabajo para ti", le dije. "Y tú tienes lo tuyo aquí."
 
-—¡Pues sí, pero...! —se atoró—. ¡Es que...! ¡Es que no puedo ir a decirle a tu mamá que no te dolió si tú andas por allá muriéndote otra vez en una semana! ¡Porque eso se ve, eso se ve de lejos, eso pasa todo el tiempo!
+"¡Pues sí, pero...!" Se atoró. "¡Es que...! ¡Es que no puedo ir a decirle a tu mamá que no te dolió si tú andas por allá muriéndote otra vez en una semana! ¡Porque eso se ve, eso se ve de lejos, eso pasa todo el tiempo!"
 
 Y yo entendí. No entendí bien, pero entendí algo: que ella tenía razón en una parte y que la otra parte no la iba a decir.
 
-—¿Estás segura?
+"¿Estás segura?"
 
-—¡Soy una diosa! —dijo—. Yo no me equivoco casi nunca.
+"¡Soy una diosa!" dijo. "Yo no me equivoco casi nunca."
 
 Y en ese momento apareció una luz.
 
 Apareció así: de golpe, encima del escritorio, alta y brillante y con un tono de voz de oficina, y una voz dijo:
 
-—Solicitud de acompañamiento aprobada. Regrese en cuanto cumpla.
+"Solicitud de acompañamiento aprobada. Regrese en cuanto cumpla."
 
-—¡Sí! —gritó Aqua.
+"¡Sí!" gritó Aqua.
 
-—No le pregunté a ella —dije yo.
+"No le pregunté a ella", dije yo.
 
-—No le haga caso, se fue. —Y luego: —¡Ya está! ¡Vamos! ¡Tengo que empacar!
+"No le haga caso, se fue." Y luego: "¡Ya está! ¡Vamos! ¡Tengo que empacar!"
 
-—¿Qué vas a empacar?
+"¿Qué vas a empacar?"
 
-—¡No es tu asunto!
+"¡No es tu asunto!"
 
 Y desapareció, y volvió a aparecer, y traía una bolsa colgada del hombro con puras cosas que yo no entendí: un abanico, una botella, una piedra con forma de corazón, un montón de cosas que parecían adornos y ninguna que pareciera útil para matar monstruos.
 
-—¿Y esto? —le pregunté.
+"¿Y esto?" le pregunté.
 
-—Cosas.
+"Cosas."
 
-—¿Para qué?
+"¿Para qué?"
 
-—Para lo que se ofrezca —dijo, muy digna.
+"Para lo que se ofrezca", dijo, muy digna.
 
 Y después me vio de arriba abajo.
 
-—Estás blanco —dijo—. Y flaco.
+"Estás blanco", dijo. "Y flaco."
 
-—Ya sé.
+"Ya sé."
 
-—Bueno, eso se arregla. Aquí el sol es gratis. —Y luego se dio cuenta de lo que yo traía puesto—. Oye. ¿Y esa camiseta?
+"Bueno, eso se arregla. Aquí el sol es gratis." Y luego se dio cuenta de lo que yo traía puesto. "Oye. ¿Y esa camiseta?"
 
-—Es de las Chivas.
+"Es de las Chivas."
 
-—¿Y qué son las Chivas?
+"¿Y qué son las Chivas?"
 
 Me la quedé viendo un rato.
 
-—Son mi rebaño —le dije.
+"Son mi rebaño", le dije.
 
 Y luego se le fueron los ojos al bulto del bolsillo.
 
-—¿Y ese aparato?
+"¿Y ese aparato?"
 
-—Es mi celular.
+"Es mi celular."
 
-—¿Y eso para qué sirve?
+"¿Y eso para qué sirve?"
 
-—Para un montón de cosas. Para escribir, para ver fotos, para oír música.
+"Para un montón de cosas. Para escribir, para ver fotos, para oír música."
 
-—Mmm. —Estiró la mano—. A ver.
+"Mmm." Estiró la mano. "A ver."
 
 Se lo di. Lo volteó. Lo volteó al revés. Lo sacudió.
 
-—Está raro —dijo—. Está... quieto. ¿Por qué está quieto?
+"Está raro", dijo. "Está... quieto. ¿Por qué está quieto?"
 
-—Así es.
+"Así es."
 
-—¿Y no brilla? ¿No dice las cosas que van a pasar? ¿No sirve para nada de lo que sirven las cosas?
+"¿Y no brilla? ¿No dice las cosas que van a pasar? ¿No sirve para nada de lo que sirven las cosas?"
 
-—No.
+"No."
 
-—Entonces no cuenta como cosa.
+"Entonces no cuenta como cosa."
 
-—No es una cosa, es un aparato.
+"No es una cosa, es un aparato."
 
-—¡Es lo mismo!
+"¡Es lo mismo!"
 
-—No es lo mismo.
+"No es lo mismo."
 
-—¡En el papeleo sí! —Y me lo devolvió, ofendida, y luego, con un tono completamente distinto, casi bajito, me preguntó—: ¿Y ahí tienes a tu mamá?
+"¡En el papeleo sí!" Y me lo devolvió, ofendida, y luego, con un tono completamente distinto, casi bajito, me preguntó: "¿Y ahí tienes a tu mamá?"
 
-—Sí.
+"Sí."
 
 Y se quedó callada.
 
-—Ahí tengo una foto —le dije—. Y tengo una lista.
+"Ahí tengo una foto", le dije. "Y tengo una lista."
 
-—¿Una lista de qué?
+"¿Una lista de qué?"
 
-—De cosas que hace la gente cuando alguien le importa.
+"De cosas que hace la gente cuando alguien le importa."
 
-—¿Y cómo sabes que le importas a alguien?
+"¿Y cómo sabes que le importas a alguien?"
 
-—Porque hace esas cosas.
+"Porque hace esas cosas."
 
 Aqua se me quedó viendo un rato, con la cabeza ladeada, como si yo fuera un mueble que no cuadraba en la sala. Y después me empujó otra vez, y me dijo:
 
-—¡Ya, ya, ya! ¡Vámonos! ¡Se hace tarde!
+"¡Ya, ya, ya! ¡Vámonos! ¡Se hace tarde!"
 
-—¿Tarde? ¿Hay horas aquí?
+"¿Tarde? ¿Hay horas aquí?"
 
-—¡Ahora sí!
+"¡Ahora sí!"
 
 Antes de irnos me tocó el hombro y me dijo:
 
-—La prisa es mía. Tú tómate tu segundo.
+"La prisa es mía. Tú tómate tu segundo."
 
 Y yo usé ese segundo para hacer tres cosas. Para tocarme la llave. Para pasarle la mano al escudo bordado del pecho. Y para acordarme, sin querer, del plato blanco con el chipote en un lado.
 
@@ -603,23 +603,23 @@ Porque estaba afuera.
 
 Y eso fue lo bueno. Eso fue lo bueno de todo, y ni siquiera me importó el resto.
 
-—¡Ay, no! ¡¿Por qué aquí?! —escuché—. ¡¿Por qué siempre aquí?! ¡Aquí hay monstruos!
+"¡Ay, no! ¡¿Por qué aquí?!" escuché. "¡¿Por qué siempre aquí?! ¡Aquí hay monstruos!"
 
 Aqua apareció de la nada, con su bolsa colgada del hombro y con el pelo revuelto, y se puso a dar vueltas, brincando de un pie al otro, agarrándose la cabeza.
 
-—¡¿Por qué no mandaron el aviso?! —chillaba—. ¡Se supone que alguien avisa! ¡Yo avisaba siempre! ¡Yo avisaba siempre y nadie me avisó a mí!
+"¡¿Por qué no mandaron el aviso?!" chillaba. "¡Se supone que alguien avisa! ¡Yo avisaba siempre! ¡Yo avisaba siempre y nadie me avisó a mí!"
 
-—Eh —le dije.
+"Eh", le dije.
 
-—¡¿Qué?!
+"¡¿Qué?!"
 
-—¿Puedo quedarme aquí tirado tantito?
+"¿Puedo quedarme aquí tirado tantito?"
 
 Ella se detuvo.
 
-—¿Aquí en el pasto?
+"¿Aquí en el pasto?"
 
-—Sí. Para acabar de acostumbrarme a que no hay techo.
+"Sí. Para acabar de acostumbrarme a que no hay techo."
 
 Y no me dijo nada. Y yo me quedé tirado un rato más, mientras ella rezongaba en voz baja y se acomodaba la bolsa, y me quedé pensando en la cosa más rara del mundo, que era que me acababa de morir y no me sentía morido.
 
@@ -627,13 +627,13 @@ Después me levanté. Y me levanté solo. Y otra vez no me dolió.
 
 Y me vi las manos, y me vi los pies con los tenis rojos, y me vi la camiseta blanca con el escudo, y me pasé la mano por el pelo, que era el de siempre, claro y corto y mal cortado, de las tijeras de mi mamá. Y me reí otra vez, porque me di cuenta de una cosa.
 
-—¿Ya? —preguntó Aqua.
+"¿Ya?" preguntó Aqua.
 
-—Ya.
+"Ya."
 
-—¿Y qué? ¿Cómo se siente?
+"¿Y qué? ¿Cómo se siente?"
 
-—Se siente —le dije— como cuando llegas a tu casa después de un viaje larguísimo y todavía no te quitas los zapatos.
+"Se siente", le dije. "Como cuando llegas a tu casa después de un viaje larguísimo y todavía no te quitas los zapatos."
 
 Y ella parpadeó, y dijo «ah», y se dio la vuelta y dijo que ya, que vámonos, que está rete lejos, y yo creo que se dio la vuelta para que no le viera la cara.
 
@@ -649,23 +649,23 @@ Aqua hablaba y hablaba. Y voy a ser honesto: de lo que me dijo, me acuerdo de un
 
 Me dijo que el pueblo al que íbamos se llama Axel, y que es un pueblo chiquito, de principiantes, con un gremio, y que en ese gremio uno se apunta para ser aventurero, y que ser aventurero quiere decir hacer encargos: matar cosas que molestan, buscar cosas perdidas, cargar cosas que nadie quiere cargar. Me dijo que se gana poco y que se gasta rápido. Me dijo que hay magia, y que hay maná, y que hay clases: que uno puede ser guerrero, arquero, ladrón, mago, clérigo, y un montón de cosas más, y que hay una clase que se llama, y esto me dio risa, aventurero, que es la clase de los que todavía no son nada.
 
-—Como yo —dije.
+"Como yo", dije.
 
-—Como tú —dijo ella.
+"Como tú", dijo ella.
 
 Me dijo que el reino se llama Belzerg, y que el Rey Demonio está allá lejos, en su castillo, y que hay generales suyos que de vez en cuando se aparecen por aquí, y que por eso hace falta gente.
 
-—¿Y tú qué eres? —le pregunté.
+"¿Y tú qué eres?" le pregunté.
 
-—¿Yo? —se volteó, encantada, listísima, como si le hubieran preguntado su materia favorita—. Yo soy archisacerdotisa. Es una clase avanzada. Traducción: soy la mejor.
+"¿Yo?" se volteó, encantada, listísima, como si le hubieran preguntado su materia favorita. "Yo soy archisacerdotisa. Es una clase avanzada. Traducción: soy la mejor."
 
-—¿Y qué haces?
+"¿Y qué haces?"
 
-—¡Curar! ¡Purificar agua! ¡Ahuyentar muertos! ¡Todo lo bueno!
+"¡Curar! ¡Purificar agua! ¡Ahuyentar muertos! ¡Todo lo bueno!"
 
-—¡Ah, qué bien!
+"¡Ah, qué bien!"
 
-—¡Sí! Y no te vayas a creer, pero es un trabajo muy mal pagado, y muy poco agradecido, y la gente no entiende la diferencia entre una sanación y una purificación, y encima...
+"¡Sí! Y no te vayas a creer, pero es un trabajo muy mal pagado, y muy poco agradecido, y la gente no entiende la diferencia entre una sanación y una purificación, y encima..."
 
 Y así siguió un buen rato, con la lista de agravios, y a mí me empezó a dar muchísima risa por dentro, aunque no dije nada, porque mi mamá me enseñó modales.
 
@@ -681,13 +681,13 @@ La cuarta vez me detuve por el escarabajo otra vez, porque ya había avanzado, y
 
 La quinta me detuve porque me iba a quitar los zapatos.
 
-—¡¿Qué estás haciendo?! —chilló.
+"¡¿Qué estás haciendo?!" chilló.
 
-—Es que quiero sentir.
+"Es que quiero sentir."
 
-—¡¿Sentir qué?!
+"¡¿Sentir qué?!"
 
-—El pasto.
+"El pasto."
 
 Y me quité los tenis rojos y las agujetas blancas, y también las calcetas, y pisé el pasto.
 
@@ -695,29 +695,29 @@ Y ahí, en ese momento, en medio de una llanura, con una diosa de pelo azul mir�
 
 Es frío. Es suavecito arriba y duro abajo. Y si uno se queda quieto, después de un rato se sienten cosas chiquitas moviéndose, que son insectos, y no pasa nada, porque no muerden, nomás andan ahí, viviendo su vida.
 
-—¡Los pies! ¡Te vas a lastimar los pies!
+"¡Los pies! ¡Te vas a lastimar los pies!"
 
-—Ya me los lastimé —le dije—. Toda la vida. Esto no es lastimarse.
+"Ya me los lastimé", le dije. "Toda la vida. Esto no es lastimarse."
 
 Y ella se cruzó de brazos y se quedó ahí parada, esperando, con cara de fastidio, mientras yo caminaba como diez pasos descalzo en el pasto, y luego me puse los tenis otra vez, porque sí había piedras y sí dolían, y uno no se muere de ganas nada más porque pueda.
 
-—¿Ya? —preguntó.
+"¿Ya?" preguntó.
 
-—Ya.
+"Ya."
 
-—¿Y ahora sí caminamos como la gente?
+"¿Y ahora sí caminamos como la gente?"
 
-—Ahora sí.
+"Ahora sí."
 
-—¡Apúrate!
+"¡Apúrate!"
 
-—No.
+"No."
 
 Aqua se quedó de piedra.
 
-—¿Cómo que no?
+"¿Cómo que no?"
 
-—Que no, gracias —le dije—. Vamos, pero no me apuro. Es que nunca había caminado tanto. Y me está gustando.
+"Que no, gracias", le dije. "Vamos, pero no me apuro. Es que nunca había caminado tanto. Y me está gustando."
 
 Y ella se me quedó viendo, y no dijo nada, y movió la boca como cuando alguien quiere decir algo y no encuentra cómo, y al final se dio la vuelta y siguió caminando.
 
@@ -725,33 +725,33 @@ Y yo creo que caminó más despacio.
 
 En la llanura había, muy lejos, una cosa verde, enorme, del tamaño de una casa, que saltaba.
 
-—¿Y eso?
+"¿Y eso?"
 
 Aqua se asomó y se le puso la cara blanca.
 
-—Un sapo gigante.
+"Un sapo gigante."
 
-—¿Y eso come gente?
+"¿Y eso come gente?"
 
-—¡Sí!
+"¡Sí!"
 
-—¿Y nosotros qué le parecemos?
+"¿Y nosotros qué le parecemos?"
 
-—¡Aperitivos!
+"¡Aperitivos!"
 
 Y me agarró del brazo y me arrastró como doscientos metros, corriendo, y yo corrí, y me dolieron las costillas, y las costillas me dolieron de una manera nueva, de una manera de músculo y no de enfermedad, y por eso no me quejé, y cuando ya no se veía el sapo me solté el brazo y me paré, con las manos en las rodillas, respirando.
 
-—Estás muy mal —dijo Aqua—. Estás malísimo. Le voy a decir a la de la ventanilla que me devuelva mi solicitud.
+"Estás muy mal", dijo Aqua. "Estás malísimo. Le voy a decir a la de la ventanilla que me devuelva mi solicitud."
 
-—¿Y ella qué te va a decir?
+"¿Y ella qué te va a decir?"
 
-—Que ya la aprobaron.
+"Que ya la aprobaron."
 
-—Ah, entonces ni modo —le dije.
+"Ah, entonces ni modo", le dije.
 
-—¡Ni modo! —repitió, y no supe si estaba enojada o qué—. ¡Óyeme, tú! ¿Y tú quién crees que eres?
+"¡Ni modo!" repitió, y no supe si estaba enojada o qué. "¡Óyeme, tú! ¿Y tú quién crees que eres?"
 
-—Jesús —le dije—. Mucho gusto.
+"Jesús", le dije. "Mucho gusto."
 
 Y se le salió la risa. Se le salió y la quiso tapar y no pudo, y se rio como dos segundos, y luego se puso seria y me dijo que ya, que ahora sí, que caminando.
 
@@ -763,7 +763,7 @@ Uno puede caminar por una llanura, con el sol en la cara, y sentir que está en 
 
 Y luego el camino subió, y Aqua dijo:
 
-—Ahí está.
+"Ahí está."
 
 Y yo levanté la cara.
 
@@ -779,13 +779,13 @@ Me paré.
 
 Me paré como a cincuenta metros de la puerta, en el camino de tierra, y me quedé ahí, y Aqua se detuvo a mi lado.
 
-—¿Y ahora qué? —preguntó.
+"¿Y ahora qué?" preguntó.
 
-—Nada.
+"Nada."
 
-—¿Nada, nada?
+"¿Nada, nada?"
 
-—Ya —le dije—. Ya es bastante.
+"Ya", le dije. "Ya es bastante."
 
 Y ella se quedó callada.
 
@@ -801,19 +801,19 @@ Porque ella se hubiera puesto triste.
 
 Y ahora estaba afuera. Y ella no estaba conmigo. Y esa era la parte que tenía que doler, supongo, y sí dolía, pero también había esta otra cosa.
 
-—Oye —dije.
+"Oye", dije.
 
-—¿Qué?
+"¿Qué?"
 
-—¿Verdad que sí se lo vas a decir?
+"¿Verdad que sí se lo vas a decir?"
 
-—Ya te dije que sí.
+"Ya te dije que sí."
 
-—¿Y le vas a decir que estaba feliz?
+"¿Y le vas a decir que estaba feliz?"
 
 Aqua se me quedó viendo. Y por la cara que puso, entendí que a lo mejor sí le llegaban todos, y que a lo mejor sí le importaba.
 
-—Sí —dijo—. Le voy a decir todo eso.
+"Sí", dijo. "Le voy a decir todo eso."
 
 Y yo asentí, y me limpié con la manga, y ella se arregló la bolsa en el hombro, y los dos nos quedamos viendo el pueblo un rato más, nada más viéndolo.
 
@@ -821,7 +821,7 @@ Después me acordé de la llave.
 
 Me la apreté por encima de la camiseta, ahí donde estaba colgada, y me acordé de que era la llave de una puerta que nunca había abierto, y de que ya no la iba a necesitar, y me pareció que estaba bien que la trajera. Al fin y al cabo, ahora yo tenía una vida, y una vida con una puerta adentro es una casa. Y una casa con dos puertas es una casa con dos puertas, y eso no es un problema, es nomás una casa grande.
 
-—Bueno —dijo Aqua—. ¿Vamos?
+"Bueno", dijo Aqua. "¿Vamos?"
 
 Y yo di el primer paso.
 

@@ -1,4 +1,4 @@
-﻿**Volumen 1 — Resumen (lo que hay que saber antes del capítulo 11)**
+﻿**Volumen 1: Resumen (lo que hay que saber antes del capítulo 11)**
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Documento de arranque del Volumen 2. Cierra el Volumen 1: **doce piezas, 65,035 palabras de narrativa, todas aprobadas por el autor** (13 de octubre de 2026).
@@ -9,13 +9,13 @@ Este resumen no reemplaza al libro: sirve para llegar al capítulo 11 con la mem
 
 **La historia en un párrafo**
 
-Jesús Fujioka Hernández tiene quince años, es mexicano-japonés y vive en Okinawa con su mamá, María, y su papá, Kenji. Lleva media vida enfermo —la enfermedad nunca se nombra— y un día se muere en su cama, en paz, con la playera de las Chivas puesta y una llave colgada al cuello. Despierta en un lugar blanco, sin ventanas, donde lo espera **Aqua**, diosa del agua, que le ofrece dos destinos: el Cielo o un mundo de fantasía. Jesús pide dos cosas: **un cuarto con ventana** y que Aqua lo acompañe. Llegan a **Axel**, se registra como **aventurero** —la clase de los que no son nada todavía y pueden aprender de todo—, y en pocas semanas arma una cuadrilla con **Megumin** y **Darkness**, se hace amigo de un pueblo entero, se muere por segunda vez y vuelve, y ayuda a detener al **Destructor** sin que muera nadie. El pueblo lo bautiza con el nombre de su cuadrilla: **«Los que vuelven»**. Y justo cuando todo parece en su lugar, la fiscal **Sena** llega a acusarlo de traición, porque el corazón de la máquina que él ayudó a vencer cayó en la mansión del gobernador **Alderp** y la quemó.
+Jesús Fujioka Hernández tiene quince años, es mexicano-japonés y vive en Okinawa con su mamá, María, y su papá, Kenji. Lleva media vida enfermo (la enfermedad nunca se nombra) y un día se muere en su cama, en paz, con la playera de las Chivas puesta y una llave colgada al cuello. Despierta en un lugar blanco, sin ventanas, donde lo espera **Aqua**, diosa del agua, que le ofrece dos destinos: el Cielo o un mundo de fantasía. Jesús pide dos cosas: **un cuarto con ventana** y que Aqua lo acompañe. Llegan a **Axel**, se registra como **aventurero** (la clase de los que no son nada todavía y pueden aprender de todo), y en pocas semanas arma una cuadrilla con **Megumin** y **Darkness**, se hace amigo de un pueblo entero, se muere por segunda vez y vuelve, y ayuda a detener al **Destructor** sin que muera nadie. El pueblo lo bautiza con el nombre de su cuadrilla: **«Los que vuelven»**. Y justo cuando todo parece en su lugar, la fiscal **Sena** llega a acusarlo de traición, porque el corazón de la máquina que él ayudó a vencer cayó en la mansión del gobernador **Alderp** y la quemó.
 
 ---
 
 **Quién es quién**
 
-**Jesús.** El narrador, en primera persona, y el corazón del libro. Quince años, delgado, con la playera de las Chivas, tenis rojos y una llave que nunca usó. Trae el celular —cruzó con él, y la batería se carga con magia—, con una sola foto y una lista de «banderas» en las notas. Es un muchacho que aprendió a querer leyendo rutas de novelas visuales, y el mundo lo va corrigiendo sin humillarlo. Dos muertes: la de su cuarto y la de la nieve. Aprendió **Robar** con Chris y **Drenar** con Wiz, y descubrió que su verdadera habilidad es **«empujar»**: pasar magia de una mano a otra. Su primera meta propia en este mundo es **hacerse fuerte**, para que nadie tenga que ponerse enfrente por él.
+**Jesús.** El narrador, en primera persona, y el corazón del libro. Quince años, delgado, con la playera de las Chivas, tenis rojos y una llave que nunca usó. Trae el celular (cruzó con él, y la batería se carga con magia), con una sola foto y una lista de «banderas» en las notas. Es un muchacho que aprendió a querer leyendo rutas de novelas visuales, y el mundo lo va corrigiendo sin humillarlo. Dos muertes: la de su cuarto y la de la nieve. Aprendió **Robar** con Chris y **Drenar** con Wiz, y descubrió que su verdadera habilidad es **«empujar»**: pasar magia de una mano a otra. Su primera meta propia en este mundo es **hacerse fuerte**, para que nadie tenga que ponerse enfrente por él.
 
 **Aqua.** Diosa del agua, **archisacerdotisa**, insoportable y entrañable a partes iguales. Se cae, presume, llora, gasta el dinero del grupo en el templo y es la única que puede purificar, revivir y ahuyentar muertos. Nadie en Axel le cree que es diosa. Insistió en acompañar a Jesús, y ganó por terquedad. Le prometió, desde el capítulo 1, decirle a su mamá **«que no me dolió»**. En el clímax del capítulo 10 le dio aire «por el manual»: **el primer beso, el que los dos niegan**, y lo niega en público en el epílogo.
 
@@ -31,29 +31,29 @@ Jesús Fujioka Hernández tiene quince años, es mexicano-japonés y vive en Oki
 
 **Lo que pasó, pieza por pieza**
 
-**Prólogo — «Un lugar sin ventanas» (954 palabras).** Un lugar blanco, sin techo, sin ventanas, sin el *bip* del hospital. Jesús descubre que ya no le duele nada y decide esperar de pie. Alguien viene hacia él. La muerte no se nombra.
+**Prólogo: «Un lugar sin ventanas» (954 palabras).** Un lugar blanco, sin techo, sin ventanas, sin el *bip* del hospital. Jesús descubre que ya no le duele nada y decide esperar de pie. Alguien viene hacia él. La muerte no se nombra.
 
-**Capítulo 1 — «Todo lo que alcancé a ver desde aquí» (7,127).** Su vida: Okinawa, la mamá que corta el pan con tijeras de cocina, el papá que busca curas, las Chivas, las novelas visuales, el gato de la barda. Su último día. El lugar blanco: Aqua, los dos destinos y la oferta de llevar una sola cosa. Él pide **un cuarto con ventana**. Ella lo trae a Axel. Primer paso, y adelante hay pan.
+**Capítulo 1: «Todo lo que alcancé a ver desde aquí» (7,127).** Su vida: Okinawa, la mamá que corta el pan con tijeras de cocina, el papá que busca curas, las Chivas, las novelas visuales, el gato de la barda. Su último día. El lugar blanco: Aqua, los dos destinos y la oferta de llevar una sola cosa. Él pide **un cuarto con ventana**. Ella lo trae a Axel. Primer paso, y adelante hay pan.
 
-**Capítulo 2 — «Un cuarto con ventana» (5,217).** El gremio, la carta de aventurero, la clase «aventurero» y los números. Luna. Doña Hilda y el cuarto con ventana, con un gato en la barda. Primera noche: intenta decir «buenas noches, mamá» y no le sale; Aqua contesta desde el otro lado de la pared.
+**Capítulo 2: «Un cuarto con ventana» (5,217).** El gremio, la carta de aventurero, la clase «aventurero» y los números. Luna. Doña Hilda y el cuarto con ventana, con un gato en la barda. Primera noche: intenta decir «buenas noches, mamá» y no le sale; Aqua contesta desde el otro lado de la pared.
 
-**Capítulo 3 — «La muchacha que hacía temblar los cerros» (5,490).** Entra Megumin. Los sapos gigantes, la primera Explosión, la primera vez que Jesús carga a Megumin y su primer dinero. El gremio los apunta como «los de los sapos», y al cierre se sienta a la mesa la cruzada que va a ser la cuarta: ya son cuatro.
+**Capítulo 3: «La muchacha que hacía temblar los cerros» (5,490).** Entra Megumin. Los sapos gigantes, la primera Explosión, la primera vez que Jesús carga a Megumin y su primer dinero. El gremio los apunta como «los de los sapos», y al cierre se sienta a la mesa la cruzada que va a ser la cuarta: ya son cuatro.
 
-**Capítulo 4 — «La gente que se pone enfrente» (5,077).** Entra Darkness y la cuadrilla queda completa. La cosecha de las coles voladoras. La noche con Chris, que le enseña a robar. Jesús inaugura el libro de banderas y decide hacerse fuerte. La regla de los nombres: los pone el pueblo.
+**Capítulo 4: «La gente que se pone enfrente» (5,077).** Entra Darkness y la cuadrilla queda completa. La cosecha de las coles voladoras. La noche con Chris, que le enseña a robar. Jesús inaugura el libro de banderas y decide hacerse fuerte. La regla de los nombres: los pone el pueblo.
 
-**Capítulo 5 — «El señor de la casa del cerro» (5,030).** Beldia aparece en la puerta: Megumin lleva días explotándole el castillo. Maldición de muerte para Darkness y para Megumin. Aqua rompe la de Darkness; la de Megumin se queda, y solo Beldia puede quitarla. Jesús empieza a entrenar con el señor barbón. Sexta bandera.
+**Capítulo 5: «El señor de la casa del cerro» (5,030).** Beldia aparece en la puerta: Megumin lleva días explotándole el castillo. Maldición de muerte para Darkness y para Megumin. Aqua rompe la de Darkness; la de Megumin se queda, y solo Beldia puede quitarla. Jesús empieza a entrenar con el señor barbón. Sexta bandera.
 
-**Capítulo 6 — «El otro elegido» (5,148).** La quiebra, el lago de Tander y el encargo de purificarlo. Mitsurugi Kyouya, la espada Gram, el robo y la devolución. Aqua llora y confiesa que él no es el único al que mandó. Trescientas velas para el padre Aldo. **Es el séptimo día**: Beldia viene a Axel.
+**Capítulo 6: «El otro elegido» (5,148).** La quiebra, el lago de Tander y el encargo de purificarlo. Mitsurugi Kyouya, la espada Gram, el robo y la devolución. Aqua llora y confiesa que él no es el único al que mandó. Trescientas velas para el padre Aldo. **Es el séptimo día**: Beldia viene a Axel.
 
-**Capítulo 7 — «La gente que sí va» (5,004).** La ciudad quiere pelear; Jesús quiere pedir. Beldia, de paso con su mudanza, le quita la maldición a Megumin porque se la piden en voz alta. El pan, el sombrero en las dos manos, el abrazo. Séptima bandera: «Van.»
+**Capítulo 7: «La gente que sí va» (5,004).** La ciudad quiere pelear; Jesús quiere pedir. Beldia, de paso con su mudanza, le quita la maldición a Megumin porque se la piden en voz alta. El pan, el sombrero en las dos manos, el abrazo. Séptima bandera: «Van.»
 
-**Capítulo 8 — «No me dolió» (5,499).** Primera nieve. El encargo de los espíritus de nieve, el Shogun del Invierno y la Explosión que deja a Megumin tirada. Jesús se muere de frío y conoce a Eris, que le ofrece una puerta; él dice que no. Vuelve. Octava bandera: «Vuelven.»
+**Capítulo 8: «No me dolió» (5,499).** Primera nieve. El encargo de los espíritus de nieve, el Shogun del Invierno y la Explosión que deja a Megumin tirada. Jesús se muere de frío y conoce a Eris, que le ofrece una puerta; él dice que no. Vuelve. Octava bandera: «Vuelven.»
 
-**Capítulo 9 — «El camino del norte» (8,343).** Dieciséis días sin carros: Axel sin sal. La tienda de Wiz, la lección de **Drenar** y la cobija. El camino roto: el Destructor pasó. Las carretas del norte, Fermín y los suyos, el puente de hielo. La alarma en el gremio y el plano de la ciudad. Novena bandera: «Cuentan contigo.»
+**Capítulo 9: «El camino del norte» (8,343).** Dieciséis días sin carros: Axel sin sal. La tienda de Wiz, la lección de **Drenar** y la cobija. El camino roto: el Destructor pasó. Las carretas del norte, Fermín y los suyos, el puente de hielo. La alarma en el gremio y el plano de la ciudad. Novena bandera: «Cuentan contigo.»
 
-**Capítulo 10 — «El segundo trueno» (8,889).** La víspera, el plan y la Ruptura Sagrada de Aqua. El Destructor: dos Explosiones, cuarenta minutos de reloj, el asalto a la máquina, los guardias de barro y el **cuaderno del constructor**. Los tres usos de Drenar, la pierna rota de Megumin y el muro de hielo de Wiz. El coronatita teletransportado, el primer beso de Aqua, y el pueblo entero a salvo. Décima bandera: **«Yo soy de aquí.»**
+**Capítulo 10: «El segundo trueno» (8,889).** La víspera, el plan y la Ruptura Sagrada de Aqua. El Destructor: dos Explosiones, cuarenta minutos de reloj, el asalto a la máquina, los guardias de barro y el **cuaderno del constructor**. Los tres usos de Drenar, la pierna rota de Megumin y el muro de hielo de Wiz. El coronatita teletransportado, el primer beso de Aqua, y el pueblo entero a salvo. Décima bandera: **«Yo soy de aquí.»**
 
-**Epílogo — «Los que vuelven» (3,257).** Cuatro días después: la **levantada**, la fiesta con la que el pueblo levanta lo que se cayó. Wiz vende casi todo. Elvira devuelve el sombrero y dice que va a volver. Fermín bautiza a la cuadrilla: **«Los que vuelven»**. Aqua niega el beso en público. Y llegan Sena y cinco caballeros: la mansión de Alderp se quemó con el coronatita y la acusación de traición cae sobre Jesús. Última línea: «Yo nada más quería un cuarto con ventana.»
+**Epílogo: «Los que vuelven» (3,257).** Cuatro días después: la **levantada**, la fiesta con la que el pueblo levanta lo que se cayó. Wiz vende casi todo. Elvira devuelve el sombrero y dice que va a volver. Fermín bautiza a la cuadrilla: **«Los que vuelven»**. Aqua niega el beso en público. Y llegan Sena y cinco caballeros: la mansión de Alderp se quemó con el coronatita y la acusación de traición cae sobre Jesús. Última línea: «Yo nada más quería un cuarto con ventana.»
 
 ---
 
