@@ -15,6 +15,23 @@ Esta carpeta reúne la biblia de referencia para desarrollar una novela ligera o
 9. [Datos curiosos](09-datos-curiosos.md)
 10. [Guía para escribir una novela ligera genuina](10-guia-novela-ligera.md)
 11. [Galería de arte, referencias visuales y permisos](11-galeria-arte.md)
+12. [Registro de verificación de la biblia](12-registro-de-verificacion.md)
+13. [Protagonista original del proyecto: Jesús Fujioka Hernández](13-protagonista-jesus-fujioka.md)
+14. [Romance, rutas y el Rey Demonio](14-rutas-romance-y-rey-demonio.md)
+15. [Ficha definitiva del personaje: Jesús Fujioka Hernández](15-ficha-definitiva-jesus-fujioka.md)
+16. [Método de trabajo: el ciclo de capítulo](16-metodo-de-trabajo.md)
+17. [Bitácora de continuidad](17-bitacora-continuidad.md)
+18. [Estándares de extensión y formato de una novela ligera](18-estandares-novela-ligera.md)
+
+Las secciones 1 a 11 documentan el universo de referencia.
+
+Las secciones 12 a 15 son de **diseño**: la 12 registra las verificaciones y correcciones, la 13 conserva el registro histórico de decisiones del protagonista, la 14 desarrolla el romance, las rutas y el papel del Rey Demonio, y la 15 es la **ficha definitiva para escribir a Jesús**.
+
+Las secciones 16 y 17 son de **producción**: la 16 explica el método de trabajo (capítulo a capítulo) y la 17 es la **bitácora de continuidad**, que se actualiza después de cada capítulo escrito.
+
+La sección 18 es de **calibración**: reúne los datos publicados sobre extensión, estructura y estilo de una novela ligera genuina, con las fuentes, para fijar el tamaño de los capítulos antes de redactar.
+
+Ninguna de las secciones 12 a 18 es canon.
 
 ## Cómo leerla
 
@@ -23,3 +40,5 @@ Las secciones de temporadas, personajes y reglas del mundo pueden contener spoil
 Las referencias priorizan páginas oficiales japonesas del anime, KADOKAWA, editoriales, productoras y sitios oficiales relacionados. Las fuentes secundarias se identifican cuando se utilizan para completar un detalle que las páginas oficiales no desarrollan.
 
 La galería enlaza material oficial y documenta créditos y restricciones. No asumas que una imagen publicada en un sitio oficial es de uso libre: revisa siempre la procedencia y el permiso aplicable.
+
+El registro de verificación (sección 12) anota qué datos se revisaron contra el sitio oficial, qué se corrigió y qué sigue pendiente, con la fecha de cada pasada. Consúltalo antes de dar por sentado un dato que pueda haber cambiado (fechas de estreno, videojuegos, publicaciones nuevas).

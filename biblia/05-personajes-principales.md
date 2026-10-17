@@ -26,7 +26,7 @@ En la temporada 3 se instala durante unos días en la corte porque Iris se encar
 
 ## Aqua
 
-**Identidad y rol.** Aqua es la diosa que administra el paso al otro mundo. Kazuma la escoge como su acompañante y, en consecuencia, ella acaba viviendo la aventura en vez de permanecer en el puesto de guía. En Axel es una archipresbítera —clase avanzada— y lleva principalmente la recuperación del grupo. La ficha del anime le atribuye gusto por la buena comida y las piedras de formas curiosas, y la destreza de entretenimiento festivo. [1] [2] [3]
+**Identidad y rol.** Aqua es la diosa que administra el paso al otro mundo. Kazuma la escoge como su acompañante y, en consecuencia, ella acaba viviendo la aventura en vez de permanecer en el puesto de guía. En Axel es una archisacerdotisa —clase avanzada— y lleva principalmente la recuperación del grupo. La ficha del anime le atribuye gusto por la buena comida y las piedras de formas curiosas, y la destreza de entretenimiento festivo. [1] [2] [3]
 
 **Personalidad, capacidades y límites.** Es expresiva, orgullosa de su condición divina y sensible a que la adulen o la contradigan. Su torpeza cotidiana no anula su capacidad: se le confía la curación, y ella misma se presenta como indicada para limpiar agua por ser diosa del agua. Las sinopsis muestran, a la vez, que el plan para una misión puede ponerla en una jaula frente a monstruos, y que una ciudad devota puede terminar persiguiéndola cuando intenta purificar su fuente termal. No se debe resumirla como «inútil»: el chiste nace del desacuerdo entre la magnitud real de su naturaleza divina y su conducta vanidosa o desmañada. [2] [5] [11] [12] [28] [32]
 
@@ -56,6 +56,8 @@ En la temporada 1 su unión a la party convierte la magia más espectacular en u
 
 **Clave narrativa —lectura.** Darkness invierte el rol de la caballera invulnerable: su fortaleza sirve para la defensa, pero su impulsividad y su fantasía dificultan emplearla con eficiencia ofensiva. Su núcleo dramático no es «ser noble», sino ejercer agencia frente a obligaciones familiares sin dejar de elegir a sus compañeros. La serie de TV no formaliza una relación amorosa entre ella y Kazuma.
 
+**Decisión del proyecto (13 de octubre de 2026).** En el anime, Darkness revela su nombre y su identidad de noble en público (episodio 10). En esta novela eso no pasó en el Vol. 1: **lo revela en privado en el Vol. 2** —lo sabe Jesús, y el lector— y **el pueblo de Axel se entera hasta el Vol. 3**, en el arco de la boda, donde el secreto pesa más.
+
 ## Chris
 
 **Identidad y rol.** Chris es una joven aventurera de clase ladrón y amiga de Darkness. La ficha oficial señala que ayudó al joven Kazuma y que le enseñó cierta habilidad de ladrón, cosa que a veces lamenta. Esa información basta para explicar su proximidad a la party y su utilidad en tareas de sigilo; la ficha no le adjudica un lugar permanente en el cuarteto. Su voz japonesa es la de Ayaka Suwa. [1] [2]
@@ -74,7 +76,7 @@ En la temporada 1 su unión a la party convierte la magia más espectacular en u
 
 ## Wiz y Vanir
 
-**Wiz —identidad y rol.** Wiz dirige una tienda de objetos mágicos en Axel, trabaja como archimaga y mantiene una fachada pacífica y esforzada pese a que el negocio va mal. La sinopsis oficial de la segunda temporada la identifica asimismo como antigua general del ejército del Rey Demonio: su relación cordial con Hans revela que su pasado sigue unido a ese bando. La interpreta Yū Horie. [1] [2] [12]
+**Wiz —identidad y rol.** Wiz dirige una tienda de objetos mágicos en Axel, trabaja como archimaga y mantiene una fachada pacífica y esforzada pese a que el negocio va mal. La sinopsis oficial de la segunda temporada la identifica asimismo como antigua general del ejército del Rey Demonio: su relación cordial con Hans revela que su pasado sigue unido a ese bando. La interpreta Yui Horie (堀江由衣). [1] [2] [12]
 
 **Vanir —identidad y rol.** Vanir es un demonio enmascarado con la capacidad de «ver a través» de las personas; la ficha dice que disfruta de sus emociones negativas y que trabaja en la tienda de Wiz. Su carácter calculador contrasta con la bondad y la escasa habilidad comercial de ella. En la temporada 3 reaparece como interlocutor y adivino de Darkness tras la victoria de Kazuma sobre Silvia, reforzando su función de catalizador de problemas y negocios. [1] [14]
 

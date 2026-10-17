@@ -18,7 +18,7 @@ La autoría del texto original y los créditos de la animación son funciones di
 
 La primera temporada se estrenó en Japón el 13 de enero de 2016 en TOKYO MX y otras cadenas. La programación oficial incluye, entre otras, emisiones en TV Saitama, Chiba TV, tvk, Gifu Broadcasting, Mie TV, Sun TV, TVQ Kyushu y BS11. El archivo del sitio oficial confirma que la temporada tuvo diez episodios.[3] [4]
 
-El estudio de animación acreditado fue Studio Deen. Takaomi Kanasaki dirigió la temporada; Makoto Uezu tuvo a su cargo la composición de serie —el diseño global del guion serializado—, y Koichi Kikuta firmó el diseño de personajes para animación. Masato Koda compuso la música, Nippon Columbia figura como productora musical y el comité de producción aparece con el nombre *KonoSuba Production Committee*. Los créditos también identifican a Miwa Iwanami como director de sonido.[5]
+El estudio de animación acreditado fue Studio Deen. Takaomi Kanasaki dirigió la temporada; Makoto Uezu tuvo a su cargo la composición de serie —el diseño global del guion serializado—, y Koichi Kikuta firmó el diseño de personajes para animación. Masato Koda compuso la música, Nippon Columbia figura como productora musical y el comité de producción aparece con el nombre *KonoSuba Production Committee*. Los créditos también identifican a **岩浪美和** —romanizado *Yoshikazu Iwanami* en las fichas en inglés y ocasionalmente *Miwa Iwanami* en fuentes de fans— como director de sonido.[5] [19]
 
 ### Segunda temporada — 2017
 
@@ -34,7 +34,7 @@ El sitio oficial anunció la producción de *KonoSuba 3* el 28 de mayo de 2022 y
 
 El cambio más visible en los créditos de producción fue el estudio: Drive sustituyó a Studio Deen como estudio de animación. No fue una sustitución total del equipo creativo: Kanasaki pasó de director de las temporadas iniciales a director general, mientras que Abe asumió la dirección; Uezu, Kikuta y buena parte del equipo de sonido y música siguieron. La ficha de la tercera temporada mantiene a Koda como compositor y a Nippon Columbia como productora musical. También cambian puestos del área visual: la dirección de fotografía se acredita a 衛藤直毅; se suma una dirección de 3D a cargo de 今垣佳奈, y la dirección artística se acredita a 丸山由紀子 y 山梨絵里, con Atelier Musa en el apartado de arte.[11]
 
-En la ficha del episodio 11, Kanasaki aparece además acreditado en el guion del capítulo, junto con la composición de planos (*storyboard*).[13]
+En las fichas oficiales de episodios, Kanasaki aparece además acreditado en el guion y la composición de planos (*storyboard*): el episodio 9 lo registra en ambos puestos y la ficha del episodio 11 lo consigna en los créditos del capítulo.[13] [21]
 
 La música principal volvió a renovarse: «Growing Up», de Machico, abre la temporada; «Ano Hi no Mama no Bokura», interpretada por las voces de Aqua, Megumin y Darkness, la cierra.[11]
 
@@ -42,9 +42,9 @@ KADOKAWA ofreció un punto de referencia editorial útil para separar adaptació
 
 ## Créditos que continúan y cambios que sí pueden documentarse
 
-En las tres temporadas televisivas se mantiene el crédito de Akatsuki como autor de la novela y Mishima como ilustradora original. El diseño animado de personajes corresponde a Kikuta en las tres. Uezu aparece en la composición de serie de las temporadas 1, 2 y 3; Koda en la música; Iwanami en dirección de sonido, y el elenco principal conserva a Jun Fukushima (Kazuma), Sora Amamiya (Aqua), Rie Takahashi (Megumin) y Ai Kayano (Darkness).[5] [7] [10] [11]
+En las tres temporadas televisivas se mantiene el crédito de Akatsuki como autor de la novela y Mishima como ilustradora original. El diseño animado de personajes corresponde a Kikuta en las tres. Uezu aparece en la composición de serie de las temporadas 1, 2 y 3; Koda en la música; 岩浪美和 (*Yoshikazu Iwanami*) en dirección de sonido, y el elenco principal conserva a Jun Fukushima (Kazuma), Sora Amamiya (Aqua), Rie Takahashi (Megumin) y Ai Kayano (Darkness).[5] [7] [10] [11]
 
-La secuencia de estudios acreditados para la serie televisiva principal es Studio Deen en las temporadas 1 y 2, y Drive en la temporada 3. La ficha de la cuarta temporada, cuya emisión se anunció para 2027, acredita a ENGI; mantiene a Kanasaki como director general, Uezu en composición de serie, Kikuta en diseño de personajes y Koda en música, mientras que Manabu Kurihara figura como director.[16] Esa cuarta temporada es una producción futura en el corte de esta ficha: sus créditos anunciados no se deben confundir con los ya emitidos de la tercera.
+La secuencia de estudios acreditados para la serie televisiva principal es Studio Deen en las temporadas 1 y 2, y Drive en la temporada 3. El 26 de julio de 2026, dentro del evento del décimo aniversario *Colorful*, el sitio oficial confirmó que la cuarta temporada se emitirá en 2027, con producción de ENGI. La ficha mantiene a Kanasaki como director general, Uezu en composición de serie, Kikuta en diseño de personajes, 岩浪美和 (*Yoshikazu Iwanami*) en dirección de sonido y Koda en música, mientras que Manabu Kurihara figura como director.[16] [19] Esa cuarta temporada es una producción futura en el corte de esta ficha: sus créditos anunciados no se deben confundir con los ya emitidos de la tercera.
 
 No se ha encontrado en las fuentes consultadas una explicación oficial de por qué cambió el estudio entre las temporadas 2 y 3. El relevo de Studio Deen por Drive es verificable; cualquier explicación sobre presupuesto, calendario, disponibilidad de personal o decisión empresarial sería especulativa y queda fuera de los hechos asentados aquí.
 
@@ -60,7 +60,7 @@ Para esta biblia, **canon televisivo** significa los episodios emitidos bajo los
 
 La serie de novelas es el material fuente, no una transcripción de la continuidad del anime. En caso de diferencias de orden, ritmo, omisión o énfasis, esta referencia debe describir qué muestra la versión televisiva por separado de lo que solo está documentado en las novelas. No se presenta aquí una tabla de equivalencias volumen-episodio, porque las fuentes oficiales consultadas no ofrecen un desglose completo de esa clase.
 
-Tampoco se deben sumar al conteo de temporadas principales la película *Legend of Crimson*, los derivados televisivos o los episodios extra. La página de la productora musical identifica *Legend of Crimson* como película y le asigna su propio equipo de producción, distinto del crédito televisivo; KADOKAWA describe *KonoSuba: An Explosion on This Wonderful World!* como un spin-off centrado en Megumin, cuya serie de TV tuvo doce episodios. Además, el sitio oficial de *KonoSuba 3* presenta *BONUS STAGE* como dos OVAs nuevos no emitidos por televisión, proyectados en salas desde marzo de 2025 y publicados en vídeo doméstico por separado.[15] [17] [18]
+Tampoco se deben sumar al conteo de temporadas principales la película *Legend of Crimson*, los derivados televisivos o los episodios extra. La página de la productora musical identifica *Legend of Crimson* como película y le asigna su propio equipo de producción, distinto del crédito televisivo; KADOKAWA describe *KonoSuba: An Explosion on This Wonderful World!* como un spin-off centrado en Megumin, cuya serie de TV tuvo doce episodios. Además, el sitio oficial de *KonoSuba 3* presenta *BONUS STAGE* como dos OVAs nuevos no emitidos por televisión, proyectados en salas desde el 14 de marzo de 2025 durante dos semanas y publicados en Blu-ray y DVD el 25 de abril de 2025.[15] [17] [20]
 
 ## Lectura creativa de los créditos — interpretación, no declaración oficial
 
@@ -88,3 +88,6 @@ Para una novela fan original, conviene mantener separados tres niveles: los hech
 [16]: https://konosuba.com/news/?mode=detail&id=20260726 "Sitio oficial: emisión y equipo anunciados para KonoSuba 4"
 [17]: https://columbia.jp/konosuba/2nd/info.html "Nippon Columbia: información separada de la película Legend of Crimson y temas musicales"
 [18]: https://group.kadokawa.co.jp/information/promotional_topics/article-9006.html "KADOKAWA/Dwango: KonoSuba: An Explosion on This Wonderful World! como spin-off"
+[19]: https://www.animenewsnetwork.com/encyclopedia/people.php?id=979 "Anime News Network: ficha de 岩浪美和, romanizado Yoshikazu Iwanami (fuente secundaria de referencia)"
+[20]: https://www.animenewsnetwork.com/news/2025-03-25/crunchyroll-to-stream-konosuba-3-bonus-stage-ova-solo-camping-for-two-dekin-no-mogura-the/.222856 "Anime News Network: BONUS STAGE, dos episodios inéditos, proyección desde el 14 de marzo y edición doméstica el 25 de abril de 2025 (fuente secundaria)"
+[21]: https://konosuba.com/3rd/story/?mode=detail&id=story09 "Sitio oficial: KonoSuba 3, episodio 9, con guion y composición de planos de Kanasaki"
