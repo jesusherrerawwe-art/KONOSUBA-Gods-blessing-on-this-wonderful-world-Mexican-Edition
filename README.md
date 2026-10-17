@@ -24,9 +24,10 @@ El texto de la novela vive en la carpeta [`novela/`](novela/), separada de la bi
   - [`FICHAS.md`](novela/volumen-1/FICHAS.md) — fichas de diseño de cada pieza del volumen.
 - [`novela/volumen-2/`](novela/volumen-2/) — Volumen 2: capítulos 11 a 20. Carpeta abierta el 13 de octubre de 2026; se escribe capítulo a capítulo.
   - [`00-resumen-volumen-1.md`](novela/volumen-2/00-resumen-volumen-1.md) — resumen del Volumen 1: historia, reparto, tiempo, banderas y lo que quedó abierto.
-  - [`FICHAS.md`](novela/volumen-2/FICHAS.md) — fichas de diseño del volumen, empezando por el capítulo 11.
+  - [`11-capitulo-11.md`](novela/volumen-2/11-capitulo-11.md) — «La verdad en voz alta». **Aprobado por el autor** (17 de octubre de 2026).
+  - [`FICHAS.md`](novela/volumen-2/FICHAS.md) — fichas de diseño del volumen, con el capítulo 11 ya cerrado.
 
-Los archivos de la novela se guardan en **UTF-8 con BOM (UTF-8-BOM)**, que es el formato que necesita la aplicación de lectura en voz alta (**ElevenReader**). Si algún archivo pierde el BOM al editarlo, se recupera con `python3 herramientas/utf8-bom.py`; para revisar formato, extensión y reglas de lectura en voz alta está `python3 herramientas/revisar-capitulos.py`.
+Los archivos de la novela llevan **UTF-8 con BOM (UTF-8-BOM)**, el formato que usaba la aplicación de lectura en voz alta (**ElevenReader**). **El requisito quedó revocado por el autor el 17 de octubre de 2026:** las piezas nuevas se escriben **sin BOM** y las viejas conservan el que ya tienen. `python3 herramientas/utf8-bom.py` sirve para convertir si alguna vez hace falta, y `python3 herramientas/revisar-capitulos.py` revisa formato, extensión y reglas de lectura en voz alta (sin exigir el BOM).
 
 ## Biblia de referencia
 

@@ -25,7 +25,7 @@ Carpeta abierta el **13 de octubre de 2026**, al sellar el Volumen 1 completo (d
 
 | Cap. | Estado | Título | Nota |
 | --- | --- | --- | --- |
-| 11 | 🟦 Revisado; pendiente de aprobación | La verdad en voz alta | 5,560 palabras. Abre el volumen con **el juicio de Sena**: la acusación, la noche en la celda y el interrogatorio con la campana. Corta cuando la fiscal pide la pena máxima; el juicio, en el 12 |
+| 11 | 🟩 Aprobado por el autor | La verdad en voz alta | 5,560 palabras. Abre el volumen con **el juicio de Sena**: la acusación, la noche en la celda y el interrogatorio con la campana. Corta cuando la fiscal pide la pena máxima; el juicio, en el 12 |
 | 12 a 20 | ⬜ En blanco | sin título | Sin diseñar |
 
 **Leyenda:** ⬜ vacío · 🟨 en diseño · 🟦 en redacción o revisión (pendiente de aprobación del autor) · 🟩 aprobado por el autor, cerrado o fijado.
@@ -56,8 +56,8 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 **Estado del volumen**
 
 - **Capítulos escritos:** 11.
-- **Revisado y pendiente de aprobación:** el capítulo 11 (5,560 palabras).
-- **Siguiente paso:** la lectura del autor y, con su aprobación, la ficha del capítulo 12 (el juicio).
+- **Aprobado por el autor:** el capítulo 11 «La verdad en voz alta» (5,560 palabras).
+- **Siguiente paso:** la ficha del capítulo 12 (el juicio en sí: el juez, Alderp en la sala, los testigos y la resolución).
 
 ---
 
@@ -67,7 +67,7 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 | --- | --- |
 | **Volumen** | 2 |
 | **Extensión** | 5,560 palabras |
-| **Estado** | 🟦 Revisado; pendiente de aprobación del autor |
+| **Estado** | 🟩 Aprobado por el autor |
 | **Foco** | Jesús, primera persona |
 | **Deseo local** | Que el pueblo no pague por lo que él decidió |
 | **Obstáculo** | La ley del reino, una fiscal que hace bien su trabajo y una campana que no deja mentir |
@@ -85,5 +85,5 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 - **El pueblo se echa para atrás** cuando Sena amenaza con procesar a los cómplices, como en el canon. No por cobardía: por pan. Y Jesús no los culpa, que es lo que hace que el capítulo 12 duela y funcione.
 - **La campana** no es un chiste: es el espejo del protagonista. Jesús no puede mentir ni para salvarse, y eso es exactamente lo que lo hunde.
 - **Sena no es villana.** Hace bien su trabajo, viene de un pueblo que no sale en los mapas y no le gusta el aparato que usa. La pena la pide porque la ley la obliga, no porque lo desee.
-- **El apodo, propuesto:** **«El de la ventana»**. Cae en escena al final del capítulo, cuando se lo llevan preso: la calle prueba «el del pan» y «el que volvió», y un niño asomado a un segundo piso grita «¡el de la ventana!», y ese se queda. Nace del deseo que Jesús dijo en voz alta en el prólogo del Volumen 1 (un cuarto con ventana) y es la forma mexicana de apodar (el de la tienda, el de la esquina). Sena lo anota en la carpeta y esa vez no tacha nada. **Queda a aprobación del autor.**
+- **El apodo, propuesto:** **«El de la ventana»**. Cae en escena al final del capítulo, cuando se lo llevan preso: la calle prueba «el del pan» y «el que volvió», y un niño asomado a un segundo piso grita «¡el de la ventana!», y ese se queda. Nace del deseo que Jesús dijo en voz alta en el prólogo del Volumen 1 (un cuarto con ventana) y es la forma mexicana de apodar (el de la tienda, el de la esquina). Sena lo anota en la carpeta y esa vez no tacha nada. **Aprobado por el autor (17 de octubre de 2026).**
 - **El celular y el cuaderno** quedan en la caja de evidencias. La fiscal no sabe qué son; el cuaderno está en japonés. Es una bomba con el reloj corriendo, no un olvido.

@@ -238,7 +238,7 @@
 ### La cuadrilla y el apodo (decisiones pendientes, ahora con reglas en el texto)
 - En el gremio **ya son cuadrilla registrada**: firmaron la hoja con los cuatro nombres y las cuatro clases, **sin nombre de grupo**.
 - **Luna dejó la ley del pueblo:** *«Los nombres de los grupos no los escogen los grupos»*, y los apodos **«se pegan solos, cuando uno no está viendo, y casi siempre en el peor momento»**. El pueblo ya los apuntó como **«los de los sapos»**.
-- **El apodo de Jesús (decisión 5) ya tiene nombre propuesto y escena escrita** (capítulo 11, 17 de octubre de 2026): **«El de la ventana»**. Cae cuando se lo llevan preso: la calle prueba «el del pan» y «el que volvió», y un niño asomado a un segundo piso grita «¡el de la ventana!», y ese se queda. Nace del deseo que él dijo en voz alta en el prólogo del Vol. 1 y es la forma mexicana de apodar. **Pendiente de la aprobación del autor.**
+- **El apodo de Jesús (decisión 5) ya tiene nombre propuesto y escena escrita** (capítulo 11, 17 de octubre de 2026): **«El de la ventana»**. Cae cuando se lo llevan preso: la calle prueba «el del pan» y «el que volvió», y un niño asomado a un segundo piso grita «¡el de la ventana!», y ese se queda. Nace del deseo que él dijo en voz alta en el prólogo del Vol. 1 y es la forma mexicana de apodar. **Aprobado por el autor el 17 de octubre de 2026.**
 
 ### La temporada de las coles voladoras
 - Es otoño. Las coles de las montañas crecen tanto que **se sueltan y vuelan**, y llegan a Axel en enjambre el mismo día. Son **la comida del invierno** de la ciudad.
@@ -745,7 +745,7 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 
 ## Volumen 2, capítulo 11 (17 de octubre de 2026)
 
-**Título:** «La verdad en voz alta». **5,560 palabras.** Estado: **revisado; pendiente de aprobación del autor**.
+**Título:** «La verdad en voz alta». **5,560 palabras.** Estado: **aprobado por el autor (17 de octubre de 2026)**.
 
 **Estructura (opción 3 del autor): el juicio en dos tiempos.** El capítulo 11 lleva la acusación, la noche en la celda y el interrogatorio, y **corta cuando la fiscal pide la pena máxima**. El juicio con el juez, Alderp y los testigos es el capítulo 12.
 

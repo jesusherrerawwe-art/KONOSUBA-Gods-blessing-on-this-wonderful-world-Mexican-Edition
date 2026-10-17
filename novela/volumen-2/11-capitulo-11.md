@@ -1,7 +1,7 @@
 Capítulo 11. La verdad en voz alta
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 2, capítulo 11. Extensión: 5,560 palabras. Estado: revisado; pendiente de aprobación del autor.
+Volumen 2, capítulo 11. Extensión: 5,560 palabras. Estado: aprobado por el autor.
 
 ---
 
