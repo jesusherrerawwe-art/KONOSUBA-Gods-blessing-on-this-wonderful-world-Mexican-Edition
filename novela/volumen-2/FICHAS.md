@@ -27,7 +27,7 @@ Carpeta abierta el **13 de octubre de 2026**, al sellar el Volumen 1 completo (d
 | --- | --- | --- | --- |
 | 11 | 🟩 Aprobado por el autor | La verdad en voz alta | 5,560 palabras. Abre el volumen con **el juicio de Sena**: la acusación, la noche en la celda y el interrogatorio con la campana. Corta cuando la fiscal pide la pena máxima; el juicio, en el 12 |
 | 12 | 🟩 Aprobado por el autor | La cuenta | 7,237 palabras. El juicio completo: la acusación, las defensas que hunden, la campana, el veredicto que se voltea, la condena a muerte, la conmutación por deuda y la confiscación. Cierra con el guante de Darkness |
-| 13 | 🟨 En diseño | «El libro de registro» (propuesta) | Sin escribir. La mañana siguiente a la confiscación: la deuda, el gremio que no contrata a un condenado y **la declaración de la línea alterna** (Jesús ocupó el lugar de Kazuma). Ficha abajo, pendiente de aprobación del autor |
+| 13 | 🟦 Escrito, pendiente de aprobación | «El libro de registro» | **5,622 palabras.** La mañana siguiente a la confiscación: la deuda, el gremio que no contrata a un condenado, la llave en el renglón cuarenta y siete, y **la declaración de la línea alterna** (la plaza reservada desde hace ochenta años). Cierra con el heraldo de Alderp y la mansión en usufructo |
 | 14 a 20 | ⬜ En blanco | sin título | Sin diseñar |
 
 **Leyenda:** ⬜ vacío · 🟨 en diseño · 🟦 en redacción o revisión (pendiente de aprobación del autor) · 🟩 aprobado por el autor, cerrado o fijado.
@@ -57,11 +57,11 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 
 **Estado del volumen**
 
-- **Capítulos escritos:** 11 y 12.
+- **Capítulos escritos:** 11, 12 y 13.
 - **Aprobado por el autor:** el capítulo 11 «La verdad en voz alta» (5,560 palabras).
 - **Aprobado por el autor:** el capítulo 12 «La cuenta» (7,237 palabras).
-- **Ficha del capítulo 13:** escrita el 7 de noviembre de 2026 (**«El libro de registro»**), pendiente de aprobación del autor.
-- **Siguiente paso:** la aprobación de esa ficha y, con ella, la redacción del capítulo.
+- **Capítulo 13:** escrito el 7 de noviembre de 2026 (**«El libro de registro»**, 5,622 palabras). **Pendiente de aprobación del autor.**
+- **Siguiente paso:** la lectura y aprobación del capítulo 13; después, la ficha del capítulo 14.
 
 ---
 
@@ -156,7 +156,13 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 - **El capítulo no gana nada.** Termina con la deuda intacta y una noche pagada. La victoria es de otra clase y no se subraya.
 - **Alderp no aparece.** Manda. Su heraldo en la última página abre el arco sin gastar al villano.
 
-**Decisiones que necesitan al autor antes de redactar:**
+**Decisiones resueltas por el autor el 7 de noviembre de 2026:**
+
+1. **La oferta de Alderp: la mansión.** El heraldo trae la casa grande del camino del este, «en usufructo». Cuarenta y dos ventanas y siete puertas de hierro, y la condición de habitarla. Es la trampa del canon y deja a Jesús viviendo dentro de la boca del lobo.
+2. **El pago de Wiz: una cifra ridícula.** Ochenta mil eris por adelantado por cinco días de camino y seis vasijas de barro. Ella lo justifica con «es miedo de que si te pago lo justo, no vuelvas», y con que necesita el agua antes de la feria.
+3. **Darkness: Jesús sospecha en voz alta.** Le pregunta una vez, de frente: «¿Tú le pediste algo al señor Alderp?». Ella no dice que no. El silencio es la respuesta, y él lo deja ahí.
+
+**Decisiones que necesitaban al autor antes de redactar (histórico):**
 
 1. **¿Qué propone Alderp en la última página?** Dos opciones y las dos son defendibles: **(A)** la mansión que le quitó al pueblo, «para que el muchacho condenado no duerma en la calle», que es la trampa del canon y deja a Jesús viviendo dentro de la boca del lobo; **(B)** trabajo pagado a cuenta de la deuda, que es más limpio pero menos divertido. La A es mejor novela y peor para el personaje; la B es al revés.
 2. **¿Cuánto le paga Wiz por adelantado?** Una cifra ridícula o una cifra justa cambian el tono del capítulo entero.
