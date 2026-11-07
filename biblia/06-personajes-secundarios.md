@@ -34,14 +34,14 @@
 
 ### Wiz
 
-- **Afiliación y función:** propietaria de una tienda de objetos mágicos en Axel y antigua integrante de alto rango del ejército del Rey Demonio. En su vida cotidiana es pacifista y tiene muy poco talento comercial, pese a su entusiasmo por trabajar. [2] [7]
+- **Afiliación y función:** propietaria de una tienda de objetos mágicos en Axel y antigua integrante de alto rango del ejército del Rey Demonio. En su vida cotidiana es pacifista y tiene muy poco talento comercial, pese a su entusiasmo por trabajar. La interpreta Yui Horie. [2] [7] [18]
 - **Capacidades:** su ficha oficial la identifica como archimaga de clase avanzada. Las fuentes consultadas no detallan aquí un repertorio completo de hechizos, así que esta ficha no le adjudica técnicas fuera de las que el anime muestra. [2]
 - **Relaciones:** trabaja junto a Vanir en la tienda y conoce a Hans, otro general del ejército del Rey Demonio; ese vínculo reaparece en la sinopsis del episodio 10 de la segunda temporada. [1] [7]
 - **Apariciones:** la ficha de la segunda temporada la presenta como tienda, pacifismo y pasado oculto; en la tercera temporada Kazuma visita la tienda y recibe dinero por colaborar en el desarrollo de productos. [2] [16]
 
 ### Vanir
 
-- **Afiliación y función:** demonio enmascarado, general del Rey Demonio y empleado de la tienda de Wiz. Su lugar en la historia pasa de enemigo a socio comercial incómodo de Kazuma. [1] [2] [6] [17]
+- **Afiliación y función:** demonio enmascarado, general del Rey Demonio y empleado de la tienda de Wiz. Su lugar en la historia pasa de enemigo a socio comercial incómodo de Kazuma. Lo interpreta Masakazu Nishida. [1] [2] [6] [17] [18]
 - **Capacidades:** posee una facultad descrita oficialmente como capacidad de «ver a través» y se alimenta de las emociones negativas humanas. La ficha no precisa el funcionamiento, alcance ni restricciones exactas de esa facultad; no conviene convertirla sin matices en omnisciencia o lectura literal de pensamientos. [1]
 - **Relaciones:** la relación laboral con Wiz organiza buena parte de sus apariciones posteriores; con Kazuma comparte planes de negocio y el interés por explotar ideas vendibles. [1] [6]
 - **Apariciones:** la temporada 2 lo presenta como adversario y luego como socio para comercializar inventos; la temporada 3 vuelve a mostrar su actividad alrededor de la tienda. [6] [1]
@@ -77,13 +77,13 @@
 #### Claire
 
 - **Afiliación y función:** noble y escolta/tutora de Iris. La ficha oficial la presenta como una caballera de lealtad apasionada hacia la princesa. [1]
-- **Capacidades y relaciones:** su función se enmarca en proteger y educar a Iris; el perfil no enumera poderes ni técnicas particulares. Se opone a que las historias de Kazuma se prolonguen sin control, no porque sea enemiga del grupo, sino por su responsabilidad sobre la princesa. [1] [8]
+- **Capacidades y relaciones:** su función se enmarca en proteger y educar a Iris; el perfil no enumera poderes ni técnicas particulares. Se opone a que las historias de Kazuma se prolonguen sin control, no porque sea enemiga del grupo, sino por su responsabilidad sobre la princesa. La interpreta Sayuri Yahagi. [1] [8] [18]
 - **Aparición:** episodio 3 de la tercera temporada, durante la estancia de Kazuma en el palacio. [8]
 
 #### Rain
 
 - **Afiliación y función:** noble, maga y escolta/tutora de Iris. La ficha oficial la caracteriza por su calma, en contraste con el temperamento más vehemente de Claire. [1]
-- **Capacidades y relaciones:** su clase se indica como maga, pero la fuente no especifica hechizos. Comparte con Claire el deber de proteger y educar a Iris. [1]
+- **Capacidades y relaciones:** su clase se indica como maga, pero la fuente no especifica hechizos. Comparte con Claire el deber de proteger y educar a Iris. La interpreta Reina Ueda. [1] [18]
 - **Aparición:** aparece con Iris y Claire en el arco del palacio de la tercera temporada; el episodio 3 la identifica como quien explica a Kazuma la situación de la princesa. [8]
 
 ### Otros secundarios con peso narrativo
@@ -91,7 +91,7 @@
 #### Mitsurugi
 
 - **Afiliación y función:** aventurero de alto rango que empuña la espada mágica Gram. La fuente oficial lo describe como espadachín de clase avanzada y hombre de fuerte sentido de justicia. [2]
-- **Relaciones y capacidades:** admira a Aqua. La ficha confirma su espada y clase, pero no desglosa reglas o límites del arma; no se añaden poderes deducidos de otros formatos. [2]
+- **Relaciones y capacidades:** admira a Aqua. La ficha confirma su espada y clase, pero no desglosa reglas o límites del arma; no se añaden poderes deducidos de otros formatos. Lo interpreta Takuya Eguchi. [2] [18]
 
 #### Sena
 
@@ -100,8 +100,8 @@
 
 #### Luna
 
-- **Afiliación y función:** recepcionista del gremio de aventureros de Axel. Orienta a los aventureros que llegan y conoce al grupo de Kazuma. [1]
-- **Capacidades y relaciones:** no se le asignan poderes; su utilidad narrativa es administrativa y de enlace con el gremio. [1]
+- **Afiliación y función:** recepcionista del gremio de aventureros de Axel. Orienta a los aventureros que llegan y conoce al grupo de Kazuma. La interpreta Sayuri Hara. [1] [18]
+- **Capacidades y relaciones:** no se le asignan poderes; su utilidad narrativa es administrativa y de enlace con el gremio. [1] [18]
 
 ## Material de las novelas: límites de continuidad
 
@@ -136,3 +136,4 @@ Esa documentación sirve para **marcar el límite**, no para incorporar automát
 [15]: https://prtimes.jp/main/html/rd/p/000001254.000001227.html "BOOK☆WALKER: el volumen 8 como continuación de la tercera temporada"
 [16]: https://konosuba.com/3rd/story/?mode=detail&id=story07 "Temporada 3, episodio 7: Kazuma visita la tienda de Wiz"
 [17]: https://konosuba.com/2nd/story/?mode=detail&id=06 "Temporada 2, episodio 6: Vanir, general del Rey Demonio"
+[18]: https://konosuba.com/3rd/staff_cast/ "Sitio oficial de KonoSuba 3: reparto (seiyū) y equipo de producción"
