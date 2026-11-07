@@ -188,6 +188,20 @@ El discurso entre comillas cierra y **la coma va antes del verbo de habla**, sie
 
 **Después de la aprobación (13 de octubre de 2026):** la **revisión de conjunto del Vol. 1** ya se hizo sobre las doce piezas (informe `REVISION-VOLUMEN-1-CIERRE.md`), la auditoría de nombres pasó a limpio y las decisiones que el informe pedía quedaron cerradas con el autor ese mismo día: **Darkness revela su identidad en privado en el Vol. 2**; **el apodo de Jesús cae en escena en el Vol. 2**; el rango de Aqua se escribe **archisacerdotisa**; y **el Vol. 2 abre con el juicio de Sena**. **Carpeta del Volumen 2 abierta** (`novela/volumen-2/`), con su `FICHAS.md`: los **capítulos 11 («La verdad en voz alta», 5,560 palabras) y 12 («La cuenta», 7,237 palabras) quedaron aprobados por el autor el 17 de octubre de 2026**. **Pendiente inmediato: la ficha del capítulo 13.**
 
+**Revisión técnica del 7 de noviembre de 2026 (cierre del día).** Barrido completo de las catorce piezas con `revisar-capitulos.py` y lectura de las primeras apariciones de cada personaje.
+
+- **171 acotaciones de habla corregidas** con la coma obligatoria (regla 13). Reparto: prólogo 0; capítulos 1 a 10: 12, 14, 23, 19, 18, 11, 17, 6, 19, 6; epílogo 11; capítulos 11 y 12: 3 y 12. **No se movió ni una palabra** y los conteos no cambiaron.
+- **11 títulos sin almohadilla de Markdown**, para que las catorce piezas abran igual y se cumpla la regla 1.
+- **Una corrección de la regla 9:** «para qué carajos» pasa a «para qué rayos» en boca del señor barbón (capítulo 7). Las otras dos supuestas faltas que se habían señalado eran diálogo de Jesús y se quedaron intactas.
+- **`revisar-capitulos.py`** ahora marca falta por acotación sin coma y por almohadilla en el título. Resultado en el repositorio: **0 faltas en 91,109 palabras**.
+- **`README.md`** con el índice completo de las catorce piezas: número, título, extensión y estado, más el total de narrativa.
+- **`biblia/19` reescrita.** La primera versión de ese documento afirmaba que faltaban descripciones físicas; **era un error de método de la revisión, no un defecto del texto**, y así quedó anotado en la propia sección 19. Los cinco personajes principales están descritos en su primera aparición, con cita exacta.
+- **Repositorio:** la rama de trabajo se fusionó en `main` (commit de fusión `d60d50a4`, padres `1b39d158` y `71b43948`). Desde esa fecha **`main` es la rama única con la novela completa**; la rama `arena/61bf28fa-konosuba-gods-blessing-on-this` se conserva como respaldo del agente y apunta al mismo contenido.
+
+**No se recortó nada.** La indicación del autor del 12 de octubre sigue en pie («si el capítulo se extiende de más, no lo recortes, déjalo así»), así que los capítulos 9, 10 y 12 se quedan como están; el excedente sobre el techo de 5,500 palabras queda registrado como decisión consciente, no como pendiente.
+
+**Pendiente inmediato, y único:** la **decisión sobre Kazuma** y, con ella, la **ficha del capítulo 13**.
+
 ## Estado de los volúmenes
 
 | Volumen | Capítulos | Estado |

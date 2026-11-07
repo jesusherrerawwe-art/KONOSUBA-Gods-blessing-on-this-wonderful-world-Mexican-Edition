@@ -36,7 +36,7 @@ Un chico que pasó quince años en una habitación mirando un equipo de fútbol 
 - **Fujioka** — el apellido de su padre, el que buscó la cura.
 - **Hernández** — el apellido de su madre, la que se quedó.
 
-> **Nota de escritura:** los tres nombres juntos son el resumen del personaje. Cuando alguien en Axel lo escriba completo por primera vez —en un registro del gremio, en una carta, en una lápida— es una escena emocional, no burocrática.
+> **Nota de escritura:** los tres nombres juntos son el resumen del personaje. Cuando alguien en Axel lo escriba completo por primera vez —en un registro del gremio, en una carta, en una lápida— es una escena emocional, no burocrática. **Ojo:** el nombre completo ya se dijo en primera persona en la primera línea del capítulo 1 («Me llamo Jesús Fujioka Hernández»), así que la escena pendiente no puede ser otra vez él diciéndolo: tiene que ser **él viéndolo escrito por mano ajena**, que es distinto y es lo que la ficha pide.
 
 ---
 
@@ -49,7 +49,7 @@ Un chico que pasó quince años en una habitación mirando un equipo de fútbol 
 - Estatura media-baja para su edad. Hombros estrechos.
 - Cabello **rubio oscuro, desordenado y corto** — se lo corta su madre en casa, nunca un peluquero.
 - Ojos **castaños**, grandes, atentos: los de alguien que pasó años mirando.
-- Vestimenta de llegada: **camiseta blanca con el escudo del Club Deportivo Guadalajara**, jeans azules y **tenis rojos con agujetas blancas**. Al cuello, **una cadena con un dije**.
+- Vestimenta de llegada: **camiseta blanca con el escudo del Club Deportivo Guadalajara**, jeans azules y **tenis rojos con agujetas blancas**. Al cuello, **un cordón con la llave** (en el póster se ve como un dije pequeño).
 - Manos suaves. No tiene callos: nunca ha trabajado con las manos. En Axel, eso cambia.
 
 ### La cadena y la llave 📝 *(propuesta del agente, sujeta a veto)*

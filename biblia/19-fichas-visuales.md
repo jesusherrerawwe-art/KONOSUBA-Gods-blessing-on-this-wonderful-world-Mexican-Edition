@@ -1,100 +1,100 @@
-# 19. Fichas visuales: cómo se ve cada personaje
+# 19. Retratos del texto: lo que ya está escrito
 
-> **Documento de escritura.** Existe por una razón concreta: la revisión del 7 de noviembre de 2026 encontró que, en 77,832 palabras de narrativa, **Megumin y Darkness no tienen una sola descripción física canónica**, y Aqua solo tiene el pelo. El lector que llega sin conocer el anime está oyendo voces sin cuerpos.
->
-> **Estado de las marcas:** ✅ rasgo canónico establecido · 📝 propuesta de este documento · ⚠️ por verificar contra la página oficial antes de fijarlo.
+> **Documento de escritura.** Se consulta antes de describir a cualquier personaje, para no repetir un retrato que ya existe y para no contradecir uno que ya se fijó.
 
----
+## Aviso: esta sección corrige un error de la revisión anterior
 
-## 1. La regla de la primera aparición
+La primera versión de este documento, escrita el **7 de noviembre de 2026** por la mañana, afirmaba que Megumin y Darkness no tenían una sola descripción física en 77,832 palabras y que a Aqua le faltaban los ojos. **Era falso, y el error fue de método, no del texto.**
 
-Cada personaje recibe **de dos a cuatro líneas de cuerpo la primera vez que aparece en escena**, y después no se vuelve a describir, salvo que algo cambie (se lastima, se corta el pelo, cambia de ropa por una razón de la trama).
+Lo que hice fue contar palabras clave (`pelo negro`, `ojos carmesí`, `pelo rubio`) y tomar la ausencia de esas palabras como ausencia de descripción. Pero el texto no escribe así: escribe «ojos rojos como la caoba», «pelo castaño oscuro», «pelo rubio en una coleta alta de puntas anaranjadas». Las descripciones estaban ahí, completas y bien hechas, y el conteo no las vio.
 
-Cuatro condiciones para que el retrato no se sienta de catálogo:
+Al releer las primeras apariciones, una por una, el resultado es el contrario del que reporté: **los cinco personajes principales están descritos, y están descritos con el método correcto** — una sola vez, en su entrada, con objetos y defectos en lugar de adjetivos. Este documento queda como registro de eso, con la cita exacta.
 
-1. **Lo ve Jesús, no el narrador omnisciente.** Es un muchacho de quince años que vivió en un cuarto a oscuras: lo que registra no es «hermosa», es «el pelo le llegaba a la cintura y olía a río».
-2. **Dos rasgos, no cinco.** Un rasgo que el lector pueda recordar y uno que diga algo del carácter. Cinco datos describen un póster; dos describen a alguien.
-3. **Objetos y defectos antes que adjetivos.** La capa remendada dice más que «harapienta». La mano con los nudillos partidos dice más que «fuerte».
-4. **Nada que la ilustración vaya a mostrar mejor.** Si el póster ya enseña la armadura, la escena no la describe: la usa (el peso, el ruido, el frío del metal).
+**Consecuencia práctica:** no hay que insertar ni una línea de descripción física en el Volumen 1. La corrección del 7 de noviembre fue documental: consistió en arreglar este documento, no el manuscrito.
 
 ---
 
-## 2. Aqua — diosa del agua, archipreste
+## 1. La regla del retrato único
 
-| Campo | Dato |
-| --- | --- |
-| **Rasgos canónicos** | ✅ Cabello azul claro, largo. ✅ Ojos azules. ✅ Túnica blanca con ribetes azules y capa corta del mismo tono. ✅ Adorno de flor en el pelo. 📝 Complexión delgada, sin un solo callo. |
-| **Primera aparición en la novela** | Capítulo 1, en el lugar blanco. |
-| **Lo que el texto ya dice** | «El pelo revuelto». «Sin la del pelo azul» (capítulo 3, en boca de otros aventureros). «Con el pelo azul» (capítulo 6). |
-| **Lo que falta** | **Los ojos.** El azul de los ojos de Aqua es el rasgo que hace funcionar la escena del río y la del sapo, y no se usa ni una vez. |
-| **Regla de uso** | El pelo se nombra cuando está sucio, mojado o revuelto, nunca cuando está bonito. Los ojos se nombran **una vez**, cuando ella hace algo divino y el narrador no sabe cómo llamarlo. |
-| **No repetir** | «Diosa» como descripción física. «Hermosa». Cualquier cosa que suene a admiración del narrador. |
+Se mantiene tal cual, porque el texto ya la cumple:
+
+1. **Una vez, en la entrada.** Dos a cuatro líneas la primera vez que el personaje aparece en escena. Después no se vuelve a describir, salvo que algo cambie (se lastima, se corta el pelo, cambia de ropa por una razón de la trama).
+2. **Lo ve Jesús.** Es un muchacho de quince años que vivió en un cuarto a oscuras: registra objetos, no adjetivos de catálogo.
+3. **Objetos y defectos antes que adjetivos.** El parche en el ojo, la venda en la pierna, el pelo parado en la coronilla como una antena.
+4. **Nada que la ilustración muestre mejor.** El póster ya enseña la armadura: la escena no la describe, la usa (el peso, el ruido, el metal frío).
 
 ---
 
-## 3. Megumin — archimaga del clan Carmesí
+## 2. Los retratos, con su cita
 
-| Campo | Dato |
-| --- | --- |
-| **Rasgos canónicos** | ✅ Cabello negro, corto. ✅ Ojos rojos carmesí. ✅ Capa roja. ✅ Sombrero de bruja. ✅ Bastón. 📝 Estatura baja, complexión menuda, trece años. |
-| **Primera aparición en la novela** | Capítulo 3, en la mesa del gremio. |
-| **Lo que el texto ya dice** | El sombrero, las botas embarradas, el bastón tirado, la «manita», la cara roja. **Todo es ropa y gesto.** |
-| **Lo que falta** | **El cuerpo entero.** Es el diseño más icónico del reparto y en la novela no tiene cara. |
-| **Regla de uso** | Se describe una sola vez, y en el peor momento posible: cuando ya explotó y está tirada en el pasto, porque ahí el contraste entre la niña y el cráter es el personaje. Los ojos carmesí no se describen como «bonitos»: se describen como lo que son, un rojo que no es de gente. |
-| **No repetir** | «Niña» como descripción. «Pequeña» más de una vez por capítulo. La palabra «linda». |
+### Aqua — capítulo 1, en el lugar blanco
 
----
+> «Lo que entró fue una muchacha con el pelo azul larguísimo y los ojos del mismo azul, empapada de arriba abajo, con una túnica azul de diosa que le chorreaba y un prendedor en el pelo con tres bolitas, dos doradas y una azul. Y con una cara de enojo que le cabía todo.»
 
-## 4. Darkness — cruzada
+**Fijado:** pelo azul larguísimo · **ojos del mismo azul** · túnica azul de diosa · prendedor de tres bolitas (dos doradas, una azul) · llega empapada.
+**No repetir:** el color del pelo ni el de los ojos. El pelo se puede nombrar cuando está sucio, mojado o revuelto («el pelo como estropajo», capítulo 3), nunca cuando está bonito.
 
-| Campo | Dato |
-| --- | --- |
-| **Rasgos canónicos** | ✅ Cabello rubio, largo. ✅ Ojos azules. 📝 Alta, complexión atlética, más fuerte que cualquier hombre del pueblo. ✅ Armadura y capa. |
-| **Primera aparición en la novela** | Capítulo 4, en el patio, bajo la lluvia. |
-| **Lo que el texto ya dice** | La armadura puesta, los brazos abiertos, cuatro costales en dos hombros «y no se le movió ni el fleco». |
-| **Lo que falta** | **La estatura.** Que sea más alta que Jesús es el dato cómico y el dato emocional: la primera persona en la vida que se pone enfrente de él. |
-| **Regla de uso** | Nunca se describe «guapa»: se describe **grande**. El rubio se menciona una vez, asociado al sol y al metal, no al pelo bonito. El fleco que no se mueve es un tic autorizado, máximo dos veces por volumen. |
-| **No repetir** | «Masculina» (es su chiste, no su descripción). Cualquier adjetivo que el narrador no sabría decir a los quince años. |
+### Megumin — capítulo 3, en la puerta del gremio
 
----
+> «El sombrero era negro, puntiagudo, con una cosa dorada en la punta, y le quedaba enorme. Debajo del sombrero traía una capa negra con orilla dorada, y un vestido rojo, y botas naranjas, y los ojos le hacían juego con todo eso: rojos como la caoba, brillantes, y muy abiertos. Traía un parche negro en un ojo, y el pelo castaño oscuro, a la altura de los hombros, le salía por debajo del sombrero. Y en la pierna derecha, una venda gorda enrollada de la rodilla al tobillo.»
 
-## 5. Wiz — dueña de la tienda de objetos mágicos
+> «Era chiquita, más chiquita que yo, y yo no soy grande.»
 
-| Campo | Dato |
-| --- | --- |
-| **Rasgos canónicos** | ⚠️ Cabello castaño, largo. ⚠️ Color de ojos: **por verificar**; el capítulo 9 dice «sus ojos castaños» y ese dato hay que cotejarlo contra la página oficial antes de fijarlo. ⚠️ Lunar en la cara: por confirmar. ✅ Complexión delgada, casi frágil. |
-| **Primera aparición en la novela** | Capítulo 9, en la tienda vacía. |
-| **Lo que el texto ya dice** | «Sus ojos castaños». «Por eso estoy flaca, ¿ve?». La capucha en el capítulo 10. |
-| **Lo que falta** | Solo la verificación. Es el único personaje que ya tiene un ojo descrito en el texto. |
-| **Regla de uso** | Wiz se describe con lo que le falta: la tienda sin clientes, el cuerpo sin grasa, la voz sin filo. Si el lunar existe en el canon, es un detalle de una línea y no vuelve. |
+**Fijado:** sombrero negro puntiagudo con punta dorada, enorme · capa negra con orilla dorada · vestido rojo · botas naranjas · **ojos rojos como la caoba, brillantes, muy abiertos** · **parche negro en un ojo** · pelo castaño oscuro a la altura de los hombros · venda gorda en la pierna derecha, de la rodilla al tobillo · más chiquita que Jesús.
+**No repetir:** el sombrero completo otra vez. A partir de aquí basta «el sombrero» y «el parche».
+**Ojo con el canon:** el parche en un ojo y la venda en la pierna son añadidos de esta versión, no del diseño original. Quedan fijados por el texto: en el capítulo 13 llevan cicatriz, no parche nuevo.
 
----
+### Darkness — capítulo 3, en el pasillo del gremio
 
-## 6. Luna — recepcionista del gremio de Axel
+> «Una mujer altísima, con una armadura completa abollada en varios lados, estaba parada en medio del pasillo y no dejaba pasar a nadie. Traía el pelo rubio en una coleta alta de puntas anaranjadas y una espada grandota cruzada en la espalda.»
 
-| Campo | Dato |
-| --- | --- |
-| **Rasgos canónicos** | ⚠️ Por verificar contra la página oficial: peinado, color de pelo y si lleva gafas. No se fija nada aquí que no esté confirmado. |
-| **Primera aparición en la novela** | Capítulo 2, en el mostrador. |
-| **Lo que el texto ya dice** | «Con la pluma todavía en la oreja». La letra derechita. La voz que explica lo mismo veinte veces al mes. |
-| **Regla de uso** | Luna se define por el oficio, no por el cuerpo: la pluma en la oreja es su retrato y basta. Si hace falta un rasgo físico, se elige **uno** y se anota aquí con la línea exacta. |
+**Fijado:** altísima · armadura completa, abollada en varios lados · **pelo rubio en coleta alta, con puntas anaranjadas** · espada grande cruzada en la espalda.
+**Color de ojos:** nunca se dice, y no hace falta. No se inventa: si el capítulo 13 necesita sus ojos, se describen por lo que hacen (los cierra, los abre de par en par), no por su color.
+**No repetir:** la armadura abollada se describe una vez; después se usa (el ruido, el peso, los cuatro costales en dos hombros, capítulo 4).
 
----
+### Wiz — capítulo 9, en la tienda vacía
 
-## 7. Kazuma — ⚠️ decisión pendiente del autor
+> «Era blanca, de una blancura que no era la del frío, y tenía el pelo castaño, largo y ondulado, con un mechón que se le caía sobre un ojo, y un pelo chiquito que se le paraba en la coronilla como una antena. Traía un vestido morado claro debajo de una sobreveste morada oscura, con un broche dorado de alas de murciélago prendido en el pecho, y se veía, no sé cómo decirlo, cansada de una manera antigua.»
 
-**No aparece ni una vez en 77,832 palabras.** No es un olvido del texto: el Volumen 1 adapta los episodios del canon sustituyendo sus hechos por los de Jesús, y eso está anotado como nota de adaptación en la bitácora, no como regla de la obra.
+> «Nomás me miró, con sus ojos castaños...»
 
-Mientras esa decisión no se tome y no se escriba en la biblia, **no se puede describir a Kazuma en el capítulo 13 ni en ninguno**, porque cualquier aparición suya obliga a explicar por qué no estuvo en las coles, en el lago ni en el Destructor. Las dos salidas están planteadas en la conversación del 7 de noviembre de 2026:
+**Fijado:** blancura que no es la del frío · pelo castaño, largo y ondulado · **mechón sobre un ojo** · **pelo parado en la coronilla, como una antena** · vestido morado claro y sobreveste morada oscura · broche dorado de alas de murciélago · **ojos castaños** · veinte años, para siempre.
+**No repetir:** el broche ni el mechón más de una vez por volumen. La antena de la coronilla es un tic autorizado, máximo dos veces.
 
-- **Línea alterna declarada:** Jesús ocupó su lugar y el lector lo sabe desde una línea temprana.
-- **Kazuma existe y no se cruzaron:** entonces los hechos del canon usados en el Volumen 1 se justifican de otra manera.
+### Luna — capítulo 2, en el mostrador del gremio
+
+> «Era una muchacha de pelo rubio recogido en un chongo, con una cinta ancha en la cabeza y una blusa blanca, y traía una tabla...»
+
+**Fijado:** pelo rubio en chongo · cinta ancha en la cabeza · blusa blanca · **la pluma en la oreja** (capítulos 7 y 8), que es su verdadero retrato.
+**Color de ojos:** nunca se dice, y no hace falta.
+**No repetir:** la cinta ancha ya está usada. A partir de aquí, Luna es la pluma.
+
+### Jesús
+
+Remite a la **sección 15**, que es su ficha completa y la única autoridad sobre su aspecto. El póster del proyecto (`poster.webp`) es la referencia visual aprobada, y ahí se ve la llave al cuello.
 
 ---
 
-## 8. Reparto de Axel (personajes inventados)
+## 3. Lo que de verdad falta
 
-Ninguno necesita ficha completa: necesitan **un rasgo fijo que no cambie nunca**, para que el lector los reconozca de un vistazo.
+**Nada, en el Volumen 1.** Los cinco personajes principales tienen retrato, y el reparto de Axel se define por oficio y por un objeto, que es lo que le toca a un secundario.
+
+Lo único abierto es **Kazuma**, y no es un problema de descripción sino de lore.
+
+### Kazuma — ⚠️ decisión pendiente del autor
+
+**No aparece ni una vez en 77,832 palabras.** No es un olvido: el Volumen 1 adapta los episodios del canon sustituyendo sus hechos por los de Jesús, y eso está anotado como nota de adaptación en la bitácora, no como regla de la obra. Mientras la decisión no esté escrita en la biblia, **no se puede describir a Kazuma ni hacerlo aparecer**, porque cualquier aparición suya obliga a explicar por qué no estuvo en las coles, en el lago ni en el Destructor.
+
+Las dos salidas:
+
+- **Línea alterna declarada:** Jesús ocupó su lugar, y el lector lo sabe desde una línea temprana.
+- **Kazuma existe y no se cruzaron:** entonces los hechos del canon usados en el Vol. 1 se justifican de otra manera.
+
+---
+
+## 4. Reparto de Axel (personajes inventados)
+
+Ninguno necesita ficha completa: necesitan **un rasgo fijo que no cambie nunca**.
 
 | Personaje | Rasgo fijo, tal como está en el texto |
 | --- | --- |
@@ -107,11 +107,6 @@ Ninguno necesita ficha completa: necesitan **un rasgo fijo que no cambie nunca**
 
 ---
 
-## 9. Lo que este documento evita
+## 5. Protocolo
 
-- Que el capítulo 13 describa a Megumin con los ojos verdes porque nadie apuntó que son rojos.
-- Que el capítulo 15 describa por tercera vez el sombrero.
-- Que una escena nueva invente un lunar, una cicatriz o un color que el lector ya había imaginado de otra manera.
-- Que la primera descripción de un personaje canónico llegue en el capítulo veinte, cuando ya no sirve para nada.
-
-**Protocolo:** toda descripción nueva se ejecuta, se copia aquí con el número de capítulo y la línea exacta, y a partir de ese momento **este documento manda sobre el texto**.
+Antes de escribir una descripción nueva, se busca al personaje **aquí**. Si ya está, no se repite. Si no está, se escribe una vez en su entrada y se anota en esta tabla con la cita exacta. **Este documento manda sobre el texto en cuanto a qué rasgo es cuál, y el texto manda sobre este documento en cuanto a cómo se dice.**
