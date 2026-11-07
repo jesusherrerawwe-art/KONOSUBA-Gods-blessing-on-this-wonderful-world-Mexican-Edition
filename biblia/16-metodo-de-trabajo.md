@@ -200,7 +200,9 @@ El discurso entre comillas cierra y **la coma va antes del verbo de habla**, sie
 
 **No se recortó nada.** La indicación del autor del 12 de octubre sigue en pie («si el capítulo se extiende de más, no lo recortes, déjalo así»), así que los capítulos 9, 10 y 12 se quedan como están; el excedente sobre el techo de 5,500 palabras queda registrado como decisión consciente, no como pendiente.
 
-**Pendiente inmediato, y único:** la **decisión sobre Kazuma** y, con ella, la **ficha del capítulo 13**.
+- **Causa raíz de las 171 comas:** no las escribió el autor, las generó `herramientas/convertir-rayas-a-comillas.py` en el barrido del 17 de octubre (la rama de los cierres en `?` y `!` pegaba la acotación sin coma). **Conversor parcheado el 7 de noviembre** y probado con casos artificiales: ya no puede reintroducir el error. Detalle en la sección 17.
+
+**Cerrado el mismo día:** la **decisión sobre Kazuma** («Jesús ocupó su lugar», línea alterna declarada; ver secciones 17 y 19) y la **ficha del capítulo 13**, entregada al autor para su aprobación.
 
 ## Estado de los volúmenes
 

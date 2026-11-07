@@ -824,3 +824,27 @@ Revisión completa del prólogo y de los capítulos 1 a 6: aspecto físico, form
 **Herramientas:** `herramientas/convertir-rayas-a-comillas.py` (conversor, con modo de prueba y `--aplicar`, conserva el BOM de cada archivo) y `herramientas/revisar-capitulos.py` (ahora marca **falta** por cualquier raya en una pieza narrativa y por comillas impares). Probado con casos artificiales.
 
 **Lo que queda igual a propósito:** los `FICHAS.md` conservan rayas porque son documentos de trabajo y no se leen en voz alta.
+
+---
+
+## La regla de Kazuma (7 de noviembre de 2026, decisión del autor)
+
+**Pregunta del agente:** el Volumen 1 no menciona a Kazuma ni una vez en 77,832 palabras, la portada lo eliminó y la biblia no decía nada. Tres salidas posibles.
+
+**Respuesta del autor:** **«Jesús ocupó su lugar.»** Línea alterna declarada.
+
+**Queda fijado:** Kazuma no existe en esta versión. Los hechos del canon usados en el Volumen 1 (las coles voladoras, el lago, el Destructor, el juicio) son de Jesús y de nadie más. Nadie lo nombra nunca. El lector se entera **dentro del texto, en el capítulo 13**, cuando Jesús vuelve al gremio y Luna abre el libro de registro: la plaza de aventurero de otro mundo estaba reservada, y llegó él. Se declara sin nombrar a nadie.
+
+**Lo que se asume:** se pierde el contraste entre los dos muchachos, que en el original es una de las mejores fuentes de comedia. Queda anotado aquí para que no parezca un descuido en el capítulo 20.
+
+**Regla derivada:** ninguna escena puede depender de que alguien «debía haber venido». Si una situación del canon exige a Kazuma, se resuelve con Jesús o no se usa. La excepción es el capítulo 13, que es donde se declara.
+
+**Dónde vive la regla:** `biblia/19-fichas-visuales.md`, sección 3. Esta bitácora guarda el registro de la decisión; la 19 es la que se consulta al escribir.
+
+## La causa raíz de las 171 comas (7 de noviembre de 2026)
+
+Al corregir la regla 13 quedó claro de dónde salieron las acotaciones sin coma: **no las escribió el autor, las generó el conversor.** `herramientas/convertir-rayas-a-comillas.py`, en el barrido del 17 de octubre, convertía `—¿Quién es el acusado? —preguntó Sena.` en `"¿Quién es el acusado?" preguntó Sena.`: la rama que atiende los cierres en `?` y `!` pegaba la acotación **sin coma**, aunque el verbo fuera de habla. Los cierres en punto sí llevaban coma, y por eso el error se concentró en preguntas y exclamaciones, que es exactamente donde está la mitad del diálogo de esta novela.
+
+**Corregido el 7 de noviembre de 2026.** Ahora el conversor pone `", ` también tras `?` y `!` cuando la acotación es de habla, y sigue dejando `" ` cuando no lo es. Probado con seis casos artificiales, incluidos los tres que ya estaban bien en el texto y el de la acotación que no es de habla (`"¿Y esto?" Se alarmó. "¡¿Qué hice?!"`).
+
+**Por qué importa:** si alguien vuelve a correr el conversor sobre un texto nuevo, ya no reintroduce las 171.

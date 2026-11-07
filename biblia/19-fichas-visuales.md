@@ -81,14 +81,20 @@ Remite a la **sección 15**, que es su ficha completa y la única autoridad sobr
 
 Lo único abierto es **Kazuma**, y no es un problema de descripción sino de lore.
 
-### Kazuma — ⚠️ decisión pendiente del autor
+### Kazuma — ✅ decisión tomada el 7 de noviembre de 2026
 
-**No aparece ni una vez en 77,832 palabras.** No es un olvido: el Volumen 1 adapta los episodios del canon sustituyendo sus hechos por los de Jesús, y eso está anotado como nota de adaptación en la bitácora, no como regla de la obra. Mientras la decisión no esté escrita en la biblia, **no se puede describir a Kazuma ni hacerlo aparecer**, porque cualquier aparición suya obliga a explicar por qué no estuvo en las coles, en el lago ni en el Destructor.
+**Kazuma no existe en esta versión. Jesús ocupó su lugar.** No es una omisión ni un olvido: es una **línea alterna declarada**, elegida por el autor.
 
-Las dos salidas:
+Qué significa, en la práctica:
 
-- **Línea alterna declarada:** Jesús ocupó su lugar, y el lector lo sabe desde una línea temprana.
-- **Kazuma existe y no se cruzaron:** entonces los hechos del canon usados en el Vol. 1 se justifican de otra manera.
+- **Nadie lo nombra nunca.** Ni el narrador, ni Aqua, ni el gremio. No hay «el otro» al que se aluda con guiños cómplices: si se alude, se alude de frente.
+- **Los hechos del canon que ya usó el Volumen 1 son de Jesús.** Las coles, el lago, el Destructor. No hay que justificar nada: son suyos, y la cuadrilla es de cuatro desde el primer día.
+- **El lector tiene que enterarse, y pronto, y dentro del texto.** No en una nota de autor ni en un apéndice. El lugar previsto es el **capítulo 13**, cuando Jesús vuelve al gremio a buscar trabajo y Luna abre el libro de registro: la plaza de aventurero de otro mundo estaba reservada, y llegó él. Se declara sin nombrar a nadie.
+- **Cuidado con el chiste duplicado.** La gracia del original es que Kazuma es un muerto ridículo. Esa carga ya la tiene Jesús, que murió por un tractor y llegó con la playera de las Chivas. No hace falta el doble.
+- **Lo que se gana:** el libro puede usar cualquier episodio del canon sin pedir permiso, y no hay que sostener dos protagonistas.
+- **Lo que se pierde:** el contraste entre los dos muchachos, que era una de las mejores fuentes de comedia del original. Queda asumido por escrito, para que nadie lo redescubra en el capítulo 20 y crea que fue un descuido.
+
+**Regla de escritura derivada:** ninguna escena puede depender de que alguien «debía haber venido». Si una situación del canon exige a Kazuma, se resuelve con Jesús o no se usa. La única excepción es la del capítulo 13, que es justamente la que declara el cambio.
 
 ---
 

@@ -42,7 +42,7 @@ El texto de la novela vive en la carpeta [`novela/`](novela/), separada de la bi
 | --- | --- | --- | --- | --- |
 | 11 | [Capítulo 11](novela/volumen-2/11-capitulo-11.md) | «La verdad en voz alta» | 5,560 | aprobado por el autor |
 | 12 | [Capítulo 12](novela/volumen-2/12-capitulo-12.md) | «La cuenta» | 7,237 | aprobado por el autor |
-| 13 | Capítulo 13 | pendiente de ficha | — | no escrito |
+| 13 | Capítulo 13 | «El libro de registro» *(propuesta)* | — | 🟨 ficha en diseño, pendiente de aprobación |
 
 Documentos de trabajo del volumen: [`volumen-1/FICHAS.md`](novela/volumen-1/FICHAS.md) (fichas de diseño de cada pieza) y [`volumen-2/00-resumen-volumen-1.md`](novela/volumen-2/00-resumen-volumen-1.md) + [`volumen-2/FICHAS.md`](novela/volumen-2/FICHAS.md).
 

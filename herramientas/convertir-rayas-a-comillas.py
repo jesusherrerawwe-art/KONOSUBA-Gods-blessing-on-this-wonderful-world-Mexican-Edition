@@ -82,8 +82,12 @@ def convertir(linea):
                     salida.append('"' + seg[:-1] + '", ')
                 elif seg.endswith('.'):
                     salida.append('"' + seg + '" ')
-                elif seg.endswith(('?', '!', ',', ';')):
-                    salida.append('"' + seg + '" ')
+                elif seg.endswith(('?', '!')):
+                    # 7 nov 2026: faltaba la coma de la acotación de habla.
+                    # Aquí se generaron 171 acotaciones sin coma («"¿Y esto?" dijo»).
+                    salida.append('"' + seg + '", ' if habla else '"' + seg + '" ')
+                elif seg.endswith((',', ';')):
+                    salida.append('"' + seg[:-1] + '", ' if habla else '"' + seg + '" ')
                 elif habla:
                     salida.append('"' + seg + '", ')
                 else:

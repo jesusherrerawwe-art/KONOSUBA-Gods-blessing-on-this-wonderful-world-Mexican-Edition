@@ -27,7 +27,8 @@ Carpeta abierta el **13 de octubre de 2026**, al sellar el Volumen 1 completo (d
 | --- | --- | --- | --- |
 | 11 | 🟩 Aprobado por el autor | La verdad en voz alta | 5,560 palabras. Abre el volumen con **el juicio de Sena**: la acusación, la noche en la celda y el interrogatorio con la campana. Corta cuando la fiscal pide la pena máxima; el juicio, en el 12 |
 | 12 | 🟩 Aprobado por el autor | La cuenta | 7,237 palabras. El juicio completo: la acusación, las defensas que hunden, la campana, el veredicto que se voltea, la condena a muerte, la conmutación por deuda y la confiscación. Cierra con el guante de Darkness |
-| 13 a 20 | ⬜ En blanco | sin título | Sin diseñar |
+| 13 | 🟨 En diseño | «El libro de registro» (propuesta) | Sin escribir. La mañana siguiente a la confiscación: la deuda, el gremio que no contrata a un condenado y **la declaración de la línea alterna** (Jesús ocupó el lugar de Kazuma). Ficha abajo, pendiente de aprobación del autor |
+| 14 a 20 | ⬜ En blanco | sin título | Sin diseñar |
 
 **Leyenda:** ⬜ vacío · 🟨 en diseño · 🟦 en redacción o revisión (pendiente de aprobación del autor) · 🟩 aprobado por el autor, cerrado o fijado.
 
@@ -59,7 +60,8 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 - **Capítulos escritos:** 11 y 12.
 - **Aprobado por el autor:** el capítulo 11 «La verdad en voz alta» (5,560 palabras).
 - **Aprobado por el autor:** el capítulo 12 «La cuenta» (7,237 palabras).
-- **Siguiente paso:** la ficha del capítulo 13.
+- **Ficha del capítulo 13:** escrita el 7 de noviembre de 2026 (**«El libro de registro»**), pendiente de aprobación del autor.
+- **Siguiente paso:** la aprobación de esa ficha y, con ella, la redacción del capítulo.
 
 ---
 
@@ -123,3 +125,39 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 - **Es canon:** la acusación de subversión, la campana, el juez que dicta inocencia y cambia a culpable cuando el demandante protesta, Aqua detectando el poder oscuro y siendo expulsada, la conmutación de la muerte por deuda, la cifra de **mil doscientos cuarenta millones de eris** y la incautación de todos los bienes.
 - **Es invención de esta novela, aprobada por el autor:** (1) que el señor Alderp **reconozca a Darkness sin nombrarla** («Salúdeme a su padre») y que eso explique el cambio de parecer del juez; (2) que Darkness haya ido a verlo la noche anterior **sin armadura** y con un guante de seda; (3) que **Sena venga de un pueblo que no sale en los mapas**. Ninguna de las tres contradice el canon; las tres son material nuevo y se pueden quitar o cambiar sin tocar el resto del juicio.
 - **Regla 7 respetada:** no hay ningún nombre propio nuevo en el capítulo. El juez, el escribano y el comandante quedan sin nombre a propósito.
+
+---
+
+**Capítulo 13 — «El libro de registro»** 📝 *(propuesta de título, pendiente de aprobación)*
+
+> **Estado:** 🟨 en diseño. **No se redacta hasta que el autor apruebe esta ficha** (paso 2 del método).
+
+| Campo | Contenido |
+| --- | --- |
+| **Volumen** | 2 |
+| **Extensión objetivo** | 5,000 a 5,500 palabras (piso 4,000, sin techo) |
+| **Foco** | Jesús, primera persona |
+| **Deseo local** | Que la cuadrilla tenga techo y comida esta noche **sin que nadie más pague por él** |
+| **Obstáculo** | Nadie contrata a un condenado; la posada ya no fía; es invierno; y la única persona con dinero para resolverlo es la única a la que no puede dejar pagar |
+| **Forma** | Siete movimientos: la cuenta de la posada · el tablero de trabajos · el libro de registro · las tres ofertas · el encargo de Wiz · la aritmética del cuaderno · la noche |
+| **Cambio al cierre** | De **deudor solo** a **deudor con una cuadrilla que ya decidió pagar con él**. No se paga nada: se acepta compañía |
+| **Gancho** | El heraldo de Alderp en la puerta de la posada, con una propuesta que Jesús no entiende y el lector sí |
+| **Referencia del canon** | El arranque de la segunda temporada después del juicio: la vida de deudores, los encargos pequeños de invierno. **Por cotejar** contra el episodio antes de redactar. El capítulo, en lo esencial, **es invención de esta novela** y no depende de un episodio concreto |
+| **Rutas** | **Aqua**: no entiende que ser diosa no paga en el mostrador, y ofrece milagros que el gremio no compra. **Megumin**: quiere volar algo para cobrar y la pierna no la deja. **Darkness**: la tentación, «puedo hablar con alguien», y no puede decir con quién. **Wiz**: le da trabajo **sin preguntar por el juicio**, y eso es más raro que si preguntara. **Luna**: la verdad administrativa, sin crueldad |
+| **Objetos** | El libro de registro del gremio · la deuda escrita en el cuaderno del constructor · la llave al cuello · el guante de seda · la nieve · la campana de Sena, oída de lejos |
+| **Continuidad** | Día siguiente a la confiscación del capítulo 12. Invierno. La pierna de Megumin sigue entablillada (segunda o tercera semana). Deuda exacta: **mil doscientos cuarenta millones de eris**; recuperado con los bienes: **tres mil doscientos** |
+
+**Decisiones de escritura propuestas:**
+
+- **La línea alterna se declara en el libro, no en un diálogo explicativo.** Luna pasa la página del registro y hay una línea con un sello: **reservada**. Jesús pregunta. Luna contesta lo mínimo, con la voz de alguien que explica lo mismo veinte veces al mes. Nadie dice «había un muchacho llamado Kazuma», nadie hace un guiño al lector. La plaza estaba apartada desde antes de que él llegara, y llegó él. Con eso el lector entiende el arreglo del mundo entero y la novela sigue caminando. **Es la escena que la decisión del 7 de noviembre necesitaba, y es la razón del título.**
+- **La aritmética es la escena, no el chiste.** Jesús saca el cuaderno del constructor y cuenta en voz alta: lo que entra por un encargo, lo que cuesta una noche de posada, lo que falta. El resultado se escribe y se subraya. El lector hace la cuenta con él y siente el peso. El humor está en la cara de Aqua, no en la cifra.
+- **Ninguna de las tres ofertas se acepta, y las tres duelen.** Aqua ofrece lo que no tiene. Megumin ofrece lo que ya le costó la pierna. Darkness ofrece la casa, y ahí está el problema: aceptarla obliga a Jesús a saber lo que ya sospecha. Dice que no, y el no es el corazón del capítulo.
+- **Wiz contrata sin preguntar.** No menciona el juicio ni la deuda ni la condena. Le da el encargo, le paga por adelantado y le dice que no se le ocurra morirse antes de terminarlo. Jesús sale de la tienda pensando que eso no es normal, y tiene razón.
+- **El capítulo no gana nada.** Termina con la deuda intacta y una noche pagada. La victoria es de otra clase y no se subraya.
+- **Alderp no aparece.** Manda. Su heraldo en la última página abre el arco sin gastar al villano.
+
+**Decisiones que necesitan al autor antes de redactar:**
+
+1. **¿Qué propone Alderp en la última página?** Dos opciones y las dos son defendibles: **(A)** la mansión que le quitó al pueblo, «para que el muchacho condenado no duerma en la calle», que es la trampa del canon y deja a Jesús viviendo dentro de la boca del lobo; **(B)** trabajo pagado a cuenta de la deuda, que es más limpio pero menos divertido. La A es mejor novela y peor para el personaje; la B es al revés.
+2. **¿Cuánto le paga Wiz por adelantado?** Una cifra ridícula o una cifra justa cambian el tono del capítulo entero.
+3. **¿Jesús le dice a Darkness que sabe?** No hace falta que lo diga, pero hay que decidir si sospecha en voz alta una vez, o si se calla hasta el capítulo del secreto.
