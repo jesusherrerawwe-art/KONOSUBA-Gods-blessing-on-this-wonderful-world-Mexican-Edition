@@ -140,6 +140,21 @@ Cómo se escribe desde ahora, en todo capítulo nuevo y en toda corrección:
 
 **Aplicación (17 de octubre de 2026):** se convirtieron las **doce piezas del Vol. 1** y los **capítulos 11 y 12** con un conversor revisado a mano. Resultado: **0 rayas**, comillas pares, y **las mismas palabras** que antes (los conteos no se movieron: 91,109 en total). El resumen `volumen-2/00-resumen-volumen-1.md` también se limpió. Los `FICHAS.md` **conservan rayas** porque son documentos de trabajo. `revisar-capitulos.py` ahora **marca falta** por cualquier raya en una pieza narrativa y por comillas impares.
 
+**Regla 13 (7 de noviembre de 2026, revisión de las catorce piezas): coma obligatoria antes de la acotación.**
+
+El discurso entre comillas cierra y **la coma va antes del verbo de habla**, siempre. No hay excepción por signo: también cuando el diálogo termina en interrogación o exclamación.
+
+- Correcto: `"¿Se lo devuelvo?", preguntó.` · `"No", dijo.` · `"Es que...", empezó.`
+- Incorrecto: `"¿Se lo devuelvo?" preguntó.` · `"No" dijo.`
+
+**Qué se corrigió.** Ciento setenta y una acotaciones repartidas en trece de las catorce piezas (prólogo 0; capítulos 1 a 10: 12, 14, 23, 19, 18, 11, 17, 6, 19, 6; epílogo 11; capítulos 11 y 12: 3 y 12). **No se movió ni una palabra:** los conteos siguen idénticos, 65,035 en el Volumen 1 y 77,832 en total. La regla se aplicó con un conversor automático y después se verificaron una por una las diecisiete formas verbales afectadas (`dijo`, `preguntó`, `gritó`, `le pregunté`, `me preguntó`, `dije`, `me dijo`, entre otras) para descartar falsos positivos.
+
+**Formato del título.** En la misma pasada se retiró la almohadilla de Markdown del renglón del título en las once piezas del Volumen 1 que la llevaban: el encabezado va en **texto plano**, como ya estaba en el prólogo y en los capítulos 11 y 12, y como pide la regla 1.
+
+**Corrección de un diagnóstico anterior.** En la revisión se habían señalado tres supuestas violaciones de la regla 9 (lo mexicano solo en la voz de Jesús). Al releer el contexto, **dos eran diálogo de Jesús** y por tanto legales («Nomás que la mía no la estaban partiendo», capítulo 5; «nomás las quita el que las puso. Y ahorita él es el único», capítulo 7). La única violación real era del señor barbón, en el capítulo 7: «para qué carajos abrimos la puerta» pasó a **«para qué rayos abrimos la puerta»**.
+
+`revisar-capitulos.py` ahora **marca falta** por acotación sin coma y por almohadilla en el título, además de lo que ya revisaba.
+
 ## Tablero del Volumen 1 (capítulos 1–10)
 
 | Cap. | Estado | Título | Nota |

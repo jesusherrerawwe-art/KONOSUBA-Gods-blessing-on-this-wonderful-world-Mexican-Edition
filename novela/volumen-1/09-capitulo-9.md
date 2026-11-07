@@ -1,4 +1,4 @@
-﻿# Capítulo 9. El camino del norte
+﻿Capítulo 9. El camino del norte
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Volumen 1, capítulo 9. Extensión: 8,343 palabras. Estado: aprobado por el autor.
@@ -37,7 +37,7 @@ El tablero de papel tenía tres cosas pegadas. Dos eran de siempre: una cerca ca
 
 Las tres voltearon a verme. Yo también me sorprendí un poquito. Pero ya lo había pensado en el pasillo de la bodega, con las tapas de los cajones abiertas: la sal que no llega es la sal de todo el mundo. La señora del pan lleva tres semanas comprando la harina del sur, más cara, y hace el pan más chico; el padre Aldo ya no tiene qué darle a los que se le mueren de frío en la escalera del templo; y doña Hilda, que no se queja nunca, me había preguntado por la sal con una voz que no le conocía.
 
-"¿Y el frío?" preguntó Darkness, con los ojos brillantes. "Dicen que en el paso la nieve te llega a la rodilla y que el viento corta. Se puede dormir a la intemperie, si uno se mueve cada dos horas."
+"¿Y el frío?", preguntó Darkness, con los ojos brillantes. "Dicen que en el paso la nieve te llega a la rodilla y que el viento corta. Se puede dormir a la intemperie, si uno se mueve cada dos horas."
 
 "Puedes dormir donde quieras, Darkness, pero primero vamos a preguntar a los que saben."
 
@@ -51,7 +51,7 @@ Y Darkness se la echó al hombro, con una cara de felicidad que a mí me dio un 
 
 Así que ahí, con Darkness y su espada soldada al hombro, nos apuntamos los cuatro, y cuando Luna escribió el nombre de Jesús, que soy yo, levantó la pluma y me miró un segundo de más.
 
-"¿Los cuatro?" dijo.
+"¿Los cuatro?", dijo.
 
 "Los cuatro."
 
@@ -74,7 +74,7 @@ Yo me quedé viendo el letrero. Diez por ciento de descuento, en la puerta de la
 
 "Cuidado", dije.
 
-"¿Con qué?" preguntó Megumin.
+"¿Con qué?", preguntó Megumin.
 
 "No sé. Con ese descuento."
 
@@ -88,7 +88,7 @@ La señora se enderezó de un solo movimiento, como si le hubieran picado algo, 
 
 Era blanca, de una blancura que no era la del frío, y tenía el pelo castaño, largo y ondulado, con un mechón que se le caía sobre un ojo, y un pelo chiquito que se le paraba en la coronilla como una antena. Traía un vestido morado claro debajo de una sobreveste morada oscura, con un broche dorado de alas de murciélago prendido en el pecho, y se veía, no sé cómo decirlo, cansada de una manera antigua.
 
-"¿En qué les puedo servir?" preguntó. "Tengo cuerdas, tengo clavos, tengo lámparas..."
+"¿En qué les puedo servir?", preguntó. "Tengo cuerdas, tengo clavos, tengo lámparas..."
 
 "Tengo una pregunta", dije. "¿Usted es la señora Wiz?"
 
@@ -108,7 +108,7 @@ Y en eso, Aqua hizo lo que yo ya me temía: se levantó el dobladillo de la fald
 
 "Apártate, Jesús", dijo, con una voz que no le había oído nunca. "Esa cosa está muerta."
 
-"¿Perdón?" dijo Wiz.
+"¿Perdón?", dijo Wiz.
 
 "¡Está muerta! ¡Muerta! ¿No la hueles? ¡Se le ve la magia de todos los colores menos el que debería! ¡Es una liche! ¡Jesús, es una liche! ¡Es una no-muerta!"
 
@@ -142,7 +142,7 @@ Cuando Aqua se quedó sin aire, Wiz dijo:
 
 "No soy de las que atacan, de veras. Yo ayudo a la gente que se queda." Y se señaló el pecho, el broche de murciélago. "Soy liche, sí. Pero de las que acompañan, no de las que se comen."
 
-"¿Y por qué tienes una tienda?" preguntó Megumin.
+"¿Y por qué tienes una tienda?", preguntó Megumin.
 
 "Porque me gusta vender." Y se puso colorada, cosa que en una liche es rarísima. "Bueno, me gusta tener la tienda. Vender, vender... vender no se me da mucho."
 
@@ -150,7 +150,7 @@ Cuando Aqua se quedó sin aire, Wiz dijo:
 
 "Es el camino", dijo Wiz, y por primera vez se le puso la cara triste. "Todo lo de esta tienda viene del norte. Y hace dieciséis días que no llega nada. Ni a mí, ni a nadie."
 
-"¿Y no te da miedo quedarte sola?" le preguntó Megumin.
+"¿Y no te da miedo quedarte sola?", le preguntó Megumin.
 
 Y la señora Wiz se quedó callada un ratito, y luego dijo:
 
@@ -248,7 +248,7 @@ Yo apreté, cerré los ojos, y lo sentí.
 
 No lo puedo explicar, pero lo sentí: Aqua era un río. Un río abierto de esos que no caben en la mirada, que se te sale de las manos, que te empuja. Megumin era una antorcha cerrada en un cuarto de madera: mucho, muchísimo, todo junto y todo detenido. Darkness era un muro: como cuando uno pone la mano en la pared y la pared está tibia, y uno se da cuenta de que la casa está viva.
 
-"¿Qué se siente?" preguntó Wiz.
+"¿Qué se siente?", preguntó Wiz.
 
 "Que Aqua es un río", dije. "Que Megumin es una lámpara y que Darkness es una casa."
 
@@ -264,7 +264,7 @@ Y luego nos hizo probar de verdad, y ahí vino lo que a mí me importaba.
 
 Porque, mi hermano, a mí me salió con Aqua. Le agarré la mano, apreté, y no hice nada más que pensar en que quería sacar un poquito de ese río, y Aqua se sentó de golpe en un cajón y se quedó con la boca abierta.
 
-"¡¿Qué fue eso?!" gritó.
+"¡¿Qué fue eso?!", gritó.
 
 "No sé. Lo siento."
 
@@ -276,7 +276,7 @@ Porque, mi hermano, a mí me salió con Aqua. Le agarré la mano, apreté, y no 
 
 Y luego me la pasó a Darkness, porque ahí es donde estaba el problema: cuando Wiz dijo que podía pasárselo a otra persona, Darkness levantó la mano como en la escuela.
 
-"¿Aunque sea dolor?" preguntó.
+"¿Aunque sea dolor?", preguntó.
 
 "Sobre todo el dolor", dijo Wiz. "El dolor se pasa más fácil que nada."
 
@@ -424,7 +424,7 @@ Eran cuatro carretas y ocho personas: Fermín; su hijo Tomás, que tenía una he
 
 Y todos, incluido yo, volteamos a ver a Megumin.
 
-"¿Cuál explosión?" dijo Megumin, con mucha dignidad.
+"¿Cuál explosión?", dijo Megumin, con mucha dignidad.
 
 "La del cerro", dijo Elvira. "La del verano. Dicen en el camino que una muchacha de Axel tiró un cerro abajo con un solo trueno, y que se oye desde tres pueblos."
 
@@ -464,7 +464,7 @@ Estaba a treinta pasos de la venta, y era un hoyo redondo, hondo, de esos que un
 
 Los hoyos subían a la loma. Yo levanté la cara y los seguí con la vista, y la vista, la vista se me fue hasta arriba de la loma y del otro lado, y ahí ya no se veía nada, porque estaba el bosque y estaba la nieve.
 
-"¿Y qué era?" pregunté.
+"¿Y qué era?", pregunté.
 
 "No lo sé", dijo Fermín. "Pero se lo voy a decir como se lo dije a mi hijo: no era un animal."
 
@@ -480,7 +480,7 @@ Todos volteamos.
 
 "Yo lo vi", repitió Elvira, y se le puso la voz chiquita. "Me levanté a la madrugada porque el perro estaba llorando, y abrí la puerta de la venta y lo vi al final del camino, bajando para el valle. Era..."
 
-"¿Qué era?" dijo Megumin, sin respirar.
+"¿Qué era?", dijo Megumin, sin respirar.
 
 "Era una casa", dijo Elvira. "Una casa con patas."
 
@@ -488,7 +488,7 @@ Y luego contó lo que yo les voy a contar con las palabras de ella, porque las m
 
 "Era una cosa grandísima, más alta que la muralla de Axel, seguro, y tenía patas, como las de una araña, pero de piedra y de hierro, y las patas eran largas, largas. Y caminaba parejo, pesado, pero no lento. Saben cómo caminan los carreteros cuando van cargando algo y no lo quieren tirar. Así caminaba. Y arriba de las patas había como una casa, con torres, y tenía ojos."
 
-"¿Ojos?" dije.
+"¿Ojos?", dije.
 
 "Muchos ojos", dijo Elvira. "Chiquitos, en una parte como de cabeza, y todos quietos, y ninguno me volteó a ver. Pero yo sentí que me veía. Y sentí otra cosa."
 
@@ -500,7 +500,7 @@ Y Elvira se quedó viendo el piso, y dijo:
 
 Y en la nieve, mi hermano, se hizo un silencio que no era del viento.
 
-"¿Para dónde bajó?" preguntó Wiz.
+"¿Para dónde bajó?", preguntó Wiz.
 
 "Para el sur", dijo Fermín. "Por el camino."
 
@@ -514,17 +514,17 @@ Estaba blanca, más blanca que de costumbre, y tenía las dos manos apretadas en
 
 "Yo conozco esa cosa", dijo. "Yo la vi una vez, cuando era niña, hace mucho. Es la Fortaleza Móvil."
 
-"¿La qué?" dijo Aqua.
+"¿La qué?", dijo Aqua.
 
 "La Fortaleza Móvil. Es una máquina que hace muchísimos años que camina. En el reino del norte la construyeron para una guerra que ya se acabó, y la dejaron andando, y desde entonces camina y pisa lo que encuentra." Wiz levantó la cara, y me acuerdo de que en ese momento dejó de parecer una tendera. "Cuando yo era niña, pasó por el pueblo donde yo nací. Y no se pelea con ella. Eso lo aprendí entonces, y lo he visto escrito dos veces, y cada vez que lo veo escrito me dan ganas de llorar. No se pelea con ella: se le quita uno del camino."
 
-"¿Y si uno no se quita?" dijo Darkness.
+"¿Y si uno no se quita?", dijo Darkness.
 
 Y Wiz la vio, con la cara de alguien que ya vio la respuesta, y dijo:
 
 "Uno se quita."
 
-"¿Y para dónde va?" preguntó Megumin.
+"¿Y para dónde va?", preguntó Megumin.
 
 "A ningún lado", dijo Wiz. "Va pasando. Yo creo que ya ni sabe que camina."
 
@@ -624,7 +624,7 @@ Menos una cosa.
 
 Luna escuchó lo del camino roto y anotó. Escuchó lo de las carretas y anotó. Escuchó lo del puente de hielo y se quedó un momento con la pluma en el aire, y luego anotó. Y cuando Fermín contó lo del ruido de molino, y Elvira contó lo de la casa con patas, y yo conté lo de los hoyos del tamaño de una carreta, Luna cerró el libro de golpe.
 
-"¿Qué?" dije.
+"¿Qué?", dije.
 
 "Nada." Y luego: "Espérenme aquí."
 

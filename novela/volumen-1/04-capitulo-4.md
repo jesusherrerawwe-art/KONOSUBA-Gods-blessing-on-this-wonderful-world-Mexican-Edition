@@ -1,4 +1,4 @@
-﻿# Capítulo 4. La gente que se pone enfrente
+﻿Capítulo 4. La gente que se pone enfrente
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Volumen 1, capítulo 4. Extensión: 5,077 palabras. Estado: aprobado por el autor.
@@ -9,7 +9,7 @@ La cruzada se llamaba Darkness.
 
 Eso fue lo que me dijo cuando le pregunté su nombre. Nada más eso. Una palabra, en voz de teatro, como si estuviera anunciando el título de una ópera.
 
-"¿Y tu apellido?" le pregunté.
+"¿Y tu apellido?", le pregunté.
 
 "Darkness."
 
@@ -27,7 +27,7 @@ Estaba lloviendo. No fuerte, nomás esa lluvia tonta que cae de lado.
 
 Y Darkness estaba parada en medio del patio, con la armadura puesta, empapándose, con los brazos abiertos.
 
-"¿Qué haces?" le pregunté.
+"¿Qué haces?", le pregunté.
 
 "Acostumbrarme", dijo.
 
@@ -45,7 +45,7 @@ Y Darkness se estremeció.
 
 Se estremeció completa, de los pies a la cabeza, y puso una cara que yo no le había visto a nadie en la vida.
 
-"...¿Me está regañando?" preguntó, con una vocecita.
+"...¿Me está regañando?", preguntó, con una vocecita.
 
 "¡Pues claro que la estoy regañando!"
 
@@ -65,7 +65,7 @@ Después de eso, doña Hilda le puso los barriles.
 
 Yo había tardado media hora en bajar dos, por partes, con mucha técnica y muy poco resultado. Darkness bajó cuatro, cargados en los dos hombros, subiendo la escalera, y no se le movió ni el fleco.
 
-"¡Gracias! ¡Gracias!" le decía a doña Hilda. "¡Si necesitas que haga algo más, dime, y gritándome!"
+"¡Gracias! ¡Gracias!", le decía a doña Hilda. "¡Si necesitas que haga algo más, dime, y gritándome!"
 
 "¡Estás loca!"
 
@@ -97,7 +97,7 @@ Yo me quedé viendo la hoja. Y me dio una cosa rara, algo parecido a lo que me d
 
 Y ahí, mi hermano, ahí empezó una discusión que duró como cuarenta minutos.
 
-"¡Los Heraldos del Agua!" dijo Aqua.
+"¡Los Heraldos del Agua!", dijo Aqua.
 
 "No."
 
@@ -107,13 +107,13 @@ Y ahí, mi hermano, ahí empezó una discusión que duró como cuarenta minutos.
 
 "¡Estabas cerca!"
 
-"¡La Explosión!" dijo Megumin, subiéndose a la banca. "¡Le ponemos «La Explosión»!"
+"¡La Explosión!", dijo Megumin, subiéndose a la banca. "¡Le ponemos «La Explosión»!"
 
 "Eso no es un grupo, es una magia."
 
 "¡Es un concepto!"
 
-"¡Yo propongo la Orden de la Luz!" dijo Darkness, con la mano en el pecho. "¡Es un nombre noble, honrado y con historia!"
+"¡Yo propongo la Orden de la Luz!", dijo Darkness, con la mano en el pecho. "¡Es un nombre noble, honrado y con historia!"
 
 "Suena a iglesia."
 
@@ -123,9 +123,9 @@ Y ahí, mi hermano, ahí empezó una discusión que duró como cuarenta minutos.
 
 Y yo ahí, sentado, escuchándolas, y de repente me di cuenta de que no estaba escuchando el pleito. Estaba escuchando que había alguien con quien pleitear. Que en mi cuarto yo nunca había tenido con quién discutir una cosa de nada, porque enfrente de mí había una pared, y la pared nunca quiso ponerle nombre a nada.
 
-"¡A ver!" dijo Luna, y nos callamos los cuatro. "Les voy a decir algo, y les voy a decir algo de gratis, porque me cae bien el niño nuevo."
+"¡A ver!", dijo Luna, y nos callamos los cuatro. "Les voy a decir algo, y les voy a decir algo de gratis, porque me cae bien el niño nuevo."
 
-"¿Qué nombre le pondrías tú?" le pregunté.
+"¿Qué nombre le pondrías tú?", le pregunté.
 
 "Yo no le pongo nombres a los grupos." Y luego, bajito: "Se los pongo con la pluma nada más cuando alguien se muere."
 
@@ -145,7 +145,7 @@ Me quedé callado.
 
 "Todavía no." Y sonrió con una sonrisa de mucho cariño. "Los apodos se pegan solos, cuando uno no está viendo, y casi siempre en el peor momento."
 
-"¡Yo quiero un apodo!" dijo Aqua. "¡«La Diosa»!"
+"¡Yo quiero un apodo!", dijo Aqua. "¡«La Diosa»!"
 
 "Perdón, pero los apodos de aquí son como «el Cojo», «el Chico», «el de la Jarra»", dijo Luna. "La gente de este pueblo no es muy poética."
 
@@ -177,7 +177,7 @@ Aviso de temporada. Cabezas voladoras.
 
 «El gremio repartirá redes y canastos. El que no entregue redes al final de la temporada pagará las redes.»
 
-"¿Qué es esto?" pregunté.
+"¿Qué es esto?", pregunté.
 
 Y me explicaron, entre los tres, y me tomó un rato entender.
 
@@ -347,7 +347,7 @@ Y luego el cielo, en el horizonte, se movió.
 
 No se oscureció. Se movió. Como cuando uno ve la lluvia venir de lejos, nada más que la lluvia era verde.
 
-"¡Ahí vienen!" gritó alguien.
+"¡Ahí vienen!", gritó alguien.
 
 Y yo quería decir que exagera la gente. Como me pasó con los sapos, que uno oye «sapo gigante» y piensa en un sapo grandote.
 
@@ -355,7 +355,7 @@ Y luego se te viene encima una cabeza de col del tamaño de un perro.
 
 Y te das cuenta de que la palabra «col» no te estaba contando nada.
 
-"¡Agárrala!" me gritó Aqua.
+"¡Agárrala!", me gritó Aqua.
 
 "¡¿Cómo?!"
 
@@ -381,7 +381,7 @@ Y luego una col grande.
 
 Y luego un zapato.
 
-"¡Ese zapato es mío!" me dijo un señor.
+"¡Ese zapato es mío!", me dijo un señor.
 
 "Perdón."
 
@@ -439,7 +439,7 @@ Y a la que le tuve miedo de verdad, la que se me metió en el pecho y me calent�
 
 La encontré a la media hora, ayudando a levantar un carro volcado, con la armadura abollada en dos lados.
 
-"¡Oye!" le grité.
+"¡Oye!", le grité.
 
 Se volteó, felicísima.
 
@@ -459,7 +459,7 @@ Darkness bajó el carro, se lo pasó a los señores, y me miró como si yo acaba
 
 "...¿Pero esa es mi función?"
 
-"¡Es que había una niña!" dije, y me di cuenta de que estaba gritando, y de que yo nunca grito, y de que no pude parar. "¡Ibas a...! ¡Te pegó en el pecho! ¡Con todo! ¡Y te reíste!"
+"¡Es que había una niña!", dije, y me di cuenta de que estaba gritando, y de que yo nunca grito, y de que no pude parar. "¡Ibas a...! ¡Te pegó en el pecho! ¡Con todo! ¡Y te reíste!"
 
 Darkness se quedó muy quieta.
 
@@ -529,7 +529,7 @@ Y el cielo, en una parte muy chiquita del cielo, se puso naranja.
 
 Y yo me volteé, y en una colina a doscientos metros había una nube de polvo del tamaño de una casa, y en la orilla de esa nube había una silueta con un sombrero.
 
-"¡Megumin!" grité.
+"¡Megumin!", grité.
 
 Y Aqua, que venía corriendo desde el otro lado con una col en la cabeza y el pelo hecho un desastre, me dijo, sin aire:
 
@@ -539,7 +539,7 @@ Y yo corrí.
 
 Llegué y ya estaba tirada en el pasto, con el sombrero de lado y el bastón a dos metros, y con la cara más feliz que le he visto a una persona.
 
-"¿Viste el humo?" me preguntó.
+"¿Viste el humo?", me preguntó.
 
 "Te dije que la guardaras."
 
@@ -563,7 +563,7 @@ Ahí, en el mostrador, con Luna contando de a montoncitos, con las cuatro cartas
 
 "Cuarenta y dos cabezas", dijo Luna. "Entrega limpia. Y como el señor Baltasar me acaba de decir que ese carro del camino real salvó la carga del día, les voy a agregar un extra por el servicio."
 
-"¡Un extra!" dijo Aqua. "¡Un extra!"
+"¡Un extra!", dijo Aqua. "¡Un extra!"
 
 "Cuatrocientas. Y no me lo agradezca, que le veo la cara."
 

@@ -22,6 +22,7 @@ Esta carpeta reúne la biblia de referencia para desarrollar una novela ligera o
 16. [Método de trabajo: el ciclo de capítulo](16-metodo-de-trabajo.md)
 17. [Bitácora de continuidad](17-bitacora-continuidad.md)
 18. [Estándares de extensión y formato de una novela ligera](18-estandares-novela-ligera.md)
+19. [Fichas visuales: cómo se ve cada personaje](19-fichas-visuales.md)
 
 Las secciones 1 a 11 documentan el universo de referencia.
 
@@ -31,7 +32,9 @@ Las secciones 16 y 17 son de **producción**: la 16 explica el método de trabaj
 
 La sección 18 es de **calibración**: reúne los datos publicados sobre extensión, estructura y estilo de una novela ligera genuina, con las fuentes, para fijar el tamaño de los capítulos antes de redactar.
 
-Ninguna de las secciones 12 a 18 es canon.
+La sección 19 es de **escritura**: las fichas visuales, con los rasgos canónicos de cada personaje, la línea exacta donde se le describe por primera vez y lo que no debe repetirse. Existe porque la revisión del 7 de noviembre de 2026 encontró que Megumin y Darkness no tenían una sola descripción física en 77,832 palabras.
+
+Ninguna de las secciones 12 a 19 es canon.
 
 ## Cómo leerla
 

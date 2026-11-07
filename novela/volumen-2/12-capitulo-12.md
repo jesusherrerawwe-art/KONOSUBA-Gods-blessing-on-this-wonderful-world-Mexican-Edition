@@ -31,7 +31,7 @@ Era un pan.
 
 Era un guante. Un guante de metal, de esos que se abrochan con correa, con los dedos huecos y con la muñeca abollada de un golpe viejo.
 
-"¿Se lo devuelvo?" preguntó.
+"¿Se lo devuelvo?", preguntó.
 
 "Démelo", dije. "Yo se lo doy."
 
@@ -123,7 +123,7 @@ El juez se rascó la barbilla.
 
 Y ahí el pueblo habló.
 
-"¡Él salvó la ciudad!" gritó el señor barbón, y se paró, y la mitad de la sala se paró con él.
+"¡Él salvó la ciudad!", gritó el señor barbón, y se paró, y la mitad de la sala se paró con él.
 
 El martillo dio tres golpes.
 
@@ -161,7 +161,7 @@ El capitán se quedó con la boca abierta.
 
 "Doña Hilda, usted declara que él le dijo que subiera a los huéspedes." Y leyó: "«Él me dijo que no era seguro el cuarto de arriba.»". Y otra vez levantó la cara. "Es decir, que el acusado sabía lo que iba a pasar y cuándo, y no lo dijo hasta el último momento."
 
-"¡Es que no lo sabía!" grité yo, y me salió más fuerte de lo que quería, y el tribunal entero se volteó. "¡Si lo hubiera sabido, lo hubiera dicho antes!"
+"¡Es que no lo sabía!", grité yo, y me salió más fuerte de lo que quería, y el tribunal entero se volteó. "¡Si lo hubiera sabido, lo hubiera dicho antes!"
 
 "Señoría", dijo Sena, sin voltear a verme. "El acusado acaba de declarar, delante de todos, que no informó a las autoridades." Y escribió. "Anotado."
 
@@ -177,7 +177,7 @@ Y la señora Sena los escuchó a todos, uno por uno, y convirtió cada abrazo en
 
 Cuando terminó, la sala estaba callada, y el juez tenía la cara de alguien que ya se había perdido dos veces en el mismo camino.
 
-"¿La defensa?" dijo.
+"¿La defensa?", dijo.
 
 Y Aqua se paró.
 
@@ -321,7 +321,7 @@ Y la campana sonó.
 
 Una sola vez. Un sonido chiquito y claro, como cuando uno le da con la uña a un vaso, y yo me quedé helado, y la señora Sena levantó la cara, y la sala entera contuvo el aire.
 
-"¿Le tiene miedo a alguien?" preguntó Sena.
+"¿Le tiene miedo a alguien?", preguntó Sena.
 
 Y yo, que acababa de decir la única mentira que había dicho en mi vida delante de esa campana, contesté la verdad:
 
@@ -521,11 +521,11 @@ Y Alderp, muy tranquilo, dijo:
 
 Y la señora Sena abrió la boca, y la cerró, y no dijo nada, porque en ese momento se dio cuenta, igual que yo, de que estaba sola en una sala llena de gente y de que la ley que ella defendía no era de ella.
 
-"¿Y el pueblo?" dije yo.
+"¿Y el pueblo?", dije yo.
 
 Todos se voltearon.
 
-"¿Qué pueblo?" dijo el juez.
+"¿Qué pueblo?", dijo el juez.
 
 "El pueblo." Y me paré, con las manos amarradas. "La señora Sena dijo que había treinta y ocho casas. Yo quiero saber si alguna de esas treinta y ocho casas va a pagar algo."
 
@@ -585,7 +585,7 @@ A las cuatro de la tarde me pasaron de la sala a un cuarto chiquito del fondo de
 
 Y los papeles decían cosas que yo no entendía, con sellos y con fechas, y en el último estaba escrito, con una letra apretada que no era de este mundo, que yo, Jesús Fujioka Hernández, me comprometía a pagar la cantidad de mil doscientos cuarenta millones de eris en un plazo de... y ahí había un espacio en blanco, y el escribano puso «a la brevedad».
 
-"¿Qué quiere decir a la brevedad?" pregunté.
+"¿Qué quiere decir a la brevedad?", pregunté.
 
 "Que pronto."
 
@@ -605,7 +605,7 @@ Y luego firmé otra cosa, y otra, y otra, y a la última el escribano me dijo, s
 
 Y me explicó, con la misma voz con la que se lee una lista del mercado, que la corona se quedaba con todo lo que yo tuviera, y que si no alcanzaba, se quedaba con lo que tuvieran los de mi casa, y que si no alcanzaba, se quedaba con lo que yo ganara, y que todo lo que yo ganara, hasta que se pagara la cuenta, era de la corona.
 
-"¿Y si me muero?" pregunté.
+"¿Y si me muero?", pregunté.
 
 "Entonces la deuda pasa a sus herederos."
 
@@ -631,7 +631,7 @@ Eso era todo.
 
 Uno de los caballeros, el más joven, se rascó la nuca.
 
-"¿Y el oro?" dijo.
+"¿Y el oro?", dijo.
 
 "No tenemos oro."
 
@@ -655,7 +655,7 @@ Y anotaron todo.
 
 Anotaron la playera. Anotaron la llave. Anotaron el celular, con la descripción «piedra negra, lisa, sin uso conocido». Anotaron el suéter, y cuando el caballero joven lo levantó, el cuaderno del constructor se cayó al piso y se abrió en la última hoja, y yo me quedé viendo la firma que había puesto ahí, la que decía «No eres el único», y sentí una cosa en el pecho como cuando a uno se le rompe una costilla.
 
-"¿Y esto?" dijo el joven, con el cuaderno en la mano.
+"¿Y esto?", dijo el joven, con el cuaderno en la mano.
 
 "Un cuaderno."
 
@@ -775,7 +775,7 @@ Traía una túnica oscura y un chal prestado, y el pelo suelto, y las manos desn
 
 Y no dijo nada más. Se quedó ahí, en el pasillo, con la luz de la vela dándole en la cara y con las uñas mordidas, y yo me di cuenta de que en un mes y medio nunca le había visto las manos.
 
-"¿Entras?" dije.
+"¿Entras?", dije.
 
 "No."
 

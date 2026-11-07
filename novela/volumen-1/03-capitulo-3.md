@@ -1,4 +1,4 @@
-﻿# Capítulo 3. La muchacha que hacía temblar los cerros
+﻿Capítulo 3. La muchacha que hacía temblar los cerros
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Volumen 1, capítulo 3. Extensión: 5,490 palabras. Estado: aprobado por el autor.
@@ -13,7 +13,7 @@ Era un trabajo bueno. No pagaba nada, pero era bueno.
 
 Lo único malo era Aqua.
 
-"¿Y ahora qué te pasa?" le pregunté, cuando la encontré en la puerta del gremio con la cara de una persona ofendida por el universo.
+"¿Y ahora qué te pasa?", le pregunté, cuando la encontré en la puerta del gremio con la cara de una persona ofendida por el universo.
 
 "Que no me creen."
 
@@ -87,7 +87,7 @@ Me acerqué a la mesa del señor barbón, el que había dicho que él era un pr�
 
 Me acerqué a un señor enorme, de esos que uno ve y piensa que ahí sí.
 
-"¿Sapos?" me dijo. "¿Sapos chicos o sapos abuelos?"
+"¿Sapos?", me dijo. "¿Sapos chicos o sapos abuelos?"
 
 "...¿Qué es la diferencia?"
 
@@ -229,7 +229,7 @@ Lo dijo con las orejas rojas. Se le pusieron las orejas rojas y ella se tapó la
 
 Y a mí me empezó a gustar mucho esta muchacha.
 
-"Y entonces, ¿por qué nosotros?" le pregunté.
+"Y entonces, ¿por qué nosotros?", le pregunté.
 
 "Porque tú me viste."
 
@@ -255,7 +255,7 @@ Ahora ya sabía por qué.
 
 "Más o menos."
 
-"¡Ah!" dijo Megumin, y levantó el dedo como si hubiera ganado un juicio. "¡Pero tú apuntaste! ¡Es distinto! ¡Los que apuntan buscan cosas!"
+"¡Ah!", dijo Megumin, y levantó el dedo como si hubiera ganado un juicio. "¡Pero tú apuntaste! ¡Es distinto! ¡Los que apuntan buscan cosas!"
 
 Le dio otro trago a la sopa, se limpió la boca, se puso el sombrero otra vez, y me tendió la mano.
 
@@ -275,7 +275,7 @@ Y yo, que llevaba quince años sin saber decir que no, le dije:
 
 "¡Es una niña con sombrero!"
 
-"¡Él dijo sí!" dijo Megumin, y le dio la mano a Aqua, y se la apretó, y Aqua gritó porque Megumin apretaba fuerte, y yo me tapé la boca con la mano porque me estaba dando risa, y ahí, sin firmar nada y sin saber lo que estaba haciendo, decidí sin saberlo que esa niña con sombrero iba a ser mi amiga.
+"¡Él dijo sí!", dijo Megumin, y le dio la mano a Aqua, y se la apretó, y Aqua gritó porque Megumin apretaba fuerte, y yo me tapé la boca con la mano porque me estaba dando risa, y ahí, sin firmar nada y sin saber lo que estaba haciendo, decidí sin saberlo que esa niña con sombrero iba a ser mi amiga.
 
 Y ahora que lo pienso: qué bueno que no me preguntaron.
 
@@ -299,7 +299,7 @@ El papelito decía:
 
 «Firma aquí abajo, en el renglón. Ponga su nombre completo y la fecha.»
 
-"¿Qué es esto?" pregunté.
+"¿Qué es esto?", pregunté.
 
 "Un papel que inventé...", se corrigió sola. "...que redacté hace dos años", dijo Luna. "Cada vez que alguien quiere salir con menos gente de la que debería. Yo lo redacté. Yo lo odio. Y yo lo tengo que dar."
 
@@ -347,7 +347,7 @@ Cuando llegamos al valle, ella sacó su bastón, un bastón de madera con una pi
 
 "Escúchenme bien. Yo nada más puedo lanzar una vez. Una. Y cuando la lanzo, me quedo sin nada", y levantó una mano antes de que yo dijera nada. "No me digan que la use para defenderme, porque no puedo. No me digan que la lance al principio, porque no puedo. Y no me digan que la lance al final, porque tampoco. Yo la lanzo cuando yo diga."
 
-"¿Y cuándo dices tú?" le pregunté.
+"¿Y cuándo dices tú?", le pregunté.
 
 Megumin me vio muy seria.
 
@@ -361,7 +361,7 @@ Aqua se paró a su lado.
 
 "Bueno, yo también tengo una cosa que decir. Yo sé curar, sé purificar el agua, sé ahuyentar muertos y sé bendecir cosas. Y nada más puedo hacer todo eso si no me agarra un sapo."
 
-"¡Eso no es una regla!" dijo Megumin.
+"¡Eso no es una regla!", dijo Megumin.
 
 "¡Es mi regla! ¡Y es la única que tengo!"
 
@@ -373,7 +373,7 @@ Salió del pasto alto, sin ruido, sin anuncio. Era un sapo del tamaño de un pue
 
 Y el sapo no nos atacó. Nomás se quedó ahí, mirándonos, y yo entendí lo que me había dicho el señor de la palmada: que uno piensa que tiene tiempo.
 
-"¿Y ahora?" dijo Aqua.
+"¿Y ahora?", dijo Aqua.
 
 "Ahora", dijo Megumin. "Aparte."
 
@@ -403,7 +403,7 @@ En su lugar había un cráter, del tamaño de un cuarto, con el fondo negrito y 
 
 Y diez metros atrás, sentada en el pasto, con el sombrero de lado y el bastón tirado, estaba Megumin.
 
-"¡¿Ya viste?!" me gritó, con los ojos rojos abiertos como platos. "¡¿Ya viste?!"
+"¡¿Ya viste?!", me gritó, con los ojos rojos abiertos como platos. "¡¿Ya viste?!"
 
 "¡Sí!"
 
@@ -451,7 +451,7 @@ Yo bajé a Megumin y la dejé recargada en la piedra, y le dije que no se movier
 
 Y Aqua se puso a hacer lo que hace Aqua, que es gritar cosas técnicas.
 
-"¡Purificación de agua superior!" gritó, y el pasto se iluminó un poco, y nada pasó, y un sapo se le vino encima, y aquello fue como ver caer un puesto de mercado sobre una persona.
+"¡Purificación de agua superior!", gritó, y el pasto se iluminó un poco, y nada pasó, y un sapo se le vino encima, y aquello fue como ver caer un puesto de mercado sobre una persona.
 
 Y la persona entró al sapo.
 
@@ -459,7 +459,7 @@ Completa. Con todo y gritos. Uno ve esas cosas en los dibujos y piensa que son c
 
 Y ahí fue cuando me di cuenta de la única cosa que sí podía hacer.
 
-"¡Aqua!" grité, con las manos en la boca. "¡¿Me oyes?!"
+"¡Aqua!", grité, con las manos en la boca. "¡¿Me oyes?!"
 
 Silencio del sapo.
 
@@ -477,7 +477,7 @@ Silencio. Y luego un silencio más raro, un silencio como de alguien pensando, y
 
 Y el sapo se puso blanco. Le empezaron a brillar los ojos como si le doliera la cabeza, y luego tosió, y de la tos salió Aqua, entera, empapada y con el pelo lleno de cosas.
 
-"¡Aaaay!" gritó, y salió corriendo hacia mí, y yo la agarré, y ella se me abrazó como abrazan los que tienen mucho susto, y yo la abracé, y ella me empezó a pegar en el brazo, y yo la dejé.
+"¡Aaaay!", gritó, y salió corriendo hacia mí, y yo la agarré, y ella se me abrazó como abrazan los que tienen mucho susto, y yo la abracé, y ella me empezó a pegar en el brazo, y yo la dejé.
 
 Y en eso, otro sapo se tragó a Megumin.
 
@@ -535,7 +535,7 @@ Y Megumin levantó la cabeza.
 
 Y yo no le pregunté nada, porque a veces uno entiende las cosas sin que se las expliquen. Y me quedé viendo el cielo. Y el cielo era morado, y el cráter humeaba, y Aqua se estaba ordeñando el pelo.
 
-"¿Saben qué?" dije.
+"¿Saben qué?", dije.
 
 "¿Qué?"
 
@@ -543,7 +543,7 @@ Y yo no le pregunté nada, porque a veces uno entiende las cosas sin que se las 
 
 Silencio.
 
-"¿Nunca?" dijo Megumin.
+"¿Nunca?", dijo Megumin.
 
 "Nunca."
 
@@ -597,7 +597,7 @@ Y estaba feliz.
 
 Y cuando llegamos al gremio, con la ropa hecha un desastre y con la muchacha dormida en la espalda, el señor barbón se me quedó viendo desde su mesa y levantó la jarra.
 
-"¡Miren!" dijo. "¡Volvieron!"
+"¡Miren!", dijo. "¡Volvieron!"
 
 Y luego, más fuerte, a todo el gremio:
 
@@ -635,7 +635,7 @@ Toda mi vida me habían dado cosas.
 
 Me daban de comer. Me daban ropa. Me daban libros, me daban el celular, me daban un plato con el chipote en un lado y me daban buenas noches. Todo lo que yo tenía, lo tenía porque alguien me lo había dado, y yo era feliz con eso, pero nunca había estado en un lugar donde el dinero era mío y la pregunta era qué hago con él.
 
-"¿Y ahora?" dijo Aqua, con la boca llena.
+"¿Y ahora?", dijo Aqua, con la boca llena.
 
 "No sé."
 
@@ -647,7 +647,7 @@ Me daban de comer. Me daban ropa. Me daban libros, me daban el celular, me daban
 
 Y Megumin, que se había despertado de a poquito, se me acercó con el pan en la mano y me puso atención, que es una cosa que ella hace y que no se le nota.
 
-"¿Por qué no compras nada?" me preguntó.
+"¿Por qué no compras nada?", me preguntó.
 
 "Es que no sé qué quiero."
 
@@ -697,7 +697,7 @@ Una mujer altísima, con una armadura completa abollada en varios lados, estaba 
 
 "No, señorita."
 
-"¡No importa quién soy!" gritó, con una voz de esas que usan los actores. "¡Importa lo que busco! ¡Y lo que busco es un grupo!"
+"¡No importa quién soy!", gritó, con una voz de esas que usan los actores. "¡Importa lo que busco! ¡Y lo que busco es un grupo!"
 
 Y el señor barbón volteó a verme, me hizo una cara de «esta es tuya» y se fue a su mesa.
 
@@ -709,7 +709,7 @@ Nos vio a los tres: a mí, con la ropa hecha un desastre y un vidrio verde en el
 
 Y se le iluminó la cara como si hubiera encontrado un tesoro.
 
-"¡Ustedes!" dijo. "¡¿Son ustedes los que acaban de volver de los sapos?!"
+"¡Ustedes!", dijo. "¡¿Son ustedes los que acaban de volver de los sapos?!"
 
 "...Sí."
 
@@ -725,7 +725,7 @@ Y la mujer respiró hondo, se cuadró, y con una mano en el pecho, como si estuv
 
 "¡Entonces yo tengo una petición! ¡Necesito un grupo urgente!"
 
-"¿Y por qué urgente?" le pregunté.
+"¿Y por qué urgente?", le pregunté.
 
 Y la mujer se quedó un segundo callada.
 
@@ -737,7 +737,7 @@ Yo parpadeé.
 
 "¿Perdón?"
 
-"¡No, olvídalo! ¡Olvida eso!" dijo rapidísimo, y se puso roja hasta las orejas. "¡Dije otra cosa! ¡Dije que necesito un grupo! ¡Eso! ¡Eso dije!"
+"¡No, olvídalo! ¡Olvida eso!", dijo rapidísimo, y se puso roja hasta las orejas. "¡Dije otra cosa! ¡Dije que necesito un grupo! ¡Eso! ¡Eso dije!"
 
 Y Aqua, a mi lado, dijo:
 
@@ -753,7 +753,7 @@ Y Megumin me volteó a ver.
 
 Y supe lo que iba a decir antes de que lo dijera, porque las dos cosas que le importan en el mundo son las explosiones y la gente rara.
 
-"¡Cuatro!" dijo Megumin. "¡Ya somos cuatro!"
+"¡Cuatro!", dijo Megumin. "¡Ya somos cuatro!"
 
 Y yo me quedé viendo a la cruzada, parada ahí con la armadura abollada y la cara roja y las dos manos apretadas, esperando una respuesta.
 

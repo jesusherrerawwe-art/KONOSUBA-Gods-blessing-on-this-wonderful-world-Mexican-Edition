@@ -1,4 +1,4 @@
-﻿# Capítulo 1. Todo lo que alcancé a ver desde aquí
+﻿Capítulo 1. Todo lo que alcancé a ver desde aquí
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Volumen 1, capítulo 1. Extensión: 7,127 palabras. Estado: aprobado por el autor.
@@ -109,7 +109,7 @@ Me la puse y no me la quité durante tres días. Mi mamá me la lavaba de noche 
 
 "Son las Chivas", le dije a mi papá. "El Rebaño Sagrado."
 
-"¿Por qué sagrado?" me preguntó él, aunque ya sabía.
+"¿Por qué sagrado?", me preguntó él, aunque ya sabía.
 
 Y yo le expliqué lo que me había explicado un señor en un video: que las Chivas son de la ciudad, y que la ciudad es de la gente, así que las Chivas también son de la gente. Que «rebaño» quiere decir eso: mucha gente que decide ser de lo mismo.
 
@@ -177,7 +177,7 @@ Y me gané el sueño antes del medio tiempo, como a los cuarenta minutos, con el
 
 Cuando desperté ya era de noche y ya no había partido.
 
-"¿Cómo quedó?" le pregunté.
+"¿Cómo quedó?", le pregunté.
 
 Mi mamá me dijo que habían ganado.
 
@@ -241,7 +241,7 @@ Ya sé que dije que no había puertas. Es que en un lugar así las cosas pasan d
 
 Lo que entró fue una muchacha con el pelo azul larguísimo y los ojos del mismo azul, empapada de arriba abajo, con una túnica azul de diosa que le chorreaba y un prendedor en el pelo con tres bolitas, dos doradas y una azul. Y con una cara de enojo que le cabía todo.
 
-"¡No es justo!" gritó, al aire. "¡No es justo, no es justo, no es justo! ¡Iba ganando!"
+"¡No es justo!", gritó, al aire. "¡No es justo, no es justo, no es justo! ¡Iba ganando!"
 
 Se sacudió el agua del pelo como un perro y me vio.
 
@@ -259,7 +259,7 @@ Y yo hice lo único que se me ocurrió hacer, que fue lo mismo que hacía mi mam
 
 Ella lo notó.
 
-"¡No te estás riendo!" dijo, levantándose de un brinco.
+"¡No te estás riendo!", dijo, levantándose de un brinco.
 
 "No."
 
@@ -463,7 +463,7 @@ Y yo entendí. No entendí bien, pero entendí algo: que ella tenía razón en u
 
 "¿Estás segura?"
 
-"¡Soy una diosa!" dijo. "Yo no me equivoco casi nunca."
+"¡Soy una diosa!", dijo. "Yo no me equivoco casi nunca."
 
 Y en ese momento apareció una luz.
 
@@ -471,7 +471,7 @@ Apareció así: de golpe, encima del escritorio, alta y brillante y con un tono 
 
 "Solicitud de acompañamiento aprobada. Regrese en cuanto cumpla."
 
-"¡Sí!" gritó Aqua.
+"¡Sí!", gritó Aqua.
 
 "No le pregunté a ella", dije yo.
 
@@ -483,7 +483,7 @@ Apareció así: de golpe, encima del escritorio, alta y brillante y con un tono 
 
 Y desapareció, y volvió a aparecer, y traía una bolsa colgada del hombro con puras cosas que yo no entendí: un abanico, una botella, una piedra con forma de corazón, un montón de cosas que parecían adornos y ninguna que pareciera útil para matar monstruos.
 
-"¿Y esto?" le pregunté.
+"¿Y esto?", le pregunté.
 
 "Cosas."
 
@@ -627,7 +627,7 @@ Después me levanté. Y me levanté solo. Y otra vez no me dolió.
 
 Y me vi las manos, y me vi los pies con los tenis rojos, y me vi la camiseta blanca con el escudo, y me pasé la mano por el pelo, que era el de siempre, claro y corto y mal cortado, de las tijeras de mi mamá. Y me reí otra vez, porque me di cuenta de una cosa.
 
-"¿Ya?" preguntó Aqua.
+"¿Ya?", preguntó Aqua.
 
 "Ya."
 
@@ -655,7 +655,7 @@ Me dijo que el pueblo al que íbamos se llama Axel, y que es un pueblo chiquito,
 
 Me dijo que el reino se llama Belzerg, y que el Rey Demonio está allá lejos, en su castillo, y que hay generales suyos que de vez en cuando se aparecen por aquí, y que por eso hace falta gente.
 
-"¿Y tú qué eres?" le pregunté.
+"¿Y tú qué eres?", le pregunté.
 
 "¿Yo?" se volteó, encantada, listísima, como si le hubieran preguntado su materia favorita. "Yo soy archisacerdotisa. Es una clase avanzada. Traducción: soy la mejor."
 
@@ -701,7 +701,7 @@ Es frío. Es suavecito arriba y duro abajo. Y si uno se queda quieto, después d
 
 Y ella se cruzó de brazos y se quedó ahí parada, esperando, con cara de fastidio, mientras yo caminaba como diez pasos descalzo en el pasto, y luego me puse los tenis otra vez, porque sí había piedras y sí dolían, y uno no se muere de ganas nada más porque pueda.
 
-"¿Ya?" preguntó.
+"¿Ya?", preguntó.
 
 "Ya."
 
@@ -749,7 +749,7 @@ Y me agarró del brazo y me arrastró como doscientos metros, corriendo, y yo co
 
 "Ah, entonces ni modo", le dije.
 
-"¡Ni modo!" repitió, y no supe si estaba enojada o qué. "¡Óyeme, tú! ¿Y tú quién crees que eres?"
+"¡Ni modo!", repitió, y no supe si estaba enojada o qué. "¡Óyeme, tú! ¿Y tú quién crees que eres?"
 
 "Jesús", le dije. "Mucho gusto."
 
@@ -779,7 +779,7 @@ Me paré.
 
 Me paré como a cincuenta metros de la puerta, en el camino de tierra, y me quedé ahí, y Aqua se detuvo a mi lado.
 
-"¿Y ahora qué?" preguntó.
+"¿Y ahora qué?", preguntó.
 
 "Nada."
 

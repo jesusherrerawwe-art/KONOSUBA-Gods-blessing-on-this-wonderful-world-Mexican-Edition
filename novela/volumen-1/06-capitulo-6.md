@@ -1,4 +1,4 @@
-﻿# Capítulo 6. El otro elegido
+﻿Capítulo 6. El otro elegido
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Volumen 1, capítulo 6. Extensión: 5,148 palabras. Estado: aprobado por el autor.
@@ -39,7 +39,7 @@ Y ahí empezó el festival.
 
 Resulta que el padre Aldo le había dicho que el techo del templo tenía goteras, y que no había fondos, y que la diosa del agua no tenía ni una vela encendida en su altar. Y Aqua, que es una diosa del agua, y que llevaba tres semanas con nadie creyéndole nada, se había sentido (y esto lo dijo con la voz quebrada) «responsable».
 
-"¡Las velas!" me dijo, llorando. "¡No tenía ni una vela, Jesús! ¡Yo nunca había visto mi altar tan vacío! ¡Mi propio altar!"
+"¡Las velas!", me dijo, llorando. "¡No tenía ni una vela, Jesús! ¡Yo nunca había visto mi altar tan vacío! ¡Mi propio altar!"
 
 "¿Y cuántas velas compraste?"
 
@@ -79,7 +79,7 @@ Porque yo había oído eso antes. No la canción. El ruido. El ruido de gente qu
 
 Y me acordé de mi mamá cantando en la cocina, con la radio puesta, inventando la letra. Y de mi papá diciéndole que la letra no iba así, y de ella diciéndole que en su casa la letra iba como ella quisiera.
 
-"¿Qué tienes?" me preguntó Darkness.
+"¿Qué tienes?", me preguntó Darkness.
 
 "Nada. Es que allá también hay casas con ventanas abiertas."
 
@@ -185,7 +185,7 @@ Y yo no supe qué contestarle, porque la verdad era que yo pienso eso todo el ti
 
 Al final, hizo lo que hace siempre.
 
-"¡Bueno!" dijo. "¡Pero quiero una jaula bonita!"
+"¡Bueno!", dijo. "¡Pero quiero una jaula bonita!"
 
 ---
 
@@ -227,7 +227,7 @@ Ella entró a la jaula, yo cerré la puerta, y le puse la llave en la mano a Dar
 
 "Si algo pasa", le dije. "La llave se tira al lago."
 
-"¡No!" dijo Aqua.
+"¡No!", dijo Aqua.
 
 "Sí."
 
@@ -267,7 +267,7 @@ Yo ya venía saliendo. Volteé. Y de verdad venían: dos rayas en el agua, de es
 
 Y yo, con el agua a la cintura y sin un solo golpe aprendido, hice la única cosa que sabía hacer.
 
-"¡Megumin!" grité. "¡Aparta a la gente y tírale a la orilla!"
+"¡Megumin!", grité. "¡Aparta a la gente y tírale a la orilla!"
 
 "¡No puedo! ¡Todavía tengo la magia del cerro!"
 
@@ -283,7 +283,7 @@ Y las dos rayas del agua llegaron, y algo le pasó por la pierna a Darkness, y e
 
 Reírse. Bajo la luna, en un lago negro, con la armadura chorreando y el agua podrida hasta el pecho, esa mujer se rio como se ríe una persona en una fiesta.
 
-"¡Otra!" gritó. "¡Ven, otra vez! ¡Aquí hay espacio!"
+"¡Otra!", gritó. "¡Ven, otra vez! ¡Aquí hay espacio!"
 
 "¡No hay espacio!" chilló Aqua desde la jaula. "¡Estoy aquí!"
 
@@ -371,7 +371,7 @@ Y vi la cara de Aqua, que puso, primero, la sonrisa grande de la gente que la re
 
 "Ay", dijo Aqua. "Sí. Sí, sí. Kyouya. El de la espada. ¿Y cómo te ha ido?"
 
-"¡Bien!" dijo él, y se le iluminó toda la cara. "¡Muy bien! ¡Fui el que mató al basilisco de las minas del norte! ¡Ayudé a los pueblos del río! ¡Soy un aventurero de rango alto! ¡Y todo se lo debo a usted, señora Aqua!"
+"¡Bien!", dijo él, y se le iluminó toda la cara. "¡Muy bien! ¡Fui el que mató al basilisco de las minas del norte! ¡Ayudé a los pueblos del río! ¡Soy un aventurero de rango alto! ¡Y todo se lo debo a usted, señora Aqua!"
 
 Y luego, muy contento, agregó:
 
@@ -425,13 +425,13 @@ Y el muchacho se quedó quieto.
 
 Y yo sentí una cosa en el pecho, y esa cosa se llamaba: alguien que sabe lo que es un viento de tifón, y las cosas que venden en las tiendas de conveniencia, y el ruido que hace un tren.
 
-"¿Y ya fuiste a la playa?" le pregunté.
+"¿Y ya fuiste a la playa?", le pregunté.
 
 "¿A qué playa?"
 
 "Aquí no hay playa, ¿verdad?"
 
-"¡Llevo tres años buscando una!" dijo Mitsurugi, y luego se puso serio. "Bueno. Olvídalo. Es que..." Y se rascó la cabeza. "Es raro. Es raro encontrar a alguien de allá."
+"¡Llevo tres años buscando una!", dijo Mitsurugi, y luego se puso serio. "Bueno. Olvídalo. Es que..." Y se rascó la cabeza. "Es raro. Es raro encontrar a alguien de allá."
 
 "Sí."
 
@@ -531,7 +531,7 @@ Silencio en el camino. Las dos muchachas se taparon la boca. Megumin se levantó
 
 Y Mitsurugi se quedó con la mano abierta, vacía, en el aire.
 
-"¿Qué...?" dijo.
+"¿Qué...?", dijo.
 
 Y yo hice lo que hice.
 
@@ -549,7 +549,7 @@ Y Mitsurugi se quedó viendo la espada en su mano como si le hubieran devuelto u
 
 "Puedo venderla", le dije. "Con lo que vale puedo pagar los cuartos del invierno. Y la gente de aquí la compraría, y tú te quedarías sin tu cosa, y yo con dinero. Y eso no lo voy a hacer."
 
-"¡¿Por qué no?!" gritó él, y ahí sí que se me quedó viendo raro. "¡Es lo que se hace! ¡Es lo que hace todo el mundo! ¡Yo pedí una espada y tú tienes un poder, y tú deberías...!"
+"¡¿Por qué no?!", gritó él, y ahí sí que se me quedó viendo raro. "¡Es lo que se hace! ¡Es lo que hace todo el mundo! ¡Yo pedí una espada y tú tienes un poder, y tú deberías...!"
 
 "No quiero."
 

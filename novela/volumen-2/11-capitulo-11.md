@@ -63,7 +63,7 @@ Y entonces me paré yo.
 
 Me paré de la silla con la pierna temblando y con el cuerpo todavía vacío, y me paré enfrente de la fiscal del rey, y detrás de mí se levantó Darkness con la armadura puesta y con las dos manos sobre la mesa, y Megumin se levantó con la pierna entablillada y se quedó parada en un pie, y Aqua se levantó tan rápido que tiró el banco.
 
-"¿Quién es el acusado?" preguntó Sena.
+"¿Quién es el acusado?", preguntó Sena.
 
 "Yo."
 
@@ -153,7 +153,7 @@ Sena se detuvo.
 
 Se detuvo en la esquina, con la carpeta bajo el brazo, y volteó a ver la calle, y luego me vio a mí.
 
-"¿Qué significa?" preguntó.
+"¿Qué significa?", preguntó.
 
 "Que quería un cuarto con ventana", dije.
 
@@ -659,7 +659,7 @@ Y esa tampoco venía en la carpeta.
 
 Y el cuarto se quedó en silencio tanto rato que yo me oí respirar, y me acordé de que hacía muchísimo que no me oía respirar, y de que la última vez había sido en un lugar blanco, sin ventanas, con una muchacha de azul enfrente.
 
-"¿Quiere agregar algo?" dijo Sena.
+"¿Quiere agregar algo?", dijo Sena.
 
 "Sí." Y me enderecé lo más que pude. "Que el pueblo no tiene la culpa de nada. Que nadie de los que declararon sabía lo que yo iba a hacer. Que si hay que pagar, pago yo."
 

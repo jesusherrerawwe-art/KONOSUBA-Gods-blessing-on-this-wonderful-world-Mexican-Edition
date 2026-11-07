@@ -16,9 +16,11 @@ Revisa, por archivo:
      conservan. Solo se marca falta si un archivo trae dos BOM pegados.
   2. La extensión en palabras del cuerpo (sin contar el encabezado) contra el
      número que anuncia el propio encabezado.
-  3. Las reglas del diálogo (regla 12 de biblia/16): ninguna raya larga (—) en
-     el texto, el diálogo entre comillas inglesas rectas y las comillas
-     balanceadas (número par en cada línea).
+  3. Las reglas del diálogo (reglas 12 y 13 de biblia/16): ninguna raya larga
+     (—) en el texto, el diálogo entre comillas inglesas rectas, las comillas
+     balanceadas (número par en cada línea) y la coma obligatoria después del
+     cierre de comillas antes de la acotación de habla. También marca falta si
+     el renglón del título lleva almohadilla de Markdown.
   4. Las reglas de texto a voz de biblia/16: sin marcas de formato en el cuerpo,
      puntos suspensivos de tres puntos, sin abreviaturas, sin emojis, sin
      frases largas en mayúsculas, sin dobles espacios ni espacios antes de
@@ -47,6 +49,23 @@ ESPACIO_SIGNO = re.compile(r"\s+[,.;:!?]")
 FALTA_ESPACIO = re.compile(r"[a-záéíóúüñ][A-ZÁÉÍÓÚÜÑ]")
 SUSP_U = "\u2026"
 
+# Regla 13 (7 de noviembre de 2026): la acotación de habla lleva coma después del
+# cierre de comillas, siempre, incluso si el diálogo termina en interrogación o
+# exclamación. Se busca el discurso cerrado, un espacio y un verbo de habla sin
+# coma en medio.
+VERBO_HABLA = (
+    r"(?:(?:me|le|se|nos|les)\s+)?"
+    r"(?:dijo|dije|dice|digo|dec[ií]a|pregunt[oó]|pregunt[eé]|pregunta|contest[oó]|"
+    r"contest[eé]|respondi[oó]|respond[ií]|responde|grit[oó]|grit[eé]|grita|"
+    r"a[ñn]adi[oó]|a[ñn]ad[ií]|repiti[oó]|repet[ií]|murmur[oó]|murmur[eé]|"
+    r"explic[oó]|expliqu[eé]|pidi[oó]|ped[ií]|insisti[oó]|confirm[oó]|acept[oó]|"
+    r"empez[oó]|termin[oó]|solt[oó]|salt[oó]|suspir[oó]|aventur[oó]|sigui[oó]|"
+    r"concluy[oó]|protest[oó]|reclam[oó]|sugiri[oó]|orden[oó]|anunci[oó]|"
+    r"advirti[oó]|ri[oó]|sonri[oó])"
+)
+SIN_COMA = re.compile(r'"[^"\n]{1,500}"[ ]+' + VERBO_HABLA + r"\b")
+ALMOHADILLA = re.compile(r"^\s*#{1,6}\s+")
+
 
 def espacio_antes_de_punto(linea):
     """Avisos de espacio antes de signo de puntuación."""
@@ -67,6 +86,10 @@ def revisar(ruta):
     if crudo.startswith(BOM + BOM):
         hallazgos.append(("FALTA", "el archivo tiene dos BOM"))
 
+    # Regla 13 (formato): el renglón del título va en texto plano, sin almohadilla.
+    if es_pieza and ALMOHADILLA.match(lineas[0]):
+        hallazgos.append(("FALTA", "el título lleva almohadilla de Markdown; va en texto plano"))
+
     # Regla 12: ninguna raya; el diálogo va entre comillas inglesas.
     if es_pieza:
         for n, linea in enumerate(lineas, 1):
@@ -76,6 +99,9 @@ def revisar(ruta):
                 hallazgos.append(("FALTA", f"línea {n}: comillas impares ({linea.strip()[:50]})"))
             if '""' in linea:
                 hallazgos.append(("AVISO", f"línea {n}: dos comillas pegadas"))
+            for m in SIN_COMA.finditer(linea):
+                hallazgos.append(("FALTA", "línea {}: falta coma antes de la acotación («{}»)".format(
+                    n, m.group(0)[-40:])))
 
     palabras = len(re.findall("[A-Za-zÁÉÍÓÚÜÑáéíóúüñ0-9]+", cuerpo))
     anunciado = re.search(r"Extensi[oó]n:\s*([\d,]+)", "\n".join(lineas[:5]))

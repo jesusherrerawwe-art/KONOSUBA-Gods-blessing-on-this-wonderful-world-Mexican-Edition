@@ -1,4 +1,4 @@
-﻿# Capítulo 10. El segundo trueno
+﻿Capítulo 10. El segundo trueno
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Volumen 1, capítulo 10. Extensión: 8,889 palabras. Estado: aprobado por el autor.
@@ -51,7 +51,7 @@ Y ahí, desde atrás, alguien gritó:
 
 "Nos vamos los que se tengan que ir", dije. "Los viejos, los niños, los enfermos, todo el que no aguante un frío de dos días. Eso ya está organizado y eso sale mañana. Pero alguien se queda. Porque si nadie se queda, no se queda el grano, ni las medicinas, ni las casas, y cuando volvamos, no vamos a tener a qué volver."
 
-"¿Y tú cómo sabes todo eso?" me preguntó alguien del fondo.
+"¿Y tú cómo sabes todo eso?", me preguntó alguien del fondo.
 
 "Porque yo llegué sin nada", le dije. "Y yo sé lo que es que a uno le quemen lo poquito que tiene."
 
@@ -61,11 +61,11 @@ Estaba de pie junto a la mesa del fondo, con la capucha puesta y las manos junta
 
 "Esa cosa tiene una piel", dijo. "Una barrera. Yo la vi cuando era niña: las piedras y las flechas se quedan pegadas en el aire, como moscas en un vidrio. Si no se le rompe la piel, no le entra nada."
 
-"¿Y eso quién lo rompe?" preguntó Luna.
+"¿Y eso quién lo rompe?", preguntó Luna.
 
 Y en el fondo del gremio, arriba de un banco, con la capa al aire y los brazos abiertos como si estuviera en un escenario, estaba Aqua.
 
-"¡Yo!" gritó. "¡Ruptura sagrada! ¡Yo rompo barreras, maldiciones, juramentos y lo que se ponga! ¡Yo soy la arquipresbítera del agua! ¡Yo una vez rompí una barrera de un cementerio entero!"
+"¡Yo!", gritó. "¡Ruptura sagrada! ¡Yo rompo barreras, maldiciones, juramentos y lo que se ponga! ¡Yo soy la arquipresbítera del agua! ¡Yo una vez rompí una barrera de un cementerio entero!"
 
 "Eso lo hiciste mal y por eso hay fantasmas en el monte", dijo Megumin.
 
@@ -241,7 +241,7 @@ Y pasó una cosa, que no le voy a poder explicar nunca. En el aire, encima de la
 
 Y arriba de la muralla, Aqua se dio la vuelta, con los brazos abiertos, buscando los aplausos. Y cayó de sentón detrás de las almenas.
 
-"¡Sin barrera!" gritó. "¡Sin barrera, sin barrera, sin barrera!"
+"¡Sin barrera!", gritó. "¡Sin barrera, sin barrera, sin barrera!"
 
 Y abajo, en el campo, se oyó otra voz, la de la muchacha del sombrero, que se estaba levantando el bastón con las dos manos.
 
@@ -307,7 +307,7 @@ Y en ese silencio, alguien pasó corriendo a mi lado.
 
 Pasó corriendo con la espada nueva a la espalda, con la armadura abollada de las piedras que le habían tirado las patas, y con una cara de felicidad que yo le había visto nada más una vez, el día que le vendaron la mano después de la cosecha.
 
-"¡Darkness!" le grité. "¿A dónde vas?"
+"¡Darkness!", le grité. "¿A dónde vas?"
 
 Y me volteó a ver un segundo, nada más un segundo, y me gritó, con la cara de una persona que va a la fiesta:
 
@@ -349,7 +349,7 @@ Y de las paredes salían cosas.
 
 La máquina tenía guardias: unas cosas de barro y de piedra, como muñecos del tamaño de un hombre pero con las manos de piedra, que salían de las paredes cuando uno pasaba y que se ponían a caminar detrás de uno. Los primeros que entraron se toparon con dos, y yo llegué cuando el señor barbón le estaba dando a uno con las dos hachas, y el muñeco aguantaba, y el señor barbón se reía como se ríe la gente cuando ya no tiene miedo.
 
-"¡Muchacho!" me gritó, cuando me vio pasar. "¡Estas cosas pesan mucho y no saben pelear! ¡Sigue, sigue, nosotros aguantamos!"
+"¡Muchacho!", me gritó, cuando me vio pasar. "¡Estas cosas pesan mucho y no saben pelear! ¡Sigue, sigue, nosotros aguantamos!"
 
 Y yo seguí, con mi compañera a la espalda, por los pasillos de la casa con patas.
 

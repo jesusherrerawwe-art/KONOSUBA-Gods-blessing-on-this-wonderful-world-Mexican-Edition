@@ -1,4 +1,4 @@
-﻿# Capítulo 7. La gente que sí va
+﻿Capítulo 7. La gente que sí va
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Volumen 1, capítulo 7. Extensión: 5,004 palabras. Estado: aprobado por el autor.
@@ -11,7 +11,7 @@ Eran las tres y algo de la mañana, y delante de las casas había gente en bata,
 
 Doña Hilda estaba en el marco de la posada, con un candil.
 
-"¿Y ustedes a dónde van?" nos dijo, cuando pasamos.
+"¿Y ustedes a dónde van?", nos dijo, cuando pasamos.
 
 "A ver qué pasa."
 
@@ -25,7 +25,7 @@ Eso es lo que hace un pueblo cuando ya sabe lo que va a ver.
 
 En la explanada de la puerta estaba el capitán de la guardia, repartiendo a los aventureros entre las almenas.
 
-"¿Cuántos son?" preguntó alguien.
+"¿Cuántos son?", preguntó alguien.
 
 "No sabemos." Y el capitán escupió al suelo. "Uno que viene por el camino real con un caballo, una carreta y no sé cuántas cosas detrás."
 
@@ -33,7 +33,7 @@ Y ahí lo oí. No a él. Al nombre.
 
 Porque yo llevaba todo el camino pensando que lo de la campana era por el sin cabeza, y mi cabeza lo sabía, y aun así, cuando el capitán lo dijo, se me puso todo el cuerpo en un solo lugar: en la fecha.
 
-"¿Qué día es hoy?" pregunté, en voz baja, a nadie.
+"¿Qué día es hoy?", pregunté, en voz baja, a nadie.
 
 Y Aqua, a mi lado, con la cara que pone cuando entiende algo al mismo tiempo que yo, lo dijo:
 
@@ -75,7 +75,7 @@ Estaba sentada en el suelo, con la espalda en la piedra, con el sombrero puesto 
 
 Me le paré al lado.
 
-"¿Qué haces aquí?" le dije.
+"¿Qué haces aquí?", le dije.
 
 "Nada."
 
@@ -141,7 +141,7 @@ Silencio en la muralla.
 
 Cuarenta personas con arcos, ballestas, cuchillos y piedras, y el general del Rey Demonio abajo, en el camino, diciendo «buenos días» como un señor que va a preguntar por una dirección.
 
-"¿Por qué están todos en la muralla?" dijo Beldia.
+"¿Por qué están todos en la muralla?", dijo Beldia.
 
 "Es que usted es un general del Rey Demonio", dijo el capitán.
 
@@ -159,13 +159,13 @@ Y luego levantó la mano sin guante, se rascó la nuca, y como no alcanzaba bien
 
 "Oigan. Yo no vengo a nada con ustedes. Vengo de mudanza."
 
-"¿De mudanza?" dijo el señor barbón.
+"¿De mudanza?", dijo el señor barbón.
 
 "Sí." Y Beldia señaló el oeste con el pulgar. "Me mandan al oeste. Ya encontraron lo que buscábamos, y ahora me toca ir a sacarlo." Y se acomodó el guante, y agregó, sin ninguna importancia. "Es grande. Grande de verdad."
 
 Y esa palabra me la guardé: grande.
 
-"Entonces, ¿por qué viene a Axel?" preguntó el capitán.
+"Entonces, ¿por qué viene a Axel?", preguntó el capitán.
 
 Y Beldia se quedó callado un rato. El tiempo suficiente para que yo me acordara de la última cosa que me había dicho ese señor, una tarde, sentado: que él no estaba enojado; que él estaba esperando.
 
@@ -175,7 +175,7 @@ Y Beldia se quedó callado un rato. El tiempo suficiente para que yo me acordara
 
 Cuarenta personas volteando la cara al mismo tiempo, y todas buscando a la muchacha del sombrero, y la muchacha del sombrero parada en la orilla de la piedra, con el bastón en las dos manos, blanca.
 
-"¿Por qué la niña?" dijo el capitán.
+"¿Por qué la niña?", dijo el capitán.
 
 "Porque me firmó."
 
@@ -203,7 +203,7 @@ Porque él también quería que pasara. Y no lo iba a decir.
 
 Y la muralla entera se volteó a verme.
 
-"¡Yo soy la diosa!" dijo Aqua, y apuntó a Beldia con el dedo, desde la muralla, delante de cuarenta personas. "¡A ver! ¡Yo bajo y lo arreglo! ¡Yo le rompo la maldición a la niña ahora mismo y nos ahorramos todo el circo!"
+"¡Yo soy la diosa!", dijo Aqua, y apuntó a Beldia con el dedo, desde la muralla, delante de cuarenta personas. "¡A ver! ¡Yo bajo y lo arreglo! ¡Yo le rompo la maldición a la niña ahora mismo y nos ahorramos todo el circo!"
 
 Y la gente empezó a decir que sí.
 
@@ -227,7 +227,7 @@ Aqua se quedó con el dedo en el aire.
 
 Y en eso se oyó, desde el fondo de la muralla, la voz del señor barbón, que dijo la primera cosa que se me pegó de ese día y que se me quedó pegada para siempre:
 
-"¡Y entonces, para qué carajos abrimos la puerta! ¡Si el único que puede es él, y él ya está aquí, y lo que quiere es que le pidan, pues que le pidan!"
+"¡Y entonces, para qué rayos abrimos la puerta! ¡Si el único que puede es él, y él ya está aquí, y lo que quiere es que le pidan, pues que le pidan!"
 
 Yo lo volteé a ver.
 
@@ -283,7 +283,7 @@ Y yo no le dije nada, porque en esos momentos lo único que te sale decir es alg
 
 Saqué del morral lo que traía desde la madrugada, sin haberlo pensado, porque mi mamá lo hacía así, y partí un pan de doña Hilda en dos, le di una mitad, y me puse a comer la otra en la piedra, al lado de ella.
 
-"¿Y eso?" dijo.
+"¿Y eso?", dijo.
 
 "Pan. Es desayuno." Y mordí. "Si vas a ir sola al cerro, lleva pan. Mi mamá siempre decía eso."
 
@@ -361,7 +361,7 @@ Y se dio la vuelta y se puso la mano en la carreta, y cambió de golpe, otra vez
 
 Y ahí, en el camino real, con la escarcha y con los seis esqueletos formados atrás, sentí cómo a mis tres amigos, y a la muchacha del sombrero, y a la ciudad entera, que estaba viendo desde la muralla, se les iba la sangre a los pies.
 
-"¿Por qué?" dije.
+"¿Por qué?", dije.
 
 "Porque yo ya te dije una vez, chico, cuál es el precio." Y se subió de un salto al pescante. "¡Y ahora tengo una carreta llena y cinco días de camino! ¡Está bien, es mi trabajo! ¡Pero yo también tengo derecho a una cosa! ¡Yo llevo doscientos años pidiendo las cosas por favor y nadie me las da! ¡Ayer salí de mi casa y dejé la silla plegable abierta en el patio porque pensé que iba a regresar, y no voy a regresar! ¡Y a mí lo único que me queda es que me pidan las cosas y dárselas!"
 
@@ -411,7 +411,7 @@ Y yo sentí, en la nuca, el frío de la mañana.
 
 Silencio en el camino real.
 
-"¿Nada?" dijo Megumin, con una voz chiquita.
+"¿Nada?", dijo Megumin, con una voz chiquita.
 
 "Nada." Y Beldia se levantó, se sacudió las manos, y se puso los guantes. "Y eso, niña, es lo más bonito que uno puede ver."
 
@@ -449,19 +449,19 @@ Y los otros cinco, al mismo tiempo, sin hablar, tiraron las espadas y alzaron la
 
 "¡Vienen por mí!" chilló Aqua.
 
-"¡Vienen por la diosa!" gritó el señor barbón desde la muralla.
+"¡Vienen por la diosa!", gritó el señor barbón desde la muralla.
 
-"¡Espérense!" gritó Beldia, que se bajó del pescante de un salto. "¡Regresen! ¡Son míos!"
+"¡Espérense!", gritó Beldia, que se bajó del pescante de un salto. "¡Regresen! ¡Son míos!"
 
 Y los esqueletos siguieron caminando hacia Aqua, despacio, con las manos arriba, sin armas.
 
-"¡¿Qué quieren?!" dijo Aqua, echándose para atrás. "¡Jesús!"
+"¡¿Qué quieren?!", dijo Aqua, echándose para atrás. "¡Jesús!"
 
 "Vienen por ti. Vienen a que los salves."
 
 "¿¡A que yo los...!?" Y se le cambió toda la cara, de miedo a otra cosa, y se puso a llorar, y abrió los brazos. "¡Vengan! ¡Vengan, pero no me jalen!"
 
-"¡No me los salve!" gritó Beldia, y se metió entre los esqueletos y Aqua. "¡No me los salve, señora! ¡Estos son del ejército! ¡Si me los echa a perder, me los descuentan de la paga!"
+"¡No me los salve!", gritó Beldia, y se metió entre los esqueletos y Aqua. "¡No me los salve, señora! ¡Estos son del ejército! ¡Si me los echa a perder, me los descuentan de la paga!"
 
 "¡Ellos vinieron!"
 
@@ -515,7 +515,7 @@ Y Megumin se quedó con la boca abierta.
 
 Y le dio la vuelta a la carreta.
 
-"¿Y ahora qué sigue?" le pregunté.
+"¿Y ahora qué sigue?", le pregunté.
 
 "Ahora yo me voy al oeste", dijo, sin voltear. "Y ustedes se quedan con su pueblo, y con su torre, y con su diosa." Y luego, ya con la carreta andando, agregó lo único que me dejó pensando ese día. "Y si un día andan por las ruinas, pregunten por el sin cabeza. Ahí voy a estar. Cargando la cosa grande."
 

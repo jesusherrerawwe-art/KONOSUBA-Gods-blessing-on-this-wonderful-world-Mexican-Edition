@@ -1,4 +1,4 @@
-﻿# Capítulo 5. El señor de la casa del cerro
+﻿Capítulo 5. El señor de la casa del cerro
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Volumen 1, capítulo 5. Extensión: 5,030 palabras. Estado: aprobado por el autor.
@@ -31,7 +31,7 @@ No era una ruina. Eso es lo que quiero decir primero, porque es la parte que me 
 
 Un caballo negro, grandote, parado en el patio, con la cabeza baja.
 
-"¿Ya viste el caballo?" le pregunté a Megumin.
+"¿Ya viste el caballo?", le pregunté a Megumin.
 
 "Sí. Es un caballo que se quedó. Se queda ahí todo el tiempo."
 
@@ -75,7 +75,7 @@ Y después viene la parte que nadie cuenta: que la maga se cae, y no puede camin
 
 Le di la espalda, se subió, y me puse a caminar con ella por el cerro abajo.
 
-"¿Viste la torre?" me preguntó al oído. "Le pegó en la torre."
+"¿Viste la torre?", me preguntó al oído. "Le pegó en la torre."
 
 "Sí."
 
@@ -115,7 +115,7 @@ Sí, entrenando. Eso lo tengo que contar aparte.
 
 Porque hacía una semana, después de las coles, yo había empezado a entrenar como un loco. Le pedí permiso a doña Hilda y me puse a cargar agua del pozo todas las mañanas: veinte viajes, con dos cubetas. Luego cuarenta. Luego aprendí a sentarme bien y a levantarme bien, que es una cosa que uno no sabe que no sabe. Y le pedí al señor barbón que me dejara verlo pelear, y él me dijo que sí, y me pasé tres tardes viendo a un señor gordo darle a un costal.
 
-"¿Y eso para qué sirve?" le pregunté la tercera tarde. "El costal no se mueve."
+"¿Y eso para qué sirve?", le pregunté la tercera tarde. "El costal no se mueve."
 
 "Por eso", dijo él. "Si le puedes pegar a una cosa que no se mueve, ya solo falta que le pegues a una que sí."
 
@@ -163,7 +163,7 @@ Y yo volví a ver a Megumin.
 
 Megumin estaba parada en la primera fila, con el sombrero puesto, y la manita levantada, y la cara roja.
 
-"¡Soy yo!" dijo. "¡Y no es «tu casa», es un castillo abandonado!"
+"¡Soy yo!", dijo. "¡Y no es «tu casa», es un castillo abandonado!"
 
 Y el caballero se volteó a verla, y se quedó como cinco segundos sin decir nada.
 
@@ -179,7 +179,7 @@ Del hoyo en forma de persona, junto al caballo, en el patio de la piedra.
 
 Y me empecé a poner frío.
 
-"¡Pues aguanta!" dijo Megumin. "¡Los caballeros aguantan! ¡Yo me paro en este cerro todo el día y aguanto lo que sea!"
+"¡Pues aguanta!", dijo Megumin. "¡Los caballeros aguantan! ¡Yo me paro en este cerro todo el día y aguanto lo que sea!"
 
 "Niña."
 
@@ -207,7 +207,7 @@ Y entonces hizo lo otro.
 
 Y levantó la mano sin guante, y la mano tenía humo.
 
-"¡Megumin, apártate!" gritó Aqua.
+"¡Megumin, apártate!", gritó Aqua.
 
 Y no le dio tiempo.
 
@@ -221,7 +221,7 @@ Y en eso, entre Megumin y Beldia, se metió una armadura.
 
 Se metió Darkness, caminando derecho, y se puso enfrente de Megumin, tapándola completa.
 
-"¡No!" dijo. "¡A ella no!"
+"¡No!", dijo. "¡A ella no!"
 
 Y Beldia levantó la mano otra vez, y soltó otra nube, y la nube se fue al pecho de Darkness y se le metió entre las placas, y Darkness hizo un ruido raro.
 
@@ -233,13 +233,13 @@ Sonrió con la cara completa, una sonrisa lenta, y se le pusieron las mejillas r
 
 Y Beldia, el general del Rey Demonio, dio un paso atrás.
 
-"¿Qué es eso?" preguntó.
+"¿Qué es eso?", preguntó.
 
 "Siete días", dijo Darkness, y se le empezó a salir la voz como cuando alguien habla dormido. "Siete días. Y usted dice que el séptimo día me muero con dolor. ¿Con cuánto dolor? ¿Mucho? ¿Puede ser mucho? ¿Puede ser de esos dolores que a uno le dan ganas de llorar y le piden por favor al que le pega?"
 
 Silencio en la explanada.
 
-"¿Cuántos días me quedan para sentir eso?" siguió Darkness. "¿O me va a empezar poco a poco? ¿O me va a empezar de golpe? Y cuando me empiece, ¿usted va a estar ahí viendo? ¿O me va a dejar sola? Porque si me va a dejar sola, entonces..."
+"¿Cuántos días me quedan para sentir eso?", siguió Darkness. "¿O me va a empezar poco a poco? ¿O me va a empezar de golpe? Y cuando me empiece, ¿usted va a estar ahí viendo? ¿O me va a dejar sola? Porque si me va a dejar sola, entonces..."
 
 "Ya", dijo Beldia.
 
@@ -255,13 +255,13 @@ Y Beldia se rascó la nuca con la mano sin guante, y se volteó a ver a sus prop
 
 "Miren", dijo, y esa parte se la dijo a Megumin, pero también se la dijo a todos. "Yo vine a que dejaran de partirme la casa. Nada más eso. Esa cabeza se me va a caer en siete días, y si en siete días ustedes no han venido a buscarme, entonces yo voy a saber que no vienen."
 
-"¡Sí vamos a ir!" dijo Megumin, con las dos manos apretadas en la panza y la voz temblando, pero fuerte. "¡Aunque no puedo caminar! ¡Aunque me tenga que llevar alguien! ¡Yo voy!"
+"¡Sí vamos a ir!", dijo Megumin, con las dos manos apretadas en la panza y la voz temblando, pero fuerte. "¡Aunque no puedo caminar! ¡Aunque me tenga que llevar alguien! ¡Yo voy!"
 
 "Bueno." Y Beldia se subió al caballo. "Pues los espero. Y de una vez les aviso: yo voy a estar en mi casa. A trescientos metros de un hoyo de veintidós metros de ancho que ustedes hicieron. Con la torre apuntalada. Con tablas."
 
 Se puso los estribos, agarró las riendas, y antes de irse se volteó a ver a Darkness una última vez.
 
-"¿Sabe qué?" le dijo. "Usted va a ser la primera persona que me ha dado miedo en doscientos años."
+"¿Sabe qué?", le dijo. "Usted va a ser la primera persona que me ha dado miedo en doscientos años."
 
 "¡Gracias!"
 
@@ -273,7 +273,7 @@ Y entonces Aqua se sacudió las manos, como quien se quita el polvo de encima.
 
 "Ya", dijo. "A ver. Trae acá."
 
-"¿Qué?" dijo Darkness.
+"¿Qué?", dijo Darkness.
 
 "Que traigas acá el pecho."
 
@@ -285,9 +285,9 @@ Y Darkness se tambaleó, se llevó la mano al pecho y se quedó con la boca abie
 
 "Se fue", dijo.
 
-"¡Claro que se fue!" dijo Aqua, y se puso las manos en la cintura. "¿O qué creías? ¡Soy una diosa! ¡La alcancé a atrapar en la armadura, antes de que se le metiera! ¡Las maldiciones de muerte son de nivel medio!"
+"¡Claro que se fue!", dijo Aqua, y se puso las manos en la cintura. "¿O qué creías? ¡Soy una diosa! ¡La alcancé a atrapar en la armadura, antes de que se le metiera! ¡Las maldiciones de muerte son de nivel medio!"
 
-"¿Y la mía?" dijo Megumin.
+"¿Y la mía?", dijo Megumin.
 
 Y Aqua se le acercó, y le puso la mano en el pecho, y cerró los ojos.
 
@@ -307,7 +307,7 @@ Y Megumin se quedó viendo el cerro del otro lado del valle, con el sombrero en 
 
 Y el gremio entero, sesenta aventureros, se quedó viendo a la muchacha del pelo azul con una cara que yo todavía no había visto en este mundo.
 
-"¿Qué?" dijo Aqua. "¿Por qué me ven así?"
+"¿Qué?", dijo Aqua. "¿Por qué me ven así?"
 
 Y entonces el señor barbón, el de la jarra, el mismo que le había dicho «y yo soy un príncipe» el primer día, se levantó de su silla, se le acercó, se hincó en una rodilla en el suelo, y le dijo:
 
@@ -425,7 +425,7 @@ Y Beldia se quedó callado, y luego dijo:
 
 "Ya me lo han dicho."
 
-"¿Quiere ver lo que le digo?" dijo de repente, y se levantó y entró a la casa.
+"¿Quiere ver lo que le digo?", dijo de repente, y se levantó y entró a la casa.
 
 Yo lo seguí.
 
@@ -437,7 +437,7 @@ Se quedó viendo las tablas.
 
 "¿Sabe qué es lo que más me molesta? Que las corto bien. Yo corto muy bien la madera. Da lo mismo, pero las corto bien."
 
-"¿Y tú de dónde eres?" le pregunté, porque a mí me sale preguntar cosas.
+"¿Y tú de dónde eres?", le pregunté, porque a mí me sale preguntar cosas.
 
 "De un lugar que ya no existe." Y luego, con la mano en el marco de la ventana: "¿Y tú?"
 
@@ -449,7 +449,7 @@ Se quedó viendo las tablas.
 
 Y Beldia se rio. Se rio con el pecho, porque la cabeza la tenía puesta, y ese fue el ruido más raro que he oído en mi vida: un señor riéndose desde un lugar y con la cara en otro.
 
-"¿Tenía ventana?" preguntó.
+"¿Tenía ventana?", preguntó.
 
 "Una. Chiquita."
 

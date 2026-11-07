@@ -1,4 +1,4 @@
-﻿# Capítulo 8. No me dolió
+﻿Capítulo 8. No me dolió
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Volumen 1, capítulo 8. Extensión: 5,499 palabras. Estado: aprobado por el autor.
@@ -77,7 +77,7 @@ Y ahí llegó Luna, con la pluma en la oreja, y se asomó al papel, y se le borr
 
 En mi mesa se hizo el silencio.
 
-"¿Y el cuarto?" preguntó Megumin.
+"¿Y el cuarto?", preguntó Megumin.
 
 Luna no contestó esa pregunta. Nos dijo otra cosa:
 
@@ -87,7 +87,7 @@ Luna no contestó esa pregunta. Nos dijo otra cosa:
 
 "El señor del invierno." Luna bajó la voz. "No es un monstruo, muchachos. Es un espíritu grande. Y no le gusta que le toquen a sus animalitos."
 
-"¿Y por eso pagan tanto?" dijo Aqua.
+"¿Y por eso pagan tanto?", dijo Aqua.
 
 "Por eso pagan tanto."
 
@@ -113,7 +113,7 @@ Eran justo como los había descrito Luna: bolas de pelo blanco, del tamaño de u
 
 "Ay, no", dijo Megumin, y levantó el bastón.
 
-"¡Espérense!" dijo Aqua, y sacó los frascos. "¡Primero los frascos y luego las cosas!"
+"¡Espérense!", dijo Aqua, y sacó los frascos. "¡Primero los frascos y luego las cosas!"
 
 Y ahí sí voy a ser honesto: el trabajo no era bonito. Aqua los perseguía con los frascos abiertos y los animalitos se le metían solos, con una confianza que a mí me partía el alma. Megumin tiró su magia al montón grande. Anduvimos tres horas bajo el viento y al final teníamos once frascos llenos, un frasco roto y a Megumin tirada en la nieve.
 
@@ -147,11 +147,11 @@ Azul. Toda azul y blanca, como un pedazo de noche.
 
 "Es el señor del invierno", dijo Aqua, con la voz rara.
 
-"¿Uno de los generales?" preguntó Darkness, y se puso enfrente, y se le puso la sonrisa.
+"¿Uno de los generales?", preguntó Darkness, y se puso enfrente, y se le puso la sonrisa.
 
 "No. Es un señor." Aqua soltó los frascos. "¡Es un señor, tonta! ¡Al suelo! ¡La cara al suelo y no digan nada!"
 
-"¿Y los espíritus?" le pregunté.
+"¿Y los espíritus?", le pregunté.
 
 "¡De vuelta!" Y Aqua, con las dos manos, abrió los once frascos. "¡Tomen! ¡Váyanse con su señor!"
 
@@ -281,7 +281,7 @@ Y yo no le voy a romper eso, mi hermano. Aunque me muera de ganas. Aunque me mue
 
 "No", le dije a Eris.
 
-"¿Nada más no?" dijo Eris, levantando las cejas.
+"¿Nada más no?", dijo Eris, levantando las cejas.
 
 "Nada más no."
 

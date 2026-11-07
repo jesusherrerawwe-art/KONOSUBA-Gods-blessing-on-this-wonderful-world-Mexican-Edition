@@ -19,14 +19,34 @@ Esta es una **novela ligera original inspirada en el universo de *KonoSuba!***, 
 
 El texto de la novela vive en la carpeta [`novela/`](novela/), separada de la biblia porque es el entregable final.
 
-- [`novela/volumen-1/`](novela/volumen-1/) — Volumen 1: prólogo, capítulos 1 a 10 y epílogo. **Terminado y aprobado por el autor** (12 de 12 piezas).
-  - [`00-prologo.md`](novela/volumen-1/00-prologo.md) — «Un lugar sin ventanas».
-  - [`FICHAS.md`](novela/volumen-1/FICHAS.md) — fichas de diseño de cada pieza del volumen.
-- [`novela/volumen-2/`](novela/volumen-2/) — Volumen 2: capítulos 11 a 20. Carpeta abierta el 13 de octubre de 2026; se escribe capítulo a capítulo.
-  - [`00-resumen-volumen-1.md`](novela/volumen-2/00-resumen-volumen-1.md) — resumen del Volumen 1: historia, reparto, tiempo, banderas y lo que quedó abierto.
-  - [`11-capitulo-11.md`](novela/volumen-2/11-capitulo-11.md) — «La verdad en voz alta». **Aprobado por el autor** (17 de octubre de 2026).
-  - [`12-capitulo-12.md`](novela/volumen-2/12-capitulo-12.md) — «La cuenta». **Aprobado por el autor** (17 de octubre de 2026).
-  - [`FICHAS.md`](novela/volumen-2/FICHAS.md) — fichas de diseño del volumen, con el capítulo 11 ya cerrado.
+### Volumen 1 — terminado y aprobado (12 de 12 piezas, 65,035 palabras)
+
+| # | Pieza | Título | Palabras | Estado |
+| --- | --- | --- | --- | --- |
+| 00 | [Prólogo](novela/volumen-1/00-prologo.md) | «Un lugar sin ventanas» | 954 | aprobado por el autor |
+| 01 | [Capítulo 1](novela/volumen-1/01-capitulo-1.md) | «Todo lo que alcancé a ver desde aquí» | 7,127 | aprobado por el autor |
+| 02 | [Capítulo 2](novela/volumen-1/02-capitulo-2.md) | «Un cuarto con ventana» | 5,217 | aprobado por el autor |
+| 03 | [Capítulo 3](novela/volumen-1/03-capitulo-3.md) | «La muchacha que hacía temblar los cerros» | 5,490 | aprobado por el autor |
+| 04 | [Capítulo 4](novela/volumen-1/04-capitulo-4.md) | «La gente que se pone enfrente» | 5,077 | aprobado por el autor |
+| 05 | [Capítulo 5](novela/volumen-1/05-capitulo-5.md) | «El señor de la casa del cerro» | 5,030 | aprobado por el autor |
+| 06 | [Capítulo 6](novela/volumen-1/06-capitulo-6.md) | «El otro elegido» | 5,148 | aprobado por el autor |
+| 07 | [Capítulo 7](novela/volumen-1/07-capitulo-7.md) | «La gente que sí va» | 5,004 | aprobado por el autor |
+| 08 | [Capítulo 8](novela/volumen-1/08-capitulo-8.md) | «No me dolió» | 5,499 | aprobado por el autor |
+| 09 | [Capítulo 9](novela/volumen-1/09-capitulo-9.md) | «El camino del norte» | 8,343 | aprobado por el autor |
+| 10 | [Capítulo 10](novela/volumen-1/10-capitulo-10.md) | «El segundo trueno» | 8,889 | aprobado por el autor |
+| 11 | [Epílogo](novela/volumen-1/11-epilogo.md) | «Los que vuelven» | 3,257 | aprobado por el autor |
+
+### Volumen 2 — en escritura (capítulos 11 a 20)
+
+| # | Pieza | Título | Palabras | Estado |
+| --- | --- | --- | --- | --- |
+| 11 | [Capítulo 11](novela/volumen-2/11-capitulo-11.md) | «La verdad en voz alta» | 5,560 | aprobado por el autor |
+| 12 | [Capítulo 12](novela/volumen-2/12-capitulo-12.md) | «La cuenta» | 7,237 | aprobado por el autor |
+| 13 | Capítulo 13 | pendiente de ficha | — | no escrito |
+
+Documentos de trabajo del volumen: [`volumen-1/FICHAS.md`](novela/volumen-1/FICHAS.md) (fichas de diseño de cada pieza) y [`volumen-2/00-resumen-volumen-1.md`](novela/volumen-2/00-resumen-volumen-1.md) + [`volumen-2/FICHAS.md`](novela/volumen-2/FICHAS.md).
+
+**Total de narrativa escrita y aprobada: 77,832 palabras.**
 
 Los archivos de la novela llevan **UTF-8 con BOM (UTF-8-BOM)**, el formato que usaba la aplicación de lectura en voz alta (**ElevenReader**). **El requisito quedó revocado por el autor el 17 de octubre de 2026:** las piezas nuevas se escriben **sin BOM** y las viejas conservan el que ya tienen. `python3 herramientas/utf8-bom.py` sirve para convertir si alguna vez hace falta, y `python3 herramientas/revisar-capitulos.py` revisa formato, extensión y reglas de lectura en voz alta (sin exigir el BOM).
 

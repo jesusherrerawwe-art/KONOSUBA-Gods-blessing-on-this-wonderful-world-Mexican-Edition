@@ -1,4 +1,4 @@
-﻿# Epílogo. Los que vuelven
+﻿Epílogo. Los que vuelven
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Volumen 1, epílogo. Extensión: 3,257 palabras. Estado: aprobado por el autor.
@@ -45,7 +45,7 @@ Aqua ya estaba ahí, sentada de un lado como una reina, con el pelo azul recogid
 
 "Y entonces yo dije «ruptura»", decía, con las dos manos abiertas. "Y la barrera se cayó en pedazos de luz, y yo me caí de las almenas, y me levanté, y la barrera ya no estaba."
 
-"¿Y la fortaleza?" le preguntó un niño.
+"¿Y la fortaleza?", le preguntó un niño.
 
 "Eso fue después", dijo Aqua, con la mano. "Eso fue cuando yo le pasé mi magia al muchacho."
 
@@ -63,7 +63,7 @@ Un muchacho del gremio, de los que habían entrado con nosotros al campo, se ace
 
 Y el gremio entero se volteó.
 
-"¡No fue un beso!" gritó Aqua, levantándose de la silla. "¡Fue el manual! ¡Cuando alguien se está ahogando se le da aire! ¡Es una cosa de urgencia, es una cosa médica, es una cosa que hacemos los profesionales!"
+"¡No fue un beso!", gritó Aqua, levantándose de la silla. "¡Fue el manual! ¡Cuando alguien se está ahogando se le da aire! ¡Es una cosa de urgencia, es una cosa médica, es una cosa que hacemos los profesionales!"
 
 "Ah", dijo el muchacho.
 
@@ -113,7 +113,7 @@ Y Wiz se limpió la cara con la manga y se quedó callada, y al rato me dijo:
 
 Y ahí, en la fiesta de la levantada de Axel, con el sol cayéndose detrás del cerro del río, se oyó una voz desde la puerta de la plaza, y era la de Fermín, que venía con su gente y con el perro y con las carretas ya cargadas para subir al norte.
 
-"¡Muchachos!" gritó. "Mañana al amanecer salimos, que el camino está roto y hay que arreglarlo antes de que caiga la otra nieve."
+"¡Muchachos!", gritó. "Mañana al amanecer salimos, que el camino está roto y hay que arreglarlo antes de que caiga la otra nieve."
 
 Y yo me levanté a despedirlo, y en el camino me alcanzó una muchacha con una tira de cuero en las manos y con una cara que yo ya conocía.
 
@@ -155,7 +155,7 @@ Y al final, Luna cerró el libro, y luego abrió la hoja de la cuadrilla, y la p
 
 "Esta hoja lleva abierta desde el verano", dijo. "Y les voy a recordar la ley, la misma del día que la firmaron, porque todos la saben y todos la olvidan: los nombres de los grupos no los escogen los grupos. Un grupo no puede llegar y decir «nosotros somos tal cosa». Los nombres se pegan solos, cuando uno no está viendo, y casi siempre en el peor momento."
 
-"¡Los del agua sagrada!" gritó Aqua.
+"¡Los del agua sagrada!", gritó Aqua.
 
 "No."
 
@@ -163,15 +163,15 @@ Y al final, Luna cerró el libro, y luego abrió la hoja de la cuadrilla, y la p
 
 "No."
 
-"¡Los señores del trueno escarlata!" gritó Megumin, levantándose de la silla con la pierna entablillada.
+"¡Los señores del trueno escarlata!", gritó Megumin, levantándose de la silla con la pierna entablillada.
 
 "Tampoco."
 
-"¡Los de la hoja en blanco!" gritó el señor barbón, y se rio de su propio chiste.
+"¡Los de la hoja en blanco!", gritó el señor barbón, y se rio de su propio chiste.
 
 Y ahí, desde la puerta, con el sombrero en la mano y con el perro al lado, habló Fermín, el carretero.
 
-"¿Me dejan decir una cosa?" dijo, y todos voltearon. "Nosotros venimos del camino. Y en el camino, a la gente que sale y que no vuelve, no se le dice nada, porque no se le puede decir nada. Y a la gente que sale y que vuelve, allá le decimos así, nada más: los que vuelven."
+"¿Me dejan decir una cosa?", dijo, y todos voltearon. "Nosotros venimos del camino. Y en el camino, a la gente que sale y que no vuelve, no se le dice nada, porque no se le puede decir nada. Y a la gente que sale y que vuelve, allá le decimos así, nada más: los que vuelven."
 
 Y el gremio se quedó callado.
 
@@ -203,19 +203,19 @@ El gremio se quedó quieto.
 
 "Buenas noches", dijo la mujer. "Me llamo Sena. Soy fiscal del rey, y estoy destacada en este pueblo." Y abrió una carpeta. "Vengo por un asunto de la corona."
 
-"¿Ahora?" dijo Luna. "¿En la fiesta?"
+"¿Ahora?", dijo Luna. "¿En la fiesta?"
 
 "Los asuntos de la corona no tienen fiesta", dijo Sena, y leyó: "Hace cuatro días, durante el ataque del artefacto conocido como la Fortaleza Móvil, una piedra del tamaño de un puño fue teletransportada fuera del artefacto. Esa piedra cayó en el jardín de la mansión del gobernador Alderp, y la mansión se quemó por completo. No hubo muertos. Hubo, eso sí, un gobernador muy enojado."
 
 Y el gremio se quedó callado, y yo sentí que en la mesa, a mi lado, la señora Wiz se ponía blanca.
 
-"¿Y a quién buscan?" preguntó Luna.
+"¿Y a quién buscan?", preguntó Luna.
 
 "Al que dio la orden", dijo Sena, y levantó la cara, y me vio, y yo supe, en el instante en que me vio, que esa señora ya sabía mi nombre y mi apellido. "El teletransporte lo hizo una tercera persona, sí. Pero las declaraciones de esta mañana, tomadas a los vecinos de la puerta sur, dicen que fue el aventurero Jesús de Axel el que dio la orden de mandarla."
 
 Y yo me quedé pensando en la única cosa en la que yo podía pensar en ese momento: que la piedra se había ido al azar, y que el azar, de todas las casas del mundo, de todos los desiertos y de todos los mares, le había pegado a la casa del único señor del reino al que le podía dar por levantar una acusación por eso.
 
-"¡Él salvó el pueblo!" gritó el señor barbón, levantándose.
+"¡Él salvó el pueblo!", gritó el señor barbón, levantándose.
 
 "Y eso no lo discuto", dijo Sena, sin subir la voz. "En la carpeta tengo dos cosas, señores: la lista de las casas que no se quemaron, y la lista de las que sí. En la primera está este pueblo entero. En la segunda está la casa de un gobernador de la corona." Y me vio otra vez. "La ley de este reino no dice nada de las segundas, señor Jesús. Nada más de las primeras."
 
@@ -231,7 +231,7 @@ Y me paré.
 
 Me paré de la silla, con la pierna temblando y con el cuerpo todavía vacío, y me paré enfrente de la fiscal del rey, y detrás de mí se levantó Darkness con la armadura puesta y con las dos manos sobre la mesa, y Megumin se levantó de su silla con la pierna entablillada y se quedó parada en un pie, y Aqua se levantó con la túnica limpia y con la cara del enojo, y los cuatro nos quedamos ahí, en el gremio, enfrente de la carpeta.
 
-"¿Quién es el acusado?" preguntó Sena.
+"¿Quién es el acusado?", preguntó Sena.
 
 "Yo", dije.
 

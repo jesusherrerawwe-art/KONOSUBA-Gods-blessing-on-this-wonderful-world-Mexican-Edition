@@ -1,4 +1,4 @@
-﻿# Capítulo 2. Un cuarto con ventana
+﻿Capítulo 2. Un cuarto con ventana
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
 Volumen 1, capítulo 2. Extensión: 5,217 palabras. Estado: aprobado por el autor.
@@ -37,7 +37,7 @@ No un castillo, no una sala del trono, no un campo de batalla. Un pueblo. Con ca
 
 Caminé como veinte pasos y me tuve que detener.
 
-"¿Y ahora qué?" preguntó Aqua.
+"¿Y ahora qué?", preguntó Aqua.
 
 "Nada. Es que huele."
 
@@ -65,13 +65,13 @@ Caminamos. Aqua iba adelante, con la bolsa al hombro, muy segura de sí misma.
 
 Caminamos como tres cuadras y llegamos a una plaza con una fuente y con una estatua de alguien a caballo.
 
-"¿Y ahora?" le pregunté.
+"¿Y ahora?", le pregunté.
 
 "Estoy pensando."
 
 "¿No que conocías esta ciudad mejor que nadie?"
 
-"¡La conozco de arriba!" dijo, ofendidísima. "¡Desde arriba se ve distinto!"
+"¡La conozco de arriba!", dijo, ofendidísima. "¡Desde arriba se ve distinto!"
 
 Yo me acerqué a un señor que estaba vendiendo algo en un puesto, le dije buenas tardes, le pregunté si me podía decir dónde estaba el gremio, le di las gracias y le di las gracias otra vez, y el señor me dijo que estaba a dos cuadras, que si iba con esa muchacha del pelo azul más me valía tener cuidado, y que si buscaba trabajo no me preocupara, que en el gremio siempre hay.
 
@@ -131,13 +131,13 @@ Sentí que el mundo era más grande que yo.
 
 Y me gustó. Me gustó como a otra gente le gusta un buen chiste.
 
-"¡Buenas noches!" gritó Aqua.
+"¡Buenas noches!", gritó Aqua.
 
 El gremio entero volteó a verla.
 
 Y ella se subió a una banca.
 
-"¡Atención!" dijo, con las dos manos en la cintura y la barbilla levantada. "¡Atención, habitantes de este mundo! ¡Están en presencia de una diosa!"
+"¡Atención!", dijo, con las dos manos en la cintura y la barbilla levantada. "¡Atención, habitantes de este mundo! ¡Están en presencia de una diosa!"
 
 Silencio.
 
@@ -147,7 +147,7 @@ Y luego el gremio entero volvió a lo suyo. Todos, al mismo tiempo, como si les 
 
 Nadie aplaudió. Nadie se rio. Nadie la corrió. Nomás dejaron de verla.
 
-"¡¿Qué hacen?!" gritó Aqua. "¡Soy una diosa! ¡De verdad!"
+"¡¿Qué hacen?!", gritó Aqua. "¡Soy una diosa! ¡De verdad!"
 
 "Sí, mi amor", le dijo un señor grandote con barba, desde una mesa. "Y yo soy un príncipe."
 
@@ -261,7 +261,7 @@ Y yo pensé que esa frase era la cosa más linda que me habían dicho en el otro
 
 Y me empezó a nombrar clases. Guerrero, arquero, ladrón, mago, clérigo, caballero, monje, bardo, herrero, cazador, y un montón más que se me fueron olvidando mientras los decía, y todas sonaban como algo que uno ya sabe hacer, y yo no sabía hacer nada.
 
-"¿Y cuál me recomiendas?" le pregunté.
+"¿Y cuál me recomiendas?", le pregunté.
 
 Luna se recargó en el mostrador y se puso a pensar de verdad. Se le notaba que se ponía a pensar de verdad cuando alguien se lo pedía, y yo creo que eso casi nadie se lo pedía.
 
@@ -315,7 +315,7 @@ Y ahí, mi hermano, ahí pasó un desastre.
 
 Le puso la mano a la carta, la carta se calentó, y cuando Luna la leyó, se le cayó la cara.
 
-"¿Qué?" dijo Aqua.
+"¿Qué?", dijo Aqua.
 
 Luna volteó la carta para el otro lado, como si leyéndola al revés fuera a decir otra cosa.
 
@@ -353,7 +353,7 @@ Y yo me levanté, me acerqué, me senté en la banca a su lado, y no dije nada, 
 
 Nomás me senté al lado y esperé.
 
-"¿Tú también te estás riendo?" me preguntó, sin sacarse el brazo de la cara.
+"¿Tú también te estás riendo?", me preguntó, sin sacarse el brazo de la cara.
 
 "No."
 
@@ -379,7 +379,7 @@ Lo que no nos había dicho Luna era la parte del dinero.
 
 "Bueno", dijo, cuando ya estaba todo. "Ya están registrados. Cero de inscripción."
 
-"¡Perfecto!" dijo Aqua. "¡Tráiganos dos cervezas!"
+"¡Perfecto!", dijo Aqua. "¡Tráiganos dos cervezas!"
 
 "¿Con qué dinero?"
 
@@ -445,7 +445,7 @@ Luna se quedó viéndome un segundo de más. Después agarró un papelito de su 
 
 Y los dos nos reímos, y ella me dijo que si necesitaba algo, viniera a ella, que para eso estaba, y que los aventureros nuevos llegan todos apurados a matar cosas y que ella ya había visto morir a muchos apurados.
 
-"¿Y los que llegan a cargar cosas?" le pregunté.
+"¿Y los que llegan a cargar cosas?", le pregunté.
 
 "Esos duran más", dijo Luna. "Esos duran más."
 
@@ -491,7 +491,7 @@ Y a los como diez segundos, «bum», otra vez.
 
 "Aqua", le dije. "¿Qué fue eso?"
 
-"¿Eso?" dijo ella, sin darle ninguna importancia. "¡Ah! ¡Si aquí siempre hacen eso! Hay una muchacha que va a los cerros a hacer explosiones. Yo creo que está mal de la cabeza."
+"¿Eso?", dijo ella, sin darle ninguna importancia. "¡Ah! ¡Si aquí siempre hacen eso! Hay una muchacha que va a los cerros a hacer explosiones. Yo creo que está mal de la cabeza."
 
 "...¿Explosiones?"
 
@@ -517,7 +517,7 @@ La posada del farol con la luz roja estaba en una esquina de la plaza, y era chi
 
 Doña Hilda era una señora bajita, con el pelo blanco recogido y con los brazos más fuertes que yo he visto en mi vida.
 
-"¿Y tú quién eres?" me dijo.
+"¿Y tú quién eres?", me dijo.
 
 "Jesús."
 
@@ -555,7 +555,7 @@ Me dio el plato más grande de pan y queso que he comido en mi vida, y no me sen
 
 Otra vez llorando, sí. Ya me estaba dando cuenta de que en este mundo iba a llorar mucho más de lo que lloré en el otro. Como que aquí el agua estaba más suelta.
 
-"¿Y ahora?" dijo doña Hilda.
+"¿Y ahora?", dijo doña Hilda.
 
 "Es que el pan está caliente."
 
