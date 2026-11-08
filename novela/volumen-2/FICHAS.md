@@ -60,8 +60,9 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 - **Capítulos escritos:** 11, 12 y 13.
 - **Aprobado por el autor:** el capítulo 11 «La verdad en voz alta» (5,560 palabras).
 - **Aprobado por el autor:** el capítulo 12 «La cuenta» (7,237 palabras).
-- **Capítulo 13:** escrito el 7 de noviembre de 2026 (**«El libro de registro»**, 5,622 palabras). **Pendiente de aprobación del autor.**
-- **Siguiente paso:** la lectura y aprobación del capítulo 13; después, la ficha del capítulo 14.
+- **Capítulo 13:** escrito el 7 de noviembre de 2026 (**«El libro de registro»**, 6,066 palabras). **Título confirmado por el autor.** Pendiente de su lectura y aprobación.
+- **Ficha del capítulo 14:** escrita el 7 de noviembre de 2026 (**«Agua buena»**). Pendiente de aprobación del autor.
+- **Siguiente paso:** la lectura y aprobación del capítulo 13; después, la aprobación de la ficha del 14 y su redacción.
 
 ---
 
@@ -128,9 +129,11 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 
 ---
 
-**Capítulo 13 — «El libro de registro»** 📝 *(propuesta de título, pendiente de aprobación)*
+**Capítulo 13 — «El libro de registro»**
 
-> **Estado:** 🟨 en diseño. **No se redacta hasta que el autor apruebe esta ficha** (paso 2 del método).
+> **Estado:** 🟦 escrito el 7 de noviembre de 2026. **6,066 palabras.** Título confirmado por el autor. Pendiente de su lectura y aprobación.
+>
+> **Nota del 7 de noviembre (pasada de verificación):** la relectura contra la biblia y el canon corrigió nueve cosas. La mansión de Alderp **se quemó entera** (epílogo del Vol. 1), así que el heraldo ofrece ruinas con los muros en pie; Wiz no podía pagar ochenta mil eris de un cajón, porque vendió 158 de sus 161 cosas y está debiendo la renta; los dos guantes del capítulo 12 son dos y ahora se distinguen; el pan de la silla venía de la canasta de Fermín; la llave es la de la cabaña de su mamá, la que nunca abrió. Las tres decisiones del autor se mantienen intactas.
 
 | Campo | Contenido |
 | --- | --- |
@@ -167,3 +170,42 @@ La pared del epílogo (playera, llave y foto) · la llave y la puerta que abre �
 1. **¿Qué propone Alderp en la última página?** Dos opciones y las dos son defendibles: **(A)** la mansión que le quitó al pueblo, «para que el muchacho condenado no duerma en la calle», que es la trampa del canon y deja a Jesús viviendo dentro de la boca del lobo; **(B)** trabajo pagado a cuenta de la deuda, que es más limpio pero menos divertido. La A es mejor novela y peor para el personaje; la B es al revés.
 2. **¿Cuánto le paga Wiz por adelantado?** Una cifra ridícula o una cifra justa cambian el tono del capítulo entero.
 3. **¿Jesús le dice a Darkness que sabe?** No hace falta que lo diga, pero hay que decidir si sospecha en voz alta una vez, o si se calla hasta el capítulo del secreto.
+
+---
+
+**Capítulo 14 — «Agua buena»** 📝 *(propuesta de título, pendiente de aprobación)*
+
+> **Estado:** 🟨 en diseño. **No se redacta hasta que el autor apruebe esta ficha** (paso 2 del método).
+>
+> **Decisiones del autor del 7 de noviembre de 2026:** (1) el capítulo **abre con el viaje al manantial**; (2) el hilo del agua envenenada lleva **una pista más** en este capítulo, dicha por alguien más y sin alarma; (3) el título del capítulo 13 queda en «El libro de registro».
+
+| Campo | Contenido |
+| --- | --- |
+| **Volumen** | 2 |
+| **Extensión objetivo** | 5,500 a 6,000 palabras (piso 4,000, sin techo) |
+| **Foco** | Jesús, primera persona |
+| **Deseo local** | Cobrar el encargo de Wiz y volver con las seis vasijas llenas, antes de que se le acabe el dinero y antes de que la casa firmada deje de ser suya |
+| **Obstáculo** | Cinco días de camino en invierno, seis vasijas de barro a la espalda, un paso de piedra que nadie sube desde que se rompió, y una cuadrilla que se queda atrás sin poder ayudar |
+| **Forma** | Seis movimientos: la firma · la despedida en el patio · el paso del norte · el aldeano del agua amarga · la cueva y el manantial · el regreso |
+| **Cambio al cierre** | Jesús deja de ser un deudor sin domicilio y se vuelve **dueño de una ruina**, que es una forma de tener algo. Y se lleva a casa un dato que no puede probar |
+| **Gancho** | Al volver, el boticario de Axel dice que lleva un mes atendiendo «mal del estómago» y que nadie sabe de qué. Jesús acaba de beber agua buena por primera vez en mes y medio |
+| **Referencia del canon** | **Hans, el limo tóxico**, general del Rey Demonio, contamina el agua. En esta novela eso no se nombra: se siembra. Este capítulo **es invención de esta novela** en todos sus detalles y no depende de un episodio concreto |
+| **Rutas** | **Aqua**: va al viaje y el agua es su dominio, y no lo ve. **Megumin**: se queda, y quedarse la humilla más que la pierna. **Darkness**: se queda, y su silencio ya tiene dueño. **Wiz**: el encargo y el agua que sabe a metal. **Doña Hilda**: la que lee el pergamino en voz alta |
+| **Objetos** | Las seis vasijas de barro · el costal · el pergamino de la cesión, firmado · las siete llaves de hierro · el cuaderno del constructor · la cobija delgada de Wiz («sirve para las manos») · el agua |
+| **Continuidad** | Día siguiente al capítulo 13. Cinco días de viaje y vuelta. Invierno. Megumin sigue con la pierna entablillada. Deuda intacta: **mil doscientos cuarenta millones**. En la bolsa de la cuadrilla: **ochenta mil menos doce** (el caldo) y lo que se gaste en el camino |
+
+**Decisiones de escritura propuestas:**
+
+- **La firma va primero, y es corta.** Si Jesús sale al norte sin contestar, el viaje se lee como una huida y el heraldo como un tonto. Firma al amanecer, en la puerta de la posada, con el mismo heraldo de la noche anterior y con doña Hilda mirando desde el umbral. No hay discurso. Firma porque un techo, aunque esté quemado, es un techo, y porque el pozo está bueno. La escena dura lo que dura una firma y es la más fría del capítulo.
+- **El viaje es el capítulo.** No hay monstruo en el camino y no lo va a haber. La tentación de meter una pelea en el paso del norte existe y se rechaza: el capítulo trata de caminar, de cargar y de contar los días. La única acción es el esfuerzo.
+- **La pista del agua, en tres bocas.** El aldeano del paso dice que el agua de su aldea «se puso amarga desde el verano» y que ya hierven todo. El arroyo del camino sabe raro y Aqua lo escupe. Y en la cueva, Jesús bebe agua que no sabe a nada, y se da cuenta de que llevaba mes y medio bebiendo algo que sí sabía. Tres avisos, ninguno concluyente, ninguno subrayado.
+- **Aqua no lo ve, y eso es lo que da miedo.** Es la diosa del agua. Debería ser la primera en notarlo. Y no lo nota, porque está ocupada quejándose del frío. El chiste y el escalofrío son la misma línea.
+- **La cueva no tiene altar ni espíritu.** Un manantial es un manantial. La belleza está en el contraste con la tienda de Wiz y con el cuarto de la posada: agua limpia, sin ceremonia, y nadie a quien agradecerle.
+- **La casa no se describe todavía.** Se ve desde el camino, al volver, de noche, y no se entra. La puerta abierta y el techo que falta quedan para el capítulo 15. No gastar la casa en una descripción.
+- **El capítulo gana algo, y es pequeño.** Cincuenta y cinco mil eris quedan en la bolsa después del viaje, que es a la deuda lo que una gota al mar. Y aun así se siente como algo, porque es lo primero que entra desde el juicio.
+
+**Decisiones que necesitan al autor antes de redactar:**
+
+1. **¿Quién va al viaje?** La propuesta es que vayan Jesús y Aqua, y que Megumin y Darkness se queden. La alternativa es que Jesús vaya solo, que da un capítulo más silencioso y más corto, pero pierde el contraste cómico y la pista del agua dicha por la diosa que no la ve.
+2. **¿Cuánto dinero queda al volver?** La propuesta es cincuenta y cinco mil eris. Sirve para que la cuadrilla coma hasta la primavera y para que la cifra no se sienta como un premio.
+3. **¿El boticario cierra el capítulo o lo abre el 15?** La propuesta es que lo cierre, en la última página, con una frase y sin diagnóstico.
