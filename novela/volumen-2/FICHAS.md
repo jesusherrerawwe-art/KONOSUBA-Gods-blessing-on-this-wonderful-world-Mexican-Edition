@@ -27,7 +27,7 @@ Carpeta abierta el **13 de octubre de 2026**, al sellar el Volumen 1 completo (d
 | --- | --- | --- | --- |
 | 11 | 🟩 Aprobado por el autor | La verdad en voz alta | 5,560 palabras. Abre el volumen con **el juicio de Sena**: la acusación, la noche en la celda y el interrogatorio con la campana. Corta cuando la fiscal pide la pena máxima; el juicio, en el 12 |
 | 12 | 🟩 Aprobado por el autor | La cuenta | 7,237 palabras. El juicio completo: la acusación, las defensas que hunden, la campana, el veredicto que se voltea, la condena a muerte, la conmutación por deuda y la confiscación. Cierra con el guante de Darkness |
-| 13 | 🟦 Escrito, pendiente de aprobación | «El libro de registro» | **5,622 palabras.** La mañana siguiente a la confiscación: la deuda, el gremio que no contrata a un condenado, la llave en el renglón cuarenta y siete, y **la declaración de la línea alterna** (la plaza reservada desde hace ochenta años). Cierra con el heraldo de Alderp y la mansión en usufructo |
+| 13 | 🟦 Escrito, pendiente de aprobación | «El libro de registro» | **6,066 palabras.** La mañana siguiente a la confiscación: la deuda, el gremio que no contrata a un condenado, la llave en el renglón cuarenta y siete, y **la declaración de la línea alterna** (la plaza reservada desde hace ochenta años). Cierra con el heraldo de Alderp y la mansión en usufructo |
 | 14 a 20 | ⬜ En blanco | sin título | Sin diseñar |
 
 **Leyenda:** ⬜ vacío · 🟨 en diseño · 🟦 en redacción o revisión (pendiente de aprobación del autor) · 🟩 aprobado por el autor, cerrado o fijado.

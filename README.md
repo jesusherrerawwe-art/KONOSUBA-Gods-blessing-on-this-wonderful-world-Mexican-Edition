@@ -42,11 +42,11 @@ El texto de la novela vive en la carpeta [`novela/`](novela/), separada de la bi
 | --- | --- | --- | --- | --- |
 | 11 | [Capítulo 11](novela/volumen-2/11-capitulo-11.md) | «La verdad en voz alta» | 5,560 | aprobado por el autor |
 | 12 | [Capítulo 12](novela/volumen-2/12-capitulo-12.md) | «La cuenta» | 7,237 | aprobado por el autor |
-| 13 | [Capítulo 13](novela/volumen-2/13-capitulo-13.md) | «El libro de registro» | 5,622 | 🟦 escrito, pendiente de aprobación |
+| 13 | [Capítulo 13](novela/volumen-2/13-capitulo-13.md) | «El libro de registro» | 6,066 | 🟦 escrito, pendiente de aprobación |
 
 Documentos de trabajo del volumen: [`volumen-1/FICHAS.md`](novela/volumen-1/FICHAS.md) (fichas de diseño de cada pieza) y [`volumen-2/00-resumen-volumen-1.md`](novela/volumen-2/00-resumen-volumen-1.md) + [`volumen-2/FICHAS.md`](novela/volumen-2/FICHAS.md).
 
-**Total de narrativa escrita: 83,454 palabras** (77,832 aprobadas y 5,622 pendientes de aprobación).
+**Total de narrativa escrita: 83,898 palabras** (77,832 aprobadas y 6,066 pendientes de aprobación).
 
 Los archivos de la novela llevan **UTF-8 con BOM (UTF-8-BOM)**, el formato que usaba la aplicación de lectura en voz alta (**ElevenReader**). **El requisito quedó revocado por el autor el 17 de octubre de 2026:** las piezas nuevas se escriben **sin BOM** y las viejas conservan el que ya tienen. `python3 herramientas/utf8-bom.py` sirve para convertir si alguna vez hace falta, y `python3 herramientas/revisar-capitulos.py` revisa formato, extensión y reglas de lectura en voz alta (sin exigir el BOM).
 

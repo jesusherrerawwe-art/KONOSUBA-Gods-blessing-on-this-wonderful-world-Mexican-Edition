@@ -1,7 +1,7 @@
 Capítulo 13. El libro de registro
 
 KONOSUBA! La bendición de Jesús en este maravilloso mundo. Edición Mexicana.
-Volumen 2, capítulo 13. Extensión: 5,622 palabras. Estado: pendiente de aprobación del autor.
+Volumen 2, capítulo 13. Extensión: 6,066 palabras. Estado: pendiente de aprobación del autor.
 
 ---
 
@@ -17,9 +17,11 @@ Y el cuarto estaba vacío.
 
 No vacío como estaba cuando llegué, hace mes y medio. Vacío como queda un cuarto cuando le sacan las cosas a alguien y no le sacan el polvo.
 
-En el piso, junto a mi rodilla, estaba el guante de metal. Lo abrí. Adentro seguía el guante de seda, doblado, blanco, limpieza de una persona que se vistió para ir a ver a alguien.
+En el piso, junto a mi rodilla, estaba uno de los guantes de metal. Lo abrí. Adentro seguía el guante de seda, doblado, blanco, limpieza de una persona que se vistió para ir a ver a alguien.
 
-En la silla estaba el pan que había comprado la tarde anterior. Duro ya. Nadie se lo había comido.
+El otro guante lo tenía en el bolsillo del pantalón. Ese lo había recogido la guardia delante de la puerta de la celda y me lo devolvió el carcelero con el pan. Los dos eran iguales de fuera y no pesaban igual.
+
+En la silla estaba el pan que me había dado Fermín la tarde anterior, de la canasta que trajo al patio. Duro ya. Nadie se lo había comido.
 
 Y en el suelo, junto a la puerta, estaba el cuaderno del constructor.
 
@@ -149,7 +151,7 @@ Había uno bueno. Uno solo. Rastreo de un lobo en el bosque del sur, doscientos 
 
 Y en todos, en todos, había un sello chiquito en la esquina, y el sello decía que el encargo era para cartas de cobre para arriba.
 
-Yo tenía carta de cobre.
+Yo tenía carta de cobre. Es decir: calificaba.
 
 Y en la esquina de mi carta, desde la tarde anterior, había otro sello.
 
@@ -215,7 +217,7 @@ Yo me quedé viendo el renglón tachado un buen rato.
 
 "¿De antes de qué?"
 
-"De todo." Luna se acomodó el chongo. "El gremio de Axel tiene una plaza de aventurero de otro mundo. Está en los estatutos. Cada reino tiene la suya, y la plazas se abren cuando el mundo las pide. La de aquí se abrió hace ochenta años y se reservó para el que viniera."
+"De todo." Luna se acomodó el chongo. "El gremio de Axel tiene una plaza de aventurero de otro mundo. Está en los estatutos. Cada reino tiene la suya, y las plazas se abren cuando el mundo las pide. La de aquí se abrió hace ochenta años y se reservó para el que viniera."
 
 "¿Y vino alguien?"
 
@@ -310,7 +312,7 @@ Renglón cuarenta y siete: «Un dije de metal, gris, con cordón de cuero. Sin v
 
 Sin valor. Dos palabras, escritas con la misma tinta con la que escribieron la playera, el suéter y la piedra negra lisa sin uso conocido.
 
-Y me quedé viendo ese renglón y me di cuenta de que la llave de la puerta de la casa de mi mamá, la llave que traía colgada desde el día que llegué, la llave que me apreté en el pecho cuando me iban a matar, estaba anotada en un libro del reino como una cosa sin valor, en una lista de cosas que se van a vender en primavera con las sillas y las cucharas.
+Y me quedé viendo ese renglón y me di cuenta de que la llave de la puerta de la cabaña de mi mamá, la que traía colgada desde antes de llegar y la que nunca abrí con mis manos, la que me apreté en el pecho cuando me iban a matar, estaba anotada en un libro del reino como una cosa sin valor, en una lista de cosas que se van a vender en primavera con las sillas y las cucharas.
 
 "¿Y si no la reclamo?", pregunté.
 
@@ -336,7 +338,7 @@ Volví al gremio a la hora del caldo, porque a la hora del caldo el gremio se ll
 
 No me vieron. O hicieron como que no.
 
-Aqua pidió dos platos y se comió los dos. Megumin llegó con la pierna estirada y se sentó con las dos manos y se le notó lo que le costó. Y Darkness llegó la última, sin armadura, con una túnica y con una capa, y con las manos vacías.
+Aqua pidió dos platos y se comió los dos. Megumin llegó con la pierna estirada y se sentó con las dos manos y se le notó lo que le costó. Y Darkness llegó la última. Sin armadura. Con una túnica y con una capa y con las manos vacías, y era la primera vez que la veía sin armadura desde el primer día, y no le pregunté por qué, porque ya lo sabía.
 
 Nos quedamos los cuatro en la mesa sin hablar, y el ruido del gremio nos tapaba, y yo pensé que así debe de ser la gente que ya no tiene nada: se sienta junta y deja que el ruido de los demás haga el trabajo.
 
@@ -380,7 +382,7 @@ Y ella dejó el pan en el plato y se quedó viendo la mesa con una cara que no l
 
 "Sí."
 
-"Y llevo tres meses comiendo de lo que tú ganas."
+"Y llevo mes y medio comiendo de lo que tú ganas."
 
 "Sí."
 
@@ -444,7 +446,7 @@ Y ella abrió la boca, y la cerró, y se puso colorada de una manera que no ten�
 
 "Con alguien", dijo.
 
-Y yo me quedé viéndola, y en la cabeza se me puso todo junto, como se pone una cosa que uno ya sabía y no quería saber: el guante de metal en el piso de la cárcel, con el guante de seda adentro. El «Salúdeme a su padre» del señor Alderp. El juez que dictó inocencia, y luego culpable, y luego muerte, y luego dinero, en cuatro minutos y sin que nadie le moviera el brazo.
+Y yo me quedé viéndola, y en la cabeza se me puso todo junto, como se pone una cosa que uno ya sabía y no quería saber: el guante vacío delante de la celda, y el otro, el que pesaba distinto, delante de mi cuarto. El «Salúdeme a su padre» del señor Alderp. El juez que dictó inocencia, y luego culpable, y luego muerte, y luego dinero, en cuatro minutos y sin que nadie le moviera el brazo.
 
 Y lo dije. Lo dije una vez, bajito, sin coraje, porque no era una acusación. Era una pregunta que ya sabía la respuesta.
 
@@ -481,7 +483,11 @@ La campanilla de la tienda de Wiz suena como suenan las campanillas de las tiend
 
 Entré con Aqua y con Megumin. Darkness no vino. Dijo que iba a la posada y se fue por la calle de la herrería, y yo la dejé irme, y en el camino me di cuenta de que no le había preguntado si tenía con qué comer.
 
-Adentro estaba oscuro y hacía frío y había un olor a hierba seca y a papel viejo. Los frascos seguían en las repisas, con las etiquetas torcidas. Y atrás del mostrador estaba la señora Wiz, envuelta en dos cobijas, con la bufanda hasta la nariz y con el mechón cayéndole sobre un ojo.
+Adentro estaba oscuro y hacía frío y había un olor a hierba seca y a papel viejo.
+
+En las repisas quedaban tres cosas: un frasco de vidrio sin etiqueta, una vela a medio consumir y un plato.
+
+El resto del anaquel estaba limpio, y en el polvo se veían los rectángulos donde habían estado las otras ciento cincuenta y ocho. Y atrás del mostrador estaba la señora Wiz, envuelta en dos cobijas, con la bufanda hasta la nariz y con el mechón cayéndole sobre un ojo.
 
 "¡Bienvenidos!", dijo, y se levantó tan rápido que tiró una cobija. "Perdón. Buenos días. ¿En qué les puedo servir?"
 
@@ -517,7 +523,7 @@ Y se fue al fondo de la tienda, y regresó con un costal que sonaba a barro.
 
 "No, pero lo encuentro."
 
-"Se tarda dos días en ir y dos en volver. Y hay que traerlas llenas."
+"Se tarda dos días en ir, dos en volver y uno en llenarlas, porque el manantial da poco de un jalón. Cinco días, si te apuras."
 
 "¿Llenas de qué?"
 
@@ -543,7 +549,7 @@ Y no insistí, y esa fue una de las decisiones más tontas de mi vida, y todaví
 
 "¿Cuánto paga?", le pregunté.
 
-Y ella abrió un cajón, y sacó una bolsa, y me la puso en la mano.
+Y ella abrió un cajón, y en el cajón había un papel doblado con un sello rojo en la esquina, y ella lo tapó con la mano libre, y sacó una bolsa, y me la puso en la mano.
 
 Era pesada.
 
@@ -575,7 +581,7 @@ Y ella se quedó quieta, con las dos manos en el mostrador, y me dijo:
 
 "No."
 
-"Yo tampoco. Llevo tres meses buscando." Y se enderezó. "El carretero se lastimó la mano. Los muchachos del gremio no suben al norte desde que se rompió el paso. Y las vasijas no se pueden llevar en carreta porque el camino es de piedra. Se llevan a pie, en la espalda, dos a dos, y hay que saber dónde pisar." Me vio. "Tú sabes dónde pisar. Lo vi en el Destructor."
+"Yo tampoco. Llevo tres meses buscando." Y se enderezó. "El carretero se lastimó la mano. Los muchachos del gremio no suben al norte desde que se rompió el paso. Y las vasijas no se pueden llevar en carreta porque el camino es de piedra. Se llevan a pie, en la espalda, y hay que saber dónde pisar." Me vio. "Tú sabes dónde pisar. Lo vi en el Destructor."
 
 Me quedé con la bolsa en la mano.
 
@@ -602,6 +608,12 @@ Aqua, que había estado callada todo el rato, dijo:
 "Pasó cuatro veces."
 
 Y salimos de la tienda con seis vasijas en un costal, con ochenta mil eris y con la sensación de que nos habían hecho un favor que no habíamos pedido.
+
+En la calle me acordé del papel con el sello rojo.
+
+Y del cajón casi vacío, y de las ciento cincuenta y ocho cosas que ya no estaban en las repisas, y de la renta del mes que entra.
+
+Y me di cuenta, con el costal al hombro, de que la señora Wiz me acababa de pagar con el dinero de su renta. Y de que yo lo había aceptado.
 
 ---
 
@@ -723,9 +735,39 @@ Leí tres veces la parte del principio, porque la primera vez creí que había l
 
 Yo me quedé con el pergamino en las manos.
 
-"¿Me está dando una casa?"
+"¿La del este?"
 
-"Le está dando la obligación de una casa", dijo el hombre. "Hay que mantenerla. Hay que pagar sus contribuciones. Y todo lo que en ella se produzca responde a la deuda. El Reino cobra su parte y usted se queda con lo demás." Hizo una pausa. "Y hay que habitarla. Si no la habita, la cesión se anula. Son las condiciones."
+"La del este."
+
+"¿La que se quemó?"
+
+Y el hombre no se sorprendió. Eso fue lo peor. Se lo esperaba, y hasta me estaba esperando a mí, como si en la lista de cosas que uno pregunta al recibir una casa quemada esa fuera la primera.
+
+"La que se quemó en el incidente del artefacto", dijo. "Sí. Esa."
+
+"¿Me está dando una casa quemada?"
+
+"Le está dando la obligación de una casa." Y levantó un dedo, como levantan el dedo los escribanos. "La estructura está en pie. Los muros son de piedra, y la piedra no se quema. Se quemaron los techos, los pisos, los muebles y las puertas de madera. Eso es todo."
+
+"Eso es todo."
+
+"Eso es todo lo que se quemó." Y siguió, con la voz de alguien que se sabe el reglamento de memoria: "Hay que techarla antes de la primavera. Si la lluvia entra en los muros, el muro se cae. Y si el muro se cae, la cesión se anula por falta de casa."
+
+"¿Y quién paga el techo?"
+
+"Usted."
+
+"¿Con qué?"
+
+"Con lo que produzca la tierra. Tiene veinte hectáreas y un pozo."
+
+Yo me quedé viendo el pergamino.
+
+"¿Y el pozo está bueno?"
+
+"El pozo está bueno", dijo.
+
+Y esa fue la única cosa buena que dijo en toda la noche, y la dijo como se dicen las cosas buenas cuando uno no sabe que son buenas.
 
 Detrás de él, el otro hombre abrió la caja. Adentro había llaves. Siete llaves grandes de hierro, oxidadas, con etiquetas de papel amarradas con cordel.
 
@@ -737,9 +779,17 @@ Yo levanté la cara.
 
 "Cuarenta y dos. Están contadas en el inventario."
 
+"¿Con vidrio?"
+
+Y el hombre se quedó callado un segundo, y ese segundo fue la respuesta.
+
+"No", dijo. "El vidrio se quemó."
+
 Y yo me quedé viendo las siete llaves en la caja, y pensé en la llave que estaba en el renglón cuarenta y siete de un libro, anotada como una cosa sin valor, esperando a que alguien pagara doce eris para sacarla de ahí.
 
 Y pensé en los doscientos doce años.
+
+Y pensé que la casa que me estaban dando era la casa que yo había quemado.
 
 Y pensé que el señor Alderp no me estaba dando una casa. Me estaba dando una cadena más larga, del tamaño exacto de mi cuello, y me la estaba dando con la mano abierta y con una sonrisa que no venía en el pergamino pero que se oía.
 
@@ -765,4 +815,4 @@ Y esa noche, por primera vez desde que llegué a este mundo, me di cuenta de que
 
 Cerré la puerta.
 
-Dejé el pergamino en la silla, dejé la caja en el piso, y me senté en la cama a ver la ventana, y me quedé ahí hasta que se hizo de día.
+Dejé el pergamino en la silla, la misma donde había estado el pan que no me comí, y dejé la caja en el piso, y me senté en la cama a ver la ventana, y me quedé ahí hasta que se hizo de día.
